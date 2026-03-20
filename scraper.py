@@ -29,11 +29,13 @@ OUTPUT_DIR = "AnimeData"
 
 PAGE_BEGIN          = int(os.environ.get("PAGE_BEGIN", "1"))
 PAGE_END            = int(os.environ.get("PAGE_END",   "43"))
-MAX_EPISODE_WORKERS = int(os.environ.get("MAX_EPISODE_WORKERS", "3"))
-ANIME_BATCH_SIZE    = int(os.environ.get("ANIME_BATCH_SIZE",    "4"))  # animés traités en parallèle
-SAISON_BATCH_SIZE   = int(os.environ.get("SAISON_BATCH_SIZE",   "2"))  # saisons en parallèle par animé
-JIKAN_DELAY         = 0.4
-MAX_RETRIES         = 3
+MAX_EPISODE_WORKERS  = int(os.environ.get("MAX_EPISODE_WORKERS",  "3"))
+ANIME_BATCH_SIZE     = int(os.environ.get("ANIME_BATCH_SIZE",     "4"))
+SAISON_BATCH_SIZE    = int(os.environ.get("SAISON_BATCH_SIZE",    "2"))
+INTER_EPISODE_DELAY  = float(os.environ.get("INTER_EPISODE_DELAY", "0.8"))  # pause entre épisodes (s)
+INTER_SAISON_DELAY   = float(os.environ.get("INTER_SAISON_DELAY",  "2.0"))  # pause entre saisons (s)
+JIKAN_DELAY          = 0.4
+MAX_RETRIES          = 3
 
 _start_time = time.time()
 
@@ -412,24 +414,58 @@ async def scrape_episode(browser, saison_url, ep_value, ep_label):
 #  SCRAPING — Tous les épisodes d'une saison
 # ══════════════════════════════════════════════════════════════
 
+async def _is_rate_limited(page) -> bool:
+    """Détecte si le site a bloqué la requête (page vide, captcha, erreur)."""
+    try:
+        title = await page.title()
+        url   = page.url
+        # Signes de blocage : page vide, redirection login, titre erreur
+        if any(x in title.lower() for x in ["error", "403", "429", "blocked", "captcha", "access"]):
+            return True
+        if "login" in url or "captcha" in url:
+            return True
+        # Vérifier que le contenu principal est présent
+        has_content = await page.evaluate(
+            "() => document.querySelector('#selectEpisodes') !== null || "
+            "document.querySelector('.episode') !== null || "
+            "document.querySelector('video') !== null"
+        )
+        return not has_content
+    except Exception:
+        return False
+
+
 async def scrape_saison_episodes(browser, saison_url):
-    # Récupérer la liste des épisodes
+    """
+    Scrape tous les épisodes d'une saison de façon robuste :
+    - Détecte le rate limiting
+    - Pause adaptative si blocage détecté
+    - Retry séquentiel (pas parallèle) si beaucoup d'épisodes vides
+    """
+    # ── Récupérer la liste des épisodes ──────────────────────
     eps_options = []
     for attempt in range(MAX_RETRIES):
         ctx  = await new_browser_context(browser)
         page = await ctx.new_page()
         try:
             await goto_page(page, saison_url)
+            # Vérifier rate limiting avant d'aller plus loin
+            if await _is_rate_limited(page):
+                log(f"    rate limited! pause 10s (attempt {attempt+1})")
+                await ctx.close()
+                await asyncio.sleep(10 * (attempt + 1))
+                continue
             if await wait_select(page, "#selectEpisodes", timeout=25000):
-                await page.wait_for_timeout(500)
+                await page.wait_for_timeout(800)
                 eps_options = await get_options(page, "#selectEpisodes")
         except Exception:
             pass
         finally:
-            await ctx.close()
+            try: await ctx.close()
+            except: pass
         if eps_options: break
-        log(f"    episode list empty (attempt {attempt+1}/{MAX_RETRIES})")
-        await asyncio.sleep(3)
+        log(f"    episode list empty (attempt {attempt+1}/{MAX_RETRIES}), pause 5s")
+        await asyncio.sleep(5)
 
     if not eps_options:
         log(f"    SKIP: no episodes at {saison_url}")
@@ -438,35 +474,54 @@ async def scrape_saison_episodes(browser, saison_url):
     slug = "/".join(saison_url.rstrip("/").split("/")[-2:])
     log(f"    {len(eps_options)} episodes [{slug}]")
 
-    # Scraper les épisodes — limité à MAX_EPISODE_WORKERS en parallèle
+    # ── Scraping avec pause entre épisodes ───────────────────
     sem = asyncio.Semaphore(MAX_EPISODE_WORKERS)
 
     async def safe(ep):
         async with sem:
-            return await scrape_episode(browser, saison_url, ep["value"], ep["label"])
+            result = await scrape_episode(browser, saison_url, ep["value"], ep["label"])
+            # Pause polie entre chaque épisode pour éviter le rate limiting
+            await asyncio.sleep(INTER_EPISODE_DELAY)
+            return result
 
     episodes = list(await asyncio.gather(*[safe(ep) for ep in eps_options]))
 
-    # Retry pass 1
+    # ── Détecter si on est rate limité (trop d'épisodes vides) ──
     vides = [i for i, e in enumerate(episodes) if not e["lecteurs"]]
-    if vides:
-        log(f"    retry pass 1: {len(vides)} empty episodes")
-        await asyncio.sleep(2)
+    taux_vides = len(vides) / len(episodes) if episodes else 0
+
+    if taux_vides > 0.5:
+        # Plus de 50% de vides → probablement rate limited
+        # Retry SÉQUENTIEL avec pause longue
+        log(f"    {len(vides)}/{len(episodes)} empty — probable rate limit, retry séquentiel (pause 15s)")
+        await asyncio.sleep(15)
+        for i in vides:
+            result = await scrape_episode(browser, saison_url, eps_options[i]["value"], eps_options[i]["label"])
+            if result["lecteurs"]:
+                episodes[i] = result
+            await asyncio.sleep(INTER_EPISODE_DELAY * 2)  # pause double en retry
+
+    elif vides:
+        # Quelques vides → retry parallèle normal
+        log(f"    retry pass 1: {len(vides)} empty (pause 3s)")
+        await asyncio.sleep(3)
         r1 = await asyncio.gather(*[safe(eps_options[i]) for i in vides])
         for i, res in zip(vides, r1):
             if res["lecteurs"]: episodes[i] = res
 
-    # Retry pass 2
-    vides2 = [i for i, e in enumerate(episodes) if not e["lecteurs"]]
-    if vides2:
-        log(f"    retry pass 2: {len(vides2)} still empty (pause 5s)")
-        await asyncio.sleep(5)
-        r2 = await asyncio.gather(*[safe(eps_options[i]) for i in vides2])
-        for i, res in zip(vides2, r2):
-            if res["lecteurs"]: episodes[i] = res
+        # Pass 2 si encore des vides
+        vides2 = [i for i, e in enumerate(episodes) if not e["lecteurs"]]
+        if vides2:
+            log(f"    retry pass 2: {len(vides2)} still empty (pause 8s)")
+            await asyncio.sleep(8)
+            r2 = await asyncio.gather(*[safe(eps_options[i]) for i in vides2])
+            for i, res in zip(vides2, r2):
+                if res["lecteurs"]: episodes[i] = res
 
-    ok = sum(1 for e in episodes if e["lecteurs"])
-    log(f"    {ok}/{len(episodes)} episodes with lecteurs")
+    ok     = sum(1 for e in episodes if e["lecteurs"])
+    vides_f = len(episodes) - ok
+    status = "OK" if vides_f == 0 else f"WARN {vides_f} empty"
+    log(f"    [{status}] {ok}/{len(episodes)} episodes with lecteurs")
     return episodes
 
 # ══════════════════════════════════════════════════════════════
@@ -512,6 +567,8 @@ async def process_saison(browser, session, anime_nom, anime_lien, saison, langue
     else:
         saison["episodes"] = []
 
+    # Pause entre saisons pour ne pas surcharger le serveur
+    await asyncio.sleep(INTER_SAISON_DELAY)
     return saison
 
 # ══════════════════════════════════════════════════════════════
