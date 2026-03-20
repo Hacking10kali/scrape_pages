@@ -456,47 +456,43 @@ async def scrape_detail(browser, url):
 
 async def scrape_episode(browser, saison_url, ep_value, ep_label):
     for attempt in range(MAX_RETRIES):
-        ctx  = await new_ctx(browser)
-        page = await ctx.new_page()
+        ctx    = await new_ctx(browser)
+        page   = await ctx.new_page()
+        result = None
         try:
             await _rl.wait()
-            if not await goto_page(page, saison_url): continue
 
-            if await is_blocked(page):
-                await _rl.on_block()
-                continue
+            loaded = await goto_page(page, saison_url)
+            blocked = await is_blocked(page) if loaded else True
 
-            if not await wait_select(page, "#selectEpisodes"): continue
-            await page.wait_for_timeout(300)
-
-            try:
-                await page.select_option("#selectEpisodes", value=ep_value)
-                await page.wait_for_timeout(500)
-            except Exception:
-                continue
-
-            has_lect = await wait_select(page, "#selectLecteurs", timeout=12000)
-            if not has_lect:
-                await page.wait_for_timeout(1000)
-                src = await wait_player(page)
-                if src:
-                    _rl.on_success()
-                    return {"episode": ep_label, "lecteurs": [{"lecteur": "default", "url": src}]}
-                continue
-
-            lecteurs_opts = await get_options(page, "#selectLecteurs")
-            if not lecteurs_opts: continue
-
-            lecteurs = []
-            for lect in lecteurs_opts:
-                old = await read_player(page) or ""
-                try:
-                    await page.select_option("#selectLecteurs", value=lect["value"])
+            if not loaded or blocked:
+                if blocked: await _rl.on_block()
+            else:
+                has_eps = await wait_select(page, "#selectEpisodes")
+                if has_eps:
                     await page.wait_for_timeout(300)
-                except Exception:
-                    continue
-                src = await wait_player(page, old_src=old, timeout=6000)
-                if not src:
-                    await page.wait_for_timeout(1500)
-                    src = await read_player(page)
-  
+                    selected = False
+                    try:
+                        await page.select_option("#selectEpisodes", value=ep_value)
+                        await page.wait_for_timeout(500)
+                        selected = True
+                    except Exception:
+                        pass
+
+                    if selected:
+                        has_lect = await wait_select(page, "#selectLecteurs", timeout=12000)
+
+                        if not has_lect:
+                            await page.wait_for_timeout(1000)
+                            src = await wait_player(page)
+                            if src:
+                                _rl.on_success()
+                                result = {"episode": ep_label,
+                                          "lecteurs": [{"lecteur": "default", "url": src}]}
+
+                        else:
+                            lecteurs_opts = await get_options(page, "#selectLecteurs")
+                            lecteurs = []
+                            for lect in lecteurs_opts:
+                                old = await read_player(page) or ""
+          
