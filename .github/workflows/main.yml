@@ -1,0 +1,56 @@
+name: Anime Sama Scraper
+
+on:
+  # ── Lancement manuel avec choix des pages ────────────────
+  workflow_dispatch:
+    inputs:
+      page_begin:
+        description: 'Première page'
+        required: true
+        default: '1'
+      page_end:
+        description: 'Dernière page'
+        required: true
+        default: '43'
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    name: "Scrape pages ${{ github.event.inputs.page_begin }} → ${{ github.event.inputs.page_end }}"
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -q playwright aiohttp nest_asyncio
+          playwright install chromium --with-deps
+
+      - name: Run scraper
+        env:
+          PAGE_BEGIN: ${{ github.event.inputs.page_begin }}
+          PAGE_END:   ${{ github.event.inputs.page_end }}
+          MAX_PAGE_WORKERS:    "2"
+          MAX_ANIME_WORKERS:   "4"
+          MAX_SAISON_WORKERS:  "3"
+          MAX_EPISODE_WORKERS: "5"
+        run: python scraper.py
+
+      - name: Commit & push JSON files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add AnimeData/
+          git diff --staged --quiet || git commit -m "scrape: pages ${{ github.event.inputs.page_begin }}-${{ github.event.inputs.page_end }} [$(date +'%Y-%m-%d %H:%M')]"
+          git push
