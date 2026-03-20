@@ -1,7 +1,6 @@
 name: Anime Sama Scraper
 
 on:
-  # ── Lancement manuel avec choix des pages ────────────────
   workflow_dispatch:
     inputs:
       page_begin:
@@ -12,15 +11,67 @@ on:
         description: 'Dernière page'
         required: true
         default: '43'
+      pages_per_job:
+        description: 'Pages par job (ex: 5)'
+        required: true
+        default: '5'
+      anime_batch:
+        description: 'Animés en parallèle par page (ex: 4)'
+        required: true
+        default: '4'
+      saison_batch:
+        description: 'Saisons en parallèle par animé (ex: 2)'
+        required: true
+        default: '2'
+      episode_workers:
+        description: 'Épisodes en parallèle par saison (ex: 3)'
+        required: true
+        default: '3'
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
-    name: "Scrape pages ${{ github.event.inputs.page_begin }} → ${{ github.event.inputs.page_end }}"
+
+  # ── Étape 1 : calculer la matrice de jobs ─────────────────
+  prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 350
+    outputs:
+      matrix: ${{ steps.build.outputs.matrix }}
+    steps:
+      - name: Build job matrix
+        id: build
+        run: |
+          python3 << 'PYEOF'
+          import json, os
+
+          begin   = int("${{ github.event.inputs.page_begin }}")
+          end     = int("${{ github.event.inputs.page_end }}")
+          per_job = int("${{ github.event.inputs.pages_per_job }}")
+
+          jobs = []
+          for start in range(begin, end + 1, per_job):
+              stop = min(start + per_job - 1, end)
+              jobs.append({"page_begin": str(start), "page_end": str(stop)})
+
+          matrix = json.dumps({"include": jobs})
+          print(f"Jobs: {len(jobs)}")
+          for j in jobs:
+              print(f"  pages {j['page_begin']} → {j['page_end']}")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"matrix={matrix}\n")
+          PYEOF
+
+  # ── Étape 2 : jobs parallèles ─────────────────────────────
+  scrape:
+    needs: prepare
+    name: "p${{ matrix.page_begin }}-${{ matrix.page_end }}"
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJson(needs.prepare.outputs.matrix) }}
 
     steps:
       - name: Checkout
@@ -33,23 +84,23 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -q playwright aiohttp nest_asyncio
+          pip install -q playwright aiohttp
           playwright install chromium --with-deps
 
-      - name: Run scraper
+      - name: Scrape pages ${{ matrix.page_begin }} → ${{ matrix.page_end }}
         env:
-          PAGE_BEGIN: ${{ github.event.inputs.page_begin }}
-          PAGE_END:   ${{ github.event.inputs.page_end }}
-          MAX_PAGE_WORKERS:    "2"
-          MAX_ANIME_WORKERS:   "4"
-          MAX_SAISON_WORKERS:  "3"
-          MAX_EPISODE_WORKERS: "5"
+          PAGE_BEGIN:          ${{ matrix.page_begin }}
+          PAGE_END:            ${{ matrix.page_end }}
+          ANIME_BATCH_SIZE:    ${{ github.event.inputs.anime_batch }}
+          SAISON_BATCH_SIZE:   ${{ github.event.inputs.saison_batch }}
+          MAX_EPISODE_WORKERS: ${{ github.event.inputs.episode_workers }}
         run: python scraper.py
 
-      - name: Commit & push JSON files
+      - name: Commit JSON files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add AnimeData/
-          git diff --staged --quiet || git commit -m "scrape: pages ${{ github.event.inputs.page_begin }}-${{ github.event.inputs.page_end }} [$(date +'%Y-%m-%d %H:%M')]"
+          git diff --staged --quiet || git commit -m "scrape p${{ matrix.page_begin }}-${{ matrix.page_end }} [$(date +'%Y-%m-%d %H:%M')]"
           git push
