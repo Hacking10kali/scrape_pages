@@ -478,26 +478,33 @@ async def _scrape_lecteurs(page):
 
 
 async def scrape_episode(browser, saison_url, ep_value, ep_label):
-    """Scrape un épisode avec ses lecteurs. Retente MAX_RETRIES fois."""
+    """Scrape un épisode — zéro continue dans les try pour éviter SyntaxError."""
     for attempt in range(MAX_RETRIES):
-        ctx  = await new_ctx(browser)
-        page = await ctx.new_page()
+        result = await _try_scrape_episode(browser, saison_url, ep_value, ep_label)
+        if result is not None:
+            return result
+    return {"episode": ep_label, "lecteurs": []}
+
+
+async def _try_scrape_episode(browser, saison_url, ep_value, ep_label):
+    """Une seule tentative de scraping. Retourne le résultat ou None si échec."""
+    ctx  = await new_ctx(browser)
+    page = await ctx.new_page()
+    try:
+        await _rl.wait()
+
+        if not await goto_page(page, saison_url):
+            return None
+
+        if await is_blocked(page):
+            await _rl.on_block()
+            return None
+
+        if not await wait_select(page, "#selectEpisodes"):
+            return None
+
+        await page.wait_for_timeout(300)
+
+        ep_selected = False
         try:
-            await _rl.wait()
-            ok = await goto_page(page, saison_url)
-            if not ok:
-                continue
-            if await is_blocked(page):
-                await _rl.on_block()
-                continue
-            if not await wait_select(page, "#selectEpisodes"):
-                continue
-            await page.wait_for_timeout(300)
-            try:
-                await page.select_option("#selectEpisodes", value=ep_value)
-                await page.wait_for_timeout(500)
-            except Exception:
-                continue
-            # Cas sans select lecteur
-            if not await wait_select(page, "#selectLecteurs", timeout=12000):
-                await page.wait
+  
