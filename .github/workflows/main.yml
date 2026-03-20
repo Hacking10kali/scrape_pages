@@ -1,5 +1,5 @@
 name: Anime Sama Scraper
-
+ 
 on:
   workflow_dispatch:
     inputs:
