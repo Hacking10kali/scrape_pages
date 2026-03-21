@@ -1,0 +1,900 @@
+{
+  "nom": "DARKER THAN BLACK",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Mystère",
+    "Psychologique",
+    "Science-fiction",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/darker-than-black",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/darker-than-black.jpg",
+  "noms_alt": [
+    "DARKER THAN BLACK : KURO NO KEIYAKUSHA"
+  ],
+  "synopsis": "Un étrange champ de force d'origine inconnue s'est dressé autour de Tokyo il y a dix ans. On l'appelle 'la porte des enfers' (Hell's gate). La semaine suivant cette apparition, la police découvre l'existence d'êtres surnaturels : les Contractors, êtres d'apparence humaine possédant des pouvoirs surhumains, et les Dolls, générés par un programme. Pour n'éveiller aucune panique de la part des habitants de Tokyo, une section, la 'quatrième section des Affaires Étrangères', dont fait partie l'agent Kirihara Misaki, s'occupe d'effacer la mémoire de tout habitant entrant en contact avec un Contractor. Une scientifique du nom de Shinoda Chiaki ayant fait une thèse à propos de la porte se retrouve poursuivie par la police qui veut lui effacer la mémoire. Elle rencontre alors Li, un chinois qui vient d'emménager à Tokyo, qui la protège des Contractors et de la police. Cet homme semble lié à un homme mystérieux vouant une haine plus sombre que le noir aux Contractors.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2025,
+    "tmdb_id": 31718,
+    "kitsu_id": "1824"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2025,
+        "tmdb_id": 31718,
+        "kitsu_id": "1824"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/darker-than-black/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/darker-than-black/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/25c0625gkrpb"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zvmpqz45gcpn.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/kjyy5hypphen"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-f86ivgwkn1i1.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/edks1ihv2y39"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-b3ff6nvcbfgj.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/7wo0p9rpudqq"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xz9ivbtql2l9.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/2p4o8bgj72mt"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-etfuynxfydg2.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/wgghfcg56k6d"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zuzyury3gjzu.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/lwxw3c6oy9m2"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-gukqgv6p05dh.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/gz6osb8f16pp"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xpriqohws3bn.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/9bhvzlythvxm"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-dma19nbu6sm5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/z23ulbx2so3d"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3k3wcpuz4bmb.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/38gz3xc3wso4"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-y5mfzlk5h0dy.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/82aetktge0fu"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-otf5uy5c53hc.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/pjy6kx140i76"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1bn1zrm5st3c.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/tn78tjx217u8"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 16",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-c9k73zjkw052.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/uii68c8cdh1p"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 17",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-pt66rbvig5x4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/pmvzeuythi92"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 18",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-slneq426tnu8.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/fpopotl41c4o"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 19",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-8kbeqq4p0t2b.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/y53l1ru85gnr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 20",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-j85qmfcr4enf.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/ryr16kuzm2hr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 21",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vp4ti8sgkn38.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/dqk7tstq8xap"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 22",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-e019d5bm3gbg.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/i3m4h4iq8b6z"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 23",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-mvtx15erkmxx.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/s4m2cbmgtqmb"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 24",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xx3k4aoez0r4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/lktt0flbmtuq"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 25",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-rvywg8bl1twe.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/1xzsbwanijns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 1.5",
+      "titreComplet": "Saison 1.5",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2025,
+        "tmdb_id": 31718,
+        "kitsu_id": "1824"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/darker-than-black/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/darker-than-black/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/25c0625gkrpb"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zvmpqz45gcpn.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/kjyy5hypphen"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-f86ivgwkn1i1.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/edks1ihv2y39"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-b3ff6nvcbfgj.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/7wo0p9rpudqq"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xz9ivbtql2l9.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/2p4o8bgj72mt"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-etfuynxfydg2.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/wgghfcg56k6d"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zuzyury3gjzu.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/lwxw3c6oy9m2"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-gukqgv6p05dh.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/gz6osb8f16pp"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xpriqohws3bn.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/9bhvzlythvxm"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-dma19nbu6sm5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/z23ulbx2so3d"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3k3wcpuz4bmb.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/38gz3xc3wso4"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-y5mfzlk5h0dy.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/82aetktge0fu"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-otf5uy5c53hc.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/pjy6kx140i76"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1bn1zrm5st3c.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/tn78tjx217u8"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 16",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-c9k73zjkw052.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/uii68c8cdh1p"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 17",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-pt66rbvig5x4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/pmvzeuythi92"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 18",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-slneq426tnu8.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/fpopotl41c4o"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 19",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-8kbeqq4p0t2b.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/y53l1ru85gnr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 20",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-j85qmfcr4enf.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/ryr16kuzm2hr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 21",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vp4ti8sgkn38.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/dqk7tstq8xap"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 22",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-e019d5bm3gbg.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/i3m4h4iq8b6z"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 23",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-mvtx15erkmxx.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/s4m2cbmgtqmb"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 24",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xx3k4aoez0r4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/lktt0flbmtuq"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 25",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-rvywg8bl1twe.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/1xzsbwanijns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2025,
+        "tmdb_id": 31718,
+        "kitsu_id": "1824"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/darker-than-black/saison2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/darker-than-black/saison2/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753106"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/zd2dm8ha"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-n8eyzwlapx8l.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753109"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/wnue3vkg"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-wt546hr3nc4s.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753115"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/xriuui0f"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-tbewjj902fvs.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753127"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/litpapv7"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-0mq7iygy8lwi.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753135"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/595tzjy5"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-5nphbechhzse.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753140"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/4qbptwft"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-seuqnvnwdq4x.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753145"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/ru7726ur"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-gpa63pyfbysm.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753148"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/4tjel8mn"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-not0ersxqhrh.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753154"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/dp6p4v9v"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-i9r5dufjdx07.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753160"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/iuv979qk"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-p69v1330cokk.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753255"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/g895di7k"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ad2stgt4sc0i.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4753169"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/vn98r1ak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

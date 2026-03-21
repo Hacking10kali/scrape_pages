@@ -1,0 +1,56 @@
+{
+  "nom": "DEAD MOUNT DEATH PLAY",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Surnaturel",
+    "Autre monde",
+    "Mort",
+    "Isekai"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/dead-mount-death-play",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dead-mount-death-play.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans un monde rempli de magie vit un nécromancien hors pair, réputé comme le meilleur, surnommé le Dieu des Cadavres. À travers un labyrinthe, il crée d'innombrables monstres provoquant des calamités. Shagrua, un membre de l'Eglise possédant les \"yeux du démon\" est chargé d'éliminer la menace. Le Dieu des Cadavres lui propose alors le \"jeu des enfants\", une magie inconnue. Bien que Shagrua refuse avec violence, le jeune homme disparaît brutalement dans un faisceau de lumière. Il se réveille alors avec la mémoire embrumée, dans le corps d'un jeune garçon dans une ville à l'allure moderne. Ses vêtements ensanglantés, le nom de Polka Shinoyama lui vient en tête alors que la police japonaise l'interpelle. Misaki Sakimiya, une jeune femme qui semble le connaître, vient alors à son secours.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53613,
+    "tmdb_id": 214540,
+    "kitsu_id": "46760"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 Partie 1",
+      "titreComplet": "Saison 1 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53613,
+        "tmdb_id": 214540,
+        "kitsu_id": "46760"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/dead-mount-death-play/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dead-mount-death-play/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 Partie 2",
+      "titreComplet": "Saison 1 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53613,
+        "tmdb_id": 214540,
+        "kitsu_id": "46760"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/dead-mount-death-play/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dead-mount-death-play/saison1-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}

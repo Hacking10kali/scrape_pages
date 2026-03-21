@@ -1,0 +1,107 @@
+{
+  "nom": "CORPSE PARTY",
+  "type": "Anime",
+  "genres": [
+    "Ecchi",
+    "Horreur",
+    "Épouvante",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/corpse-party",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/corpse-party.jpg",
+  "noms_alt": [
+    "CORPSE PARTY : TORTURED SOULS",
+    "BOUGYAKUSARETA TAMASHII NO JUKYOU"
+  ],
+  "synopsis": "Lors d'une nuit pluvieuse après la fête de l'école, un groupe d'étudiants de la Kisaragi Académie décide de réaliser le charme du \"Sachiko\" charme, qui les unira pour toujours comme des amis. Leur professeur ainsi que Yuka, la petite sœur de Satoshi se joignent à eux pour réaliser ce rituel trouvé sur internet par Ayumi. Une fois le rituel terminé un tremblement de terre les transportse soudainement vers une autre dimension, ils se retrouvent dans une vieille école élémentaire. Le passé horrible qui se cache derrière les murs de cette école semblent cacher une horrible malédiction, nos protagonistes devront trouver un moyen de rentrer tous sains et saufs chez eux!",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4581,
+    "tmdb_id": null,
+    "kitsu_id": "5098"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4581,
+        "tmdb_id": null,
+        "kitsu_id": "5098"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/corpse-party/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/corpse-party/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942976"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/487v8oov"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3im5cn61flo0.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942978"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/e2sfn0cc"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zbrt54znpqc4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942980"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/ekh2zeyc"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-d8b45d89go7g.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4942981"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/nyhhsacw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "nom": "DEAD ACCOUNT",
+  "type": "Anime",
+  "genres": [
+    "Action - Fantastique - Démons - Fantômes - Réseaux sociaux - Technologies"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/dead-account",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dead-account.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans un monde où les fantômes hantent les smartphones, un jeune streamer rejoint une école d'exorcistes.",
+  "bande_annonce": "https://www.youtube.com/embed/ynnk0CIyu10",
+  "ids": {
+    "jikan_id": 61196,
+    "tmdb_id": 286291,
+    "kitsu_id": "49672"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61196,
+        "tmdb_id": 286291,
+        "kitsu_id": "49672"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/dead-account/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dead-account/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#vljju"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6111873"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://dingtezuni.com/embed/qtmzx8noysz7"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xmbkc05rdt8u.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#6axwx"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6117712"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://dingtezuni.com/embed/ba8kq9rgr0rd"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ohiuyvo6jr4f.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#hokum"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6123159"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://dingtezuni.com/embed/019ng3sdxlll"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-9463unqvp5zp.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#58wzz"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6130325"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://dingtezuni.com/embed/jzxy0d1z0s8w"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ma66xfqtd85n.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#gkrwu"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6135830"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://dingtezuni.com/embed/1rr2bjz5md0i"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1646e8h6jkdh.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#9fkjl"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6141155"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://dingtezuni.com/embed/ec52gg78puow"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-h2jypo3yc05v.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#6dq6g"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6147005"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://dingtezuni.com/embed/8lzenxi1p66v"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
