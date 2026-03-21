@@ -1,0 +1,245 @@
+{
+  "nom": "FULL DIVE",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Ecchi",
+    "Romance"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/full-dive/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/full-dive.jpg",
+  "noms_alt": [
+    "KYUUKYOKU SHINKA SHITA FULL DIVE RPG GA GENJITSU YORI MO KUSO GAME DATTARA",
+    "L'ULTIME RPG EST ENCORE PLUS FOIREUX QUE LA RÉALITÉ !",
+    "NEW GAME WAS BORN. IT WAS ACCEPTED WITH SHOCK AND ENTHUSIASM. BUT NO ONE CAN CLEAR IT."
+  ],
+  "synopsis": "Hiroshi Yuki, un lycéen ennuyeux, a obtenu le RPG Polar Quest à la suite d'une étrange succession d'événements. Le jeu, réalisé à l'aide de la meilleure technologie, fait honneur à sa réputation de \"réalisme ultime\". Les graphismes, le comportement des PNJ, l'odeur des plantes et des arbres ou encore la brise qui vous caresse le visage. Tout est si réaliste que cela en devient insupportable. De plus, le joueur doit compléter plus de 10.000.000.000.000.000 de quêtes pour terminer le jeu. En rajoutant à ça le faite que si on se blesse, cela met plusieurs jours à guérir, le jeu en devient presque impossible à terminer. Nous allons donc suivre ce lycéen qui va essayer de terminer un jeu trop réaliste avec comme seule récompense le sentiment d'accomplissement.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 44276,
+    "tmdb_id": 114198,
+    "kitsu_id": "43861"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 44276,
+        "tmdb_id": 114198,
+        "kitsu_id": "43861"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/full-dive/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/full-dive/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/5vqcqsid"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/c155iyypojaw9m7cz9btrupdyo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944094"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/482pg4p8"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/nf595exk8juw9rz9wwhrxtuzey"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944096"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/4gtqh2g5"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/6bic4qmuhkzrtp1qdyyhkgkejy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944098"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/mpfd2faj"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/9sma6cg6p91righ47g93ayoddw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944100"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/6sxngajd"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/98mc33e6mqgw9xkzxapr7w3y5a"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944102"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/2blav74x"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/37w9ah7kpgawmyrtsxd3tgkxoo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944106"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/2xybe48e"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/1kstn7xncxhrmfojgw7agpnf7w"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944110"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/xoz4v0qo"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/ouoe1p6bk3irubdkzuooxa9t6a"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944114"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/erv25s2r"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/jk5o87oq8m7wdr94pa8yiebpgr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944116"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/0pty53i3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/uza54138snnrxcyb73s7s3tjfo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944119"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/8tbjujog"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/4fscwe1e3hfwbgfsi7dpsgi1dh"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4944121"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/rsy4awcp"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/tq1s6mxccfhw9c5drm654wys1o"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

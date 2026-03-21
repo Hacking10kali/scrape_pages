@@ -1,0 +1,77 @@
+{
+  "nom": "FOG OF FIVE ELEMENTS",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Historique",
+    "Arts martiaux"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/fog-of-five-elements",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/fog-of-five-elements.jpg",
+  "noms_alt": [
+    "WU SHAN WU XING"
+  ],
+  "synopsis": "Une légende raconte qu'il y a fort longtemps, des monstres pouvaient donner la capacité à certains élus de maitriser les cinq éléments. Mais pour cela, il faut passer par les dangereuses montagnes brumeuses... Nous suivons les aventures d'un de ces élus !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2579,
+    "tmdb_id": 102788,
+    "kitsu_id": "42198"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2579,
+        "tmdb_id": 102788,
+        "kitsu_id": "42198"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/fog-of-five-elements/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/fog-of-five-elements/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/kp1qrbja"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5306584"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/bcirrwb1"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5306588"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/dnj71qk0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

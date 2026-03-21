@@ -1,0 +1,53 @@
+{
+  "nom": "FIREWORKS",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Romance",
+    "School Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/fireworks",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/fireworks.jpg",
+  "noms_alt": [
+    "FIREWORKS",
+    "SHOULD WE SEE IT FROM THE SIDE OR THE BOTTOM?",
+    "UCHIAGE HANABI SHITA KARA MIRU KA? YOKO KARA MIRU KA?"
+  ],
+  "synopsis": "Un jour, alors qu'un feu d'artifices est prévu, Norimichi, Yusuke et leurs amis à l'école se posent une question qui les divise : les feux d'artifices sont plats ou ronds, quand ils explosent dans le ciel ? Ils se donnent alors rendez-vous le soir pour vérifier qui a raison. Cependant, la jeune Nazuna, une camarade de leur classe a des choses plus importantes en tête, en effet, à cause d'un divorce, elle va devoir déménager et changer d'école pour suivre sa mère. Personne ne le sait encore, mais elle doit partir après les vacances d'été. Aujourd'hui, Norimichi et Yusuke, de corvée de nettoyage de piscine, décident, avec pour arbitre Nazuna, de faire une course sur 50 mètres dans la piscine. Secrètement, elle a décidé d'inviter le gagnant de cette course pour sa dernière soirée avant son déménagement. Qui, de Norimichi et Yusuke, va gagner cette soirée ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34498,
+    "tmdb_id": 13960,
+    "kitsu_id": "213"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 34498,
+        "tmdb_id": 1057531,
+        "kitsu_id": "12794"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/fireworks/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/fireworks/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/peqxzowx"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
