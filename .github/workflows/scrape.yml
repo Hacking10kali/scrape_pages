@@ -1,0 +1,79 @@
+name: Anime Sama Scraper
+
+on:
+  workflow_dispatch:
+    inputs:
+      page_offset:
+        description: 'Décalage de pages (0 = pages 1-9, 9 = pages 10-18, 18 = pages 19-27...)'
+        required: true
+        default: '0'
+      episode_delay:
+        description: 'Délai entre épisodes en secondes (0.2 recommandé)'
+        required: true
+        default: '0.2'
+
+permissions:
+  contents: write
+
+jobs:
+  # 9 jobs fixes — chacun traite 1 page
+  # Pour changer les pages : modifier page_offset
+  # page_offset=0  → pages 1-9
+  # page_offset=9  → pages 10-18
+  # page_offset=18 → pages 19-27
+  # page_offset=27 → pages 28-36
+  # page_offset=36 → pages 37-43 (adapter les job_id si besoin)
+
+  scrape:
+    name: "Page ${{ matrix.page_num }}"
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false   # si 1 job échoue les autres continuent
+      matrix:
+        include:
+          - { job_id: 1, page_offset_add: 1 }
+          - { job_id: 2, page_offset_add: 2 }
+          - { job_id: 3, page_offset_add: 3 }
+          - { job_id: 4, page_offset_add: 4 }
+          - { job_id: 5, page_offset_add: 5 }
+          - { job_id: 6, page_offset_add: 6 }
+          - { job_id: 7, page_offset_add: 7 }
+          - { job_id: 8, page_offset_add: 8 }
+          - { job_id: 9, page_offset_add: 9 }
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -q playwright aiohttp
+          playwright install chromium --with-deps
+
+      - name: Compute page number
+        id: page
+        run: |
+          PAGE=$(( ${{ github.event.inputs.page_offset }} + ${{ matrix.page_offset_add }} ))
+          echo "num=$PAGE" >> $GITHUB_OUTPUT
+          echo "Page number: $PAGE"
+
+      - name: Scrape page ${{ steps.page.outputs.num }}
+        env:
+          PAGE_NUM:       ${{ steps.page.outputs.num }}
+          EPISODE_DELAY:  ${{ github.event.inputs.episode_delay }}
+        run: python scraper.py
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
+          git add AnimeData/
+          git diff --staged --quiet || git commit -m "scrape: page ${{ steps.page.outputs.num }} [$(date +'%Y-%m-%d %H:%M')]"
+          git push
