@@ -1,0 +1,242 @@
+{
+  "nom": "HINAMATSURI",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Science-fiction",
+    "Yakuza"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hinamatsuri",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hinamatsuri.jpg",
+  "noms_alt": [
+    "HINA FESTIVAL",
+    "HINA MATSURI"
+  ],
+  "synopsis": "Une nuit, un étrange objet tombe sur la tête de Nitta, un yakuza. A l'intérieur de cette fameuse boîte se trouve Hina, une jeune fille. Elle possède d'énormes pouvoirs surnaturels. Ses pouvoirs peuvent être utiles dans son métier de yakuza. Cependant il encourt le risque qu'elle finisse par utiliser ses pouvoirs contre lui. De plus, si elle n'utilise pas ses pouvoirs, elle peut rapidement devenir incontrôlable et détruire tout autour d'elle.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 36296,
+    "tmdb_id": 76758,
+    "kitsu_id": "14018"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 36296,
+        "tmdb_id": 76758,
+        "kitsu_id": "14018"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hinamatsuri/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hinamatsuri/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/15nru15g"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/nn76ae8rg7srzghj98yzj8gm7w"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947049"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/vo90bqrq"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/sirtcomn6hfwfpaqdm1s64oqor"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947051"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/6r769iyv"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/d498tmp11y9w9y7b5mxk7eutkr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947052"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/npvkb4af"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/75qaj47bqz9w8mua93z1znj86y"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947056"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/gz5gb22f"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/1awsbwg97c7rpk3dwq3gu4gd5e"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947059"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/f585ez4l"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/kasz81dbguowd8w6qdhr74sanc"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947061"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/n7g4xbbe"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/barf8jo1sxrr8nqj1k7ibah8wy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947069"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/knvtv6j6"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/gtg5cc7z5muw9dhimb8t5y9i7c"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947077"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/dxjswiom"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/7u9n3jj3ikyrjq8c4wqxzsntbe"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947084"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/sfwx0xr6"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/bo57856gktaw9k1fp1hhjimine"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947090"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/cqrmkkv7"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/ceuu4kr6od3wz8rhtop1qfudiw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4947094"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/1sq5p68z"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/ow9hfdp65cjr7pyu1mmfzqc3bh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

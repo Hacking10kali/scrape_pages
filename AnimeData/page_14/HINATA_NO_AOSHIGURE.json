@@ -1,0 +1,40 @@
+{
+  "nom": "HINATA NO AOSHIGURE",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Romance",
+    "School Life",
+    "Ecole",
+    "Magie"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hinata-no-aoshigure",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hinata-no-aoshigure.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans Hinata no Aoshigure, on suit l'histoire d'amour de Hinata, un garçon en quatrième année de primaire qui tente d'avouer ses sentiments amoureux à Shigure, l'une de ses camarades de classe visiblement assez populaire.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 20673,
+    "tmdb_id": null,
+    "kitsu_id": "13583"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 20673,
+        "tmdb_id": null,
+        "kitsu_id": "13583"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hinata-no-aoshigure/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hinata-no-aoshigure/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
