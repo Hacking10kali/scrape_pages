@@ -1,0 +1,173 @@
+{
+  "nom": "GAROUDEN",
+  "type": "Anime",
+  "genres": [
+    "Action - Arts martiaux"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/garouden",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/garouden.jpg",
+  "noms_alt": [
+    "GAROUDEN : THE WAY OF THE LONE WOLF",
+    "GARÔDEN : LA VOIE DU LOUP SOLITAIRE"
+  ],
+  "synopsis": "Recherché pour meurtre, Juzo Fujimaki est contraint de participer à un tournoi illicite et d'affronter des maîtres en arts martiaux lors de combats mortels.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1601,
+    "tmdb_id": 252425,
+    "kitsu_id": "41097"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1601,
+        "tmdb_id": 252425,
+        "kitsu_id": "41097"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/garouden/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/garouden/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/h2ftwy0o0h5s"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982890"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-e36memede5us.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/69kna41bwuvm"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982892"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ltcis7jk4awm.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/rym3kqxzf701"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982895"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vy0d2k2zf3m5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/jsx2c7lc4uv7"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982897"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-oi5ex0yp3b43.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/zbads7bj60gb"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982899"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ufjc2g1c3x1t.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/79x5zpotg3f3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982900"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-5zan6p0zki9l.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/gfyuewb6l279"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982903"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1rdv74odyce0.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://mivalyo.com/embed/acf9p1ngm1qm"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5982905"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
