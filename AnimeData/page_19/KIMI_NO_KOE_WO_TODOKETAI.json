@@ -1,0 +1,48 @@
+{
+  "nom": "KIMI NO KOE WO TODOKETAI",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Slice of Life",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kimi-no-koe-wo-todoketai",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kimi-no-koe-wo-todoketai.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire narre les inquiétudes, les conflits et les rêves de jeunes lycéennes. Dans ce village près de la mer, Nagisa, une jeune femme âgée de 16 ans vivant dans la ville de Hinosakacho, est inquiète de ne pas trouver son propre rêve. Lorsqu'elle était enfant sa grand-mère lui racontait que la langue a une âme nommée Kotodama. Depuis un incident, elle a commencé à y croire. Un jour, Nagisa erre dans une petite station de radio abandonnée et fait semblant d'être une DJ. Ce qu'elle va enregistrer va dépasser tout ce qu'elle espérait.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 23273,
+    "tmdb_id": null,
+    "kitsu_id": "44574"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 33218,
+        "tmdb_id": 461078,
+        "kitsu_id": "13266"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kimi-no-koe-wo-todoketai/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kimi-no-koe-wo-todoketai/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813102\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
