@@ -1,0 +1,50 @@
+{
+  "nom": "LA TRAVERSÉE DU TEMPS",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Romance",
+    "Science-fiction",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/la-traversee-du-temps/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/la-traversee-du-temps.jpg",
+  "noms_alt": [
+    "THE GIRL WHO LEAPT THROUGH TIME",
+    "TOKI WO KAKERU SHOUJO"
+  ],
+  "synopsis": "Toki wo kakeru shôjo est l'adaptation d'un roman de Yasutaka Tsutsui. Il a remporté le prix de Mention Spéciale au Festival International du Film d'Animation d'Annecy 2007. Makoto est une jeune lycéenne, un peu garçon manqué et pas intéressée par l'école. Jusqu'au jour où elle reçoit le don particulier de pouvoir traverser le temps. Améliorer ses notes, aider ses amis, manger à répétition ses plats préférés, tout devient possible pour Makoto. Mais influer le cours du temps c'est parfois bien dangereux, surtout lorsqu'il faut apprendre à vivre sans !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 5307,
+    "tmdb_id": 67354,
+    "kitsu_id": "6859"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 2236,
+        "tmdb_id": 14069,
+        "kitsu_id": "4073"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/la-traversee-du-temps/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/la-traversee-du-temps/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}

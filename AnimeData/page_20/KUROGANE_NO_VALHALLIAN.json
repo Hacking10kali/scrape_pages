@@ -1,0 +1,42 @@
+{
+  "nom": "KUROGANE NO VALHALLIAN",
+  "type": "Anime",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Fantasy",
+    "Combats",
+    "Samouraïs"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kurogane-no-valhallian",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kurogane-no-valhallian.jpg",
+  "noms_alt": [
+    "VALHALLIAN THE BLACK IRON"
+  ],
+  "synopsis": "A son réveil, Souma Tetsujirou, un samouraï de Kamakura qui avait survécu à l'invasion mongole, s'était retrouvé dans un endroit inconnu. Hirst, la fille qui l'a amené là-bas, lui a dit qu'ils étaient au Valhalla, un endroit où se rassemblent les âmes des guerriers morts. Pour qu'il soit ressuscité, Tetsujirou n'a plus d'autre choix que de lutter contre les 'guerriers morts' de différentes époques.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3653,
+    "tmdb_id": null,
+    "kitsu_id": "7727"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 3653,
+        "tmdb_id": null,
+        "kitsu_id": "7727"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kurogane-no-valhallian/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kurogane-no-valhallian/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}

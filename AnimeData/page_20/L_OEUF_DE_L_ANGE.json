@@ -1,0 +1,52 @@
+{
+  "nom": "L'OEUF DE L'ANGE",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Fantasy",
+    "Psychologique",
+    "Religion"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/l-oeuf-de-l-ange",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/l-oeuf-de-l-ange.jpg",
+  "noms_alt": [
+    "TENSHI NO TAMAGO",
+    "ANGEL'S EGG"
+  ],
+  "synopsis": "Un vaisseau d'apparence mecano-organique atterrit dans un monde onirique, où toute trace de civilisation semble avoir été anéantie... Ce vaisseau enferme en son cœur une enfant à la longue chevelure claire, modèle de pureté, qui transporte un œuf. Ce qu'il renferme ? Celle-ci l'ignore, et ne désire peut-être pas le découvrir. Elle sait seulement qu'elle ne doit pas le perdre. Manifestement seul être vivant dans ce monde, un guerrier portant une arme en forme de crucifix observe l'atterrissage du vaisseau et suit la jeune fille qui erre et finit par se retrouver dans les ruines d'une ville apparemment déserte, jusqu'à ce que survienne la pluie, et la venue d'êtres mécaniques aux allures d'armures antiques, pratiquant la chasse aux poissons d'ombres... Le guerrier et l'enfant trouvent refuge dans une cathédrale où gît, encastré dans l'un des murs de la bâtisse, le squelette d'un être possédant deux ailes dans le dos... Est-ce une coïncidence ou la fatalité qui a réuni nos deux êtres dans cet endroit ? Est-ce que l'œuf aurait appartenu à cette créature ailée qui n'est pourtant plus de ce monde ? Quel lien l'unit-il à cette enfant venue du ciel ? Autant de questions énigmatiques qui ne trouveront peut-être jamais de réponse... L'une des premières collaborations entre le maître Mamoru Oshii et l'illustrateur Yoshitaka Amano, donnant naissance à une œuvre aussi unique qu'étrange, où les images priment sur la parole qui est quasi inexistante tout au long du métrage.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": "3209"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": null,
+        "tmdb_id": 15916,
+        "kitsu_id": "2114"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/l-oeuf-de-l-ange/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/l-oeuf-de-l-ange/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/arbrwz9c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

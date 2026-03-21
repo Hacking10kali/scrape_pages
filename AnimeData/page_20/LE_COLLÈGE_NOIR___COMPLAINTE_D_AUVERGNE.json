@@ -1,0 +1,108 @@
+{
+  "nom": "LE COLLÈGE NOIR : COMPLAINTE D'AUVERGNE",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Fantastique",
+    "Adolescence",
+    "Démons",
+    "Fantômes",
+    "Folklore",
+    "Magie",
+    "Sorcellerie"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-college-noir",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-college-noir.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans un petit internat perdu au milieu des monts du Cantal, cinq adolescents passent les vacances d'automne avec leur surveillante blasée, Léna. Mais lorsqu'ils sont accidentellement maudits par une terrible sorcière, l'enfer se déchaîne et les terrifiantes créatures du folklore français se lancent à leur poursuite...",
+  "bande_annonce": "https://www.youtube.com/embed/JV3sJ-7-Xpo?si=hY6DAnhxQJZ_H1cC",
+  "ids": {
+    "jikan_id": 714,
+    "tmdb_id": 238438,
+    "kitsu_id": "7982"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 714,
+        "tmdb_id": 238438,
+        "kitsu_id": "7982"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-college-noir/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-college-noir/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 1 (France TV)",
+      "titreComplet": "Saison 1 (France TV)",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 714,
+        "tmdb_id": null,
+        "kitsu_id": "41053"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-college-noir/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-college-noir/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
