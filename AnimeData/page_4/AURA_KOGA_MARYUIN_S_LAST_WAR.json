@@ -1,0 +1,56 @@
+{
+  "nom": "AURA KOGA MARYUIN'S LAST WAR",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Romance",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/aura-koga-maryuins-last-war",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/aura-koga-maryuins-last-war.jpg",
+  "noms_alt": [
+    "AURA : MARYUUINKOUGA SAIGO NO TATAKAI",
+    "AURA MARYUUINKOUGA SAIGO NO TATAKAI"
+  ],
+  "synopsis": "Fût un temps, Satou Ichirou se considérait comme un héros dans un monde fantastique et se surnommait Maryuin Koga. Du coup ses camarades de classe se moquaient de lui, et il du changer d'école pour retrouver une vie normale. Dès lors, il essaya de se comporter normalement jusqu'à ce qu'il rencontre une jeune fille cosplayée avec une cape bleu. Préférant éviter de retomber dans son passé qu'il avait mis de coté, Ichirou va chercher à éviter cette fille jusqu'à ce qu'elle aussi, se fasse harceler par ses camarades de classe. Il décide alors de l'aider de son plein gré, même si pour cela, il devra faire certains sacrifices. Pour ce faire, il doit ramener Ryouko à la réalité et lui faire oublier la quête qu'elle s'est fixée : 'Retrouver le Terminal du Dragon'.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 929,
+    "tmdb_id": null,
+    "kitsu_id": "827"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 14669,
+        "tmdb_id": 225086,
+        "kitsu_id": "7153"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/aura-koga-maryuins-last-war/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/aura-koga-maryuins-last-war/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4752887\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/wzjpjmhr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

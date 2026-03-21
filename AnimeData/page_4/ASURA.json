@@ -1,0 +1,51 @@
+{
+  "nom": "ASURA",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Historique",
+    "Horreur",
+    "Épouvante"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/asura",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/asura.jpg",
+  "noms_alt": [
+    "ASHURA"
+  ],
+  "synopsis": "Au milieu du 15ème siècle, dans un Kyoto ravagé par la famine et la sécheresse, Asura est un enfant qui a été abandonné par tous depuis le jour où sa mère a tenté de le manger. Pour survivre, il a du grandir en se nourrissant de la chair qu'il trouve, qu'elle vienne d'animaux ou d'humains...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 5342,
+    "tmdb_id": 42425,
+    "kitsu_id": "4064"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 8475,
+        "tmdb_id": 466403,
+        "kitsu_id": "5348"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/asura/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/asura/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/3s0rbk8s"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

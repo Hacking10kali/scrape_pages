@@ -1,0 +1,285 @@
+{
+  "nom": "ATELIER RYZA",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Mystère",
+    "Alchimie"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/atelier-ryza",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/atelier-ryza.jpg",
+  "noms_alt": [
+    "RYZA NO ATELIER: TOKOYAMI NO JOOU TO HIMITSU NO KAKUREGA"
+  ],
+  "synopsis": "Reisalin Stout, communément appelée Ryza par ses amis intimes, est une adolescente particulièrement joviale et pétillante qui vit sur l'île de Kurken avec ses amis, Tao et Lent. Avec ces derniers, Ryza a déjà fait les quatre cent coups mais, aujourd'hui, le trio infernal ne veut plus se contenter d'arpenter les sentiers de l'île Kurken. En effet, Ryza, Tao et Lent ont pour ambition de parcourir le monde et devenir des explorateurs aguerris. Leur première escapade hors de leur île natale vire toutefois au désastre et la joyeuse troupe ne doit son salut qu'à deux voyageurs itinérants, Empel Vollmer et Lila Decyrus. Très rapidement, Ryza et ses amis sympathisent avec ces deux étrangers qui décident subitement de les prendre sous leurs ailes afin qu'ils puissent réaliser leur rêve. Débute ainsi le périple estival de Ryza, Tao et Lent qui mettront tout en œuvre pour respectivement égaler les compétences alchimiques d'Empel, ainsi que les talents de combattant de Lila. Un nouveau chapitre est sur le point de débuter pour nos héros, dont la soif d'aventure et d'apprentissage n'a d'égal leur bravoure et leur motivation !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54760,
+    "tmdb_id": 222625,
+    "kitsu_id": "47199"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54760,
+        "tmdb_id": 222625,
+        "kitsu_id": "47199"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/atelier-ryza/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/atelier-ryza/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5185517"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/b0xq7x9o"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/pakkhwgmogdriymj68ou9rbibo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239894&hash=deaa19d63c9de105&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5192078"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/yq9r1l0d"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/of13wafs43uwbcsq35oebqgrah"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239926&hash=52fade576ea077fd&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5198904"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/rqkhqotr"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/t1f8o1xf9r7w5d6ht8woth5ezw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239957&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5204936"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/3kyl2zkc"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/owg5xdnidb1wirpowm18yck6iy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239993&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5211486"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/li00l3sp"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/i5tz5ysjawfr989aydw93hpmhc"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456240029&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5219699"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/1pgkcqps"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/netqdgiccycwxkgrkxmk38s1ia"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456240055&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5226816"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/018xyue6"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/4jm3xaq4ymjrbdahrp383rg7uy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5230562"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/mwldekv3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/aakfaqw5pjpwxkz4rq9ke4brya"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5234987"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/w4xjlsho"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/y5w9xz1d134rxcydsadta1fgnr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456240085&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5240766"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/040bml90"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/fs1qi6btuqqw7yjo37kwgn7fjo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456240112&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5248200"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/imvadqmm"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/bsdjmwr9rafrmkwgnr7wcamcry"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456240141&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5254518"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/ye0igrzh"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/5a7a7ec1bm3wugsc9khsa31jqw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

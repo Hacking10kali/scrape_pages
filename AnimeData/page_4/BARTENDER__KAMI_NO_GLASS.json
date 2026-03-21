@@ -1,0 +1,57 @@
+{
+  "nom": "BARTENDER: KAMI NO GLASS",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Slice of Life",
+    "Alcool",
+    "Gastronomie",
+    "Quotidien",
+    "Travail"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bartender-kami-no-glass",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bartender-kami-no-glass.jpg",
+  "noms_alt": [
+    "BARTENDER GLASS OF GOD"
+  ],
+  "synopsis": "Un légendaire barman du nom de Sasakura Ryu possède un bar Eden Hall dans une rue de Ginza à Tokyo. Grâce à son talent, il rassure les clients et les aide. Car, il sait toujours quelle boisson offrir à son client et possède une mémoire étonnante. Dans chaque épisode, un nouveau personnage pénètre dans le bar, et quelle que soit son origine sociale, Sasakura Ryu parvient toujours à résoudre les difficultés de son client.",
+  "bande_annonce": "https://www.youtube.com/embed/yeqMISgEM",
+  "ids": {
+    "jikan_id": 53407,
+    "tmdb_id": 225168,
+    "kitsu_id": "46644"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Version 2006",
+      "titreComplet": "Version 2006",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53407,
+        "tmdb_id": null,
+        "kitsu_id": "46644"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bartender-kami-no-glass/saison2006/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bartender-kami-no-glass/saison2006/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Version 2024",
+      "titreComplet": "Version 2024",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53407,
+        "tmdb_id": null,
+        "kitsu_id": "46644"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bartender-kami-no-glass/saison2024/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bartender-kami-no-glass/saison2024/vostfr/",
+      "episodes": []
+    }
+  ]
+}
