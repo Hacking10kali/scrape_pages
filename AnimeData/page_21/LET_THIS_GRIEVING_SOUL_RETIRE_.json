@@ -1,0 +1,57 @@
+{
+  "nom": "LET THIS GRIEVING SOUL RETIRE!",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Romance",
+    "Combats"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/let-this-grieving-soul-retire",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/let-this-grieving-soul-retire.jpg",
+  "noms_alt": [
+    "NAGEKI NO BOUREI WA INTAI SHITAI"
+  ],
+  "synopsis": "Krai Andrey a autrefois fait une promesse à ses amis, celle de devenir chasseur de trésor comme eux. Malheureusement, son absence de talent l'a bien vite poussée à revoir ses ambitions à la baisse, à l'inverse de ses amis qui cumulent les succès.",
+  "bande_annonce": "https://www.youtube.com/embed/KA4lALLX-CU",
+  "ids": {
+    "jikan_id": 58172,
+    "tmdb_id": 258579,
+    "kitsu_id": "48559"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 Partie 1",
+      "titreComplet": "Saison 1 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 58172,
+        "tmdb_id": 258579,
+        "kitsu_id": "48559"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/let-this-grieving-soul-retire/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/let-this-grieving-soul-retire/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 Partie 2",
+      "titreComplet": "Saison 1 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 58172,
+        "tmdb_id": 258579,
+        "kitsu_id": "48559"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/let-this-grieving-soul-retire/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/let-this-grieving-soul-retire/saison1-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}

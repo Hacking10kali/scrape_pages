@@ -1,0 +1,49 @@
+{
+  "nom": "LES ENFANTS DE LA MER",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Mystère",
+    "Seinen",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-enfants-de-la-mer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-enfants-de-la-mer.jpg",
+  "noms_alt": [
+    "KAIJUU NO KODOMO",
+    "CHILDREN OF THE SEA"
+  ],
+  "synopsis": "C'est le début des vacances d'été ! Pourtant, Ruka, une collégienne un peu rebelle, s'ennuie déjà. Celle-ci s'est en effet fait exclure du club de handball dès le premier jour après avoir blessé un de ses camarades. Afin de prendre un peu de recul, elle décide de partir à Tokyo le temps d'une journée. En se baladant près du port, elle fait la rencontre d'Umi, un garçon énigmatique qui finit par disparaitre dans les eaux troubles de la ville. Plusieurs jours plus tard, alors que Ruka part aider son père océanographe à l'aquarium, elle retombe sur Umi, accompagné cette fois-ci de Sora, un garçon sarcastique. Tous les deux possèdent un don aquatique surnaturel.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": null,
+    "kitsu_id": "1391"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 37981,
+        "tmdb_id": 585077,
+        "kitsu_id": "46195"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/les-enfants-de-la-mer/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-enfants-de-la-mer/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
