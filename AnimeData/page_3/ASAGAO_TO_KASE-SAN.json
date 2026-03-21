@@ -1,0 +1,50 @@
+{
+  "nom": "ASAGAO TO KASE-SAN",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Romance",
+    "School Life",
+    "Yuri"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/asagao-to-kase-san",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/asagao-to-kase-san.jpg",
+  "noms_alt": [
+    "KASE-SAN AND MORNING GLORIES",
+    "MORNING GLORY AND KASE-SAN",
+    "OBENTOU TO KASE-SAN.",
+    "SHORTCAKE TO KASE-SAN.",
+    "KASE-SAN SERIES"
+  ],
+  "synopsis": "Yui Yamada, jeune fille discrète passionnée par le jardinage, sort avec Kase-san, la meilleure coureuse du club d'athlétisme. Mais elle va vite se rendre compte que ce n'est pas si facile de sortir avec une personne populaire.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3299,
+    "tmdb_id": null,
+    "kitsu_id": "42322"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 53882,
+        "tmdb_id": 515295,
+        "kitsu_id": "142"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/asagao-to-kase-san/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/asagao-to-kase-san/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}

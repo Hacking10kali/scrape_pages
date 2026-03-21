@@ -1,0 +1,209 @@
+{
+  "nom": "ARCANE",
+  "type": "Anime",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Science-fiction",
+    "Aventure"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF",
+    "VASTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/arcane",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arcane.jpg",
+  "noms_alt": [
+    "RIOT GAMES",
+    "LEAGUE OF LEGENDS"
+  ],
+  "synopsis": "La série a lieu dans le monde de Runeterra, l'univers fictif de Riot Games dans lequel prennent également place les jeux League of Legends, League of Legends: Wild Rift et Legends of Runeterra. L'intrigue se déroule plus précisément à Piltover et Zaun, deux villes en conflit situées au même endroit — Piltover constituant la partie supérieure et riche de la cité ; Zaun ses souterrains insalubres, dont la population souffre de la pauvreté. Le scénario suit également Jinx et Vi, deux sœurs ayant vécu une difficile enfance à Zaun, mais qui, désormais adultes, mènent une vie très différente l'une de l'autre.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 12967,
+    "tmdb_id": 94605,
+    "kitsu_id": "45320"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 12967,
+        "tmdb_id": 94605,
+        "kitsu_id": "45320"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/arcane/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/arcane/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 12967,
+        "tmdb_id": 94605,
+        "kitsu_id": "45320"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/arcane/saison2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/arcane/saison2/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/7pvdou0v"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-9hi9se4psmtc.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5746047"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-legkasx2lio0.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5746048"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-em2kprtpucqq.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5753155"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-fixtahqqo7ja.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5753156"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-2wy5w8cnay3f.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5753157"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-8ux0kqmnmq5a.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5760347"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-dp5bhhc5p9rk.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5760351"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-z7j8luugkefh.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/r5dok3m4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
