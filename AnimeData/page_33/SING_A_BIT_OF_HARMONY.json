@@ -1,0 +1,51 @@
+{
+  "nom": "SING A BIT OF HARMONY",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "School Life",
+    "Slice of Life",
+    "Ecole",
+    "I.A",
+    "Musique",
+    "Quotidien"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sing-a-bit-of-harmony",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sing-a-bit-of-harmony.jpg",
+  "noms_alt": [
+    "AI NO UTAGOE WO KIKASETE"
+  ],
+  "synopsis": "Sing a Bit of Harmony raconte l'histoire de la belle et mystérieuse Shion qui est transférée au lycée Keibu où elle devient rapidement populaire pour sa personnalité chaleureuse et ses talents sportifs exceptionnels. Cependant, elle s'avère être une IA (intelligence artificielle) en phase de test ! L'objectif de Shion est d'apporter le \"bonheur\" à Satomi, une solitaire invétérée. Pour ce faire, elle décide de lui chanter la sérénade au milieu de la classe. Après avoir découvert la véritable nature de Shion, Satomi et son ami d'enfance Toma, un passionné d'ingénierie, se rapprochent progressivement de la nouvelle étudiante. Avec le populaire et séduisant Gotchan, la courageuse Aya et le membre du club de judo \"Thunder\", ils sont de plus en plus touchés par la voix et la sincérité de Shion, même si ses pitreries les déconcertent. Cependant, ce que Shion fait pour le bien de Satomi finit par tous les impliquer dans un sérieux pandémonium...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 61916,
+    "tmdb_id": null,
+    "kitsu_id": "49901"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 42847,
+        "tmdb_id": 741335,
+        "kitsu_id": "43537"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/sing-a-bit-of-harmony/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sing-a-bit-of-harmony/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
