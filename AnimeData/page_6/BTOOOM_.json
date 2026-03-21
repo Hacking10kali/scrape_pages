@@ -1,0 +1,44 @@
+{
+  "nom": "BTOOOM!",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Drame",
+    "Psychologique",
+    "Romance",
+    "Science-fiction",
+    "Seinen"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/btooom  ",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/btooom.jpg",
+  "noms_alt": [
+    "BTOOM!"
+  ],
+  "synopsis": "BTOOOM! est un jeu online au succès mondial. Celui-ci consiste à battre l'équipe adverse avec des bombes pour seules armes. Ryouta Sakamoto, 22 ans et sans emploi, est l'un de ces nombreux joueurs qui passent leur temps dessus. Qui plus est, il peut se targuer d'apparemment faire partie des meilleurs. Mais lorsqu'il se réveille sur une île inconnue, loin du confort de sa chambre, la réalité le rattrape vite quand il se rend compte qu'il va devoir jouer à BTOOOM! en vrai, sous peine d'y laisser sa vie.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 14345,
+    "tmdb_id": 45125,
+    "kitsu_id": "7113"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 14345,
+        "tmdb_id": 45125,
+        "kitsu_id": "7113"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/btooom  /saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/btooom  /saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}

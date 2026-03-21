@@ -1,0 +1,51 @@
+{
+  "nom": "BUBBLE",
+  "type": "Anime",
+  "genres": [
+    "Mystère",
+    "Romance",
+    "Adolescence",
+    "Amitié",
+    "Catastrophe naturelle"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bubble",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bubble.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans un Tokyo où la gravité n'existe plus, un garçon et une fille se voient attirés l'un par l'autre... L'histoire se situe à Tokyo, après que des bulles ayant brisé la loi de la gravité se sont déversées sur le monde. Désormais coupée du monde extérieur, Tokyo n'est plus la capitale qu'elle était : la voici devenue un terrain de jeu pour tout un groupe de jeunes ayant perdu leur famille, qui se divertissent en formant des équipes de parkour, sautant d'immeubles en immeubles. Hibiki, un jeune as connu pour son style de jeu dangereux, commet une maladresse et bascule dans la mer qui pèse sur la gravité. Il est sauvé par Uta, une fille possédant de mystérieux pouvoirs. Ces deux-là entendent alors un son qui n'est audible que par eux. Pour quelle raison Uta est-elle apparue devant Hibiki ? Leur rencontre va conduire à une révélation qui pourrait bien changer le monde...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 48221,
+    "tmdb_id": 42882,
+    "kitsu_id": "175"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 39175,
+        "tmdb_id": 793695,
+        "kitsu_id": "45559"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/bubble/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bubble/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4691302"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
