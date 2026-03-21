@@ -1,0 +1,141 @@
+{
+  "nom": "TEKKEN",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Combats",
+    "Drame",
+    "Science-fiction",
+    "Fantastique"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/tekken",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/tekken.jpg",
+  "noms_alt": [
+    "TEKKEN : BLOODLINE"
+  ],
+  "synopsis": "Dès son plus jeune âge, Jin Kazama a appris les arts martiaux aux côtés de sa mère, qui a fait tout son possible pour lui transmettre le style ancestral des Kazama. Toutefois, face à un mystérieux adversaire démoniaque, apparu de nulle part et ayant détruit tout ce à quoi il tenait, Jin s’est avéré parfaitement impuissant. En rage contre sa propre faiblesse, le garçon s’est alors mis en quête de la puissance absolue, avec comme objectif d’un jour parvenir à prendre sa revanche sur celui qui lui a tout pris. Dans sa quête pour arriver à ses fins, un célèbre tournoi d’arts martiaux semble incontournable : le King of Iron Fist Tournament. Là-bas, Jin rencontrera les plus puissants combatstants que porte ce monde.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4663,
+    "tmdb_id": 195530,
+    "kitsu_id": "3729"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4663,
+        "tmdb_id": 195530,
+        "kitsu_id": "3729"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/tekken/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/tekken/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/obl649r5"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/raimpqjuqwrw9fjczjbid9ysar"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4834635"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/ahf5feoh"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/hbhde53k7a4wzraaapw6a8tsur"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4834637"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/lxxi4hmf"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/6hyexw1317wridcz75ijsm1r8w"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4834643"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/2wnu1rx9"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/wwyq19urp88wdnq4xuz5t3hjzo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4834648"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/p34axl5v"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/ysxqgx3os4fwirc9x1dabez6he"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4834650"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/np6t9536\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/r1gbotoei9bri8echmm9oqteyy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
