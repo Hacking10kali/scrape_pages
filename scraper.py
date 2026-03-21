@@ -8,7 +8,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 
 # ══════════════════════════════════════════════════════════════
-#  CONFIG
+#  CONFIG — modifier uniquement ces variables
 # ══════════════════════════════════════════════════════════════
 BASE_URL      = "https://anime-sama.to"
 CATALOGUE_URL = "https://anime-sama.to/catalogue/?page={page}"
@@ -19,13 +19,14 @@ JIKAN_BASE    = "https://api.jikan.moe/v4"
 KITSU_BASE    = "https://kitsu.io/api/edge"
 OUTPUT_DIR    = "AnimeData"
 
-PAGE_BEGIN          = int(os.environ.get("PAGE_BEGIN",          "1"))
-PAGE_END            = int(os.environ.get("PAGE_END",            "43"))
-ANIME_BATCH_SIZE    = int(os.environ.get("ANIME_BATCH_SIZE",    "4"))
-SAISON_BATCH_SIZE   = int(os.environ.get("SAISON_BATCH_SIZE",   "2"))
-MAX_EPISODE_WORKERS = int(os.environ.get("MAX_EPISODE_WORKERS", "4"))
-JIKAN_DELAY         = 0.35
-MAX_RETRIES         = 3
+# Injectées par GitHub Actions via env
+PAGE_NUM = int(os.environ.get("PAGE_NUM", "1"))
+
+# Délai minimum entre chaque requête Playwright (ms → s)
+# 200ms = 0.2s : rapide mais poli
+EPISODE_DELAY = float(os.environ.get("EPISODE_DELAY", "0.2"))
+JIKAN_DELAY   = 0.35
+MAX_RETRIES   = 3
 
 _start = time.time()
 def log(msg):
@@ -33,79 +34,51 @@ def log(msg):
     print(f"[{e//60:02d}m{e%60:02d}s] {msg}", flush=True)
 
 # ══════════════════════════════════════════════════════════════
-#  RATE LIMITER ADAPTATIF
+#  SAUVEGARDE PROGRESSIVE — 1 fichier JSON par animé
 # ══════════════════════════════════════════════════════════════
-class AdaptiveRateLimiter:
-    MIN_DELAY   = 0.3
-    MAX_DELAY   = 8.0
-    STEP_UP     = 2.0
-    STEP_DOWN   = 0.85
-    BLOCK_PAUSE = 20.0
+def save_anime(anime, page_num):
+    """Sauvegarde immédiate d'un animé dès qu'il est scraped."""
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    # Dossier par page
+    page_dir = os.path.join(OUTPUT_DIR, f"page_{page_num}")
+    os.makedirs(page_dir, exist_ok=True)
+    # Nom de fichier sûr
+    safe = re.sub(r'[^\w\-]', '_', anime["nom"])[:80]
+    path = os.path.join(page_dir, f"{safe}.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(anime, f, ensure_ascii=False, indent=2)
+    log(f"  saved {path}")
 
-    def __init__(self):
-        self._delay      = self.MIN_DELAY
-        self._last_block = 0
-        self._success    = 0
-        self._failures   = 0
+def save_page_summary(animes, page_num, elapsed):
+    """Sauvegarde le fichier page_N.json global une fois tout terminé."""
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    path = os.path.join(OUTPUT_DIR, f"page_{page_num}.json")
+    data = {
+        "page":       page_num,
+        "scraped_at": datetime.now().strftime("%Y%m%d_%H%M%S"),
+        "duration_s": elapsed,
+        "total":      len(animes),
+        "animes":     animes,
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    log(f"saved {path} ({len(animes)} animes, {elapsed//60}m{elapsed%60:02d}s)")
 
-    async def wait(self):
-        await asyncio.sleep(self._delay)
+def already_done(nom, page_num):
+    """Vérifie si un animé a déjà été scraped (reprise après timeout)."""
+    safe = re.sub(r'[^\w\-]', '_', nom)[:80]
+    path = os.path.join(OUTPUT_DIR, f"page_{page_num}", f"{safe}.json")
+    return os.path.exists(path)
 
-    def on_success(self):
-        self._success += 1
-        self._delay = max(self.MIN_DELAY, self._delay * self.STEP_DOWN)
-
-    async def on_block(self):
-        self._failures += 1
-        self._delay = min(self.MAX_DELAY, self._delay * self.STEP_UP)
-        now = time.time()
-        if now - self._last_block > 30:
-            self._last_block = now
-            log(f"  [rate-limit] pause {self.BLOCK_PAUSE}s | delay={self._delay:.1f}s")
-            await asyncio.sleep(self.BLOCK_PAUSE)
-        else:
-            await asyncio.sleep(self._delay)
-
-    @property
-    def stats(self):
-        total = self._success + self._failures
-        rate  = self._failures / total * 100 if total else 0
-        return f"ok={self._success} fail={self._failures} ({rate:.0f}%) delay={self._delay:.1f}s"
-
-_rl = None  # init dans main()
-
-# ══════════════════════════════════════════════════════════════
-#  CHECKPOINT
-# ══════════════════════════════════════════════════════════════
-def checkpoint_path(page_num):
-    return os.path.join(OUTPUT_DIR, f".checkpoint_page_{page_num}.json")
-
-def load_checkpoint(page_num):
-    path = checkpoint_path(page_num)
-    if os.path.exists(path):
-        try:
-            with open(path) as f:
-                return json.load(f)
-        except Exception:
-            pass
-    return {"done": [], "animes": {}}
-
-def save_checkpoint(page_num, nom, anime_data):
+def load_done_anime(nom, page_num):
+    """Charge un animé déjà scraped depuis le disque."""
+    safe = re.sub(r'[^\w\-]', '_', nom)[:80]
+    path = os.path.join(OUTPUT_DIR, f"page_{page_num}", f"{safe}.json")
     try:
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
-        cp = load_checkpoint(page_num)
-        if nom not in cp["done"]:
-            cp["done"].append(nom)
-        cp["animes"][nom] = anime_data
-        with open(checkpoint_path(page_num), "w") as f:
-            json.dump(cp, f, ensure_ascii=False)
+        with open(path) as f:
+            return json.load(f)
     except Exception:
-        pass
-
-def clear_checkpoint(page_num):
-    path = checkpoint_path(page_num)
-    if os.path.exists(path):
-        os.remove(path)
+        return None
 
 # ══════════════════════════════════════════════════════════════
 #  UTILS
@@ -159,13 +132,6 @@ def build_saison_url(anime_lien, titre, langue):
             num = re.search(r'\d+', t)
             segment = "saison" + num.group() if num else "saison1"
     return BASE_URL + "/catalogue/" + slug + "/" + segment + "/" + langue.lower() + "/"
-
-def save_json(data, page_num):
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-    path = os.path.join(OUTPUT_DIR, f"page_{page_num}.json")
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    log(f"saved {path} ({data['total']} animes)")
 
 def new_ctx(browser):
     return browser.new_context(
@@ -345,7 +311,7 @@ async def is_blocked(page):
     try:
         title = (await page.title()).lower()
         url   = page.url
-        if any(x in title for x in ["error", "403", "429", "blocked", "captcha", "access denied"]):
+        if any(x in title for x in ["error", "403", "429", "blocked", "captcha"]):
             return True
         if any(x in url for x in ["login", "captcha", "blocked"]):
             return True
@@ -391,7 +357,7 @@ async def scrape_catalogue(browser, page_num):
             "})"
         )
     except Exception as e:
-        log(f"catalogue error p{page_num}: {e}")
+        log(f"catalogue error: {e}")
     finally:
         try:
             await ctx.close()
@@ -470,13 +436,13 @@ async def scrape_detail(browser, url):
     return result
 
 # ══════════════════════════════════════════════════════════════
-#  SCRAPING — Lecteurs d'un episode (helper)
+#  SCRAPING — Tous les épisodes d'une saison (1 page = tous les épisodes)
 # ══════════════════════════════════════════════════════════════
 async def collect_lecteurs(page):
     lecteurs = []
     opts = await get_options(page, "#selectLecteurs")
     for lect in opts:
-        old = await read_player(page) or ""
+        old      = await read_player(page) or ""
         selected = False
         try:
             await page.select_option("#selectLecteurs", value=lect["value"])
@@ -493,149 +459,134 @@ async def collect_lecteurs(page):
                 lecteurs.append({"lecteur": lect["label"], "url": src})
     return lecteurs
 
-# ══════════════════════════════════════════════════════════════
-#  SCRAPING — Une tentative d'episode (pas de continue dans try)
-# ══════════════════════════════════════════════════════════════
-async def _attempt_episode(browser, saison_url, ep_value, ep_label):
-    ctx  = await new_ctx(browser)
-    page = await ctx.new_page()
-    found = None
-    try:
-        await _rl.wait()
-        loaded = await goto_page(page, saison_url)
-        if loaded:
-            blocked = await is_blocked(page)
-            if blocked:
-                await _rl.on_block()
-            else:
-                has_eps = await wait_select(page, "#selectEpisodes")
-                if has_eps:
-                    await page.wait_for_timeout(300)
-                    ep_ok = False
-                    try:
-                        await page.select_option("#selectEpisodes", value=ep_value)
-                        await page.wait_for_timeout(500)
-                        ep_ok = True
-                    except Exception:
-                        ep_ok = False
-                    if ep_ok:
-                        has_lect = await wait_select(page, "#selectLecteurs", timeout=12000)
-                        if not has_lect:
-                            await page.wait_for_timeout(1000)
-                            src = await wait_player(page)
-                            if src:
-                                _rl.on_success()
-                                found = {"episode": ep_label, "lecteurs": [{"lecteur": "default", "url": src}]}
-                        else:
-                            lecteurs = await collect_lecteurs(page)
-                            if lecteurs:
-                                _rl.on_success()
-                                found = {"episode": ep_label, "lecteurs": lecteurs}
-                            else:
-                                await _rl.on_block()
-    except Exception as e:
-        log(f"    attempt error ep {ep_label}: {e}")
-    finally:
-        try:
-            await ctx.close()
-        except Exception:
-            pass
-    return found
-
-async def scrape_episode(browser, saison_url, ep_value, ep_label):
-    for _ in range(MAX_RETRIES):
-        result = await _attempt_episode(browser, saison_url, ep_value, ep_label)
-        if result is not None:
-            return result
-    return {"episode": ep_label, "lecteurs": []}
-
-# ══════════════════════════════════════════════════════════════
-#  SCRAPING — Liste episodes d'une saison
-# ══════════════════════════════════════════════════════════════
-async def _get_eps_list(browser, saison_url):
-    ctx  = await new_ctx(browser)
-    page = await ctx.new_page()
-    eps  = []
-    try:
-        await _rl.wait()
-        await goto_page(page, saison_url)
-        blocked = await is_blocked(page)
-        if not blocked:
-            if await wait_select(page, "#selectEpisodes", timeout=25000):
-                await page.wait_for_timeout(500)
-                eps = await get_options(page, "#selectEpisodes")
-                if eps:
-                    _rl.on_success()
-        else:
-            await _rl.on_block()
-    except Exception:
-        pass
-    finally:
-        try:
-            await ctx.close()
-        except Exception:
-            pass
-    return eps
 
 async def scrape_saison_episodes(browser, saison_url):
-    eps_options = []
-    for attempt in range(MAX_RETRIES):
-        eps_options = await _get_eps_list(browser, saison_url)
-        if eps_options:
-            break
-        log(f"    episode list empty attempt {attempt+1}/{MAX_RETRIES}")
-        await asyncio.sleep(3)
+    """
+    Charge la page UNE SEULE FOIS et itère tous les épisodes dessus.
+    Pause EPISODE_DELAY entre chaque épisode pour éviter le rate limit.
+    Si des épisodes sont vides → recharge la page une fois et retente.
+    """
+    slug = "/".join(saison_url.rstrip("/").split("/")[-2:])
 
-    if not eps_options:
-        log(f"    SKIP no episodes: {saison_url}")
+    for attempt in range(MAX_RETRIES):
+        ctx  = await new_ctx(browser)
+        page = await ctx.new_page()
+        episodes = []
+        success  = False
+        try:
+            await goto_page(page, saison_url)
+
+            blocked = await is_blocked(page)
+            if blocked:
+                log(f"    blocked on {slug}, pause 10s")
+                await asyncio.sleep(10 * (attempt + 1))
+            else:
+                has_eps = await wait_select(page, "#selectEpisodes", timeout=25000)
+                if has_eps:
+                    await page.wait_for_timeout(500)
+                    eps_opts = await get_options(page, "#selectEpisodes")
+
+                    if eps_opts:
+                        log(f"    {len(eps_opts)} ep [{slug}]")
+                        for ep in eps_opts:
+                            ep_ok = False
+                            try:
+                                await page.select_option("#selectEpisodes", value=ep["value"])
+                                await page.wait_for_timeout(400)
+                                ep_ok = True
+                            except Exception:
+                                ep_ok = False
+
+                            if ep_ok:
+                                has_lect = await wait_select(page, "#selectLecteurs", timeout=10000)
+                                if not has_lect:
+                                    await page.wait_for_timeout(800)
+                                    src = await wait_player(page)
+                                    if src:
+                                        episodes.append({
+                                            "episode":  ep["label"],
+                                            "lecteurs": [{"lecteur": "default", "url": src}]
+                                        })
+                                    else:
+                                        episodes.append({"episode": ep["label"], "lecteurs": []})
+                                else:
+                                    lecteurs = await collect_lecteurs(page)
+                                    episodes.append({"episode": ep["label"], "lecteurs": lecteurs})
+                            else:
+                                episodes.append({"episode": ep["label"], "lecteurs": []})
+
+                            # Pause polie entre chaque épisode
+                            await asyncio.sleep(EPISODE_DELAY)
+
+                        success = True
+
+        except Exception as e:
+            log(f"    error on {slug} attempt {attempt+1}: {e}")
+        finally:
+            try:
+                await ctx.close()
+            except Exception:
+                pass
+
+        if success:
+            break
+        await asyncio.sleep(5)
+
+    if not episodes:
+        log(f"    SKIP no episodes: {slug}")
         return []
 
-    slug = "/".join(saison_url.rstrip("/").split("/")[-2:])
-    log(f"    {len(eps_options)} ep [{slug}]")
-
-    sem = asyncio.Semaphore(MAX_EPISODE_WORKERS)
-
-    async def safe(ep):
-        async with sem:
-            return await scrape_episode(browser, saison_url, ep["value"], ep["label"])
-
-    episodes = list(await asyncio.gather(*[safe(ep) for ep in eps_options]))
-
+    # Retry des épisodes vides — recharge la page une fois
     vides = [i for i, e in enumerate(episodes) if not e["lecteurs"]]
-    taux  = len(vides) / len(episodes) if episodes else 0
+    if vides:
+        pause = 15 if len(vides) / len(episodes) > 0.4 else 5
+        log(f"    retry {len(vides)} empty ep (pause {pause}s)")
+        await asyncio.sleep(pause)
 
-    if taux > 0.4:
-        log(f"    {len(vides)}/{len(episodes)} empty (rate limit?), seq retry pause 15s")
-        await asyncio.sleep(15)
-        for i in vides:
-            res = await scrape_episode(
-                browser, saison_url,
-                eps_options[i]["value"], eps_options[i]["label"]
-            )
-            if res["lecteurs"]:
-                episodes[i] = res
-            await asyncio.sleep(_rl._delay)
-    elif vides:
-        log(f"    retry: {len(vides)} empty")
-        await asyncio.sleep(3)
-        r1 = await asyncio.gather(*[safe(eps_options[i]) for i in vides])
-        for i, res in zip(vides, r1):
-            if res["lecteurs"]:
-                episodes[i] = res
-        vides2 = [i for i, e in enumerate(episodes) if not e["lecteurs"]]
-        if vides2:
-            await asyncio.sleep(8)
-            r2 = await asyncio.gather(*[safe(eps_options[i]) for i in vides2])
-            for i, res in zip(vides2, r2):
-                if res["lecteurs"]:
-                    episodes[i] = res
+        ctx2  = await new_ctx(browser)
+        page2 = await ctx2.new_page()
+        try:
+            await goto_page(page2, saison_url)
+            if not await is_blocked(page2):
+                if await wait_select(page2, "#selectEpisodes", timeout=20000):
+                    await page2.wait_for_timeout(500)
+                    eps_opts2 = await get_options(page2, "#selectEpisodes")
+                    for i in vides:
+                        if i < len(eps_opts2):
+                            ep     = eps_opts2[i]
+                            ep_ok2 = False
+                            try:
+                                await page2.select_option("#selectEpisodes", value=ep["value"])
+                                await page2.wait_for_timeout(400)
+                                ep_ok2 = True
+                            except Exception:
+                                ep_ok2 = False
+                            if ep_ok2:
+                                has_lect2 = await wait_select(page2, "#selectLecteurs", timeout=10000)
+                                if has_lect2:
+                                    lecteurs2 = await collect_lecteurs(page2)
+                                    if lecteurs2:
+                                        episodes[i] = {"episode": ep["label"], "lecteurs": lecteurs2}
+                                else:
+                                    src2 = await wait_player(page2)
+                                    if src2:
+                                        episodes[i] = {"episode": ep["label"],
+                                                       "lecteurs": [{"lecteur": "default", "url": src2}]}
+                            await asyncio.sleep(EPISODE_DELAY)
+        except Exception as e:
+            log(f"    retry error: {e}")
+        finally:
+            try:
+                await ctx2.close()
+            except Exception:
+                pass
 
     ok = sum(1 for e in episodes if e["lecteurs"])
-    log(f"    {ok}/{len(episodes)} OK | {_rl.stats}")
+    log(f"    {ok}/{len(episodes)} OK [{slug}]")
     return episodes
 
 # ══════════════════════════════════════════════════════════════
-#  SCRAPING — Saison
+#  SCRAPING — Saison complète (IDs + épisodes)
 # ══════════════════════════════════════════════════════════════
 async def process_saison(browser, session, anime_nom, anime_lien, saison, langues_anime):
     titre   = saison["titreVignette"]
@@ -655,17 +606,13 @@ async def process_saison(browser, session, anime_nom, anime_lien, saison, langue
 
     if prefer_vf and url_vf:
         if await check_url(session, url_vf):
-            url_cible  = url_vf
-            langue_eff = "vf"
+            url_cible, langue_eff = url_vf, "vf"
     if url_cible is None and url_vostfr:
         if await check_url(session, url_vostfr):
-            url_cible  = url_vostfr
-            langue_eff = "vostfr"
-    if url_cible is None:
-        if prefer_vf:
-            url_cible, langue_eff = url_vf, "vf"
-        else:
             url_cible, langue_eff = url_vostfr, "vostfr"
+    if url_cible is None:
+        url_cible  = url_vf     if prefer_vf else url_vostfr
+        langue_eff = "vf"       if prefer_vf else "vostfr"
 
     saison["langue"] = langue_eff
     log(f"    langue: {langue_eff}")
@@ -681,12 +628,22 @@ async def process_saison(browser, session, anime_nom, anime_lien, saison, langue
     return saison
 
 # ══════════════════════════════════════════════════════════════
-#  SCRAPING — Anime
+#  SCRAPING — Anime complet (séquentiel, sauvegarde immédiate)
 # ══════════════════════════════════════════════════════════════
-async def process_anime(browser, session, anime, idx, total):
+async def process_anime(browser, session, anime, idx, total, page_num):
     nom = anime["nom"]
+
+    # Reprise : déjà scraped ?
+    if already_done(nom, page_num):
+        log(f"[{idx}/{total}] SKIP (already done): {nom}")
+        done = load_done_anime(nom, page_num)
+        if done:
+            return done
+        return anime
+
     log(f"[{idx}/{total}] {nom}")
 
+    # Détail
     if anime["lien"]:
         try:
             detail = await scrape_detail(browser, anime["lien"])
@@ -706,98 +663,53 @@ async def process_anime(browser, session, anime, idx, total):
         except Exception as e:
             log(f"  detail error: {e}")
 
+    # IDs
     anime["ids"] = await fetch_ids(session, nom)
     log(f"  ids: jikan={anime['ids']['jikan_id']} tmdb={anime['ids']['tmdb_id']} kitsu={anime['ids']['kitsu_id']}")
 
-    saisons = anime["saisons"]
-    for b in range(0, len(saisons), SAISON_BATCH_SIZE):
-        batch_s = saisons[b: b + SAISON_BATCH_SIZE]
-        results = await asyncio.gather(*[
-            process_saison(browser, session, nom, anime["lien"], s, anime.get("langues", []))
-            for s in batch_s
-        ], return_exceptions=True)
-        for i, res in enumerate(results):
-            if isinstance(res, Exception):
-                log(f"  saison error: {res}")
-                batch_s[i]["episodes"] = []
+    # Saisons — séquentielles
+    for s in anime["saisons"]:
+        try:
+            await process_saison(browser, session, nom, anime["lien"], s, anime.get("langues", []))
+        except Exception as e:
+            log(f"  saison error ({s.get('titreVignette','')}): {e}")
+            s["episodes"] = []
 
     nb_eps = sum(len(s.get("episodes", [])) for s in anime["saisons"])
     log(f"  DONE {nom} — {len(anime['saisons'])}s {nb_eps}ep")
+
+    # Sauvegarde immédiate dès que l'animé est terminé
+    save_anime(anime, page_num)
     return anime
 
 # ══════════════════════════════════════════════════════════════
-#  SCRAPING — Page
+#  SCRAPING — Page complète (animés séquentiels)
 # ══════════════════════════════════════════════════════════════
 async def process_page(browser, session, page_num):
     t0 = time.time()
     log(f"=== PAGE {page_num} START ===")
 
     animes = await scrape_catalogue(browser, page_num)
-    total  = len(animes)
-    log(f"  {total} animes — batch={ANIME_BATCH_SIZE}")
+    log(f"  {len(animes)} animes detected")
 
-    cp      = load_checkpoint(page_num)
-    done    = set(cp.get("done", []))
-    cp_data = cp.get("animes", {})
-
-    if done:
-        log(f"  checkpoint: {len(done)}/{total} already done")
-
-    for anime in animes:
-        if anime["nom"] in cp_data:
-            anime.update(cp_data[anime["nom"]])
-
-    todo = [a for a in animes if a["nom"] not in done]
-    log(f"  {len(todo)} animes to process")
-
-    for b_start in range(0, len(todo), ANIME_BATCH_SIZE):
-        batch   = todo[b_start: b_start + ANIME_BATCH_SIZE]
-        noms    = ", ".join(a["nom"][:18] for a in batch)
-        log(f"  batch [{b_start+1}-{b_start+len(batch)}/{len(todo)}]: {noms}")
-
-        results = await asyncio.gather(
-            *[process_anime(browser, session, a, animes.index(a)+1, total) for a in batch],
-            return_exceptions=True
-        )
-
-        ok = 0
-        for i, res in enumerate(results):
-            nom = batch[i]["nom"]
-            if isinstance(res, dict):
-                idx = next(j for j, a in enumerate(animes) if a["nom"] == nom)
-                animes[idx] = res
-                save_checkpoint(page_num, nom, res)
-                ok += 1
-            else:
-                log(f"  ERROR {nom}: {res}")
-                save_checkpoint(page_num, nom, batch[i])
-
-        log(f"  batch done {ok}/{len(batch)} | rl: {_rl.stats}")
+    # Traitement séquentiel — 1 animé après l'autre
+    for idx, anime in enumerate(animes, 1):
+        try:
+            result = await process_anime(browser, session, anime, idx, len(animes), page_num)
+            animes[idx - 1] = result
+        except Exception as e:
+            log(f"  ERROR [{idx}] {anime.get('nom','?')}: {e}")
 
     elapsed = int(time.time() - t0)
-    log(f"=== PAGE {page_num} DONE {total} animes in {elapsed//60}m{elapsed%60:02d}s ===")
-
-    data = {
-        "page":       page_num,
-        "scraped_at": datetime.now().strftime("%Y%m%d_%H%M%S"),
-        "duration_s": elapsed,
-        "total":      total,
-        "animes":     animes,
-    }
-    save_json(data, page_num)
-    clear_checkpoint(page_num)
-    return data
+    save_page_summary(animes, page_num, elapsed)
+    log(f"=== PAGE {page_num} DONE in {elapsed//60}m{elapsed%60:02d}s ===")
+    return animes
 
 # ══════════════════════════════════════════════════════════════
 #  MAIN
 # ══════════════════════════════════════════════════════════════
 async def main():
-    global _rl
-    _rl   = AdaptiveRateLimiter()
-    pages = list(range(PAGE_BEGIN, PAGE_END + 1))
-    log(f"START pages {PAGE_BEGIN}->{PAGE_END} ({len(pages)} pages)")
-    log(f"batch={ANIME_BATCH_SIZE} saisons={SAISON_BATCH_SIZE} eps={MAX_EPISODE_WORKERS}")
-
+    log(f"START page {PAGE_NUM} | episode_delay={EPISODE_DELAY}s")
     async with async_playwright() as p:
         browser = await p.chromium.launch(
             headless=True,
@@ -806,11 +718,7 @@ async def main():
         )
         connector = aiohttp.TCPConnector(limit=20)
         async with aiohttp.ClientSession(connector=connector) as session:
-            for page_num in pages:
-                try:
-                    await process_page(browser, session, page_num)
-                except Exception as e:
-                    log(f"PAGE {page_num} ERROR: {e}")
+            await process_page(browser, session, PAGE_NUM)
         await browser.close()
 
     elapsed = int(time.time() - _start)
