@@ -1,0 +1,155 @@
+{
+  "nom": "AFRO SAMURAI",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Science-fiction"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/afro-samurai",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/afro-samurai.jpg",
+  "noms_alt": [],
+  "synopsis": "Suite à la mort de son père dans un duel contre un mystérieux personnage, le jeune Afro décida de s'entraîner dur dans le but de le venger. Pour cela il apprendra l'art du maniement du sabre, tout au long de son parcours à la recherche de cet homme, il fera la rencontre de différents individus décidés à lui mettre des bâtons dans les roues ; il règlera ses comptes dans des combats tout aussi sanglants les uns que les autres.",
+  "bande_annonce": "https://youtube.com/embed/owhnqe0T7dc",
+  "ids": {
+    "jikan_id": 1292,
+    "tmdb_id": 19544,
+    "kitsu_id": "1165"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1292,
+        "tmdb_id": 19544,
+        "kitsu_id": "1165"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/afro-samurai/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/afro-samurai/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734184"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/lie8e8xj"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-m6onvi4rn428.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734185"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/hl5vb0fu"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-q99zte4y2ao5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734190"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/uoxkzrw8"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-79pl1qwo17k5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734193"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/njacfsuj"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-49afbrprbqr6.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734196"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/tb64nxvr\t"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734199"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 13709,
+        "tmdb_id": 14711,
+        "kitsu_id": "3870"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/afro-samurai/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/afro-samurai/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4734199\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
