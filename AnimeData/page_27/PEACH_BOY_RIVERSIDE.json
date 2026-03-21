@@ -1,0 +1,87 @@
+{
+  "nom": "PEACH BOY RIVERSIDE",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/peach-boy-riverside",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/peach-boy-riverside.jpg",
+  "noms_alt": [],
+  "synopsis": "Sarutorine Aldike est une princesse qui souhaite partir à l'aventure, lassée de son minuscule petit château à la campagne. Un jour, une horde de démons vicieux connus sous le nom d'Oni frappe à sa porte, menaçant ainsi la vie de tous les habitants du royaume. Fort heureusement, ils sont sauvés par un voyageur solitaire nommé Kibitsu Mikoto qui tue tous les démons avec un mystérieux pouvoir. Bien que choquée par les dangers du monde extérieur, Sarutorine décide de poursuivre ce mystérieux voyageur pour réaliser son rêve d'aventure. Elle ignore cependant qu'elle va déclencher une série d'événements qui vont déterminer le destin de ce monde magique.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 42627,
+    "tmdb_id": 107003,
+    "kitsu_id": "43870"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 42627,
+        "tmdb_id": 107003,
+        "kitsu_id": "43870"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/peach-boy-riverside/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/peach-boy-riverside/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
