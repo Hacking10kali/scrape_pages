@@ -1,0 +1,44 @@
+{
+  "nom": "DOUKYUUSEI",
+  "type": "Anime",
+  "genres": [
+    "Romance",
+    "School Life",
+    "Slice of Life",
+    "Yaoi"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/doukyuusei",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/doukyuusei.jpg",
+  "noms_alt": [],
+  "synopsis": "Sajô Rihito est un lycéen calme, mais terriblement angoissé, ce qui lui crée de fréquents malaises. En cours de musique son camarade Kusakabe Hikaru, un garçon impulsif, remarque que Rihito ne chante pas réellement. Mais alors qu'il se promène dans les couloirs du lycée, il entend le grain de voix de Sajô qui chante seul dans une salle de classe. Il va alors lui proposer son aide et, au fil de leurs rencontres, les deux garçons vont s'attacher l'un à l'autre.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 30346,
+    "tmdb_id": null,
+    "kitsu_id": "46934"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 30346,
+        "tmdb_id": 372754,
+        "kitsu_id": "10846"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/doukyuusei/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/doukyuusei/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
