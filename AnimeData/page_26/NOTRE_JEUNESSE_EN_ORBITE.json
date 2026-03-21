@@ -1,0 +1,118 @@
+{
+  "nom": "NOTRE JEUNESSE EN ORBITE",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Mystère",
+    "Futuriste"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/notre-jeunesse-en-orbite",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/notre-jeunesse-en-orbite.jpg",
+  "noms_alt": [
+    "EXTRA-TERRESTRIAL BOYS & GIRLS PART 1",
+    "THE ORBITAL CHILDREN PART 1",
+    "CHIKYUUGAI SHOUNEN SHOUJO PART 1"
+  ],
+  "synopsis": "En 2045, Internet et l'intelligence artificielle se sont répandus dans l'espace extra-atmosphérique. Après un accident massif dans une station spatiale, un groupe d'adolescent se retrouve abandonné. En utilisant la bande étroite accompagné d'un SNS (service de réseautage social), une faible intelligence artificielle et des drones commandés par smartphone, ils vont surmonter de nombreuses crises.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38959,
+    "tmdb_id": 138190,
+    "kitsu_id": "1376"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38959,
+        "tmdb_id": 138190,
+        "kitsu_id": "1376"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/notre-jeunesse-en-orbite/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/notre-jeunesse-en-orbite/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/dbh1dniyj4ywdrd1pyapp4iixh"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/f3aio3w5"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/e56twafz8kow3no7troku61j6h"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/x30l9nae"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/z1atompxmwir7kfsjf31hqmcaw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/w8629qjs"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/17x98wropyfriqe943fxft387y"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/fjt15eed"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/g8nf6waepwwwurkmxco6zf343e"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/mv5g2vgi"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/fqokworpugjwmrfo6zf845n5xh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

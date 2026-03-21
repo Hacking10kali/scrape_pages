@@ -1,0 +1,54 @@
+{
+  "nom": "NIER:AUTOMATA",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Science-fiction"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/nier-automata",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/nier-automata.jpg",
+  "noms_alt": [
+    "NIER AUTOMATA"
+  ],
+  "synopsis": "L’histoire se déroule en 11945, sur une planète Terre abandonnée par les humains, forcés à partir vivre dans l’espace suite à une invasion extraterrestre de grande ampleur. Depuis une station orbitale, l’humanité contrôle des androïdes laissés derrière eux pour combattre la menace, dans l’espoir d’un jour reprendre le contrôle de la planète. Parmi ces androïdes, 2B, un robot de combat, va assister la résistance dans leurs affrontements quotidiens. Seulement, au fur et à mesure que le temps passe, 2B commence à comprendre que de nombreuses machines ne souhaitent plus combattre…",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 51105,
+    "tmdb_id": 158373,
+    "kitsu_id": "45926"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 Partie 1",
+      "titreComplet": "Saison 1 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 51105,
+        "tmdb_id": 158373,
+        "kitsu_id": "45926"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/nier-automata/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nier-automata/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 Partie 2",
+      "titreComplet": "Saison 1 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 51105,
+        "tmdb_id": 158373,
+        "kitsu_id": "45926"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/nier-automata/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nier-automata/saison1-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "nom": "NOS MOTS COMME DES BULLES",
+  "type": "Anime",
+  "genres": [
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/nos-mots-comme-des-bulles",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/nos-mots-comme-des-bulles.jpg",
+  "noms_alt": [
+    "WORDS BUBBLE UP LIKE SODA POP",
+    "CIDER NO YOU NI KOTOBA GA WAKIAGARU"
+  ],
+  "synopsis": "Cherry est un jeune garçon de 17 ans ayant du mal à communiquer avec les gens et s'exprimant plus facilement à travers des Haïkus (poèmes courts). Il fait un jour la rencontre de Smile, une jeune fille qui cache son complexe physique à l'aide d'un masque. Grâce à la musique et les mots, ces derniers vont finir par se rapprocher.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 158,
+    "tmdb_id": null,
+    "kitsu_id": "8174"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 433,
+        "tmdb_id": 579741,
+        "kitsu_id": "42553"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/nos-mots-comme-des-bulles/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nos-mots-comme-des-bulles/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/4qkqtxpx8r9wugyzxmucacrnce"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://uptostream.com/iframe/54i4c79gpto6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

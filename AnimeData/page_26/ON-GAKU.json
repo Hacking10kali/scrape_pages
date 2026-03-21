@@ -1,0 +1,57 @@
+{
+  "nom": "ON-GAKU",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Slice of Life",
+    "Musique"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/on-gaku",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/on-gaku.jpg",
+  "noms_alt": [
+    "ON GAKU",
+    "NOTRE ROCK",
+    "ON-GAKU : OUR SOUND",
+    "ONGAKU"
+  ],
+  "synopsis": "On-Gaku : Our Sound est un projet de film d'animation adapté du manga éponyme de Hiroyuki Ohashi. L'histoire suit un groupe de lycéens qui fonde un groupe de rock.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 51371,
+    "tmdb_id": 8799,
+    "kitsu_id": "810"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 40331,
+        "tmdb_id": 626767,
+        "kitsu_id": "43234"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/on-gaku/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/on-gaku/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4842240\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/cqjyadunn7swfmukc8yzrxjcua"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

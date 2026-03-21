@@ -1,0 +1,85 @@
+{
+  "nom": "NINJA KAMUI",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Cyborgs",
+    "Ninjas",
+    "Vengeance"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VASTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ninja-kamui",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ninja-kamui.jpg",
+  "noms_alt": [],
+  "synopsis": "Autrefois, Joe Higan était un ninja. Ayant tourné le dos à cette voie et à son clan, il a trouvé refuge aux États-Unis, où il vit paisiblement avec sa famille. Un jour, Joe est retrouvé par son clan, bien décidé à lui faire payer sa trahison.",
+  "bande_annonce": "https://www.youtube.com/embed/Sjs6MkX9ASU",
+  "ids": {
+    "jikan_id": 56285,
+    "tmdb_id": 202284,
+    "kitsu_id": "46224"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 56285,
+        "tmdb_id": 202284,
+        "kitsu_id": "46224"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ninja-kamui/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ninja-kamui/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}

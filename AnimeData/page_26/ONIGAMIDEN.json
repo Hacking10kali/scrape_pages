@@ -1,0 +1,53 @@
+{
+  "nom": "ONIGAMIDEN",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Historique",
+    "Shônen",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/onigamiden",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/onigamiden.jpg",
+  "noms_alt": [
+    "LA LÉGENDE DU DRAGON MILLÉNAIRE / LEGEND OF THE MILLENNIUM DRAGON",
+    "LA LEGENDE DU DRAGON MILLENAIRE"
+  ],
+  "synopsis": "Jun Tendo, jeune réservé et craintif, mène une vie normale, sans rien de particulier. Jusqu'au jour où il est attaqué par un démon. Transportsé dans le temps, Jun atterrit à la période Heian (IXè, Xiè siècle). Là, un moine, Gen'un, attend le jeune garçon pour réveiller Orochi, un dragon légendaire, qui pourrait vaincre les démons. Mais Jun ne comprend pas et refuse son devoir. Il s'enfuit et trouve le village des démons, où la vérité sur la guerre entre eux et les humains lui est révélée sous une autre facette. Jun va devoir choisir son camp et combattre s'il veut rentrer chez lui, dans son époque.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8487,
+    "tmdb_id": null,
+    "kitsu_id": "5354"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 8487,
+        "tmdb_id": 74842,
+        "kitsu_id": "5354"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/onigamiden/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/onigamiden/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4801888\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
