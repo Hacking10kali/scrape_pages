@@ -1,0 +1,57 @@
+{
+  "nom": "MAQUIA: WHEN THE PROMISED FLOWER BLOOMS",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Romance",
+    "Amitié",
+    "Combats",
+    "Famille"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/maquia-when-the-promised-flower-blooms",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/maquia-when-the-promised-flower-blooms.jpg",
+  "noms_alt": [
+    "LET US ADORN THE MORNING OF FARWELLS WITH FLOWERS",
+    "SAYONARA NO ASA NI YAKUSOKU NO HANA WO KAZAROU"
+  ],
+  "synopsis": "ia est une jeune fille qui vient d'une lignée un peu particulière : tous les membres de sa famille cessent de vieillir dès lors qu'ils atteignent leur adolescence. Orpheline, elle vit paisiblement – bien qu'un peu dans la solitude – au sein d'un clan où tout le monde est comme elle. Cependant, un jour, une armée envahit son village, bien décidé à découvrir le secret de l'immortalité des personnes de son espèce. Alors que plusieurs de ses amis sont capturés, Maquia décide de partir à leur recherche ; en chemin, elle va croiser la route de Ariel, un jeune garçon qui a perdu ses parents et qui, lui, vieillit.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59845,
+    "tmdb_id": null,
+    "kitsu_id": "43"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 35851,
+        "tmdb_id": 476292,
+        "kitsu_id": "13612"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/maquia-when-the-promised-flower-blooms/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/maquia-when-the-promised-flower-blooms/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3638745"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
