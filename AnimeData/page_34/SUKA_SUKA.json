@@ -1,0 +1,201 @@
+{
+  "nom": "SUKA SUKA",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Romance",
+    "Science-fiction",
+    "Seinen",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/suka-suka",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/suka-suka.jpg",
+  "noms_alt": [
+    "SUKASUKA",
+    "WHAT DO YOU DO AT THE END OF THE WORLD? ARE YOU BUSY? WILL YOU SAVE US?",
+    "DO YOU HAVE WHAT THE END? ARE YOU BUSY? SHALL YOU SAVE XXX?",
+    "SUKA SUKA",
+    "SHUUMATSU NANI SHITEMASU KA? ISOGASHII DESU KA? SUKUTTE MORATTE II DESU KA?"
+  ],
+  "synopsis": "Cela fait maintenant 500 ans que l'humanité a disparu à cause des redoutables Bêtes. 500 ans que la Terre est laissée dans un état lamentable, preuve de destruction et d'anéantissement. Certaines races survivantes ont décidé de vivre sur des îles flottantes. Malheureusement, elles sont aussi menacées de mort par ces monstruosités, qui les guettent jour après jour. Seul un petit groupe de jeunes filles, des Leprechauns (synonyme de Lutins), peuvent manier des armes anciennes capables de vaincre ces créatures. L'histoire nous entraîne dans la lutte acharnée de ces filles, dont chaque combats peut facilement être leur dernier.. et de William Kumesh, le dernier humain de ce monde anéanti, qui se réveille après un long sommeil glacial...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 35964,
+    "tmdb_id": 205506,
+    "kitsu_id": "1373"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 35964,
+        "tmdb_id": 205506,
+        "kitsu_id": "1373"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/suka-suka/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/suka-suka/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/um6tgyg4"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-49ypcr6lxaxv.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/k5phqtdd"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-7cdw44v32jnf.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/meb30cer"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-8cim4pdivpdq.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/g66mu3yx"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ew2cw5w4s2pm.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/j8rklmgi"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ntjwz9wb4isj.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/4krj4nf9"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-gjbv2bl0ng5v.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/lxb5yn1s"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3oh8nyx4g6c3.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/tidbfdeo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-4459lk9p8tpk.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/edpsmw9t"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-84kjl3hok52r.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/0at6gtv0"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vflgcqi6iv7p.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/syg3r77m"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xysiwn7oa4tu.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/us14za4d"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

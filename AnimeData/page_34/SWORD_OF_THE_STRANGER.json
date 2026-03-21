@@ -1,0 +1,50 @@
+{
+  "nom": "SWORD OF THE STRANGER",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Drame",
+    "Samouraïs"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sword-of-the-stranger",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sword-of-the-stranger.jpg",
+  "noms_alt": [
+    "STRANGER : MUKOH HADAN"
+  ],
+  "synopsis": "Période Senkoku : un ronin appelé Nanashi sauve Kotarou, un jeune orphelin et son chien Tobimaru près d'un temple abandonné. Il loue Nanashi pour sauver son chien qui a été blessé pendant la bataille. Kotarou est en fait poursuivi par une mystérieuse milice chinoise, qui obéit à un vieil homme appelé Byakuran. C'est alors que commence un merveilleux voyage, jonché par de nombreux combats...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4726,
+    "tmdb_id": null,
+    "kitsu_id": "45151"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 2418,
+        "tmdb_id": 13980,
+        "kitsu_id": "2194"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sword-of-the-stranger/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sword-of-the-stranger/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/rbix9z9gt9fwdy8dhj5ux3wyjw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

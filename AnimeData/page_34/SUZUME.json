@@ -1,0 +1,57 @@
+{
+  "nom": "SUZUME",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Drame",
+    "Surnaturel",
+    "Adolescence",
+    "Catastrophe naturelle",
+    "Malédiction",
+    "Séisme",
+    "Voyage"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/suzume",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/suzume.jpg",
+  "noms_alt": [
+    "SUZUME NO TOJIMARI",
+    "SUZUME'S LOCKING-UP"
+  ],
+  "synopsis": "Suzume est une jeune fille de 17 ans qui habite une petite ville tranquille sur l'île de Kyushu, au Japon. Un jour, elle rencontre un vagabond qui lui dit qu'il est à la recherche d'une porte. Curieuse, elle le suit et découvre avec lui, au milieu de ruines, la porte tant convoitée. Celle-ci se tient, presque intacte, au milieu des décombres. Attirée par cette mystérieuse porte, Suzume tend la main et lorsque celle-ci s'ouvre, c'est une multitude de portails qui s'ouvrent avec elle à travers le Japon, causant par la même occasion des catastrophes...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 36038,
+    "tmdb_id": 42511,
+    "kitsu_id": "3677"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 50594,
+        "tmdb_id": 916224,
+        "kitsu_id": "45597"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/suzume/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/suzume/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5321541"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

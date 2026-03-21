@@ -1,0 +1,57 @@
+{
+  "nom": "SYNDUALITY NOIR",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Science-fiction",
+    "Dystopie",
+    "I.A",
+    "Mechas"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/synduality-noir",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/synduality-noir.jpg",
+  "noms_alt": [
+    "PROJECT SYN"
+  ],
+  "synopsis": "L'histoire se déroule en 2242. Contrainte de vivre sous terre pour échapper à une persistante pluie corrosive, l'Humanité essaie de trouver une solution pour survivre. Entre alors en scène Magus, de mystérieuses Intelligences Artificielles avec lesquelles les survivants vont s'allier.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53026,
+    "tmdb_id": 210181,
+    "kitsu_id": "46477"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 Partie 1",
+      "titreComplet": "Saison 1 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53026,
+        "tmdb_id": 210181,
+        "kitsu_id": "46477"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/synduality-noir/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/synduality-noir/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 Partie 2",
+      "titreComplet": "Saison 1 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53026,
+        "tmdb_id": 210181,
+        "kitsu_id": "46477"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/synduality-noir/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/synduality-noir/saison1-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}

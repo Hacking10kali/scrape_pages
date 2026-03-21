@@ -1,0 +1,53 @@
+{
+  "nom": "SUGAR APPLE FAIRY TALE",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Fantasy",
+    "Romance",
+    "Shojo"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sugar-apple-fairy-tale",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sugar-apple-fairy-tale.jpg",
+  "noms_alt": [],
+  "synopsis": "Après le décès de sa mère, Ann décide de devenir un Maître du sucre d'argent, une profession très prisée dans le Royaume d'Highlands, où il existe peu de maîtres. Ann part donc pour la ville de Lewiston, où la famille royale organise un festival de sculpture en sucre. Pour devenir Maître du sucre d'argent, elle doit gagner la première place et recevoir une médaille royale. Dans ce monde, les humains traitent les fées comme des esclaves et prennent une de leurs ailes pour les contrôler. Ann décide d'acheter à contrecœur une fée nommée Shall pour qu'elle lui serve de garde du corps sur le chemin vers Lewiston. Ann est déchirée entre le fait de libérer Shall et celui d'avoir besoin d'un garde du corps sur les routes dangereuses menant au festival.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 49980,
+    "tmdb_id": 135335,
+    "kitsu_id": "45270"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 Partie 1",
+      "titreComplet": "Saison 1 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 49980,
+        "tmdb_id": 135335,
+        "kitsu_id": "45270"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sugar-apple-fairy-tale/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sugar-apple-fairy-tale/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 Partie 2",
+      "titreComplet": "Saison 1 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 49980,
+        "tmdb_id": 135335,
+        "kitsu_id": "45270"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sugar-apple-fairy-tale/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sugar-apple-fairy-tale/saison1-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}
