@@ -1,0 +1,255 @@
+{
+  "nom": "GRIMGAR",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Romance",
+    "Shônen",
+    "Slice of Life",
+    "Isekai",
+    "Combats"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/grimgar",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/grimgar.jpg",
+  "noms_alt": [
+    "HAI TO GENSOU NO GRIMGAR",
+    "GRIMGAR",
+    "LE MONDE DES CENDRES ET DE FANTAISIE",
+    "GRIMGAR",
+    "ASHES AND ILLUSIONS",
+    "GRIMGAR OF FANTASY AND ASH",
+    "GRIMGAL OF ASHES AND ILLUSION"
+  ],
+  "synopsis": "L'histoire se déroule à Grimgar, un monde de fantasy où la lune est couleur rouge sang. Douze adolescents se réveillent un jour en ce monde sans aucun souvenir de leur vie antérieure en dehors de leurs noms. Ils sont alors conduits auprès de Britney, qui les incite à rejoindre l'Armée des Volontaires en tant qu'apprentis. N'ayant pas vraiment le choix, les adolescents décident de s'adapter à leur nouvelle vie et acceptent sa proposition. Le groupe se scinde alors en deux et chacun s'inscrit dans une guilde. Manato, Haruhiro, Yume, Moguzo, Shihoru et Ranta décident de rester groupés et d'évoluer à leur rythme. Mais ce monde leur réserve bien des surprises, bonnes comme mauvaises.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 31859,
+    "tmdb_id": 65369,
+    "kitsu_id": "11447"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 31859,
+        "tmdb_id": 65369,
+        "kitsu_id": "11447"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/grimgar/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/grimgar/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/hiebitht7dbriexiq6eszcwjge"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/b0uw4457"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714582"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/wogea15ocacwiby919yj5c5uow"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/4kzps5bq"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714585"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/u96b59cdhppwdptsuojtm1uwbw"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/78m9ki9p"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714589"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/y9ayqgo1d57rzjp3pggpdrj3zw"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/jqjpis1e"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714594"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/97ukzam3zu6w9fg9q84tn48aza"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/wocbkjrx"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714598"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/fmttkcmfz7ariep68uk8hpumqa"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/pui4rljl"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714602"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/xa5sc761hturdnfrkao1w11rfw"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/1aoasa66"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714603"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/ftjf8myg3syrdc3ugk3m7fuf8o"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/koi8ob91"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714605"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/nae1iqx7ojbw9pmx1rtt48dxne"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/8rspgtde"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714606"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/hm7sf1zeojyrmkxxmys9yyksoh"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/1tkgck7s"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714607"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/86psxwapsq8rbmusg4nsp5cg8h"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/97vh4tde"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4714608"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/16qcb6g8xw1rux4eh7ju15nphw"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/bjnb6y9y"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
