@@ -1,0 +1,51 @@
+{
+  "nom": "MONSTERS: 103 MERCIES DRAGON DAMNATION",
+  "type": "Anime",
+  "genres": [
+    "Shônen",
+    "Samouraïs",
+    "Western"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/monster-103-mercies-dragon-damnation",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/monster-103-mercies-dragon-damnation.jpg",
+  "noms_alt": [
+    "MONSTERS: IPPYAKU SANJOU HIRYUU JIGOKU"
+  ],
+  "synopsis": "Il s'agit de l'adaptation d'un one-shot d'Eiichiro Oda disponible dans le recueil Wanted!.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 33314,
+    "tmdb_id": null,
+    "kitsu_id": "486"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 33314,
+        "tmdb_id": null,
+        "kitsu_id": "486"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monster-103-mercies-dragon-damnation/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monster-103-mercies-dragon-damnation/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/amr8ox3c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
