@@ -1,0 +1,746 @@
+{
+  "nom": "SÉRIES MONOGATARI",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Ecchi",
+    "Mystère",
+    "Psychologique",
+    "Romance",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/monogatari",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/monogatari.jpg",
+  "noms_alt": [
+    "BAKEMONOGATARI",
+    "HANAMONOGATARI",
+    "KIZUMONOGATARI TEKKETSU-HEN",
+    "KIZUMONOGATARI NEKKETSU-HEN",
+    "KIZUMONOGATARI REIKETSU-HEN",
+    "KOYOMIMONOGATARI",
+    "MONOGATARI SERIES SECOND SEASON",
+    "NEKOMONOGATARI",
+    "NISEMONOGATARI",
+    "OWARIMONOGATARI",
+    "OWARIMONOGATARI",
+    "OROKAMONOGATARI"
+  ],
+  "synopsis": "Koyomi Araragi, un lycéen de troisième année, réussit à réchapper d'une attaque de vampire avec l'aide de Meme Oshino, un homme étrange résidant dans une construction abandonnée. Quoiqu'étant sauvé du vampirisme et maintenant un homme nouveau, plusieurs effets secondaires comme des capacités de guérison surhumaines et la vision améliorée reste toujours. Quand même, Araragi essaye de vivre la vie d'un étudiant normal, avec l'aide de la déléguée de classe, Tsubasa Hanekawa.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 17074,
+    "tmdb_id": 46195,
+    "kitsu_id": "7573"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Bakemonogatari",
+      "titreComplet": "Bakemonogatari",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Nisemonogatari",
+      "titreComplet": "Nisemonogatari",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Nekomonogatari (Black)",
+      "titreComplet": "Nekomonogatari (Black)",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Monogatari Second Season",
+      "titreComplet": "Monogatari Second Season",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Tsukimonogatari",
+      "titreComplet": "Tsukimonogatari",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Owarimonogatari Partie 1",
+      "titreComplet": "Owarimonogatari Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Koyomimonogatari",
+      "titreComplet": "Koyomimonogatari",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Kizumonogatari",
+      "titreComplet": "Kizumonogatari",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": null,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Owarimonogatari Partie 2",
+      "titreComplet": "Owarimonogatari Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/partie2/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Zoku Owarimonogatari",
+      "titreComplet": "Zoku Owarimonogatari",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "7573"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Off & Monster",
+      "titreComplet": "Off & Monster",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17074,
+        "tmdb_id": 46195,
+        "kitsu_id": "1724"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/monogatari/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/monogatari/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
