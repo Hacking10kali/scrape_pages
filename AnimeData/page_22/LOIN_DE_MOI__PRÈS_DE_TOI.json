@@ -1,0 +1,52 @@
+{
+  "nom": "LOIN DE MOI, PRÈS DE TOI",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Romance",
+    "School Life",
+    "Slice of Life",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/loin-de-moi-pres-de-toi",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/loin-de-moi-pres-de-toi.jpg",
+  "noms_alt": [
+    "NAKITAI WATASHI WA NEKO WO KABURU",
+    "WANTING TO CRY",
+    "I PRETEND TO BE A CAT",
+    "A WHISKER AWAY"
+  ],
+  "synopsis": "L'histoire prend place dans la ville de Tokoname située dans la préfecture d'Aichi. Nous y suivons le quotidien de Miyo Sasaki, une collégienne amoureuse de son camarade de classe nommé Kento Hinode. Malgré tous les efforts de Sasaki pour se faire remarquer, Hinode ne fait pas attention à elle. Un jour, elle découvre un étrange masque lui permettant de se transformer en un chat nommé Tarō. Grâce à cet objet, elle peut se rapprocher de celui qu'elle aime. Cependant, à force de l'utiliser, elle pourrait bien ne plus retrouver sa forme originelle...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1448,
+    "tmdb_id": null,
+    "kitsu_id": "1911"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 12789,
+        "tmdb_id": 667520,
+        "kitsu_id": "379"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/loin-de-moi-pres-de-toi/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/loin-de-moi-pres-de-toi/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
