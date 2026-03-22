@@ -1,0 +1,41 @@
+{
+  "nom": "LAST GAME",
+  "type": "Scans",
+  "genres": [
+    "Comédie",
+    "Romance",
+    "School Life",
+    "Slice of Life",
+    "Shôjo",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/last-game",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/last-game.jpg",
+  "noms_alt": [],
+  "synopsis": "Fils d'une riche famille, intelligent et plutôt athlétique, Yanagi a tout pour plaire. Tout semble aller pour le mieux pour lui, jusqu'au jour où une nouvelle élève, Mikoto, est transférée dans son école ; celle-ci le surpasse dans tous les domaines ! Dix ans passent alors, durant lesquels il tente de battre sa rivale, mais rien n'y fait : c'est à l'université que tout va se jouer, avec le 'Last Game'...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 61931,
+    "tmdb_id": null,
+    "kitsu_id": "46241"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61931,
+        "tmdb_id": null,
+        "kitsu_id": "46241"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/last-game/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/last-game/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
