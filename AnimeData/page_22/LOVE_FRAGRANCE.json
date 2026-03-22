@@ -1,0 +1,45 @@
+{
+  "nom": "LOVE FRAGRANCE",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Comédie",
+    "Mature",
+    "Romance",
+    "Slice of Life",
+    "Amour",
+    "Quotidien",
+    "Travail"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/love-fragrance",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/love-fragrance.jpg",
+  "noms_alt": [
+    "SWEET AND SOAP"
+  ],
+  "synopsis": "Asako, une jeune femme complexée par son hyperhidrose – le fait d'avoir une transpiration excessive – est un jour interpellée par Kôtarô Natori. C'est le concepteur star des nouveaux produits de soins corporels de la société où elle travaille. Ce dernier lui déclare de but en blanc : « Votre odeur est magnifique, laissez moi la sentir pour développer notre nouveau produit ! ». D'abord terrorisée par cette approche, ce sera pourtant le début d'une grande histoire d'amour...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 27727,
+    "tmdb_id": 312643,
+    "kitsu_id": "7716"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 27727,
+        "tmdb_id": null,
+        "kitsu_id": "7716"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/love-fragrance/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/love-fragrance/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
