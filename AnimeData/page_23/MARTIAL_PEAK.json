@@ -1,0 +1,43 @@
+{
+  "nom": "MARTIAL PEAK",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Mature",
+    "Combats",
+    "Harem"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/martial-peak",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/martial-peak.jpg",
+  "noms_alt": [
+    "WU LIAN DIAN FENG"
+  ],
+  "synopsis": "Le voyage vers le pic martial est solitaire et long. Face à l'adversité, vous devez survivre et rester inflexible. Ce n'est qu'alors que vous pourrez percer et continuer votre chemin pour devenir le plus fort. Le Haut Pavillon Céleste teste ses disciples de la manière la plus dure pour les préparer à ce voyage. Un jour, l'humble balayeur Yang Kai a réussi à obtenir un livre noir, le mettant sur la route du sommet du monde martial.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38119,
+    "tmdb_id": 154080,
+    "kitsu_id": "13951"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38119,
+        "tmdb_id": null,
+        "kitsu_id": "47934"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/martial-peak/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/martial-peak/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
