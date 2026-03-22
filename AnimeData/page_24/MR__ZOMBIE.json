@@ -1,0 +1,57 @@
+{
+  "nom": "MR. ZOMBIE",
+  "type": "Scans",
+  "genres": [
+    "Manhua - Webcomic - Shônen - Action - Comédie - Drame - Fantasy - Harem - Horreur - Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/mr-zombie",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mr-zombie.jpg",
+  "noms_alt": [
+    "JIANG SI XIANSHENG",
+    "MR. JIANG SI"
+  ],
+  "synopsis": "Il y a 1000 ans, le personnage principal est devenu un zombie normal lors de l'apocalypse. Afin de survivre aux humains les chassant constamment, il s'entraîna sans relâche jusqu'à devenir incroyablement puissant. 1000 ans sont passé, et il est désormais prêt à retourner dans le monde des humains.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39029,
+    "tmdb_id": null,
+    "kitsu_id": "11178"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 39029,
+        "tmdb_id": null,
+        "kitsu_id": "11178"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/mr-zombie/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mr-zombie/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
