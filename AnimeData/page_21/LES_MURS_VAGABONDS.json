@@ -1,0 +1,56 @@
+{
+  "nom": "LES MURS VAGABONDS",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Mystère",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-murs-vagabonds",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/drifting-home.jpg",
+  "noms_alt": [
+    "AME WO TSUGERU HYOURYUU DANCHI",
+    "DRIFTING HOME"
+  ],
+  "synopsis": "Durant un jour d'été, Kosuke et Natsume découvrent un immeuble sur le point d'être démoli. Ce bâtiment est l'endroit où ils vivaient autrefois. Soudainement, ils se retrouvent pris dans un phénomène des plus étranges : l'immeuble qui abritait tellement de souvenirs dérive désormais sur la mer. Pourront-ils rentrer chez eux ? C'est ainsi que commence l'ultime voyage d'un été.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": null,
+    "kitsu_id": "1523"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38826,
+        "tmdb_id": 877957,
+        "kitsu_id": "46195"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/les-murs-vagabonds/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-murs-vagabonds/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4872798\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/qoshf5vb75r1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
