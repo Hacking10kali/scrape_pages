@@ -1,0 +1,55 @@
+{
+  "nom": "KING OF VIOLENCE",
+  "type": "Scans",
+  "genres": [
+    "Action - Arts martiaux - Drame - Fantaisie - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/king-of-violence",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/king-of-violence.jpg",
+  "noms_alt": [
+    "KING OF THE ARENA",
+    "POKRYEOGUI WANG"
+  ],
+  "synopsis": "Lee Gil-su est un élève de seconde qui change de lycée après avoir été harcelé dans son ancienne école. Alors que l'ambiance à son arrivée à Yukmunkwan lui semble être un bon présage pour sa nouvelle vie, il découvre qu'ici, les élèves ne se battent qu'à un seul endroit, là où tous sont égaux face à la violence, l'arène du lycée. Gil-su arrivera-t-il à s'adapter à cette école ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39699,
+    "tmdb_id": null,
+    "kitsu_id": "3139"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 39699,
+        "tmdb_id": null,
+        "kitsu_id": "3139"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/king-of-violence/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/king-of-violence/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
