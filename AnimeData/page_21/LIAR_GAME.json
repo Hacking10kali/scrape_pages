@@ -1,0 +1,92 @@
+{
+  "nom": "LIAR GAME",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Mystère",
+    "Psychologique",
+    "Enquête",
+    "Jeu d'argent",
+    "Mensonges",
+    "Secrets"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/liar-game",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/liar-game.jpg",
+  "noms_alt": [],
+  "synopsis": "S'il existait un championnat du monde des personnes les plus honnêtes, soyez sûrs d'y retrouver Kanzaki Nao sur le podium ! Elle est si honnête qu'elle n'hésite pas à ramener une pièce de 100¥ au commissariat si jamais il prenait l'envie à son propriétaire de venir la chercher. Le facteur lui amène un bien étrange colis, accompagné d'une carte l'invitant à participer au LIAR GAME TOURNAMENT. Ce colis contient 100 millions de yens ainsi qu'une seconde carte au fond de la boîte lui indiquant que, l'ayant ouverte, elle accepte cet argent et de participer au premier round du Liar Game. Une note lui conseille de prendre grand soin de cet argent. Le but de ce jeu est d'obtenir par n'importe quel moyen l'argent de son adversaire, en un un contre un, durant l'espace d'un mois. À la fin de ce mois, l'équipe du Liar Game vient rechercher ce million \"offert\". Si la personne a réussi à obtenir deux millions de yens, il n'en rend qu'un, et a donc gagné un million de yens. Dans le cas contraire, l'adversaire ayant perdu doit rembourser ce million au jeu. Nao est décontenancée et ne sait que faire. Elle ne peut même pas en parler à son père ou des gens qu'elle connaît. Elle apprend par la suite que son adversaire n'est autre que Fujisawa, un de ses anciens professeurs. Elle se rend donc chez lui. Se servant de sa crédulité, il va réussir à la berner et lui prendre son million. Il lui reste donc 27 jours pour récupérer l'argent. La jeune femme appelle un avocat qui, ne pouvant décidément rien faire pour l'aider, lui indique qu'un célèbre escroc doit sortir sous peu de prison. Nao, au bord de la crise nerfs, va entrer en contact avec Akiyama Shinichi.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62331,
+    "tmdb_id": 13967,
+    "kitsu_id": "50108"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62331,
+        "tmdb_id": null,
+        "kitsu_id": "50108"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/liar-game/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/liar-game/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Roots of A",
+      "titreComplet": "Roots of A",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62331,
+        "tmdb_id": null,
+        "kitsu_id": "3899"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/liar-game/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/liar-game/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
