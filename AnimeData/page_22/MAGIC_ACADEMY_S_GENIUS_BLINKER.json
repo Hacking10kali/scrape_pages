@@ -1,0 +1,65 @@
+{
+  "nom": "MAGIC ACADEMY’S GENIUS BLINKER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Surnaturel",
+    "School Life",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/magic-academys-genius-blinker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/magic-academys-genius-blinker.jpg",
+  "noms_alt": [
+    "MAGIC ACADEMY’S GENIUS BLINKER",
+    "QUICK TELEPORTING GENIUS FROM MAGIC SCHOOL"
+  ],
+  "synopsis": "Le personnage le plus difficile et le moins performant, Baek Yuseol, était considéré comme une ordure dans le jeu parce qu'il ne pouvait pas utiliser la magie dans un environnement fantastique où tout le monde pouvait le faire. Cependant... [Parce que la mauvaise fin a été atteinte, 90% du Monde d'Ether a été détruit]. [Veuillez atteindre la « Vraie fin »] Soudain, ces mots ont résonné dans mon esprit avant que je ne sois transmigré vers le Monde d'Ether. [Vous pouvez utiliser la compétence « Blink ».] Pourquoi ai-je ce personnage ? Blink était la seule compétence magique que je possédais. En survivant à l'Académie Stella parmi les mages de génie, je suis devenu le célèbre Mage Blink.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 18115,
+    "tmdb_id": null,
+    "kitsu_id": "44511"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 18115,
+        "tmdb_id": null,
+        "kitsu_id": "44511"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/magic-academys-genius-blinker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/magic-academys-genius-blinker/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
