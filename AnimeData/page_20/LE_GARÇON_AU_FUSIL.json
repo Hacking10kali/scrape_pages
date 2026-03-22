@@ -1,0 +1,42 @@
+{
+  "nom": "LE GARÇON AU FUSIL",
+  "type": "Scans",
+  "genres": [
+    "Drame",
+    "Mature",
+    "Psychologique",
+    "Tragique",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-garcon-au-fusil",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-garcon-au-fusil.jpg",
+  "noms_alt": [
+    "SHOTGUN BOY"
+  ],
+  "synopsis": "Alors qu'il court pour sauver sa vie dans les bois, Kyu Hwan, victime d'harcèlement, tombe sur un fusil de chasse. Il pense s'en servir pour tirer sur ses camarades de classe. Mais le destin prend une tournure inattendue lorsqu'il revient et trouve ses camarades de classe attaqués par de créatures mangeuses de cerveau. Maintenant, ce garçon avec un fusil de chasse est le seul qui peut s'opposer à leur festin vorace.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 14227,
+    "tmdb_id": null,
+    "kitsu_id": "276"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 14227,
+        "tmdb_id": null,
+        "kitsu_id": "276"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/le-garcon-au-fusil/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-garcon-au-fusil/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
