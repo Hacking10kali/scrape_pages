@@ -1,0 +1,61 @@
+{
+  "nom": "LE CHÂTEAU AMBULANT",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Ghibli",
+    "Romance"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-chateau-ambulant",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-chateau-ambulant.jpg",
+  "noms_alt": [
+    "HOWL'S MOVING CASTLE",
+    "HOWL NO UGOKU SHIRO",
+    "HAURU NO UGOKU SHIRO",
+    "LE CHATEAU AMBULANT",
+    "HOWLS MOVING CASTLE"
+  ],
+  "synopsis": "Sophie, jeune chapelière de son état, travaille dans une modeste échoppe tenue par sa mère et ses soeurs. Alors que celles-ci bien que d'origines modestes, donnent l'image de femmes mondaines adorant les galures et les distractions, Sophie préfère de loin le calme de son établi où elle confectionne avec tout le soin possible ses couvre-chefs. Un jour, partant pour rendre visite à l'une de ses sœurs, Sophie croise le chemin du magicien Hauru (Howl), réputé pour ne s'intéresser qu'à la beauté, dévorant le cœur d'innocentes jeunes filles et installé depuis peu aux alentours de la petite ville dans son château ambulant.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1013,
+    "tmdb_id": null,
+    "kitsu_id": "7982"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 431,
+        "tmdb_id": 4935,
+        "kitsu_id": "45649"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-chateau-ambulant/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-chateau-ambulant/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5290432\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/g6chusficcbv"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
