@@ -1,0 +1,49 @@
+{
+  "nom": "LUCA",
+  "type": "Autres",
+  "genres": [
+    "Animation",
+    "Famille",
+    "Comédie"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/luca",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/luca.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans une très jolie petite ville côtière de la Riviera italienne, un jeune garçon, Luca, vit un été inoubliable, ponctué de délicieux gelato, de savoureuses pasta et de longues balades en scooter. Il partage ses aventures avec son nouveau meilleur ami, mais ce bonheur est menacé par un secret bien gardé : tous deux sont en réalité des monstres marins venus d’un autre monde, situé juste au-dessous de la surface de l’eau…",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34834,
+    "tmdb_id": 93588,
+    "kitsu_id": "4625"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1526,
+        "tmdb_id": 508943,
+        "kitsu_id": "42248"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/luca/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/luca/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4742368\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
