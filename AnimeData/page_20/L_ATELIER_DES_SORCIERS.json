@@ -1,0 +1,43 @@
+{
+  "nom": "L'ATELIER DES SORCIERS",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Fantastique",
+    "Slice of Life",
+    "Magie",
+    "Sorcières"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/l-atelier-des-sorciers",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/l-atelier-des-sorciers.jpg",
+  "noms_alt": [
+    "TONGARI BOUSHI NO ATELIER",
+    "ATELIER OF WITCH HAT"
+  ],
+  "synopsis": "Coco a toujours été passionnée par la magie. Hélas, les seules personnes habilitées à la pratiquer sont les sorciers. C'est un don qu'ils obtiennent à la naissance et qu'ils protègent jalousement. Un jour, un sorcier du nom de Kieffrey arrive dans le village de Coco et c'est en le voyant à l'œuvre qu'elle comprend la véritable nature de la magie : elle se dessine ! À partir de cet instant, Coco va découvrir un monde merveilleux dont elle ne soupçonnait pas l'existence...",
+  "bande_annonce": "https://www.youtube.com/embed/qHGYgfcsu8k",
+  "ids": {
+    "jikan_id": 33489,
+    "tmdb_id": 196950,
+    "kitsu_id": "8091"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8091"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/l-atelier-des-sorciers/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/l-atelier-des-sorciers/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
