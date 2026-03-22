@@ -1,0 +1,54 @@
+{
+  "nom": "KIMI WA KANATA",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Fantasy",
+    "Mystère",
+    "Romance",
+    "Isekai"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kimi-wa-kanata",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kimi-wa-kanata.jpg",
+  "noms_alt": [
+    "YOU ARE THE BEYOND",
+    "YOU ARE BEYOND",
+    "OVER THE SKY"
+  ],
+  "synopsis": "L'histoire prendre place dans le quartier d'Ikebukuro et se centre sur Mio et Shin, deux amis d'enfance. Mio est amoureuse de Shin et pense toujours à lui, mais n'a jamais pu lui avouer ce qu'elle ressent. Un jour, ils se disputent sur quelque chose de trivial, et quelque temps après, Mio décide de se réconcilier avec lui. En se rendant chez Shin, trempée par la pluie, elle est impliquée dans un accident de la circulation. Lorsque Mio reprend conscience, elle se retrouve dans un monde inconnu.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 23273,
+    "tmdb_id": null,
+    "kitsu_id": "45746"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 41379,
+        "tmdb_id": 680041,
+        "kitsu_id": "43454"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kimi-wa-kanata/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kimi-wa-kanata/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5193312\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
