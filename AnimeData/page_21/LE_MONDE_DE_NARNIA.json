@@ -1,0 +1,52 @@
+{
+  "nom": "LE MONDE DE NARNIA",
+  "type": "Autres",
+  "genres": [
+    "Fantastique",
+    "Aventure",
+    "Famille"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-monde-de-narnia",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-monde-de-narnia.jpg",
+  "noms_alt": [],
+  "synopsis": "Le Monde de Narnia : chapitre 1 conte la lutte entre le bien et le mal qui oppose le magnifique lion Aslan aux forces des ténèbres dans le monde magique de Narnia. Grâce à ses sombres pouvoirs, la Sorcière Blanche a plongé Narnia dans un hiver qui dure depuis un siècle, mais une prédiction révèle que quatre enfants aideront Aslan à rompre la malédiction. Lorsque Lucy, Susan, Edmund et Peter Pevensie, quatre frères et soeurs, découvrent ce monde enchanté en y pénétrant à travers une armoire, tout est en place pour une bataille de proportions épiques...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 31859,
+    "tmdb_id": null,
+    "kitsu_id": "3289"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 7711,
+        "tmdb_id": 411,
+        "kitsu_id": "45649"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-monde-de-narnia/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-monde-de-narnia/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
