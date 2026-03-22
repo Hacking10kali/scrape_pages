@@ -1,0 +1,55 @@
+{
+  "nom": "LE GARÇON ET LA BÊTE",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Fantastique"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-garcon-et-la-bete/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-garcon-et-la-bete.jpg",
+  "noms_alt": [
+    "BAKEMONO NO KO",
+    "THE BOY AND THE BEAST"
+  ],
+  "synopsis": "L'histoire de ce long-métrage se déroule à la fois à Shibuya (un quartier animé de Tokyo) et à Shibutenmachi (la ville des Bakemono, des créatures surnaturelles). Nous suivons les péripéties de Kyuta, un orphelin recueilli par une une sorte d'ours bourru humanoïde répondant au nom de Kumatetsu. En compagnie de ce dernier, Kyuta va apprendre le bushido et ses fondements. Partageant tout, l'élève et le maitre vont également développer une relation particulière les plongeant dans une aventure où bagarres, conflits, amour et action seront les mots d'ordre !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 14227,
+    "tmdb_id": null,
+    "kitsu_id": "276"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 28805,
+        "tmdb_id": 315465,
+        "kitsu_id": "41504"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-garcon-et-la-bete/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-garcon-et-la-bete/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5038701"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/wip4s9isuajd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
