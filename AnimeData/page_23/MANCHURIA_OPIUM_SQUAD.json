@@ -1,0 +1,50 @@
+{
+  "nom": "MANCHURIA OPIUM SQUAD",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Historique",
+    "Mature",
+    "Psychologique",
+    "Tragique",
+    "Culture",
+    "Drogue",
+    "Mafia",
+    "Société",
+    "Yakuza"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/manchuria-opium-squad",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/manchuria-opium-squad.jpg",
+  "noms_alt": [
+    "MANSHUU AHEN SQUAD"
+  ],
+  "synopsis": "Jeune agriculteur en Manchourie, Isamu Higata voit son quotidien bouleversé lorsque la peste finit par toucher sa mère... Pour gagner l'argent nécessaire à son traitement, il se lance dans la culture du pavot et réussit à purifier de l'opium. Mais ce faisant, il tombe dans le monde des mafias ce qui va le plonger en enfer.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 55848,
+    "tmdb_id": null,
+    "kitsu_id": "145"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "145"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/manchuria-opium-squad/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/manchuria-opium-squad/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
