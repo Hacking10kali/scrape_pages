@@ -391,8 +391,10 @@ async def scrape_catalogue(browser, page_num):
     for r in raw:
         info = parse_info_rows(r["infoRows"])
         if ANIME_ONLY and info["type"]:
-            # Garder si le type contient "anime" (ex: "Anime", "Anime, Scan", "Scan, Anime")
-            if "anime" not in info["type"].lower():
+            # Exclure uniquement les entrées qui sont EXCLUSIVEMENT "Scan"
+            # Garder : "Anime", "Anime, Scan", "Scan, Anime", "Film", "", None, et tout autre type
+            t = info["type"].lower().strip()
+            if t == "scan":
                 continue
         animes.append({
             "nom":           r["name"],
