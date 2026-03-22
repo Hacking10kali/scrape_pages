@@ -1,0 +1,79 @@
+{
+  "nom": "LE ROI LION",
+  "type": "Autres",
+  "genres": [
+    "Aventure",
+    "Animation",
+    "Famille"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-roi-lion",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-roi-lion.jpg",
+  "noms_alt": [],
+  "synopsis": "Au fond de la savane africaine, tous les animaux célèbrent la naissance de Simba, leur futur roi. Les mois passent. Simba idolâtre son père, le roi Mufasa, qui prend à cœur de lui faire comprendre les enjeux de sa royale destinée. Mais tout le monde ne semble pas de cet avis. Scar, le frère de Mufasa, l'ancien héritier du trône, a ses propres plans. La bataille pour la prise de contrôle de la Terre des Lions est ravagée par la trahison, la tragédie et le drame, ce qui finit par entraîner l'exil de Simba. Avec l'aide de deux nouveaux amis, Timon et Pumbaa, le jeune lion va devoir trouver comment grandir et reprendre ce qui lui revient de droit…",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2556,
+    "tmdb_id": 67424,
+    "kitsu_id": "1412"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 6610,
+        "tmdb_id": 8587,
+        "kitsu_id": "45649"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-roi-lion/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-roi-lion/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/u0b0km4d"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4761903"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/841zte9t"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4761911"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/e4c0t6dh"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
