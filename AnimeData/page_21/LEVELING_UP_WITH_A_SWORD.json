@@ -1,0 +1,58 @@
+{
+  "nom": "LEVELING UP WITH A SWORD",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Arts martiaux - Aventure - Drame - Fantasy - Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/leveling-up-with-a-sword",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/leveling-up-with-a-sword.jpg",
+  "noms_alt": [
+    "DISCIPLE OF THE HOLY SWORD",
+    "L'ÉLU DE L'ÉPÉE SACRÉE",
+    "OVERPOWERED SWORD"
+  ],
+  "synopsis": "Tout est décidé dès la naissance : il y a ceux qui viennent au monde bourrés de talent, promis à un grand destin, et... les autres. Le monde est injuste, c'est ainsi... mais Léon ne peut s'y résigner. Peu importe le nombre de fois que Léan lui fera mordre la poussière, il n'aura de cesse de le défier de nouveau. Seulement, malgré ses efforts acharnés, Léan paraît aussi hors d'atteinte qu'au premier jour. Mais ça, c'était avant que l'épée sacrée apparaisse devant Léon et le choisisse comme champion !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 49891,
+    "tmdb_id": null,
+    "kitsu_id": "1696"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 52299,
+        "tmdb_id": null,
+        "kitsu_id": "1696"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/leveling-up-with-a-sword/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/leveling-up-with-a-sword/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
