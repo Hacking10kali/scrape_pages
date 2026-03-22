@@ -1,0 +1,50 @@
+{
+  "nom": "LA TOUR AU-DELÀ DES NUAGES",
+  "type": "Anime, Films",
+  "genres": [
+    "Aventure - Drame - Romance - Science-fiction - Amitié - Militaire - Scientifique - Univers alternatif"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/la-tour-au-dela-des-nuages",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/la-tour-au-dela-des-nuages.jpg",
+  "noms_alt": [
+    "BEYOND THE CLOUDS",
+    "THE PROMISED PLACE",
+    "THE PLACE PROMISED IN OUR EARLY DAYS",
+    "KUMO NO MUKOU",
+    "YAKUSOKU NO BASHO",
+    "KUMO NO MUKOU",
+    "YAKUSOKU NO BASHO"
+  ],
+  "synopsis": "L'histoire se déroule dans un univers parallèle où le Japon a été divisé en deux après la Seconde Guerre mondiale : l'île d'Hokkaïdo, rebaptisée Ezo, a été annexée par l'Union, tandis que le reste du pays est passé sous domination des États-Unis. Au fil des ans, l'Union bâtit une immense et mystérieuse tour à Ezo, attisant à la fois la méfiance et la fascination du peuple japonais. Années 1990, Aomori. Hiroki et Takuya sont deux amis fascinés par la tour et travaillant dur pour construire un petit avion, dans le but de se rendre à Ezo. Une de leurs camarades de classe, Sayuri, s'immisce également dans leur projet et, au cours d'un été, les adolescents se promettent de voler jusqu'à la tour dans leur petit avion. Mais ils vont malheureusement être séparés par la vie.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2579,
+    "tmdb_id": null,
+    "kitsu_id": "42438"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 433,
+        "tmdb_id": 12924,
+        "kitsu_id": "41050"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/la-tour-au-dela-des-nuages/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/la-tour-au-dela-des-nuages/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
