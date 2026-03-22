@@ -1,0 +1,52 @@
+{
+  "nom": "LILI-MEN",
+  "type": "Scans",
+  "genres": [
+    "Seinen - Action - Drame - Surnaturel - Combats - Monstres"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/lili-men",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lili-men.jpg",
+  "noms_alt": [],
+  "synopsis": "Nito a vécu en laboratoire toute sa vie. Comme des dizaines de ses congénères, il est soumis à de terribles tests qui finissent dans le sang et la douleur, voire la mort. Il dort dans un hangar, est nourri grâce à un tube et ses journées sont organisées par des soi-disant docteurs qui promettent la liberté aux sujets répondant à leurs exigences. Face à la dureté de son quotidien, Nito rêve de la vie décrite dans les livres : manger un repas en famille, caresser un chat, tomber amoureux... Il partage ses espoirs avec ses camarades, toujours moins nombreux. Quand certains survivants développent des capacités surhumaines, ils l'invitent à s'enfuir ensemble... mais ils sont transférés avant d'y parvenir, et Nito les retrouve dans un énorme cocon, réduits à la condition de nutriments pour des enfants de succubes ! Ces créatures surpuissantes contrôlent le laboratoire et se servent des humains comme hôtes pour se reproduire. Repéré, Nito est sur le point de se faire dévorer lui aussi, mais ses amis utilisent leurs dernières forces pour le sauver. Loin de succomber, il aspire les pouvoirs des monstres en gestation ! Même transformé, il n'a qu'une obsession : réaliser le rêve qu'il partageait avec ses compagnons sacrifiés. Seulement, comment mener une vie normale quand on est mi-homme mi-succube, craint et détesté des deux camps ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 44167,
+    "tmdb_id": null,
+    "kitsu_id": "11584"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2230,
+        "tmdb_id": null,
+        "kitsu_id": "11584"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/lili-men/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/lili-men/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
