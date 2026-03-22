@@ -1,0 +1,41 @@
+{
+  "nom": "LIMIT BREAKER",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Fantastique",
+    "Combats",
+    "Monstres"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/limit-breaker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/limit-breaker.jpg",
+  "noms_alt": [
+    "MANREPDOLPA"
+  ],
+  "synopsis": "Ki Bong était coincé dans le « test de l'éveil » pendant 3000 ans à cause d'un bug. Enfin libéré du test, le joueur découvre que seulement 10 ans se sont écoulés dans la réalité, et que le monde est devenu un enfer total envahi par les monstres. Avec toutes ses capacités au niveau max, Ki Bong parviendra-t-il à sauver l'humanité de ces affreuses créatures ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 50552,
+    "tmdb_id": null,
+    "kitsu_id": "45562"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 50552,
+        "tmdb_id": null,
+        "kitsu_id": "45562"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/limit-breaker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/limit-breaker/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
