@@ -1,0 +1,49 @@
+{
+  "nom": "LES MINIONS",
+  "type": "Autres",
+  "genres": [
+    "Animation",
+    "Famille"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-minions",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-minions.jpg",
+  "noms_alt": [
+    "THE MINIONS"
+  ],
+  "synopsis": "A l'origine de simples organismes monocellulaires de couleur jaune, les Minions ont évolué au cours des âges au service de maîtres plus abjectes les uns que les autres. Les disparitions répétitives de ceux-ci, des tyrannosaures à Napoléon, ont plongé les Minions dans une profonde dépression. Mais l'un d'eux, prénommé Kevin, a une idée. Flanqué de Stuart, l'adolescent rebelle et de l'adorable petit Bob, Kevin part à la recherche d'un nouveau patron malfaisant pour guider les siens. Nos trois Minions se lancent dans un palpitant voyage qui va les conduire à leur nouveau maître : Scarlet Overkill, la première superméchante de l'histoire. De l'Antarctique au New York des années 60, nos trois compères arrivent finalement à Londres, où ils vont devoir faire face à la plus terrible menace de leur existence : l'annihilation de leur espèce.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": null,
+    "kitsu_id": "1523"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38826,
+        "tmdb_id": 438148,
+        "kitsu_id": "46195"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/les-minions/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-minions/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
