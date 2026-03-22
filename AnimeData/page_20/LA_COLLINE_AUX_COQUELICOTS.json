@@ -1,0 +1,59 @@
+{
+  "nom": "LA COLLINE AUX COQUELICOTS",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "School Life",
+    "Ghibli",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/la-colline-aux-coquelicots",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/la-colline-aux-coquelicots.jpg",
+  "noms_alt": [
+    "KOKURIKO-ZAKA KARA",
+    "FROM UP ON POPPY HILL",
+    "SUR LA DESCENTE DES COQUELICOTS"
+  ],
+  "synopsis": "L'histoire se déroule dans les années soixante, plus précisément en 1963, tout juste un an avant les jeux olympiques de Tokyo. On suit ainsi le quotidien de la jeune lycéenne Matsuzaki Umi, membre du journal de son école...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 649,
+    "tmdb_id": null,
+    "kitsu_id": "46241"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 31765,
+        "tmdb_id": 83389,
+        "kitsu_id": "4073"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/la-colline-aux-coquelicots/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/la-colline-aux-coquelicots/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4960825"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/8ob7zbdsqhjf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
