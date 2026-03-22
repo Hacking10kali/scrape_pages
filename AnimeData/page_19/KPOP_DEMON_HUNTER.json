@@ -1,0 +1,54 @@
+{
+  "nom": "KPOP DEMON HUNTER",
+  "type": "Film",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Animation",
+    "Fantastique",
+    "Musical"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF",
+    "VASTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kpop-demon-hunter",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kpop-demon-hunter.jpg",
+  "noms_alt": [
+    "KPOP DEMON HUNTERS"
+  ],
+  "synopsis": "Les membres d'un groupe de K-Pop célèbre doivent concilier leur vie sous les feux de la rampe et leur identité secrète de chasseuses de démons, le tout baignant dans un décor coloré de mode, de cuisine, de style et du mouvement musical le plus populaire de la génération actuelle.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 49778,
+    "tmdb_id": 302696,
+    "kitsu_id": "1545"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 48960,
+        "tmdb_id": 803796,
+        "kitsu_id": "10910"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/kpop-demon-hunter/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kpop-demon-hunter/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://movearnpre.com/embed/l9co0t6c2l8n"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
