@@ -1,0 +1,54 @@
+{
+  "nom": "KINDERGARTEN WARS",
+  "type": "Scans",
+  "genres": [
+    "Action - Comédie - Romance - Slice of Life - Assassinat - Famille - Quotidien - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/kindergarten-wars",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kindergarten-wars.jpg",
+  "noms_alt": [
+    "YOUCHIEN WARS"
+  ],
+  "synopsis": "Rita est la dernière recrue du \"Kindergarten Black\", surnommé \"la maternelle la plus sûre du monde\", qui accueille les rejetons de l'élite du pays. La réputation de l'établissement n'est pas usurpée : ses employés sont des criminels aguerris chargés de repousser toute attaque ! Rita elle-même est une tueuse légendaire qui, en échange d'une remise de peine, a accepté ce poste hors du commun... Mais cette experte du combat ne rêve que d'amour ! Pour elle, tout assaillant est un potentiel futur copain, à condition d'être beau et, surtout, de partager ses goûts bien tranchés. Cuisine, cinéma, personnalité... chaque adversaire est mis à l'épreuve avec un quiz sans concession, où la moindre erreur est punie de mort ! Trouvera-t-elle l'âme sœur sur le champ de bataille de cette maternelle ultra déjantée ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62613,
+    "tmdb_id": 308720,
+    "kitsu_id": "50220"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62613,
+        "tmdb_id": null,
+        "kitsu_id": "50220"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kindergarten-wars/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kindergarten-wars/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
