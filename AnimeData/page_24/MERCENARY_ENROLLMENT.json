@@ -1,0 +1,45 @@
+{
+  "nom": "MERCENARY ENROLLMENT",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Aventure",
+    "Romance",
+    "Science-fiction",
+    "Vie Scolaire",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/mercenary-enrollment",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mercenary-enrollment.jpg",
+  "noms_alt": [
+    "HIGH SCHOOL MERCENARY",
+    "TEENAGE MERCENARY"
+  ],
+  "synopsis": "Ijin est un jeune mercenaire qui est le seul survivant d'un accident d'avion survenu dans son enfance. Il vient tout juste de retourner auprès de sa famille qui le croyait mort durant ses 10 ans d'absence. Ijin pourra-t-il mettre de côté son passé sombre et mener une vie normale de lycéen ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 61872,
+    "tmdb_id": null,
+    "kitsu_id": "24"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61872,
+        "tmdb_id": null,
+        "kitsu_id": "24"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/mercenary-enrollment/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mercenary-enrollment/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
