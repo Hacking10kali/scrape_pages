@@ -1,0 +1,40 @@
+{
+  "nom": "LEVELING UP, BY ONLY EATING!",
+  "type": "Scans",
+  "genres": [
+    "Fantasy",
+    "Isekai",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/leveling-up-by-only-eating",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/leveling-up-by-only-eating.jpg",
+  "noms_alt": [
+    "GOURMET GAMING"
+  ],
+  "synopsis": "Nous allons suivre ici la vie de Min Hyuk, un jeune homme boulimique qui se bat pour survivre et qui va pour cela rejoindre le monde virtuel d'Athenae !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 52299,
+    "tmdb_id": null,
+    "kitsu_id": "46231"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 52299,
+        "tmdb_id": null,
+        "kitsu_id": "46231"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/leveling-up-by-only-eating/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/leveling-up-by-only-eating/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
