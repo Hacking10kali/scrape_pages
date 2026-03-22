@@ -1,0 +1,50 @@
+{
+  "nom": "OVERGEARED",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Apprentissage",
+    "Artisanat",
+    "Arts martiaux",
+    "Jeux vidéo",
+    "Magie",
+    "Mariage",
+    "Monde virtuel",
+    "Religion",
+    "Royauté",
+    "Vampires"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/overgeared",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/overgeared.jpg",
+  "noms_alt": [
+    "TEMPPAL"
+  ],
+  "synopsis": "Shin Young Woo, nom d'utilisateur: Grid. Dans le meilleur jeu de réalité virtuelle au monde : , la malchance le suit toujours. Mais il est tombé sur une classe au cours d'une quête, et c'est la classe légendaire la plus forte sur plus de 2 milliards de joueurs !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": "4066"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "4066"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/overgeared/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/overgeared/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
