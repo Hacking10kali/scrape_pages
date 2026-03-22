@@ -1,0 +1,47 @@
+{
+  "nom": "LYCÉE POST-MORTEM",
+  "type": "Scans",
+  "genres": [
+    "Manhua",
+    "Manhwa",
+    "Shônen",
+    "Webcomic",
+    "Fantastique",
+    "Romance",
+    "School Life",
+    "Amnésie",
+    "Amour",
+    "Démons",
+    "Ecole",
+    "Réincarnation / Transmigration"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/lycee-post-mortem",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lycee-post-mortem.jpg",
+  "noms_alt": [
+    "REFUND HIGH SCHOOL"
+  ],
+  "synopsis": "« Je n'ai jamais eu de petit ami. Je ne peux pas mourir comme ça ! » Une histoire d'amour qui se déroule dans l'au-delà !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 31971,
+    "tmdb_id": null,
+    "kitsu_id": "7202"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "7202"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/lycee-post-mortem/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/lycee-post-mortem/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
