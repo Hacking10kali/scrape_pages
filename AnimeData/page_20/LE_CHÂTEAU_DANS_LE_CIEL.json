@@ -1,0 +1,61 @@
+{
+  "nom": "LE CHÂTEAU DANS LE CIEL",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Romance",
+    "Ghibli",
+    "Science-fiction"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-chateau-dans-le-ciel/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-chateau-dans-le-ciel.jpg",
+  "noms_alt": [
+    "TENKUU NO SHIRO LAPUTA",
+    "LAPUTA : CASTLE IN THE SKY",
+    "LE CHATEAU DANS LE CIEL"
+  ],
+  "synopsis": "La jeune Shita est retenue prisonnière dans un dirigeable en plein ciel par des hommes qui cherchent à percer le secret dont elle aurait la clé. Profitant d'une attaque de pirates du ciel, elle tente de s'évader mais glisse et tombe et grâce au pendentif qu'elle a autour de son cou, voltige dans les airs. Pazu, un jeune garçon intrépide qui travaille à la mine, la voit tomber du ciel, entourée d'une aura émanant de son pendentif. Bientôt, elle avoue à Pazu qu'elle est la descendante des souverains de la mythique cité de Laputa, le château dans le ciel...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1013,
+    "tmdb_id": null,
+    "kitsu_id": "903"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 431,
+        "tmdb_id": 10515,
+        "kitsu_id": "45649"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-chateau-dans-le-ciel/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-chateau-dans-le-ciel/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4960836"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/jyw4pb9zxux6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
