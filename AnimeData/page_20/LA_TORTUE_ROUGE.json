@@ -1,0 +1,55 @@
+{
+  "nom": "LA TORTUE ROUGE",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Ghibli",
+    "Fantastique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/la-tortue-rouge",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/la-tortue-rouge.jpg",
+  "noms_alt": [
+    "THE RED TURTLE"
+  ],
+  "synopsis": "À travers l'histoire d'un naufragé échoué sur une île peuplée de tortues, de crabes et d'oiseaux, on suit les différentes grandes étapes de la vie d'un être humain. L'homme nouera notamment un lien d'amitié fort avec une tortue à carapace rouge, qui l'entraînera vers de fabuleuses aventures.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 649,
+    "tmdb_id": null,
+    "kitsu_id": "539"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 56500,
+        "tmdb_id": 337703,
+        "kitsu_id": "11621"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/la-tortue-rouge/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/la-tortue-rouge/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4729074"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/nk0dxr6yt2wh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
