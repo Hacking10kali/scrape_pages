@@ -1,0 +1,54 @@
+{
+  "nom": "LE CHÂTEAU SOLITAIRE DANS LE MIROIR",
+  "type": "Anime, Film",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Fantasy",
+    "Mystère",
+    "Survie"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-chateau-solitaire-dans-le-miroir",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-chateau-solitaire-dans-le-miroir.jpg",
+  "noms_alt": [
+    "THE SOLITARY CASTLE IN THE MIRROR",
+    "KAGAMI NO KOJO"
+  ],
+  "synopsis": "Kokoro Anzai vient d'entrer au collège. Toutefois, elle ne s'y sent pas à sa place et vit recluse chez elle, incapable de mettre les pieds en classe. Un matin, alors qu'elle s'apprête à passer une nouvelle journée dans sa chambre, de la lumière émane de son miroir. Elle le traverse et découvre de l'autre côté un mystérieux château. Ils sont sept collégiens, avec elle, à avoir été invités par une « fille-loup » dans ce lieu qui renferme une pièce appelée la chambre des souhaits. Celui qui en trouvera la clé obtiendra le privilège de formuler n'importe quel vœu et de le voir exaucé...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1013,
+    "tmdb_id": null,
+    "kitsu_id": "903"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 431,
+        "tmdb_id": 942881,
+        "kitsu_id": "45649"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-chateau-solitaire-dans-le-miroir/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-chateau-solitaire-dans-le-miroir/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-nkqj7eu5159h.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
