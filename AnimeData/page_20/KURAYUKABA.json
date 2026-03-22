@@ -1,0 +1,53 @@
+{
+  "nom": "KURAYUKABA",
+  "type": "Anime, Film",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Steampunk",
+    "Train"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kurayukaba",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kurayukaba.jpg",
+  "noms_alt": [],
+  "synopsis": "Les affaires tournent au ralenti à l'agence de détectives Ootsuji, et c'est pourquoi Sotaro et son jeune assistant, Saki, ne peuvent se permettre de refuser du travail, même si le contrat offert comporte un risque qui n'en vaut probablement pas la peine. En ville, la saison des festivals bat son plein, mais quelque chose ne tourne pas rond : récemment, plusieurs disparitions inexpliquées se sont succédé. Un reporter croit que la clef du mystère se trouve dans les méandres de la cité anarchique qu'on appelle l'Obscurité, c'est-à-dire un véritable labyrinthe souterrain où se trament les crimes les plus odieux et où vivent les parias de la société. Ainsi donc, le reporter embauche Sotaro pour descendre sous terre et mener une enquête, mais Sotaro délègue l'affaire à Saki. Quand celui-ci disparaît aussi, Sotaro regrette de l'avoir envoyé tout droit dans la gueule du loup. C'est maintenant au tour de Sotaro de s'aventurer dans l'Obscurité et d'y faire face aux habitants des profondeurs, comme le malicieux gang des Laughing Masks, ou l'escouade de flics renégats qui pilote le Demon 463, un terrifiant train blindé!",
+  "bande_annonce": "https://www.youtube.com/embed/k6Oa_LDH_qw",
+  "ids": {
+    "jikan_id": 56553,
+    "tmdb_id": null,
+    "kitsu_id": "48653"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 56553,
+        "tmdb_id": 698835,
+        "kitsu_id": "48653"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kurayukaba/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kurayukaba/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5502867"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/e202mcor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
