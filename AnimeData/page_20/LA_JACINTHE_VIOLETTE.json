@@ -1,0 +1,43 @@
+{
+  "nom": "LA JACINTHE VIOLETTE",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "Mystère",
+    "Psychologique",
+    "Thriller",
+    "Assassinat"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/la-jacinthe-violette",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/la-jacinthe-violette.jpg",
+  "noms_alt": [
+    "PURPLE HYACINTH"
+  ],
+  "synopsis": "Sa capacité à détecter les mensonges a fait d'elle un officier de justice exceptionnel. Mais elle est hantée par le remords : elle était incapable de sauver ceux qu'elle aimait d'un destin horrible il y a de nombreuses années. Maintenant, elle veut utiliser son don puissant pour défendre les êtres sans défense à tout prix, même si cela veut dire qu'elle doit faire équipe avec un assassin mortel pour combattre le mal dans un monde devenu fou.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 649,
+    "tmdb_id": null,
+    "kitsu_id": "6859"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 649,
+        "tmdb_id": null,
+        "kitsu_id": "6859"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/la-jacinthe-violette/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/la-jacinthe-violette/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
