@@ -1,0 +1,45 @@
+{
+  "nom": "MURIM LOGIN",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Isekai",
+    "Webcomic",
+    "Manhwa",
+    "Seinen"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/murim-login",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/murim-login.jpg",
+  "noms_alt": [
+    "LOG-IN MURIM"
+  ],
+  "synopsis": "Une époque où les chasseurs s'épanouissent en chassant les monstres qui viennent de Gates. Jin Tae-Kyung est un chasseur de bas rang qui prend une machine VR et se connecte accidentellement au jeu, qui se déroule dans le monde des arts martiaux. Après de nombreux hauts et bas, Tae-Kyung est capable de s'échapper de ce monde. La force et les compétences qu'il a reçues dans le Murim ont pu être transposées dans le monde réel. Cela lui permet de continuer à gagner sa vie en tant que chasseur... mais il décide de retourner dans le monde du Murim, par souci pour ses amis PNJ.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34834,
+    "tmdb_id": null,
+    "kitsu_id": "49358"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 60326,
+        "tmdb_id": null,
+        "kitsu_id": "49358"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/murim-login/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/murim-login/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
