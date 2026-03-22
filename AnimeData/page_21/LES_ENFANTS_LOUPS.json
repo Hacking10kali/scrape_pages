@@ -1,0 +1,59 @@
+{
+  "nom": "LES ENFANTS LOUPS",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Romance",
+    "Slice of Life",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-enfants-loups/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-enfants-loups.jpg",
+  "noms_alt": [
+    "OOKAMI KODOMO NO AME TO YUKI",
+    "WOLF CHILDREN",
+    "THE WOLF CHILDREN AME AND YUKI",
+    "LES ENFANTS LOUPS",
+    "AME ET YUKI",
+    "LES ENFANTS LOUPS",
+    "AME & YUKI"
+  ],
+  "synopsis": "Hana est étudiante à l'université. Sérieuse et investie, elle fait la rencontre d'un jeune homme mystérieux et solitaire. Lorsqu'elle tente de lui parler, il lui avoue qu'il n'est pas inscrit à l'université. Aussitôt, elle lui propose alors de l'aider dans ses cours, et tous deux deviennent très proches. Si proches, que le jeune homme finit par lui avouer son secret : il est un homme-loup. Les deux tombent alors amoureux, liés par ce secret, et commencent une vie de couple ordinaire, jusqu'à ce que Hana tombe enceinte de Yuki, leur premier enfant, qui se trouve être un enfant-loup... Une vie fantastique attend Hana, elle qui imaginait pourtant que l'existence des hommes-loups n'était qu'une légende...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": null,
+    "kitsu_id": "1523"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 12355,
+        "tmdb_id": 110420,
+        "kitsu_id": "46195"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/les-enfants-loups/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-enfants-loups/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4955557"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
