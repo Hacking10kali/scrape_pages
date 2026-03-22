@@ -1,0 +1,42 @@
+{
+  "nom": "OPERATION TRUE LOVE",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Drame",
+    "Romance",
+    "School Life",
+    "Amour"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/operation-true-love",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/operation-true-love.jpg",
+  "noms_alt": [
+    "JAKJEONMYEONG SUNJEONG",
+    "OPERATION TRUE LOVE"
+  ],
+  "synopsis": "En plus de découvrir que son petit copain la trompe avec Lime qu'elle considère comme sa sœur, Soo Ae entre aussi en possession d'un portable qui lui permet d'évaluer la quantité d'amour qu'une personne recevra durant sa vie... Seulement, elle semble être la seule à avoir 0 chance de recevoir de l'amour un jour... Peut-être que son rapprochement avec Eun Hyeok, le meilleur ami de son copain, va permettre de changer son destin ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 648,
+    "tmdb_id": null,
+    "kitsu_id": "45398"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 648,
+        "tmdb_id": null,
+        "kitsu_id": "45398"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/operation-true-love/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/operation-true-love/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
