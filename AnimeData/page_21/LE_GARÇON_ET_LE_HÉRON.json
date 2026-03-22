@@ -1,0 +1,53 @@
+{
+  "nom": "LE GARÇON ET LE HÉRON",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Surnaturel",
+    "Famille",
+    "Voyage temporel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-garcon-et-le-heron",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-garcon-et-le-heron.jpg",
+  "noms_alt": [
+    "KIMITACHI WA DOU IKIRU KA",
+    "THE BOY AND THE HERON"
+  ],
+  "synopsis": "Après la disparition de sa mère dans un incendie, Mahito, un jeune garçon de 11 ans, doit quitter Tokyo pour partir vivre à la campagne dans le village où elle a grandi. Il s'installe avec son père dans un vieux manoir situé sur un immense domaine où il rencontre un héron cendré qui devient petit à petit son guide et l'aide au fil de ses découvertes et questionnements à comprendre le monde qui l'entoure et percer les mystères de la vie.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 14227,
+    "tmdb_id": null,
+    "kitsu_id": "276"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 28805,
+        "tmdb_id": 508883,
+        "kitsu_id": "41504"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-garcon-et-le-heron/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-garcon-et-le-heron/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://oneupload.to/embed-bspycv613xt9.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
