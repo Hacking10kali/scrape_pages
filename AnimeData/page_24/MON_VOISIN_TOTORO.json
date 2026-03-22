@@ -1,0 +1,56 @@
+{
+  "nom": "MON VOISIN TOTORO",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Ghibli",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/mon-voisin-totoro",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mon-voisin-totoro.jpg",
+  "noms_alt": [
+    "TONARI NO TOTORO"
+  ],
+  "synopsis": "Un professeur d'université, M. Kusakabe, et ses deux filles, Satsuki, onze ans, et Mei, cinq ans, s'installent dans leur nouvelle maison à la campagne. Celle-ci est proche de l'hôpital où sa femme est hospitalisée. Explorant les alentours, Mei rencontre Totoro, sorte de créature gigantesque et maître de la forêt. Cet étonnant personnage est accompagné de deux de ses semblables, bien qu'ils soient de moindres tailles : le plus petit est blanc et le moyen est bleu. Dès lors, Mei n'a de cesse de rechercher Totoro et de passer du temps en sa compagnie. Elle découvrira notamment les divers et impressionnants pouvoirs de son nouveau compagnon, ainsi que son entourage pour le moins singulier...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4962,
+    "tmdb_id": null,
+    "kitsu_id": "9461"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 523,
+        "tmdb_id": 8392,
+        "kitsu_id": "48617"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/mon-voisin-totoro/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mon-voisin-totoro/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4917204\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/jr97ss0bxioj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
