@@ -1,0 +1,40 @@
+{
+  "nom": "LITTLE HANDS",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "School Life",
+    "Slice of Life",
+    "Tournois",
+    "Sport"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/little-hands",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/little-hands.jpg",
+  "noms_alt": [],
+  "synopsis": "Ishino Mikage décide d'intégrer le club de handball de son lycée, ce sports où la taille est un avantage implacable. Ce dernier est de petite taille, mais c'était sans compter sur son père, lui même star du handball.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 33489,
+    "tmdb_id": 29420,
+    "kitsu_id": "4000"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 33489,
+        "tmdb_id": null,
+        "kitsu_id": "4000"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/little-hands/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/little-hands/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
