@@ -1,0 +1,51 @@
+{
+  "nom": "LOST IN STARLIGHT",
+  "type": "Film",
+  "genres": [
+    "Romance - Science-fiction - Amour - Astronomie - Espace - Musique"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/lost-in-starlight",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lost-in-starlight.jpg",
+  "noms_alt": [
+    "I BYEORE PIRYOHAN",
+    "JUSTE L'ESPACE ENTRE NOUS",
+    "I BYEOL-E PIL-YOHAN"
+  ],
+  "synopsis": "La mère de Nan Young était une astronaute qui n'a jamais pu revenir sur Terre en raison d'un accident survenu lors d'une exploration sur Mars. Malgrè cette tragédie, Nan Young rêve toujours d'explorer l'espace et a hâte de pouvoir se rendre à son tour sur Mars afin de suivre les traces de sa mère. Alors qu'elle est enfin selectionnée pour un projet d'exploration de Mars, voilà qu'elle rencontre Jay, un musicien qui répare des appareils vintage. Leur relation tiendra t-elle le choc à une si longue distance ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39198,
+    "tmdb_id": null,
+    "kitsu_id": "264"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 2668,
+        "tmdb_id": 1165642,
+        "kitsu_id": "49950"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/lost-in-starlight/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/lost-in-starlight/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://movearnpre.com/embed/v5wqu1ryl8y5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
