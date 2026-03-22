@@ -1,0 +1,47 @@
+{
+  "nom": "LES MIKAILS",
+  "type": "Film",
+  "genres": [
+    "Animation",
+    "Drame"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-mikails",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-mikails.jpg",
+  "noms_alt": [],
+  "synopsis": "Suite à un accident dans l’espace, l’astronaute Mikaïl Matthews se retrouve lié à une mystérieuse anomalie... plusieurs versions de lui-même apparaissent pour le remplacer à chaque fois qu’il s’endort. Pendant ce temps, l'un deux, Mikaïl Cornfield, détective privé du Far West, embauche une stagiaire, une jeune fille de 15 ans qui s’appelle Daphny.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": null,
+    "kitsu_id": "1523"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38826,
+        "tmdb_id": 1476981,
+        "kitsu_id": "46195"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/les-mikails/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-mikails/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#ariov"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
