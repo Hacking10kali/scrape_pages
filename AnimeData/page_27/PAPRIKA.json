@@ -1,0 +1,57 @@
+{
+  "nom": "PAPRIKA",
+  "type": "Anime, Film",
+  "genres": [
+    "Fantasy",
+    "Horreur",
+    "Épouvante",
+    "Mystère",
+    "Psychologique",
+    "Science-fiction",
+    "Thriller"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/paprika",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/paprika.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans le futur, un nouveau traitement psychothérapeutique nommé PT a été inventé. Grâce à une machine, le DC Mini, il est possible de rentrer dans les rêves des patients, et de les enregistrer afin de sonder les tréfonds de la pensée et de l'inconscient. Alors que le processus est toujours dans sa phase de test, l'un des prototypes du DC Mini est volé, créant un vent de panique au sein des scientifiques ayant développé cette petite révolution. Dans de mauvaises mains, une telle invention pourrait effectivement avoir des résultats dévastateurs. Le Dr. Atsuko Chiba, collègue de l'inventeur du DC Mini, le Dr. Tokita, décide, sous l'apparence de sa délurée alter-ego Paprika, de s'aventurer dans le monde des rêves pour découvrir qui s'est emparé du DC Mini et pour quelle raison. Elle découvre que l'assistant du Dr. Tokita, Himuro, a disparu...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62983,
+    "tmdb_id": 84437,
+    "kitsu_id": "11997"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1943,
+        "tmdb_id": 50270,
+        "kitsu_id": "1752"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/paprika/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/paprika/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://Smoothpre.com/embed/t4rjsvthyguq"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5093213"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
