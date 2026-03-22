@@ -1,0 +1,42 @@
+{
+  "nom": "KILLING KILLER",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Drame",
+    "Mystère",
+    "Psychologique",
+    "Tragédie",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/killing-killer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/killing-killer.jpg",
+  "noms_alt": [],
+  "synopsis": "Le personnage principal, Siwoo Lee, a perdu ses parents à cause d'un meurtrier il y a 10 ans. Finalement, il rencontre Jack, le tueur qui a tué ses parents, et le décapite. Ce n'est pas moi qui ai tué tes parents. Après avoir appris que le véritable coupable est un entrepreneur appartenant à un groupe de tueurs utilisant des superpouvoirs, Si-woo Lee décide de traquer les inscrits avec l'aide de Jack.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34964,
+    "tmdb_id": 32368,
+    "kitsu_id": "44226"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 34964,
+        "tmdb_id": null,
+        "kitsu_id": "8174"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/killing-killer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/killing-killer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
