@@ -1,0 +1,43 @@
+{
+  "nom": "MAGIC EMPEROR",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Fantaisie",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/magic-emperor/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/magic-emperor.jpg",
+  "noms_alt": [
+    "DEMONIC EMPEROR"
+  ],
+  "synopsis": "L'histoire raconte la vie de l'empereur magique, l'homme le plus fort du monde et son périple après sa mort et sa réincarnation en un garçon sans culture.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 18115,
+    "tmdb_id": 251361,
+    "kitsu_id": "993"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 18115,
+        "tmdb_id": null,
+        "kitsu_id": "993"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/magic-emperor/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/magic-emperor/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
