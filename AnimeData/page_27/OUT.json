@@ -1,0 +1,39 @@
+{
+  "nom": "OUT",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Drame",
+    "Société"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/out",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/out.jpg",
+  "noms_alt": [
+    "OUT (IGUCHI TATSUYA)"
+  ],
+  "synopsis": "À 17 ans, Tatsuya Iguchi, fait partie d'un gang et connaît déjà le milieu carcéral. Après plusieurs actes de délinquance avérés, celui-ci passe un moment en maison d'arrêt, à Nagano. Mais alors que le juge pour mineurs le laisse sortir, lui offrant une seconde chance à condition que celui-ci ne replonge pas, Tatsuya va de nouveau s'attirer des ennuis en fricotant avec quelques clans mafieux parmi les plus dangereux de Tokyo...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 31588,
+    "tmdb_id": 19205,
+    "kitsu_id": "8671"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 31588,
+        "tmdb_id": null,
+        "kitsu_id": "11942"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/out/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/out/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
