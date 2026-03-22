@@ -1,0 +1,58 @@
+{
+  "nom": "LE VENT SE LÈVE",
+  "type": "Anime, Film",
+  "genres": [
+    "Biographique",
+    "Drame",
+    "Ghibli",
+    "Historique",
+    "Romance"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-vent-se-leve",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-vent-se-leve.jpg",
+  "noms_alt": [
+    "THE WIND RISES",
+    "KAZE TACHINU"
+  ],
+  "synopsis": "Ultime long-métrage de Hayao Miyazaki, Kaze Tachinu met en scène Jirō Horikoshi, célèbre concepteur des Mitsubishi A6M, également appelés \"Chasseurs Zéro\", bombardiers utilisés lors de la Seconde Guerre Mondiale (notamment lors de l'attaque de Pearl Harbor en 1941). Le film est également un hommage au père de Miyazaki, Katsuji Miyazaki, ayant lui-même travaillé pour ces avions de chasse. L'histoire du film se base sur le roman Kaze Tachinu de Tatsuo Hori, paru en 1937. Jiro est un admirateur de Giovanni Caproni, fameux concepteur d'avions, et, comme lui, il veut dessiner des avions et voler avec eux. Malheureusement, Jiro ne possède pas une vue suffisante pour devenir pilote. Il pourra, malgré tout, vivre la moitié de son rêve en tant qu'ingénieur en aéronautique au sein d'une importante entreprise, à partir de 1927. Il sera alors reconnu comme l'un des plus grands ingénieurs du monde. Jiro Horikoshi connaîtra au cours de sa vie : l'amour, grâce à Nahoko, et l'amitié, grâce à son collègue Honjo. Le film retrace la vie de Jiro et en particulier les moments qui ont grandement influencé celle-ci, comme le séisme de Kanto en 1923 ou l'entrée en guerre du Japon en 1941.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37991,
+    "tmdb_id": null,
+    "kitsu_id": "7982"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 16662,
+        "tmdb_id": 149870,
+        "kitsu_id": "45649"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-vent-se-leve/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-vent-se-leve/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4960847"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/kzq75svbj4by"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
