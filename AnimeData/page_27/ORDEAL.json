@@ -1,0 +1,38 @@
+{
+  "nom": "ORDEAL",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Fantasy"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/ordeal",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ordeal.jpg",
+  "noms_alt": [],
+  "synopsis": "Che n'est qu'un humain dans un monde rempli de « Kimyos » surpuissants, mais il est déterminé à devenir le plus grand combattant de tous les temps. Lorsque son mentor bien-aimé est assassiné, Che jure de se venger et se lance dans une mission pour démasquer le tueur. Mais Che apprend bientôt que le monde des Kimyos est bien plus vaste qu'il ne l'avait imaginé, et qu'il est peut-être lui-même l'un des Kimyos les plus puissants de la Terre, doté du pouvoir du soleil lui-même. Che sera-t-il capable d'exploiter sa nouvelle force, ou brûlera-t-il dans la chaleur de cette épreuve ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": 108083,
+    "kitsu_id": "46807"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "46807"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ordeal/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ordeal/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
