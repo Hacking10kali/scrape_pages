@@ -1,0 +1,57 @@
+{
+  "nom": "NAUSICAA DE LA VALLÉE DU VENT",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Science-fiction",
+    "Ghibli"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/nausicaa-de-la-vallee-du-vent/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/nausicaa-de-la-vallee-du-vent.jpg",
+  "noms_alt": [
+    "KAZE NO TANI NO NAUSICAÄ"
+  ],
+  "synopsis": "Sur une Terre ravagée par la folie des hommes et de la pollution, le vent ne souffle plus que dans une seule vallée, la vallée du vent. C'est là que réside la princesse Nausicaä qui a le pouvoir de comprendre et de communiquer avec des insectes géants créés par les retombées radioactives.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 973,
+    "tmdb_id": null,
+    "kitsu_id": "3370"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 572,
+        "tmdb_id": 81,
+        "kitsu_id": "529"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/nausicaa-de-la-vallee-du-vent/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nausicaa-de-la-vallee-du-vent/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4958193"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/818i4zci6wfk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
