@@ -1,0 +1,36 @@
+{
+  "nom": "LES BELLES CICATRICES",
+  "type": "Film",
+  "genres": [
+    "Drame - Romance - Animation"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-belles-cicatrices",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-belles-cicatrices.jpg",
+  "noms_alt": [],
+  "synopsis": "Un mois après leur séparation, Gaspard, toujours amoureux de Leïla, la retrouve dans un bar bondé. Lorsque ce rendez-vous tourne mal, il décide de se réfugier sous la nappe de la table pour échapper aux regards et se rapprocher de ses souvenirs, transformant la situation de manière inattendue.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": 217498,
+    "kitsu_id": "1523"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38826,
+        "tmdb_id": 1279225,
+        "kitsu_id": "46195"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/les-belles-cicatrices/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-belles-cicatrices/film/vostfr/",
+      "episodes": []
+    }
+  ]
+}
