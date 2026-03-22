@@ -1,0 +1,43 @@
+{
+  "nom": "MY DAD IS TOO STRONG",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantaisie",
+    "Isekai",
+    "Science-fiction",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/my-dad-is-too-strong",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/my-dad-is-too-strong.jpg",
+  "noms_alt": [],
+  "synopsis": "Lee Dojun un jeune employé de bureau, obtient un pouvoir hors nome après avoir été transféré dans un monde parallèle à celui de l'ancienne Corée. Après un moment d'inattention, il est réapparu dans son monde d'origine... Avec une surprise !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 14653,
+    "tmdb_id": null,
+    "kitsu_id": "48448"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 14653,
+        "tmdb_id": null,
+        "kitsu_id": "48448"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/my-dad-is-too-strong/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/my-dad-is-too-strong/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
