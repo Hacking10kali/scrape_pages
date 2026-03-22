@@ -1,0 +1,56 @@
+{
+  "nom": "MES VOISINS LES YAMADA",
+  "type": "Anime, Film",
+  "genres": [
+    "Comédie",
+    "Ghibli",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/mes-voisins-les-yamada",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mes-voisins-les-yamada.jpg",
+  "noms_alt": [
+    "HOUHOKEKYO TONARI NO YAMADA-KUN",
+    "MY NEIGHBORS THE YAMADAS"
+  ],
+  "synopsis": "Avec un dessin simple et léger, et une suite de scènes indépendantes plutôt qu'une histoire \"en un fil\", Mes voisins les Yamada est un dessin animé qui parvient à être à la fois drôle, et très poétique par moments.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53126,
+    "tmdb_id": null,
+    "kitsu_id": "42993"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 415,
+        "tmdb_id": 16198,
+        "kitsu_id": "379"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/mes-voisins-les-yamada/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mes-voisins-les-yamada/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5055333"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/3donqzmtdr2m"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
