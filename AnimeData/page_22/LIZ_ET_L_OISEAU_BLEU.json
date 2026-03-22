@@ -1,0 +1,58 @@
+{
+  "nom": "LIZ ET L'OISEAU BLEU",
+  "type": "Anime, Film",
+  "genres": [
+    "School Life",
+    "Slice of Life",
+    "Amitié",
+    "Ecole",
+    "Musique"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/liz-et-l-oiseau-bleu",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/liz-et-l-oiseau-bleu.jpg",
+  "noms_alt": [
+    "LIZ TO AOI TORI",
+    "LIZ AND THE BLUE BIRD"
+  ],
+  "synopsis": "Liz to Aoi Tori (Liz et l'oiseau bleu) est un conte pour enfant que lisait autrefois Nozomi. Il y raconte l'histoire de Liz, une fille solitaire qui se lie un jour d'amitié avec un oiseau. Malheureusement, celui-ci prends un jour son envol, laissant Liz à nouveau seule. Un jour, Nozomi ramène le livre à Mizore. S'ensuit alors un parallèle entre la relation qu'entretiennent les deux lycéennes et les deux personnages du conte.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1251,
+    "tmdb_id": null,
+    "kitsu_id": "1263"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 35677,
+        "tmdb_id": 482150,
+        "kitsu_id": "13618"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/liz-et-l-oiseau-bleu/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/liz-et-l-oiseau-bleu/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5411287"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/c5mth11ywbm8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
