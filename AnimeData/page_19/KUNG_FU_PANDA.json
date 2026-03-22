@@ -1,0 +1,56 @@
+{
+  "nom": "KUNG FU PANDA",
+  "type": "Autres",
+  "genres": [
+    "Action",
+    "Animation",
+    "Famille",
+    "Art-martiaux"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kung-fu-panda",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kung-fu-panda.jpg",
+  "noms_alt": [],
+  "synopsis": "Passionné, costaud et quelque peu maladroit, Po est sans conteste le plus grand fan de kung fu. Serveur dans le restaurant de nouilles de son père, son habileté reste encore à prouver. Elu pour accomplir une ancienne prophétie, Po rejoint le monde du kung fu afin d'apprendre les arts martiaux auprès de ses idoles, les légendaires Cinq Cyclones : Tigresse, Grue, Mante, Vipère et Singe, sous les ordres de leur professeur et entraîneur, Maître Shifu. Mais Taï Lung, le léopard des neiges fourbe et animé d'un désir de vengeance, approche à grands pas, et c'est Po qui sera chargé de défendre la vallée face à cette menace grandissante.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 48339,
+    "tmdb_id": 39898,
+    "kitsu_id": "3729"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 44907,
+        "tmdb_id": 49444,
+        "kitsu_id": "46151"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/kung-fu-panda/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kung-fu-panda/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Kung Fu Panda 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Kung Fu Panda 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Kung Fu Panda 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Kung Fu Panda 4",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
