@@ -4,6 +4,7 @@ import json
 import re
 import os
 import time
+import subprocess
 from datetime import datetime
 from playwright.async_api import async_playwright
 
@@ -36,18 +37,52 @@ def log(msg):
 # ══════════════════════════════════════════════════════════════
 #  SAUVEGARDE PROGRESSIVE — 1 fichier JSON par animé
 # ══════════════════════════════════════════════════════════════
+def git_push(path, message):
+    """Push immédiat d'un fichier vers GitHub."""
+    try:
+        subprocess.run(["git", "add", path], check=True, capture_output=True)
+        # Vérifier s'il y a quelque chose à commiter
+        result = subprocess.run(
+            ["git", "diff", "--staged", "--quiet"],
+            capture_output=True
+        )
+        if result.returncode != 0:
+            # Il y a des changements à commiter
+            subprocess.run(["git", "commit", "-m", message],
+                           check=True, capture_output=True)
+            # Push avec retry
+            for attempt in range(3):
+                try:
+                    subprocess.run(
+                        ["git", "pull", "--rebase", "origin", "main"],
+                        check=True, capture_output=True
+                    )
+                    subprocess.run(
+                        ["git", "push", "origin", "main"],
+                        check=True, capture_output=True
+                    )
+                    break
+                except subprocess.CalledProcessError:
+                    if attempt == 2:
+                        log(f"  push failed after 3 attempts: {path}")
+                    time.sleep(2 * (attempt + 1))
+    except subprocess.CalledProcessError as e:
+        log(f"  git error: {e.stderr.decode()[:100] if e.stderr else str(e)}")
+
+
 def save_anime(anime, page_num):
-    """Sauvegarde immédiate d'un animé dès qu'il est scraped."""
+    """Sauvegarde + push immédiat dès qu'un animé est scraped."""
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    # Dossier par page
     page_dir = os.path.join(OUTPUT_DIR, f"page_{page_num}")
     os.makedirs(page_dir, exist_ok=True)
-    # Nom de fichier sûr
     safe = re.sub(r'[^\w\-]', '_', anime["nom"])[:80]
     path = os.path.join(page_dir, f"{safe}.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(anime, f, ensure_ascii=False, indent=2)
     log(f"  saved {path}")
+    # Push immédiat vers GitHub
+    msg = f"anime: {anime['nom'][:50]} [p{page_num}]"
+    git_push(path, msg)
 
 def save_page_summary(animes, page_num, elapsed):
     """Sauvegarde le fichier page_N.json global une fois tout terminé."""
