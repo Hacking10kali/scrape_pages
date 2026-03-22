@@ -1,0 +1,86 @@
+{
+  "nom": "MASTER KEATON",
+  "type": "Scans",
+  "genres": [
+    "Seinen - Aventure - Drame - Historique - Mystère - Détective - Militaire - Police"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/master-keaton",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/master-keaton.jpg",
+  "noms_alt": [],
+  "synopsis": "Taichi Hiraga-Keaton est un inspecteur en assurance très réputé. Diplômé d'Oxford, cet archéologue et ancien membre du SAS accumule les connaissances. Mais c'est avant tout un homme doué d'un sens logique et d'un esprit de déduction hors du commun. Il a choisi de mettre ses qualités au service de la Lloyd's, la célèbre compagnie d'assurances londonienne. C'est ainsi que Master Keaton parcourt le monde pour résoudre des enquêtes toutes plus troubles les unes que les autres.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1483,
+    "tmdb_id": 34674,
+    "kitsu_id": "1329"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1483,
+        "tmdb_id": null,
+        "kitsu_id": "1329"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/master-keaton/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/master-keaton/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Remaster",
+      "titreComplet": "Remaster",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1483,
+        "tmdb_id": null,
+        "kitsu_id": "1329"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/master-keaton/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/master-keaton/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
