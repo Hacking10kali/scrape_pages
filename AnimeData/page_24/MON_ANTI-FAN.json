@@ -1,0 +1,43 @@
+{
+  "nom": "MON ANTI-FAN",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Comédie",
+    "Drame",
+    "Romance",
+    "Amour",
+    "Idols"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/mon-anti-fan",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mon-anti-fan.jpg",
+  "noms_alt": [
+    "SO I MARRIED AN ANTI-FAN",
+    "GEURAESEO NANEUN ANTIPAENGWA GYEOLHONHAESSD"
+  ],
+  "synopsis": "Lee Geun Young, une femme moderne, a du mal à joindre les deux bouts en travaillant comme une humble journaliste pour un magazine. Elle vit avec un ami et paye à peine son loyer chaque mois. D'un autre côté, le sex-symbol masculin Joon Hoo monte actuellement au sommet du monde : ses films deviennent des succès instantanés, les femmes l'adorent, son image publique reste impeccable ... Une nuit, il tombe sur Geun Young dans un club. Elle prend accidentellement une photo de Joon Hoo rejetant une jeune fille au cœur brisé. Il est prêt à tout pour protéger son image, forçant même le magazine de Geun Young à la licencier. Maintenant, malgré la perte de son emploi et de son appartement, la jeune femme intrépide a entrepris une nouvelle mission dans la vie : détruire Joon Hoo à tout prix.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4962,
+    "tmdb_id": 122978,
+    "kitsu_id": "9461"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4962,
+        "tmdb_id": null,
+        "kitsu_id": "9461"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/mon-anti-fan/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mon-anti-fan/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
