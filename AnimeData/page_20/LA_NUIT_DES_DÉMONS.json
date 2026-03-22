@@ -1,0 +1,45 @@
+{
+  "nom": "LA NUIT DES DÉMONS",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "Fantasy",
+    "Surnaturel",
+    "Autre monde",
+    "Combats",
+    "Magie",
+    "Monstres"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/la-nuit-des-demons",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/la-nuit-des-demons.jpg",
+  "noms_alt": [
+    "DOKKAEBIUI BAM"
+  ],
+  "synopsis": "Après 666 ans, le règne du roi des démons arrive à sa fin, et les lois qu'il a prodiguées seront, elles aussi, abolies. Parmi les règles qu'il a mises en place se trouve la règle des 500 ans qui interdit à toutes créatures surnaturelles de se rendre dans le monde des humains. La nuit où son règne prendra fin, toutes les créatures pourront donc retourner dans le monde des humains et y semer le chaos. Pour éviter cela et protéger ses proches, Choi Si Woo, un demi-démon, va essayer de devenir le prochain roi.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 649,
+    "tmdb_id": null,
+    "kitsu_id": "41370"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 649,
+        "tmdb_id": null,
+        "kitsu_id": "41370"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/la-nuit-des-demons/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/la-nuit-des-demons/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
