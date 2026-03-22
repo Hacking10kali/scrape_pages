@@ -1,0 +1,45 @@
+{
+  "nom": "KILLER PETER",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Drame",
+    "Mystère",
+    "Thriller",
+    "Arts martiaux",
+    "Assassinat",
+    "Combats",
+    "Vengeance"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/killer-peter",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/killer-peter.jpg",
+  "noms_alt": [
+    "KILLER BADRO",
+    "KILLER PEDRO"
+  ],
+  "synopsis": "Le tueur à gages légendaire Peter a tout perdu. Il est maintenant vieux, malade et démuni. L'association Gloire, pour qui il a dévoué sa vie, lui a pris tout ce qu'il possédait et a même mis sa tête à prix. Aux portes de la mort, il retrouve tout à coup sa jeunesse et la force qu'il avait quand il était au sommet. Alors que l'association Gloire lance tous ses tueurs à la poursuite du vieux Peter, il va s'infiltrer et redevenir un tueur dans un seul but, la vengeance.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40436,
+    "tmdb_id": 202613,
+    "kitsu_id": "27"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62964,
+        "tmdb_id": null,
+        "kitsu_id": "7712"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/killer-peter/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/killer-peter/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
