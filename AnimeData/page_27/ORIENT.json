@@ -1,0 +1,63 @@
+{
+  "nom": "ORIENT",
+  "type": "Anime, Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Historique",
+    "Shônen",
+    "Amitié",
+    "Combats",
+    "Démons",
+    "Histoire",
+    "Samouraïs"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/orient",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/orient.jpg",
+  "noms_alt": [
+    "ORIENT",
+    "SAMURAI QUEST"
+  ],
+  "synopsis": "Le monde est aux mains des oni, d'effroyables démons pourtant vénérés comme des dieux par le peuple, qui ignore tout de leur nature maléfique ! La vérité, seuls les bushi, de valeureux guerriers, la connaissent. Mais ces combatstants sont traités en parias et condamnés à vivre dans la honte, de peur qu'ils ne renversent l'ordre établi. Cela n'empêche pas Musashi de rêver avec Kojirô, son ami d'enfance et descendant de bushi, de parvenir un jour à libérer le Japon en mettant un terme au joug des oni ! Ensemble, ils se sont jurés de fonder le plus puissant des clans de bushi. C'est ici que commence leur quête.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 45560,
+    "tmdb_id": 235555,
+    "kitsu_id": "44205"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 partie 1",
+      "titreComplet": "Saison 1 partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 45560,
+        "tmdb_id": 235555,
+        "kitsu_id": "44205"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/orient/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/orient/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 partie 2",
+      "titreComplet": "Saison 1 partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 45560,
+        "tmdb_id": 235555,
+        "kitsu_id": "44205"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/orient/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/orient/saison1-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}
