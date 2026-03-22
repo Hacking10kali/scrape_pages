@@ -1,0 +1,46 @@
+{
+  "nom": "NANBA MG5",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Comédie",
+    "Drame",
+    "Slice of Life",
+    "Combats",
+    "Délinquance",
+    "Ecole",
+    "School Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/nanba-mg5",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/nanba-mg5.jpg",
+  "noms_alt": [
+    "NUMBER MG5"
+  ],
+  "synopsis": "Né dans une famille de délinquants, toute la famille s'attend à ce que Tsuyoshi marche dans les pas de son grand frère, mais celui-ci a pour unique rêve de mener une vie de lycéen ordinaire loin des embrouilles et des bastons. À l'insu de sa famille très protectrice de ses coutumes 'Fury?', Tsuyoshi Nanba s'est inscrit dans un lycée tout à fait normal pour goûter à la jeunesse qu'il n'a jamais eue. Mais les ennuis sont toujours au coin de rue et Tsuyoshi apprendra que concilier ses deux personnalités n'est pas une chose facile",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 877,
+    "tmdb_id": 194817,
+    "kitsu_id": "6729"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 877,
+        "tmdb_id": null,
+        "kitsu_id": "6729"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/nanba-mg5/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nanba-mg5/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
