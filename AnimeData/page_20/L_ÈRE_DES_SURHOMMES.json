@@ -1,0 +1,42 @@
+{
+  "nom": "L'ÈRE DES SURHOMMES",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Fantasy",
+    "Combats",
+    "Monstres",
+    "Super-héros"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/l-ere-des-surhommes",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/l-ere-des-surhommes.jpg",
+  "noms_alt": [
+    "THE ERA OF OVERMAN"
+  ],
+  "synopsis": "Des monstres, des surhommes, et un monde à sauver. Bienvenue dans l'ère des surhommes",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": "13881"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "13881"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/l-ere-des-surhommes/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/l-ere-des-surhommes/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
