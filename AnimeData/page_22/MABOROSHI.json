@@ -1,0 +1,58 @@
+{
+  "nom": "MABOROSHI",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Surnaturel",
+    "Adolescence",
+    "Amour",
+    "Ecole",
+    "Triangle amoureux"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/maboroshi",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/maboroshi.jpg",
+  "noms_alt": [
+    "ALICE TO THERESE NO MABOROSHI KOUJOU"
+  ],
+  "synopsis": "Il s'agit de l'histoire de jeunes personnes qui se démènent dans un monde instable et qui luttent contre le destin avec l'amour comme arme.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 27965,
+    "tmdb_id": 86034,
+    "kitsu_id": "9991"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 49303,
+        "tmdb_id": 333401,
+        "kitsu_id": "44823"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/maboroshi/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/maboroshi/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5407917"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/99qnq9v69e35"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
