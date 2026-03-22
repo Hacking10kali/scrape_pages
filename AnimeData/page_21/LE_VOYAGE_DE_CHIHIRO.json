@@ -1,0 +1,60 @@
+{
+  "nom": "LE VOYAGE DE CHIHIRO",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Ghibli",
+    "Romance",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-voyage-de-chihiro",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-voyage-de-chihiro.jpg",
+  "noms_alt": [
+    "SPIRITED AWAY",
+    "SEN TO CHIHIRO NO KAMIKAKUSHI"
+  ],
+  "synopsis": "Chihiro, une petite fille d'une dizaine d'années, déménage vers une nouvelle ville. Sur le chemin, ses parents décident de couper par la forêt afin de gagner du temps. Ils se retrouvent alors dans un tunnel qui débouche dans un endroit curieux, aux allures d'ancien quartier traditionnel, mais complètement inhabité. Ils sont en réalité arrivés dans le monde des esprits ! Fourbus par le voyage, les parents de Chihiro, qui ne se doutent de rien, décident de se restaurer avec la nourriture curieusement abondante. A la nuit tombante, les esprits se réveillent et un maléfice touche les parents de l'enfant, les transformant en cochons. Isolée et bloquée dans ce monde, Chihiro doit trouver un moyen de survivre et de sauver ses parents. Une rencontre inattendue pourrait bien l'aider à accomplir ces objectifs, mais le \"voyage\" ne sera pas de tout repos pour elle...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2151,
+    "tmdb_id": null,
+    "kitsu_id": "7982"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 199,
+        "tmdb_id": 129,
+        "kitsu_id": "45649"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-voyage-de-chihiro/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-voyage-de-chihiro/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4917201"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/0tt01yi0f83w"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
