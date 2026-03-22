@@ -73,7 +73,11 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+          # Stager les fichiers EN PREMIER avant le pull
           git add AnimeData/
+          # Pull avec rebase seulement s'il y a des commits distants
+          git fetch origin main
+          git rebase origin/main || (git rebase --abort && git reset HEAD AnimeData/ && git checkout -- . && git pull --ff-only origin main && git add AnimeData/)
           git diff --staged --quiet || git commit -m "scrape: page ${{ steps.page.outputs.num }} [$(date +'%Y-%m-%d %H:%M')]"
-          git push
+          # Push avec retry en cas de conflit
+          git push || (git pull --rebase origin main && git push)
