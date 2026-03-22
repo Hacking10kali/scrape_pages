@@ -1,0 +1,46 @@
+{
+  "nom": "LA DUCHESSE DÉCHUE",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Drame",
+    "Mystère",
+    "Psychologique",
+    "Romance",
+    "Surnaturel",
+    "Amour",
+    "Combats",
+    "Royauté"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/la-duchesse-dechue",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/la-duchesse-dechue.jpg",
+  "noms_alt": [
+    "I WANNA BE U",
+    "YOUR THRONE"
+  ],
+  "synopsis": "\"L'impératrice, c'est moi...!\" Médeïa est la fille du duc de Belliard et a été choisie comme épouse du prince jusqu'au jour où Psyché est arrivée.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 649,
+    "tmdb_id": null,
+    "kitsu_id": "6859"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 649,
+        "tmdb_id": null,
+        "kitsu_id": "6859"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/la-duchesse-dechue/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/la-duchesse-dechue/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
