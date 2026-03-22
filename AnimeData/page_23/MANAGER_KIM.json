@@ -1,0 +1,43 @@
+{
+  "nom": "MANAGER KIM",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Fantasy",
+    "Mystère",
+    "Science-fiction",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/manager-kim",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/manager-kim.jpg",
+  "noms_alt": [
+    "DIRECTEUR KIM"
+  ],
+  "synopsis": "« S'il vous plaît ne touchez pas le mec qui porte des lunettes... ». Le directeur du département Kim, a quitté son travail d'agent secret pour élever sa fille Minji et a choisi de vivre une vie ‘normale'. Mais un jour, Minji disparaît sans dire un mot, le Manager Kim se met alors à la recherche de sa fille, faisant du pays entier son ennemi.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37338,
+    "tmdb_id": 296206,
+    "kitsu_id": "13719"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 37338,
+        "tmdb_id": null,
+        "kitsu_id": "13719"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/manager-kim/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/manager-kim/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
