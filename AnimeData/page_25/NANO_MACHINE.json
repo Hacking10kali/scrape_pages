@@ -1,0 +1,41 @@
+{
+  "nom": "NANO MACHINE",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Fantaisie",
+    "Science-fiction",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/nano-machine",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/nano-machine.jpg",
+  "noms_alt": [],
+  "synopsis": "Cheon Yeo Woon est un successeur illégitime d'un culte démoniaque, sans force ni compétence en art martial. Pourtant, il se fait poursuivre par des assassins envoyés par un de ses concurrents et au moment où il perd tout espoir de vivre, un homme mystérieux venant du futur lui injecte une nanomachine dans son corps. Avec cette technologie de dernière minute ainsi injectée, parviendra-t-il à surpasser ses compétences physiques innées et devenir le plus fort pour enfin prendre la place du second Cheonma, le chef suprême des démons ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 46391,
+    "tmdb_id": null,
+    "kitsu_id": "9672"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 46391,
+        "tmdb_id": null,
+        "kitsu_id": "9672"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/nano-machine/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nano-machine/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
