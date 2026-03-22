@@ -1,0 +1,57 @@
+{
+  "nom": "PENGUIN HIGHWAY",
+  "type": "Anime, Film",
+  "genres": [
+    "Comédie",
+    "Fantastique",
+    "Mystère",
+    "Romance",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/penguin-highway",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/penguin-highway.jpg",
+  "noms_alt": [
+    "LE MYSTÈRE DES PINGOUINS"
+  ],
+  "synopsis": "L'histoire suit le quotidien de Aoyama, un garçonnet qui s'est pris d'amour pour une jeune femme bien plus âgée que lui, qui vit dans son quartier et exerce le métier d'assistante dentaire. Son petit quotidien se voit bouleversé lorsque des manchots débarquent en ville ! Il décide alors de tenter de résoudre cette affaire : d'où viennent-ils et que sont-ils venus faire ici ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 50522,
+    "tmdb_id": null,
+    "kitsu_id": "3557"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 37407,
+        "tmdb_id": 508422,
+        "kitsu_id": "41007"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/penguin-highway/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/penguin-highway/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4878056\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/d4up1lyhmllk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
