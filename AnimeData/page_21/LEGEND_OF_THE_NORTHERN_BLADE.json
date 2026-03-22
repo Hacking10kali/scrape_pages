@@ -1,0 +1,42 @@
+{
+  "nom": "LEGEND OF THE NORTHERN BLADE",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Combats",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/legend-of-the-northern-blade",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/legend-of-the-northern-blade.jpg",
+  "noms_alt": [
+    "BUKGEOMJEONGI"
+  ],
+  "synopsis": "L'épée qui tranche les cieux. Depuis des décennies la secte céleste du nord se bat pour protéger le monde de la démoniaque Nuit Silencieuse. Mais le jour où le chef de la quatrième génération se retrouve accusé par l'alliance céleste d'avoir collaboré avec l'ennemi, il est obligé de dissoudre la secte et de s'ôter la vie pour protéger son fils, Moo Won. Laissé seul, sans famille ni alliés, Moo Won vit une vie morose, sous haute surveillance... jusqu'au moment où une attaque surprise de la Nuit Silencieuse lui donne une chance de s'échapper dans les montagnes. Là-bas, le jeune guerrier s'entraîne afin de maîtriser les techniques de combats de ses prédécesseurs, jusqu'à ce que la mort d'un être cher le ramène sur ses anciennes terres. Suivez l'histoire de Moo Won, dans sa quête d'héroïsme et de vengeance, tandis qu'il se bat pour éliminer ceux qui ont trahi son père, et les démons menaçant de plonger le monde dans l'obscurité !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 48441,
+    "tmdb_id": null,
+    "kitsu_id": "45394"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 48441,
+        "tmdb_id": null,
+        "kitsu_id": "45394"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/legend-of-the-northern-blade/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/legend-of-the-northern-blade/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
