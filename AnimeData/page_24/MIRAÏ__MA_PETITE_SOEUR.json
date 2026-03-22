@@ -1,0 +1,49 @@
+{
+  "nom": "MIRAÏ, MA PETITE SOEUR",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Fantastique",
+    "Science-fiction"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/mirai-ma-petite-soeur",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mirai-ma-petite-soeur.jpg",
+  "noms_alt": [
+    "MIRAI IN THE FUTURE",
+    "MIRAI NO MIRAI",
+    "MIRAÏ MA PETITE SOEUR",
+    "MIRAI MA PETITE SOEUR"
+  ],
+  "synopsis": "Kun est un petit garçon à l'enfance heureuse jusqu'à l'arrivée de Miraï, sa petite soeur. Jaloux de ce bébé qui monopolise l'attention de ses parents, il se replie peu à peu sur lui-même. Au fond de son jardin, où il se réfugie souvent, se trouve un arbre généalo-ma-gique. Soudain, Kun est propulsé dans un monde fantastique où vont se mêler passé et futur. Il rencontrera tour à tour ses proches à divers âges de leur vie : sa mère petite fille, son arrière grand-père dans sa trépidante jeunesse et sa petite soeur adolescente ! A travers ces aventures, Kun va découvrir sa propre histoire.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 36936,
+    "tmdb_id": null,
+    "kitsu_id": "42321"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 36936,
+        "tmdb_id": 475215,
+        "kitsu_id": "7167"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/mirai-ma-petite-soeur/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mirai-ma-petite-soeur/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
