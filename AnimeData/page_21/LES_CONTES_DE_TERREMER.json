@@ -1,0 +1,57 @@
+{
+  "nom": "LES CONTES DE TERREMER",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Ghibli",
+    "Fantasy"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-contes-de-terremer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-contes-de-terremer.jpg",
+  "noms_alt": [
+    "GEDO SENKI",
+    "TALES FROM EARTHSEA"
+  ],
+  "synopsis": "L'histoire se déroule à Terremer, un monde imaginaire peuplé d'êtres humains et de dragons. Le premier film de Gorō Miyazaki, fils du célèbre Hayao Miyazaki, narre la jeunesse du prince Arren, de son initiation au mystère de la magie à la libération de son double malfaisant...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": null,
+    "kitsu_id": "1875"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1829,
+        "tmdb_id": 37933,
+        "kitsu_id": "46195"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/les-contes-de-terremer/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-contes-de-terremer/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4960858"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/kb1xe3rgro9d"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
