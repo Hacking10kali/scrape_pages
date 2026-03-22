@@ -1,0 +1,44 @@
+{
+  "nom": "LECTEUR OMNISCIENT",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/lecteur-omniscient",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lecteur-omniscient.jpg",
+  "noms_alt": [
+    "OMNISCIENT READER",
+    "OMNISCIENT READER'S VIEWPOINT",
+    "ORV"
+  ],
+  "synopsis": "Moi seul connais la fin de ce monde. Au moment où Kim Dok Ja eut cette pensée, le monde a été détruit et le monde de son webnovel préféré est apparu. Que fait-il pour survivre ? C'est un monde frappé par la catastrophe et le danger. La nouvelle vie d'un lecteur ordinaire commence dans le monde de l'histoire qu'il est le seul à avoir lu jusqu'à la fin. Lisez son histoire pour voir comment il survit !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 6444,
+    "tmdb_id": null,
+    "kitsu_id": "4564"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 6444,
+        "tmdb_id": null,
+        "kitsu_id": "4564"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/lecteur-omniscient/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/lecteur-omniscient/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
