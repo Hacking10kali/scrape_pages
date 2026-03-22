@@ -1,0 +1,56 @@
+{
+  "nom": "LE BATEAU DE THESÉE",
+  "type": "Scans",
+  "genres": [
+    "Seinen - Drame - Fantastique - Mystère - Psychologique - Thriller - Tragique - Crime - Enquête - Famille - Mort - Voyage temporel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-bateau-de-thesee",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-bateau-de-thesee.jpg",
+  "noms_alt": [
+    "SHIP OF THESEUS"
+  ],
+  "synopsis": "24 juin 1989. Une effroyable affaire d'empoisonnement au cyanure de potassium frappe l'école primaire du village d'Oto Usu (département de Hokkaido), faisant 21 victimes. Le coupable désigné est le policier du village, un certain Bungo Sano. Vingt-huit ans après les faits, son fils, Shin, se rend à Hokkaido pour rencontrer ce père qui a toujours clamé son innocence. Mais auparavant, Shin décide de faire un crochet par Oto Usu, où il se trouve brusquement enveloppé dans un épais brouillard. Lorsque ce dernier se retire, le jeune homme se retrouve devant l'école primaire d'Oto Usu, qui est censée avoir été rasée après le drame. En réalité, Shin a été mystérieusement transporté dans le village tel qu'il existait, six mois avant la tragédie !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1013,
+    "tmdb_id": null,
+    "kitsu_id": "7982"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1013,
+        "tmdb_id": null,
+        "kitsu_id": "7982"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/le-bateau-de-thesee/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-bateau-de-thesee/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
