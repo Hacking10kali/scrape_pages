@@ -1,0 +1,57 @@
+{
+  "nom": "LE ROYAUME DES CHATS",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Ghibli",
+    "Fantasy"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/le-royaume-des-chats",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-royaume-des-chats.jpg",
+  "noms_alt": [
+    "NEKO NO ONGAESHI",
+    "THE CAT RETURNS",
+    "THE CAT'S REPAYMENT"
+  ],
+  "synopsis": "Haru est une collégienne maladroite pour qui la vie n'est pas toujours rose. Un jour, en rentrant chez elle, elle sauve un chat sur le point de se faire écraser. Mais une fois hors de danger, le chat lui fait une révérence et la remercie ! Elle n'est pas au bout de ses surprises, car elle vient de sauver la vie au prince des chats...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1013,
+    "tmdb_id": null,
+    "kitsu_id": "1126"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 597,
+        "tmdb_id": 15370,
+        "kitsu_id": "44191"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/le-royaume-des-chats/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/le-royaume-des-chats/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5366076"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/92gy55hskfgw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
