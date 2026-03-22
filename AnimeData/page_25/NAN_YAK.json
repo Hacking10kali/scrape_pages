@@ -1,0 +1,44 @@
+{
+  "nom": "NAN YAK",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Fantastique",
+    "Horreur",
+    "Surnaturel",
+    "Combats",
+    "Monstres",
+    "Secrets"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/nan-yak",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/nan-yak.jpg",
+  "noms_alt": [
+    "PROMISED ORCHID"
+  ],
+  "synopsis": "Yang Jae Shin fait toujours le même rêve d'une femme lui disant qu'elle attendra. Un jour, il rencontre une mystérieuse diseuse de bonne aventure qui lui dit qu'il ne peut pas éviter le destin et lui laisse quelques conseils: pour le chemin qu'il entreprend, Jae Sin doit garder avec lui \"les yeux qui peuvent voir la vérité isolée\".",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63174,
+    "tmdb_id": null,
+    "kitsu_id": "2323"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 63174,
+        "tmdb_id": null,
+        "kitsu_id": "2323"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/nan-yak/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nan-yak/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
