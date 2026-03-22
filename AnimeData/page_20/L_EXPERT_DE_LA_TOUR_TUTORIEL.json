@@ -1,0 +1,45 @@
+{
+  "nom": "L'EXPERT DE LA TOUR TUTORIEL",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Arts martiaux",
+    "Assassinat",
+    "Combats",
+    "Magie",
+    "Monstres"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/l-expert-de-la-tour-tutoriel",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/l-expert-de-la-tour-tutoriel.jpg",
+  "noms_alt": [
+    "THE ADVANCED PLAYER OF THE TUTORIAL TOWER"
+  ],
+  "synopsis": "Après 12 ans d'enfermement dans la tour tutoriel, le monde m'appelait en tant qu'expert. Maintenant que je sors, ma vraie aventure commence !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1531,
+    "tmdb_id": null,
+    "kitsu_id": "210"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "210"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/l-expert-de-la-tour-tutoriel/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/l-expert-de-la-tour-tutoriel/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
