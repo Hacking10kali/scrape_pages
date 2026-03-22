@@ -1,0 +1,36 @@
+{
+  "nom": "LUMINE",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Fantastique"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/lumine",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lumine.jpg",
+  "noms_alt": [],
+  "synopsis": "Un loup-garou, Lumine, rencontre un sorcier nommé Kody et est embauché comme son garde du corps. Lumine tente tout pour gagner la confiance de Kody afin de devenir son ami tandis que le protégé essaie de le repousser. Leur vie se complique davantage après un événement regrettable qui les laisse survivre seuls.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38006,
+    "tmdb_id": 93655,
+    "kitsu_id": "44192"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/lumine/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/lumine/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
