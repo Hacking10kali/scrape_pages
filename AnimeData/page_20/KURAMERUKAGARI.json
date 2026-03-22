@@ -1,0 +1,53 @@
+{
+  "nom": "KURAMERUKAGARI",
+  "type": "Film, Anime",
+  "genres": [
+    "Surnaturel",
+    "Aventure",
+    "Action",
+    "Steampunk"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kuramerukagari",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kuramerukagari.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire se déroule dans une ville minière ayant la particularité de changer de configuration chaque jour, tel un labyrinthe. Kagari, une cartographe particulièrement douée, rencontre un jour Yuya, qui rêve de quitter la ville.",
+  "bande_annonce": "https://www.youtube.com/embed/RdqalaTqu18",
+  "ids": {
+    "jikan_id": 57478,
+    "tmdb_id": null,
+    "kitsu_id": "48654"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 57478,
+        "tmdb_id": 1250784,
+        "kitsu_id": "48654"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kuramerukagari/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kuramerukagari/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5505651"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/247l1oed"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
