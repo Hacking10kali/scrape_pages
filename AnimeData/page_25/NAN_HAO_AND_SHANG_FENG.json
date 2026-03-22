@@ -1,0 +1,41 @@
+{
+  "nom": "NAN HAO AND SHANG FENG",
+  "type": "Scans",
+  "genres": [
+    "Comédie",
+    "School Life",
+    "Shônen-ai",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/nan-hao-and-shang-feng",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/nan-hao-and-shang-feng.jpg",
+  "noms_alt": [
+    "NAN HAO SHANG FENG"
+  ],
+  "synopsis": "Suivez l'histoire de deux lycéens ordinaires et de leur amie fujoshi.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63174,
+    "tmdb_id": null,
+    "kitsu_id": "2323"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 63174,
+        "tmdb_id": null,
+        "kitsu_id": "2323"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/nan-hao-and-shang-feng/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/nan-hao-and-shang-feng/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
