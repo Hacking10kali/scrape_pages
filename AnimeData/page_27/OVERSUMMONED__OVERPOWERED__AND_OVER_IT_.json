@@ -1,0 +1,55 @@
+{
+  "nom": "OVERSUMMONED, OVERPOWERED, AND OVER IT!",
+  "type": "Scans",
+  "genres": [
+    "Action - Drame - Fantaisie - Surnaturel - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/oversummoned-overpowered-and-over-it",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/oversummoned-overpowered-and-over-it.jpg",
+  "noms_alt": [
+    "SURINVOQUÉ & SURPUISSANT",
+    "SUMMONED TO A PARALLEL FANTASY WORLD MANY TIMES (TSUGUTOKU)"
+  ],
+  "synopsis": "Inori, simple lycéen, est envoyé avec ses camarades dans un autre monde par une déesse. Étrangement, seul Inori ne cesse d'être invoqué et ces invocations lui font gagner de différents pouvoirs. C'est alors, en un temps de record, il devient un être surpuissant.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 48542,
+    "tmdb_id": null,
+    "kitsu_id": "5583"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "2946"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/oversummoned-overpowered-and-over-it/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/oversummoned-overpowered-and-over-it/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
