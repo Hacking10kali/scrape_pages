@@ -1,0 +1,56 @@
+{
+  "nom": "PART-TIME GRIM REAPER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Aventure - Comédie - Drame - Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/part-time-grim-reaper",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/part-time-grim-reaper.jpg",
+  "noms_alt": [
+    "CONTRACT WORKER FROM THE UNDERWORLD"
+  ],
+  "synopsis": "« Je suis ici en mission... de l'au-delà. » Lee Do-jin est un jeune homme ordinaire dont la vie bascule brusquement lorsque son petit frère tombe gravement malade. Accablé par des factures médicales écrasantes, Do-jin se retrouve au pied du mur, prêt à tout pour un miracle. Un jour, il tombe par hasard sur une étrange carte de visite. Sur un coup de tête, il décide de contacter le numéro indiqué. Au lieu de rendez-vous, il fait la rencontre d'une mystérieuse femme aux cheveux argentés — une faucheuse. Elle lui propose un emploi pour le moins inhabituel : devenir un intérimaire de l'au-delà. Sa mission ? Traquer les Mokdugi, des dévoreurs d'âmes tordus qui se nourrissent des humains pécheurs. Plongé dans un monde secret peuplé d'esprits, de monstres et de contrats divins, Do-jin devra se battre non seulement pour survivre... mais surtout pour protéger ce qu'il aime le plus.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 33341,
+    "tmdb_id": null,
+    "kitsu_id": "44035"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 33341,
+        "tmdb_id": null,
+        "kitsu_id": "44035"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/part-time-grim-reaper/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/part-time-grim-reaper/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
