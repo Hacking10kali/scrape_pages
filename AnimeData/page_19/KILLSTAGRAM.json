@@ -1,0 +1,41 @@
+{
+  "nom": "KILLSTAGRAM",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Thriller",
+    "Harcèlement"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/killstagram",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/killstagram.jpg",
+  "noms_alt": [
+    "SALSSTAGRAM"
+  ],
+  "synopsis": "Remi Do a tout pour elle. Elle a la beauté qui lui permet d'avoir les sponsors des meilleures marques sur les réseaux sociaux et d'obtenir 10 000 likes en quelques secondes à chaque fois qu'elle publie un selfie. Et comme toute beauté qui se respecte, elle a évidemment un dangereux harceleur qui veut la tuer !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": null
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/killstagram/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/killstagram/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
