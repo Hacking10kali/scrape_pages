@@ -1,0 +1,59 @@
+{
+  "nom": "NIGHT OF THE SOULLESS HEATHENS",
+  "type": "Scans",
+  "genres": [
+    "Webcomic - Manhwa - Action - Aventure - Comédie - Drame - Fantasy - Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/night-of-the-soulless-heathens",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/night-of-the-soulless-heathens.jpg",
+  "noms_alt": [
+    "L'HÉRITAGE ÉCLIPSAIT DU MESSAGER SANS ÂME",
+    "LE LEGS ÉCLIPSAIT DU MESSAGER SANS ÂME",
+    "NUIT DES SAUVAGES SANS ÂME",
+    "THE SHADOWED LEGACY OF THE SOULLESS MESSENGER"
+  ],
+  "synopsis": "Le clan Herald est un clan d'intouchables, persécutés comme des hérétiques sans âme. Pour se libérer de la malédiction dont ils ont hérité, ils ont parcouru le continent afin de rassembler les Pièces d'Or de l'Empereur. Et même parmi les hérétiques, c'est Azadin qui porte la pire des malédictions. N'ayant aucun talent pour la magie, il est devenu le héraut le moins gradé grâce aux compétences que lui a enseignées un ancien. Il parcourut le continent, exauçant les souhaits des entrepreneurs en échange des pièces d'or de l'empereur. C'est alors qu'apparaît un grimoire capable de réaliser les souhaits du clan, et que la rébellion de sa soeur jumelle Arael dévoile lentement une grande conspiration cachée depuis toujours.... Comment l'hérétique Azadin résistera-t-il à la destruction qui s'annonce ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 58197,
+    "tmdb_id": null,
+    "kitsu_id": "44081"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 58197,
+        "tmdb_id": null,
+        "kitsu_id": "44081"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/night-of-the-soulless-heathens/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/night-of-the-soulless-heathens/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
