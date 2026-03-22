@@ -1,0 +1,59 @@
+{
+  "nom": "MYST MIGHT MAYHEM",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Action - Drame - Fantasy - Historique - Arts martiaux - Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/myst-might-mayhem",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/myst-might-mayhem.jpg",
+  "noms_alt": [
+    "GOERYEOK NANSIN",
+    "MYST",
+    "MIGHT",
+    "MAYHEM"
+  ],
+  "synopsis": "Jeong possède un talent exceptionnel pour les arts martiaux. Cependant, il possède aussi une passion peu ordinaire: la violence. Il essaie de contenir ce désir jusqu'à un jour son grand-père, le seul qui réussissait à maintenir son humanité, meurt atrocement. L'enlèvement qui suit cette tragédie, lui offre une opportunité de vivre une nouvelle vie. L'histoire du futur assassin légendaire va commencer !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63730,
+    "tmdb_id": null,
+    "kitsu_id": "351"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61931,
+        "tmdb_id": null,
+        "kitsu_id": "351"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/myst-might-mayhem/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/myst-might-mayhem/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
