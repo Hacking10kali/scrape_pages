@@ -1,0 +1,44 @@
+{
+  "nom": "LIGHTNING DEGREE",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/lightning-degree",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lightning-degree.jpg",
+  "noms_alt": [
+    "BIROEDO",
+    "HIRAITOU"
+  ],
+  "synopsis": "Ryu-Yeon a perdu son père à cause d'une maladie alors qu'il n'avait que 10 ans. Avec l'habileté qu'il a apprise de son père, il peut sculpter le bois en des sculptures merveilleusement complexes. Un jour, après avoir terminé les sculptures de ses parents, Ryu-Yeon est interpellé par un homme âgé. Cet homme fut impressionné par ses sculptures. Le vieil homme fit une promesse dans Ryu-Yeon et lui demanda s'il voulait devenir son disciple. Comme Ryu-Yeon n'avait nulle part où aller et voulait profiter au maximum de sa vie, il accepta l'offre du vieil homme.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 32828,
+    "tmdb_id": null,
+    "kitsu_id": "11870"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 32828,
+        "tmdb_id": null,
+        "kitsu_id": "11870"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/lightning-degree/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/lightning-degree/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
