@@ -1,0 +1,50 @@
+{
+  "nom": "MON ONI À MOI",
+  "type": "Anime, Film",
+  "genres": [
+    "Surnaturel - Amitié - Démons"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/mon-oni-a-moi",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mon-oni-a-moi.jpg",
+  "noms_alt": [
+    "MY ONI GIRL",
+    "SUKI DEMO KIRAI NA AMANOJAKU"
+  ],
+  "synopsis": "Hiiragi Yatsuse vient d'entrer au lycée et a bien du mal à se lier d'amitié avec ses nouveaux camarades, jusqu'à ce que sa route croise celle de Tsumugi, une oni.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4962,
+    "tmdb_id": 201213,
+    "kitsu_id": "4688"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 5314,
+        "tmdb_id": 1231574,
+        "kitsu_id": "48617"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/mon-oni-a-moi/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mon-oni-a-moi/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://movearnpre.com/embed/7tmpqh7w3r5a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
