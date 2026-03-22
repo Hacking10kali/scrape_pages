@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       page_offset:
-        description: 'Décalage de pages (0 = pages 1-9, 9 = pages 10-18, 18 = pages 19-27...)'
+        description: 'Décalage (0=pages 1-9, 9=pages 10-18, 18=pages 19-27, 27=pages 28-36, 36=pages 37-43)'
         required: true
         default: '0'
       episode_delay:
@@ -16,31 +16,23 @@ permissions:
   contents: write
 
 jobs:
-  # 9 jobs fixes — chacun traite 1 page
-  # Pour changer les pages : modifier page_offset
-  # page_offset=0  → pages 1-9
-  # page_offset=9  → pages 10-18
-  # page_offset=18 → pages 19-27
-  # page_offset=27 → pages 28-36
-  # page_offset=36 → pages 37-43 (adapter les job_id si besoin)
-
   scrape:
-    name: "Page ${{ matrix.page_num }}"
+    name: "Page ${{ github.event.inputs.page_offset }}+${{ matrix.page_offset_add }}"
     runs-on: ubuntu-latest
     timeout-minutes: 340
     strategy:
-      fail-fast: false   # si 1 job échoue les autres continuent
+      fail-fast: false
       matrix:
         include:
-          - { job_id: 1, page_offset_add: 1 }
-          - { job_id: 2, page_offset_add: 2 }
-          - { job_id: 3, page_offset_add: 3 }
-          - { job_id: 4, page_offset_add: 4 }
-          - { job_id: 5, page_offset_add: 5 }
-          - { job_id: 6, page_offset_add: 6 }
-          - { job_id: 7, page_offset_add: 7 }
-          - { job_id: 8, page_offset_add: 8 }
-          - { job_id: 9, page_offset_add: 9 }
+          - { page_offset_add: 1 }
+          - { page_offset_add: 2 }
+          - { page_offset_add: 3 }
+          - { page_offset_add: 4 }
+          - { page_offset_add: 5 }
+          - { page_offset_add: 6 }
+          - { page_offset_add: 7 }
+          - { page_offset_add: 8 }
+          - { page_offset_add: 9 }
 
     steps:
       - name: Checkout
@@ -63,21 +55,24 @@ jobs:
           echo "num=$PAGE" >> $GITHUB_OUTPUT
           echo "Page number: $PAGE"
 
-      - name: Scrape page ${{ steps.page.outputs.num }}
-        env:
-          PAGE_NUM:       ${{ steps.page.outputs.num }}
-          EPISODE_DELAY:  ${{ github.event.inputs.episode_delay }}
-        run: python scraper.py
-
-      - name: Commit results
+      # Git identity configurée AVANT le scraping
+      # pour que git_push() dans scraper.py fonctionne immédiatement
+      - name: Setup git identity
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # Stager les fichiers EN PREMIER avant le pull
-          git add AnimeData/
-          # Pull avec rebase seulement s'il y a des commits distants
-          git fetch origin main
-          git rebase origin/main || (git rebase --abort && git reset HEAD AnimeData/ && git checkout -- . && git pull --ff-only origin main && git add AnimeData/)
-          git diff --staged --quiet || git commit -m "scrape: page ${{ steps.page.outputs.num }} [$(date +'%Y-%m-%d %H:%M')]"
-          # Push avec retry en cas de conflit
-          git push || (git pull --rebase origin main && git push)
+
+      - name: Scrape page ${{ steps.page.outputs.num }}
+        env:
+          PAGE_NUM:      ${{ steps.page.outputs.num }}
+          EPISODE_DELAY: ${{ github.event.inputs.episode_delay }}
+        run: python scraper.py
+
+      # Push final pour le fichier récapitulatif page_N.json
+      # (les animés individuels sont déjà pushés en temps réel par scraper.py)
+      - name: Push page summary
+        run: |
+          git pull origin main
+          git add AnimeData/page_${{ steps.page.outputs.num }}.json || true
+          git diff --staged --quiet || git commit -m "summary: page ${{ steps.page.outputs.num }} [$(date +'%Y-%m-%d %H:%M')]"
+          git push || true
