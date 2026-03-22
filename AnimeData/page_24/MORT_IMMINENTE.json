@@ -1,0 +1,41 @@
+{
+  "nom": "MORT IMMINENTE",
+  "type": "Scans",
+  "genres": [
+    "Drame",
+    "Isekai",
+    "Réincarnation",
+    "Crime",
+    "Seinen",
+    "Romance"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/mort-imminente",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mort-imminente.jpg",
+  "noms_alt": [
+    "IJE GOT JUKSEUPNIDA"
+  ],
+  "synopsis": "Sans emploi, largué par sa copine, Choi Lee Jae a décidé de se suicider parce qu'il voulait mettre fin à tout. Blâme pour manque de respect à mort, il continue à se réincarner et à mourir. C'est déjà sa 13ème vie, et pourra-t-il réussir à échapper à la mort cette fois-ci ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 29974,
+    "tmdb_id": null,
+    "kitsu_id": "88"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 29974,
+        "tmdb_id": null,
+        "kitsu_id": "88"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/mort-imminente/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mort-imminente/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
