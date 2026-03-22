@@ -1,0 +1,56 @@
+{
+  "nom": "MIGHTIEST MELEE MAGICIAN",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Aventure - Fantasy - School Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/mightiest-melee-magician",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/mightiest-melee-magician.jpg",
+  "noms_alt": [
+    "ALL-STRENGTH MAGICIAN"
+  ],
+  "synopsis": "« Je ne perdrai plus jamais contre personne. » Major de l'Académie de magie d'Ignit. Le plus prometteur des élèves. La plus appliquée de toutes. Plus talentueux que n'importe quel autre magicien. Voilà ce que mon nom signifiait. Tel était le sens de mon nom... jusqu'à mon dixième anniversaire. “Vous souffrez d'un rare cas de ‘Obstruction au relâchement du mana'.” Une malédiction qui transforma le “Génie de la Magie” entré à l'académie avec les meilleures notes en un ‘Le Magicien Inapte'. Mais un miracle s'est produit. “Si je ne peux pas utiliser la magie, je n'ai qu'à leur donner un coup de poing !” Une force oppressante, des poings redoutables, un talent magique exceptionnel. “Je ne perdrai plus jamais contre quiconque.”",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37744,
+    "tmdb_id": null,
+    "kitsu_id": "1399"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1559,
+        "tmdb_id": null,
+        "kitsu_id": "1399"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/mightiest-melee-magician/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/mightiest-melee-magician/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
