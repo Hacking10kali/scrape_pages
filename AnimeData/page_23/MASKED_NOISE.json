@@ -1,0 +1,43 @@
+{
+  "nom": "MASKED NOISE",
+  "type": "Scans",
+  "genres": [
+    "Shôjo",
+    "Drame",
+    "Romance",
+    "School Life",
+    "Chant",
+    "Ecole",
+    "Musique",
+    "Quotidien"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/masked-noise",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/masked-noise.jpg",
+  "noms_alt": [
+    "ANONYMOUS NOISE"
+  ],
+  "synopsis": "Nino Arisugawa est passionnée par le chant. Elle et son meilleur ami d'enfance, Momo, n'arrêtent pas de chanter. Mais un jour, Momo déménage. Nino, qui vit très mal cette séparation, refuse de chanter de nouveau et porte un masque pour s'empêcher de crier. C'est à ce moment-là qu'elle rencontre Yuzu. Il est le seul qui parvient à la faire chanter et décide d'en apprendre plus sur elle afin de l'aider, jusqu'à ce qu'il disparaisse à son tour. Quelques années plus tard, Nino est au lycée et est peut être sur le point de revoir ses deux amis.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 33203,
+    "tmdb_id": null,
+    "kitsu_id": "6557"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61159,
+        "tmdb_id": null,
+        "kitsu_id": "6557"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/masked-noise/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/masked-noise/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
