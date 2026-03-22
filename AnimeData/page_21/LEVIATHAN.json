@@ -1,0 +1,43 @@
+{
+  "nom": "LEVIATHAN",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Fantastique",
+    "Animaux",
+    "Apocalypse",
+    "Monstres"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/leviathan",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/leviathan.jpg",
+  "noms_alt": [
+    "SIMHAESU",
+    "LÉVIATHAN"
+  ],
+  "synopsis": "La Terre est submergée et des monstres marins règnent sur la planète. Bota et sa famille réussiront-ils à trouver un lieu sûr dans cet enfer aquatique ? Et qui est donc la mystérieuse Kana ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 17681,
+    "tmdb_id": 256323,
+    "kitsu_id": "7644"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17681,
+        "tmdb_id": null,
+        "kitsu_id": "7644"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/leviathan/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/leviathan/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
