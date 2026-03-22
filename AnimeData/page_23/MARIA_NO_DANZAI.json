@@ -1,0 +1,43 @@
+{
+  "nom": "MARIA NO DANZAI",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Seinen",
+    "Drame",
+    "Mature",
+    "Psychologique",
+    "School Life",
+    "Harcèlement",
+    "Vengeance"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/maria-no-danzai",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/maria-no-danzai.jpg",
+  "noms_alt": [
+    "SEIBO NO DANZAI"
+  ],
+  "synopsis": "La famille Nagare est une famille à trois d'apparence heureuse. Cependant, le fils Kiritaka cache à ses parents qu'il est cruellement harcelé à l'école. A la suite d'un tragique accident, l'amour bienveillant de sa mère, Mari, va se transformer en une force complétement incontrôlable.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 26441,
+    "tmdb_id": null,
+    "kitsu_id": "8951"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 26441,
+        "tmdb_id": null,
+        "kitsu_id": "8951"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/maria-no-danzai/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/maria-no-danzai/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
