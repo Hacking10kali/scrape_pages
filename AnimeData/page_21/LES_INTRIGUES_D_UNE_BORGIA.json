@@ -1,0 +1,58 @@
+{
+  "nom": "LES INTRIGUES D'UNE BORGIA",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Drame - Fantasy - Historique - Romance - Amitié - Autre monde - Magie - Mariage - Monstres - Religion - Réincarnation / Transmigration - Secrets - Traumatisme"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/les-intrigues-dune-borgia",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-intrigues-dune-borgia.jpg",
+  "noms_alt": [
+    "HOW TO WIN MY HUSBAND OVER"
+  ],
+  "synopsis": "Je suis décédée dans un accident d'hélicoptère, et alors que je pensais être enfin libérée de cette horrible vie, me voilà catapultée dans la peau de Rudbekia de Borgia, l'antagoniste d'un roman que j'ai lu il y a quelques années, utilisée par son père et son frère dans de sombres histoires de mariage politique et destinée à mourir des mains de son époux. Un jour, après quatre unions annulées, mon père m'incite à épouser Iské Van Omerta. Le problème, c'est qu'il s'agit de l'homme qui signera ma fin et la ruine de toute ma famille, ainsi que le meilleur paladin du nord. De nombreuses difficultés se dressent alors devant moi et je dois donc désormais trouver un moyen de survivre.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1695,
+    "tmdb_id": null,
+    "kitsu_id": "1523"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1695,
+        "tmdb_id": null,
+        "kitsu_id": "1523"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/les-intrigues-dune-borgia/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/les-intrigues-dune-borgia/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
