@@ -1,0 +1,42 @@
+{
+  "nom": "I'M THE MAX-LEVEL NEWBIE",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Fantastique",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/im-the-max-level-newbie",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/im-the-max-level-newbie.jpg",
+  "noms_alt": [
+    "NA HONJA MANREP NEWBIE",
+    "IM THE MAX LEVEL NEWBIE",
+    "SOLO MAX LEVEL NEWBIE"
+  ],
+  "synopsis": "Le jeu de réalité virtuelle 'La Tour de l'Épreuve' est officiellement démodé et le streamer Jin Hyuk est le seul à être resté jusqu'au bout pour terminer le jeu. Quand un jour 'La Tour de l'Épreuve' devient réalité, Jin Hyuk qui connaît les éléments du jeu mieux que personne aura forcément un grand avantage sur les autres !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54913,
+    "tmdb_id": null,
+    "kitsu_id": "11751"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11751"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/im-the-max-level-newbie/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/im-the-max-level-newbie/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
