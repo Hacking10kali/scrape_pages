@@ -1,0 +1,44 @@
+{
+  "nom": "KAMEN BYOUTOU",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Horreur",
+    "Mystère",
+    "Assassinat",
+    "Médecine",
+    "Secrets"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kamen-byoutou",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kamen-byoutou.jpg",
+  "noms_alt": [
+    "MASK WARD"
+  ],
+  "synopsis": "Alors qu'il est de garde dans un hôpital de repos, Hayami Shuugo est confronté à un criminel masqué et sa victime, blessée par balle. Le docteur Hayami va se voir contraint de sauver la jeune femme sur-le-champ, après quoi le criminel décide de prendre tout l'hôpital en otage ! La nuit risque d'être mouvementée...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4332,
+    "tmdb_id": null,
+    "kitsu_id": "3143"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4332,
+        "tmdb_id": null,
+        "kitsu_id": "3143"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kamen-byoutou/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kamen-byoutou/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
