@@ -1,0 +1,39 @@
+{
+  "nom": "BOSS IN SCHOOL",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "School Life"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/boss-in-school",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/boss-in-school.jpg",
+  "noms_alt": [
+    "BOSS IN SCHOOL OEJEON"
+  ],
+  "synopsis": "Seth Kwon, un combattant né, arrête de se battre suite à la promesse qu'il fait à sa mère... Mais les choses changent lorsque son père lui laisse ce seul et unique message : \"Arrête de te faire tabasser\".",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 61931,
+    "tmdb_id": null,
+    "kitsu_id": "12821"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61931,
+        "tmdb_id": null,
+        "kitsu_id": "8514"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/boss-in-school/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/boss-in-school/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
