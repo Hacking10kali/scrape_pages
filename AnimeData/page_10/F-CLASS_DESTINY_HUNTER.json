@@ -1,0 +1,52 @@
+{
+  "nom": "F-CLASS DESTINY HUNTER",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Surnaturel - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/f-class-destiny-hunter",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/f-class-destiny-hunter.jpg",
+  "noms_alt": [],
+  "synopsis": "Un chasseur de rang F acquiert la capacité de voler ou de manipuler le \"Destin\" ou la \"Chance\" de ses cibles. En volant la bonne fortune de ses ennemis et en leur donnant sa malchance, il grimpe les échelons du monde des chasseurs.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 6055,
+    "tmdb_id": null,
+    "kitsu_id": "5367"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 6055,
+        "tmdb_id": null,
+        "kitsu_id": "5367"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/f-class-destiny-hunter/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/f-class-destiny-hunter/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
