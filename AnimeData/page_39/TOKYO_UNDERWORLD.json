@@ -1,0 +1,43 @@
+{
+  "nom": "TOKYO UNDERWORLD",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Horreur",
+    "Mature",
+    "Mystère",
+    "Seinen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/tokyo-underworld",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/tokyo-underworld.jpg",
+  "noms_alt": [
+    "SHIN TOKYO",
+    "THE DEPTHS OF TOKYO"
+  ],
+  "synopsis": "Une certaine légende urbaine parle de l'existence de Shin Tokyo, un Tokyo alternatif dans lequel les personnes ayant causé la mort d'autrui sont envoyées pour se repentir de leur crime. Le seul moyen d'en réchapper : survivre au jugement sans merci qui les y attend ! Yomi et Yami sont deux frères jumeaux ayant la particularité de partager leurs sensations. Mais un jour, leur professeur qui se faisait harceler par certains de leurs camarades se suicide devant eux, entraînant leur classe entière dans le monde de Shin Tokyo. Désormais, les jumeaux ne pensent plus qu'à une chose : échapper ensemble de l'enfer dans lequel ils ont été transportsés !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1703,
+    "tmdb_id": null,
+    "kitsu_id": "152"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1703,
+        "tmdb_id": null,
+        "kitsu_id": "8271"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/tokyo-underworld/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/tokyo-underworld/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
