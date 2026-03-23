@@ -1,0 +1,44 @@
+{
+  "nom": "CORALINE",
+  "type": "Autres",
+  "genres": [
+    "Animation",
+    "Fantastique",
+    "Famille"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/coraline",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/coraline.jpg",
+  "noms_alt": [],
+  "synopsis": "Coraline Jones est une fillette intrépide et douée d'une curiosité sans limites. Ses parents, qui ont tout juste emménagé avec elle dans une étrange maison, n'ont guère de temps à lui consacrer. Pour tromper son ennui, Coraline décide donc de jouer les exploratrices. Ouvrant une porte condamnée, elle pénètre dans un appartement identique au sien... mais où tout est différent. Dans cet Autre Monde, chaque chose lui paraît plus belle, plus colorée et plus attrayante. Son Autre Mère est pleinement disponible, son Autre Père prend la peine de lui mitonner des plats exquis, et même le Chat, si hautain dans la Vraie vie, daigne s'entretenir avec elle. Coraline est bien tentée d'élire domicile dans ce Monde merveilleux, qui répond à toutes ses attentes. Mais le rêve va très vite tourner au cauchemar. Prisonnière de l'Autre Mère, Coraline va devoir déployer des trésors de bravoure, d'imagination et de ténacité pour rentrer chez elle et sauver sa Vraie famille...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 29317,
+    "tmdb_id": null,
+    "kitsu_id": "2908"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 29317,
+        "tmdb_id": 14836,
+        "kitsu_id": "2908"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/coraline/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/coraline/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
