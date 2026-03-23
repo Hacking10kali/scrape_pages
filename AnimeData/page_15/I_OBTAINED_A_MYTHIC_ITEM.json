@@ -1,0 +1,44 @@
+{
+  "nom": "I OBTAINED A MYTHIC ITEM",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/i-obtained-a-mythic-item",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-obtained-a-mythic-item.jpg",
+  "noms_alt": [
+    "À MOI L'ITEM LÉGENDAIRE",
+    "MYTHIC ITEM OBTAINED"
+  ],
+  "synopsis": "Yggdrasil, l'arbre-monde de la mythologie nordique, est soudainement apparu sur Terre. Et avec lui sont apparues des créatures démoniaques qui ont ravagé des villes entières. Mais tout espoir n'est pas perdu, grâce au système que quelques humains spéciaux ont acquis. Dans ce nouveau monde où seuls les plus forts ont survécu, Min JaeHyun se débrouille tant bien que mal en regrettant les mauvais choix qu'il a faits dans le passé... quand un jour, il obtient le seul objet mythique du monde. Comment cet objet va-t-il l'aider ? Et pourra-t-il changer son funeste destin ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1249,
+    "tmdb_id": null,
+    "kitsu_id": "48973"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1249,
+        "tmdb_id": null,
+        "kitsu_id": "48973"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/i-obtained-a-mythic-item/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/i-obtained-a-mythic-item/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
