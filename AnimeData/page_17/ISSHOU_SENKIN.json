@@ -1,0 +1,46 @@
+{
+  "nom": "ISSHOU SENKIN",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Action",
+    "Comédie",
+    "Drame",
+    "Arts martiaux",
+    "Combats",
+    "Délinquance"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/isshou-senkin",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/isshou-senkin.jpg",
+  "noms_alt": [
+    "ISSK",
+    "STRIKE IT RICH",
+    "STR"
+  ],
+  "synopsis": "Une ex-combattante de MMA, une yakuza et une policière, toutes en difficulté financière, rêvent de faire fortune et montent un cercle de combat clandestin spécialisé dans les affrontements féminins. Pour assurer le succès de leur organisation, elles y invitent et mettent en avant une jeune fille... bien plus dangereuse que son apparence mignonne ne le laisse supposer ?!",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2579,
+    "tmdb_id": null,
+    "kitsu_id": "5553"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2579,
+        "tmdb_id": null,
+        "kitsu_id": "5553"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/isshou-senkin/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/isshou-senkin/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
