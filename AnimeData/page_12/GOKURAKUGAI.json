@@ -1,0 +1,40 @@
+{
+  "nom": "GOKURAKUGAI",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantastique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/gokurakugai",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/gokurakugai.jpg",
+  "noms_alt": [],
+  "synopsis": "Le Gokuraku District est un quartier hors de toute loi, contrôlé par un clan. Cette histoire suit les aventures de Tao et de son acolyte Alma qui, pour subvenir à leurs besoins, aident les personnes à se sortir de toutes sortes de situations.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": null
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/gokurakugai/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/gokurakugai/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
