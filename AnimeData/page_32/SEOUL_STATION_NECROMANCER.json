@@ -1,0 +1,41 @@
+{
+  "nom": "SEOUL STATION NECROMANCER",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Fantaisie",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/seoul-station-necromancer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/seoul-station-necromancer.jpg",
+  "noms_alt": [],
+  "synopsis": "Vous êtes entré dans le donjon à la 1ère sortie de la station Gwachun. Lorsque l'ancien lycéen Kang Woojin se retrouve de retour sur Terre après avoir été convoqué de force sur une planète étrangère pendant 20 ans, il découvre rapidement que la Terre n'est pas le même endroit normal qu'il s'en souvenait. Avec sa force et son âge remis à zéro, observez Kang Woojin alors qu'il se remet sur la voie pour devenir le nécromancien le plus fort de la Terre !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34048,
+    "tmdb_id": null,
+    "kitsu_id": "756"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "756"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/seoul-station-necromancer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/seoul-station-necromancer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
