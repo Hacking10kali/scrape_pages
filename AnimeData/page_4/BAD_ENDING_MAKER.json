@@ -1,0 +1,63 @@
+{
+  "nom": "BAD ENDING MAKER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Isekai",
+    "Romance"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bad-ending-maker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bad-ending-maker.jpg",
+  "noms_alt": [],
+  "synopsis": "Après avoir exprimé son désaccord avec la politique de facturation mise en place par la direction, Mincheol, un jeune développeur de jeux vidéo chez Naipalm Games, se retrouve brusquement licencié du poste auquel il a consacré sa jeunesse. Ainsi se termine subitement sa vie en tant que créateur du jeu de réalité virtuelle \"Wings Online\". Cependant, il n'a pas l'intention de se laisser abattre. \"Ce jeu est mon oeuvre, ce monde est ma création, alors... Je suis le seul à pouvoir conclure cette histoire. Je vais devenir le Boss et je mettrai un terme à ce jeu de mes propres mains ! vous allez tous voir à quoi ressemble une fin dramatique !\"",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59161,
+    "tmdb_id": null,
+    "kitsu_id": "50606"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 59161,
+        "tmdb_id": null,
+        "kitsu_id": "50606"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bad-ending-maker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bad-ending-maker/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
