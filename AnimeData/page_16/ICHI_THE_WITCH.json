@@ -1,0 +1,56 @@
+{
+  "nom": "ICHI THE WITCH",
+  "type": "Scans",
+  "genres": [
+    "Shônen - Action - Aventure - Fantasy - Magie - Sorcellerie"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ichi-the-witch",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ichi-the-witch.jpg",
+  "noms_alt": [
+    "MADAN NO ICHI"
+  ],
+  "synopsis": "Dans ce monde, les sorcières doivent traquer leur magie ! Au plus profond de la forêt, le terrifiant roi de la magie et la plus puissante des sorcières se livrent un combat mortel. Mais soudain, un jeune garçon rejoint la bataille. Il s'appelle Ichi et n'est qu'un simple chasseur. Cependant, il a le pouvoir de bouleverser ce monde dans cette épopée de chasse à la magie !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62876,
+    "tmdb_id": null,
+    "kitsu_id": "4379"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62876,
+        "tmdb_id": null,
+        "kitsu_id": "4379"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ichi-the-witch/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ichi-the-witch/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
