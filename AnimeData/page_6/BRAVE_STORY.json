@@ -1,0 +1,46 @@
+{
+  "nom": "BRAVE STORY",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Autre monde",
+    "Magie"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/brave-story",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/brave-story.jpg",
+  "noms_alt": [],
+  "synopsis": "Du haut de ses 11 ans, Wataru Mitani mène une petite vie tranquille sans problème, entouré de l'affection de ses parents. Tout juste se permet-il, lors d'une virée nocturne en compagnie d'un de ses camarades de classe, d'explorer le vieil immeuble à l'abandon du coin que l'on dit hanté, et en profiter pour y entrevoir non un fantôme mais l'énigmatique silhouette d'un jeune garçon vêtu d'une toge de magicien. Celui-ci est en réalité un élève récemment arrivé dans l'école de Wataru. Poursuivi par une bande de costauds désireux de lui infliger une bonne correction, il est sauvé in extremis par Wataru, et est obligé de lui avouer qu'il n'est pas un enfant comme les autres : C'est un \"voyageur\", évoluant dans un monde parallèle au notre, appelé \"VISION\", et à la recherche de la Déesse de la Fortune, seule entité capable d'exaucer n'importe quel voeu. Cette perspective trouve un écho chez Wataru le jour où, avec le départ soudain de son père parti rejoindre une autre femme, puis l'entrée de sa mère dans un hôpital en soins intensifs, son monde semble s'écrouler autour de lui... Le jeune homme réalise que ce n'est qu'en devenant à son tour un \"voyageur\" qu'il pourra espérer voir se réaliser le souhait de sauver sa famille.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8287,
+    "tmdb_id": null,
+    "kitsu_id": "11859"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1681,
+        "tmdb_id": 17566,
+        "kitsu_id": "1510"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/brave-story/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/brave-story/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
