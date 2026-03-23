@@ -1,0 +1,44 @@
+{
+  "nom": "THE NOVEL'S EXTRA",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Science-Fiction",
+    "School Life"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/the-novels-extra",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-novels-extra.jpg",
+  "noms_alt": [
+    "THE GHOST WRITING HERO"
+  ],
+  "synopsis": "Le jour où un fan le contacte pour lui proposer de faire un remake de son roman, Kim Hajin, auteur anonyme sur la toile, accepte avec joie... et se réveille le lendemain dans sa propre histoire ! Il connaît chaque intrigue, chaque rebondissement... sauf qu'il n'est qu'un figurant anonyme de son récit ! Il n'a plus qu'une chose à faire : utiliser ses connaissances et ses nouveaux pouvoirs pour modifier le scénario, et devenir à son tour l'un des protagonistes de sa propre histoire !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": null,
+    "kitsu_id": "8521"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "8521"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-novels-extra/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-novels-extra/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
