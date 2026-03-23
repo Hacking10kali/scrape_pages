@@ -1,0 +1,52 @@
+{
+  "nom": "DAO OF THE BIZARRE IMMORTAL",
+  "type": "Scans",
+  "genres": [
+    "Action - Arts martiaux - Aventure - Drame - Fantaisie - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/dao-of-the-bizarre-immortal",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dao-of-the-bizarre-immortal.jpg",
+  "noms_alt": [],
+  "synopsis": "Li Huowang, un lycéen, possède un don : chaque fois qu'il ferme les yeux, il entre dans un monde de culture étrange. Dans ce monde étrange, il est capturé par quelqu'un qui l'appelle « Maître » et est transformé en médicament vivant – un chaudron humain qui peut être transformé en pilule à tout moment. Dans le monde réel, Li Huowang est un malade mental qui vit dans un hôpital psychiatrique, incapable d'aller à l'école. Les médecins lui disent que l'étrange monde de la culture n'est rien d'autre qu'une hallucination. Pris entre la réalité et l'illusion, la vérité et le mensonge, Li Huowang s'effondre, pleure et crie : « Maman, je ne sais plus ce qui est réel ! »",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 44288,
+    "tmdb_id": null,
+    "kitsu_id": "8739"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 44288,
+        "tmdb_id": null,
+        "kitsu_id": "2946"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dao-of-the-bizarre-immortal/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dao-of-the-bizarre-immortal/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
