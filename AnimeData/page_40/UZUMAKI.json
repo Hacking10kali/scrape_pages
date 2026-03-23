@@ -1,0 +1,102 @@
+{
+  "nom": "UZUMAKI",
+  "type": "Anime, Scans",
+  "genres": [
+    "Seinen",
+    "Horreur",
+    "Gore"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/uzumaki",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/spirale.jpg",
+  "noms_alt": [
+    "SPIRALE"
+  ],
+  "synopsis": "La petite ville de Kurouzu peut sembler bien tranquille, mais une mystérieuse obsession concernant les spirales va commencer à rendre les habitants de ce village fous à lier. Kirie et son petit ami Shuichi vont en subir les conséquences et perdre tour à tour des êtres qui leur sont chers, finissant complètement consumés par la malédiction qui touche le village. Quel abominable secret peut-il se cacher derrière ces mystérieuses spirales qui font perdre la raison à tous ceux qui les contemplent ?",
+  "bande_annonce": "https://www.youtube.com/embed/2ivmweJQaco",
+  "ids": {
+    "jikan_id": 40333,
+    "tmdb_id": 93241,
+    "kitsu_id": "42525"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 40333,
+        "tmdb_id": 93241,
+        "kitsu_id": "42525"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/uzumaki/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/uzumaki/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-rmfq1bn5x8pr.html"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5732750"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://oneupload.to/embed-iwk9rf6zw1rg.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-pafc06kpa2kb.html"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5732753"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://oneupload.to/embed-uxh552cndtt8.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-vy4ee2zhoo8k.html"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5732756"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://oneupload.to/embed-w8bbdqfv8ikh.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-i2vb887qxnj1.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
