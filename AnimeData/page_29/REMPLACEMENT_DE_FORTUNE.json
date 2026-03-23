@@ -1,0 +1,39 @@
+{
+  "nom": "REMPLACEMENT DE FORTUNE",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Comédie",
+    "Romance",
+    "Amour"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/remplacement-de-fortune",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/remplacement-de-fortune.jpg",
+  "noms_alt": [
+    "UNLOVABLE REPLACEMENT"
+  ],
+  "synopsis": "Devant Chiko, déprimé après une rupture amoureuse, apparaît November, une livreuse de pizza. Chiko lui demande de faire semblant d'être sa petite amie pour montrer à son ex qu'il va bien. Quelle serait la réponse de November ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 28623,
+    "tmdb_id": null,
+    "kitsu_id": "49373"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "49373"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/remplacement-de-fortune/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/remplacement-de-fortune/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
