@@ -1,0 +1,45 @@
+{
+  "nom": "REGRESSOR INSTRUCTION MANUAL",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantaisie",
+    "Mature",
+    "Psychologique",
+    "Romance",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/regressor-instruction-manual",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/regressor-instruction-manual.jpg",
+  "noms_alt": [],
+  "synopsis": "Un jour, Lee Ki-Young fut appelé dans ce monde et enfermé dans un espace non identifiable avec d'autres personnes. À ce moment troublant, il reçut un avertissement inquiétant. [Merci d'utiliser vos compétences et vos attributs afin de survivre.] Compétences ? Attributs ? Il ouvrit sa fenêtre de compétences pour vérifier ses capacités, mais... [Les valeurs des compétences du joueur sont les plus faibles]. Alors qu'il désespérait, il aperçut le seul attribut qui lui était accordé. C'était la capacité de voir les compétences et les fenêtres de statut des autres personnes. Afin de survivre, Ki-Young décida d'exploiter les talents des autres, et c'est alors qu'il trouva un trésor : le régresseur, Kim Hyun-Sung. Ce dernier vivait cette vie une seconde fois, un homme au sommet qui avait vu la fin du monde. Nous le ferons ensemble, jusqu'à la fin.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 46307,
+    "tmdb_id": null,
+    "kitsu_id": "55"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "55"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/regressor-instruction-manual/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/regressor-instruction-manual/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
