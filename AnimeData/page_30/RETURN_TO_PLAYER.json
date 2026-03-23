@@ -1,0 +1,38 @@
+{
+  "nom": "RETURN TO PLAYER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Fantaisie",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/return-to-player",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/return-to-player.jpg",
+  "noms_alt": [],
+  "synopsis": "Soudainement, lors d'un jour banal, le monde que nous connaissons est devenu un jeu vidéo. Pendant dix ans, l'humanité a tenté de survivre contre des monstres plus forts les uns que les autres, mais inévitablement, les pertes furent colossales. Kim Se Han fut le l'unique survivant de ce massacre. Et alors que le jeu annonçait sa fin et qu'il songeait à mettre fin à ses jours, une option s'offrait à lui: le \"Pack de Seconde chance\". En revenant dans le passé, le jour où tout à basculé, saura-t-il changer ce tournant dramatique ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 27991,
+    "tmdb_id": null,
+    "kitsu_id": "7113"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 27991,
+        "tmdb_id": null,
+        "kitsu_id": "7113"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/return-to-player/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/return-to-player/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
