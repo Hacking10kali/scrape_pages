@@ -1,0 +1,41 @@
+{
+  "nom": "I'M NOT THE OVERLORD !",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantaisie",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/im-not-the-overlord",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/im-not-the-overlord.jpg",
+  "noms_alt": [
+    "I'M NOT THE BIG DEVIL!"
+  ],
+  "synopsis": "Je me suis réincarné dans un autre monde et je suis devenu le Chef Suprême Roi Démon ! Et ma mission est de détruire l'humanité ! Attendez, ce n'est pas correct. Je suis un pacifiste, vous savez ? Je ne suis pas comme ça du tout !Quoi ? J'ai tué une armée de 1000 hommes avec une explosion d'énergie ? ! C'était un accident ! C'était la faute de la relique ! C'est un malentendu ! Hahaha ! Pourquoi ne pouvons-nous pas bien nous entendre ? Hein ? Et alors si je suis un Démon ? Ça ne veut pas dire que je fais que de mauvaises choses ! Arrêtez de m'ennuyer ou je vais vous exploser pour que le Royaume vienne ! Attendez ! Arghh ! Allez ! Je ne suis pas si maléfique ! Je ne suis pas le Chef Suprême !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 29803,
+    "tmdb_id": null,
+    "kitsu_id": "46242"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "46242"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/im-not-the-overlord/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/im-not-the-overlord/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
