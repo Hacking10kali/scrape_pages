@@ -1,0 +1,39 @@
+{
+  "nom": "BAEK XX",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Drame",
+    "Mature",
+    "Action"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/baek-xx",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/baek-xx.jpg",
+  "noms_alt": [
+    "MR BAEK"
+  ],
+  "synopsis": "Une brève description du manhwa Baek XX : BaekXX Park Taejun Manhwa Company, le sergent / Punchkick (HID) Informateur fédéral « Baek Yisu » et le chef d'un gang criminel, « Baek Dogyeong » sont des frères jumeaux. Avec les mêmes visages, les deux frères jumeaux ont vécu des vies différentes jusqu'à présent. Yisu, qui a été trahi par le gang, jette son identité pour devenir son frère. Cet agent fédéral va bientôt devenir le patron du gang… !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 36873,
+    "tmdb_id": null,
+    "kitsu_id": "47963"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 36873,
+        "tmdb_id": null,
+        "kitsu_id": "47963"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/baek-xx/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/baek-xx/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
