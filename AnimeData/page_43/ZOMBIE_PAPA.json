@@ -1,0 +1,52 @@
+{
+  "nom": "ZOMBIE PAPA",
+  "type": "Scans",
+  "genres": [
+    "Zombie Dad"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/zombie-papa",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/zombie-papa.jpg",
+  "noms_alt": [],
+  "synopsis": "« Tant que Dami est en vie... je n'ai pas le droit de mourir, même si je le voulais ! » Dans un monde envahi par les zombies, un père se voit offrir 100 chances pour sauver sa fille. Mais alors qu'il échoue pour la centième fois... Il revient à la vie ?! Ryu Min-seok, réveillé en tant que zombie pour protéger sa fille Ryu Dami, entame une lutte acharnée pour survivre dans un monde en ruines. Une histoire de survie père-fille en pleine apocalypse zombie ! Genres : Seinen - Manhwa - Action - Mystère - Surnaturel - Tragédie - Webcomic",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2404,
+    "tmdb_id": null,
+    "kitsu_id": "46954"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2404,
+        "tmdb_id": null,
+        "kitsu_id": "2180"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/zombie-papa/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/zombie-papa/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
