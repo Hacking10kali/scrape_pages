@@ -1,0 +1,61 @@
+{
+  "nom": "5CM PER SECOND",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/5-cm-per-second/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/5-cm-per-second.jpg",
+  "noms_alt": [
+    "BYOUSOKU 5 CENTIMETER : A CHAIN OF SHORT STORIES ABOUT THEIR DISTANCE",
+    "5 CM PER SECOND",
+    "5 CENTIMETERS PER SECOND",
+    "FIVE CENTIMETERS PER SECOND",
+    "BYOUSOKU 5 CENTIMETER",
+    "A CHAIN OF SHORT STORIES ABOUT THEIR DISTANCE",
+    "5 CENTIMETRES PER SECOND"
+  ],
+  "synopsis": "L'histoire commence à Tokyo, Akari Shinohara et Takaki Tonoo sont deux jeunes amis inséparables, jusqu'au jour où Akari doit déménager. Cette nouvelle vie est accompagnée par une correspondance entre les deux qui ont du mal à supporter la distance. Un jour Takaki apprend qu'il va déménager très loin d'Akari, il décide alors d'aller la revoir. Pendant son voyage, par une nuit d'hiver, lorsque son train est coincé par la neige, Takaki se remémore tous ses moments passés avec Akari. Œuvre emblématique pour celui que l'on nomme souvent le « nouveau Miyasaki »,5cm Per Second est une variation poignante sur la jeunesse perdue où l'émotion du récit rejoint la pureté du graphisme.",
+  "bande_annonce": "https://youtube.com/embed/W_1DUw41LsA",
+  "ids": {
+    "jikan_id": 1519,
+    "tmdb_id": null,
+    "kitsu_id": "7667"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1689,
+        "tmdb_id": 1359916,
+        "kitsu_id": "1517"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/5-cm-per-second/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/5-cm-per-second/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5340642"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/2xw3494d"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
