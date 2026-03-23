@@ -1,0 +1,38 @@
+{
+  "nom": "BE BLUES!",
+  "type": "Scans",
+  "genres": [
+    "School Life",
+    "Sport",
+    "Shônen"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/be-blues",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/be-blues.jpg",
+  "noms_alt": [
+    "AO NI NARE"
+  ],
+  "synopsis": "Ryuu Ichijou est un jeune garçon, fan de football, qui n'a qu'un but : être membre de l'équipe nationale de football du Japon. On suit donc le chemin de ce jeune prodige vers son rêve. Mais malheureusement pour lui en cherchant à sauver son camarade Ryuu tomba dans les escaliers et ne put plus jouer au foot pendant 2 ans. Après une dure rééducation Ryuu revient sur le terrain de football pour nous refaire rêver.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 105,
+    "tmdb_id": null,
+    "kitsu_id": "47936"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 105,
+        "tmdb_id": null,
+        "kitsu_id": "47936"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/be-blues/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/be-blues/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
