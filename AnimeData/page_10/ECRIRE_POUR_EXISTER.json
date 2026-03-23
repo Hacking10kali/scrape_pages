@@ -1,0 +1,51 @@
+{
+  "nom": "ECRIRE POUR EXISTER",
+  "type": "Autres",
+  "genres": [
+    "Drame"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ecrire-pour-exister",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ecrire-pour-exister.jpg",
+  "noms_alt": [
+    "ECRIRE POUR ÉXISTER",
+    "ÉCRIRE POUR ÉXISTER",
+    "ECRIRE POUR EXISTER"
+  ],
+  "synopsis": "Erin Gruwell, enseignante novice de 23 ans, a choisi comme premier poste un lycée difficile de Long Beach. Ses élèves l'ignorent superbement et se regroupent en clans, prêts à s'affronter au moindre prétexte. L'ambiance empire au fil des jours, en dépit des efforts sincères et maladroits d'Erin pour prendre en main cette classe d''irrécupérables'. Un incident mineur met finalement le feu aux poudres, donnant du même coup à Erin l'occasion d'ouvrir le dialogue avec les jeunes. Avec tact et humour, en évitant d'instinct le piège du paternalisme, Erin parvient à instaurer avec la classe un vrai rapport de confiance. Pas à pas, à travers l'usage de la parole puis de l'écriture, elle accompagne ses élèves dans une lente et délicate reconquête de leur amour propre, libérant en eux des forces, des talents et une énergie insoupçonnés...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62924,
+    "tmdb_id": null,
+    "kitsu_id": "41465"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 35520,
+        "tmdb_id": 1646,
+        "kitsu_id": "10175"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/ecrire-pour-exister/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ecrire-pour-exister/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4757713\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
