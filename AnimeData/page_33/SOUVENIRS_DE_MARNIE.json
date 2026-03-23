@@ -1,0 +1,57 @@
+{
+  "nom": "SOUVENIRS DE MARNIE",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Slice of Life",
+    "Ghibli",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/souvenirs-de-marnie",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/souvenirs-de-marnie.jpg",
+  "noms_alt": [
+    "OMOIDE NO MARNIE",
+    "WHEN MARNIE WAS THERE"
+  ],
+  "synopsis": "Anna, fille unique de 12 ans, timide et réservée, en conflit avec ses parents adoptifs, est envoyée au bord de la mer chez de la famille pour soigner son asthme. Elle y fait la connaissance d'une mystérieuse fillette de son âge : Marnie. Alors que les deux fillettes sympathisent, Marnie disparaît soudainement. Le lendemain, une nouvelle famille emménage dans la maison où habitait son amie. Sayaka, la nouvelle occupante interpelle Anna, la confondant avec Marnie, pour lui rendre son journal intime qu'elle a découvert dans sa nouvelle chambre. Qui est réellement Marnie ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 56352,
+    "tmdb_id": null,
+    "kitsu_id": "6896"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 21557,
+        "tmdb_id": 242828,
+        "kitsu_id": "40659"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/souvenirs-de-marnie/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/souvenirs-de-marnie/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5055358"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/xzzp3fgcw1sj"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
