@@ -1,0 +1,38 @@
+{
+  "nom": "#DRCL MIDNIGHT CHILDREN",
+  "type": "Scans",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/drcl-midnight-children/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/drcl-midnight-children0.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans un pays lointain de l'Est, il existe une créature qu'on ne remarque pas mais qui est pourtant bien là... Le Comte Dracula !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1,
+    "tmdb_id": null,
+    "kitsu_id": "7442"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1,
+        "tmdb_id": null,
+        "kitsu_id": "7442"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/drcl-midnight-children/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/drcl-midnight-children/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
