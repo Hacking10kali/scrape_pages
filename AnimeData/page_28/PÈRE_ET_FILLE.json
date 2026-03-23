@@ -1,0 +1,56 @@
+{
+  "nom": "PÈRE ET FILLE",
+  "type": "Scans",
+  "genres": [
+    "Seinen - Slice of Life - Famille - Monoparentalité - Quotidien"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/pere-et-fille",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/pere-et-fille.jpg",
+  "noms_alt": [
+    "SEN TO MAN"
+  ],
+  "synopsis": "Dur dur d'être un père à la cool avec une future ado... Et inversement ! C'est pourtant le quotidien de Chihiro, père célibataire, et Shima, sa fille en première année de collège. Pourquoi la jeune fille est-elle de plus en plus agacée par les faits et gestes de son père ? Est-ce parce qu'elle est entrée dans sa puberté ? Est-ce qu'elle est juste capricieuse ? Ou bien... est-ce parce que son père croit toujours être un beau gosse ?!",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 228,
+    "tmdb_id": 82369,
+    "kitsu_id": "13881"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "13881"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/pere-et-fille/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/pere-et-fille/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
