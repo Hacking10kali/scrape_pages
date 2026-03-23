@@ -1,0 +1,54 @@
+{
+  "nom": "SWORD-DEVOURING SWORDMASTER",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Shônen - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/sword-devouring-swordmaster",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sword-devouring-swordmaster.jpg",
+  "noms_alt": [
+    "SWORD DEVOURING SWORDMASTER"
+  ],
+  "synopsis": "Arhan Karavan perd tout face à un Maître Épéiste inconnu. Au bord du désespoir, son ancêtre légendaire Liam Karavan lui apparaît et lui offre une voie vers la vengeance : \"Dévore l'épée et fais tienne la puissance qui y réside\". Arhan commence alors sa quête pour restaurer le nom oublié de sa famille.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4726,
+    "tmdb_id": null,
+    "kitsu_id": "6589"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4726,
+        "tmdb_id": null,
+        "kitsu_id": "6589"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sword-devouring-swordmaster/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sword-devouring-swordmaster/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
