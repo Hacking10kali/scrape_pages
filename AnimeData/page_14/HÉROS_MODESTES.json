@@ -1,0 +1,55 @@
+{
+  "nom": "HÉROS MODESTES",
+  "type": "Anime, Film",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantastique",
+    "Fantasy",
+    "Romance"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/heros-modestes",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/heros-modestes.jpg",
+  "noms_alt": [
+    "CHIISANA EIYUU : KANI TO TAMAGO TO TOUMEI NINGEN",
+    "MODEST HEROES"
+  ],
+  "synopsis": "Modest Heroes est le tout nouveau projet du studio Ponoc, composé d'anciens animateurs du studio Ghibli. Il s'agit d'un film qui se décompose en trois courts-métrages, tous conçus par des réalisateurs différents.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59360,
+    "tmdb_id": null,
+    "kitsu_id": "43613"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 37623,
+        "tmdb_id": 514710,
+        "kitsu_id": "41460"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/heros-modestes/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/heros-modestes/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/mz4byv37"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
