@@ -1,0 +1,39 @@
+{
+  "nom": "RELIFE PLAYER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/relife-player",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/relife-player.jpg",
+  "noms_alt": [],
+  "synopsis": "Après avoir perdu sa famille et fermé son coeur, il voulait juste tuer les monstres qu'il détestait. J'ai régressé avant que ma vie ne prenne fin dans la partie la plus profonde du qu'il était impossible pour l'humanité de piller. Depuis que je suis né en tant que bébé, rendons cette vie différente. Je ferai n'importe quoi pour mon bonheur. Je vais tuer pour vivre, et je ferai de mon mieux pour survivre. Même si je dois marcher seul sur une route épineuse sans que personne me reconnaisse. Cette vie, je vais certainement...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 30015,
+    "tmdb_id": null,
+    "kitsu_id": "10464"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 30015,
+        "tmdb_id": null,
+        "kitsu_id": "10464"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/relife-player/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/relife-player/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
