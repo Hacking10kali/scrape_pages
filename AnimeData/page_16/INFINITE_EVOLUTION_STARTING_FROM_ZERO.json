@@ -1,0 +1,52 @@
+{
+  "nom": "INFINITE EVOLUTION STARTING FROM ZERO",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Monstres - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/infinite-evolution-starting-from-zero",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/infinite-evolution-starting-from-zero.jpg",
+  "noms_alt": [],
+  "synopsis": "Le héros commence sa vie en tant que créature faible (comme un insecte, un slime ou un animal) et possède la capacité d'évoluer indéfiniment en mangeant ou en combattant. Il grimpe la chaîne alimentaire pour devenir l'être suprême de son monde.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 18247,
+    "tmdb_id": null,
+    "kitsu_id": "8126"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 18247,
+        "tmdb_id": null,
+        "kitsu_id": "8126"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/infinite-evolution-starting-from-zero/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/infinite-evolution-starting-from-zero/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
