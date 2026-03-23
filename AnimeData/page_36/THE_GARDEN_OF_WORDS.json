@@ -1,0 +1,55 @@
+{
+  "nom": "THE GARDEN OF WORDS",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-garden-of-words/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-garden-of-words.jpg",
+  "noms_alt": [
+    "KOTONOHA NO NIWA"
+  ],
+  "synopsis": "Malgré son jeune âge, Takao a pour but bien précis de devenir cordonnier. Pour cela, il prend pour habitude de ne pas se rendre à l'école afin de dessiner au calme dans un jardin. Il y croise alors Yukino, une femme de douze ans son aîné semblant solitaire. Elle suggère qu'ils se rencontrent de nouveau, mais uniquement les jours pluvieux. Au fil des rendez-vous, ils nouent une forte relation et Takao se met alors en tête de lui confectionner des chaussures lui donnant envie d'avancer. Cependant, la saison des pluies s'entamant en été est sur le point de se terminer.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4549,
+    "tmdb_id": null,
+    "kitsu_id": "45223"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 16782,
+        "tmdb_id": 198375,
+        "kitsu_id": "7515"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/the-garden-of-words/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-garden-of-words/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5336025"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/899ugo7d8tjo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
