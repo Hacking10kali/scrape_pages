@@ -1,0 +1,52 @@
+{
+  "nom": "AKIRA",
+  "type": "Anime, Film",
+  "genres": [
+    "Action",
+    "Horreur",
+    "Épouvante",
+    "Psychologique",
+    "Science-fiction",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/akira",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/akira.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire se passe en l'an 2019, 31 ans après la troisième guerre mondiale. Les autorités de la ville de Neo-Tokyo mènent une lutte interminable contre les rebelles des \"underground\" qui dominent la ville. Alors qu'un gang de motards dont le leader est Kaneda passe son temps à se battre contre d'autres rebelles, Tetsuo, un membre du groupe, a un accident avec un enfant aux pouvoirs mentaux incroyables. Le gang de Kaneda est alors impliqué dans une affaire top secrète, tous sont emprisonnés puis relâchés par la suite, excepté Tetsuo qui subit diverses analyses et expérimentations. L'accident a déclenché chez Tetsuo l'apparition de pouvoirs psychiques très puissants. Il est alors pris d'assaut par l'armée mais il est décidé à tout ravager autour de lui, il veut se venger de la société pour l'avoir toujours considéré comme un être faible...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 61026,
+    "tmdb_id": 121544,
+    "kitsu_id": "41950"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 47,
+        "tmdb_id": 149,
+        "kitsu_id": "29"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/akira/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/akira/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5340708"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
