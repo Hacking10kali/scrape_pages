@@ -1,0 +1,53 @@
+{
+  "nom": "I WANT TO EAT YOUR PANCREAS",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Seinen"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/i-want-to-eat-your-pancreas/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-want-to-eat-your-pancreas.jpg",
+  "noms_alt": [
+    "KIMI NO SUIZOU WO TABETAI",
+    "JE VEUX MANGER TON PANCREAS",
+    "LET ME EAT YOUR PANCREAS"
+  ],
+  "synopsis": "Haruki Shiga est un lycéen introverti qui ne semble trouver du réconfort que dans la littérature. Sa vie monotone bascule le jour où, en se rendant à l'hôpital, il découvre dans la salle d'attente le journal intime de Sakura Yamauchi, sa camarade de classe. Cette dernière lui révèle alors qu'elle est atteinte d'une rare déficience du pancréas et que ses jours sont comptés. Étant la seule personne du lycée au courant pour la maladie de la jeune fille, Haruki décide de garder le secret et d'en rester là avec elle. Mais sans qu'il ne s'en rende compte, Sakura et lui multiplient le temps passé ensemble ; et bien que leurs personnalités soient comme le jour et la nuit, chacun trouve en l'autre un précieux soutien. Ainsi il décide de s'ouvrir à elle pour l'accompagner dans ses derniers jours.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59002,
+    "tmdb_id": null,
+    "kitsu_id": "44124"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 36098,
+        "tmdb_id": 504253,
+        "kitsu_id": "13723"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/i-want-to-eat-your-pancreas/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/i-want-to-eat-your-pancreas/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4004955"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
