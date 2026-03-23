@@ -1,0 +1,59 @@
+{
+  "nom": "CHANGE-MOI",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Drame",
+    "Secrets"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/change-moi",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/change-moi.jpg",
+  "noms_alt": [
+    "NAREUL BAKKWOJWO"
+  ],
+  "synopsis": "Et si vous pouvez choisir le look que vous voulez à condition de prendre une assurance-vie étrange ? Volez un visage afin de changer votre vie !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 57798,
+    "tmdb_id": 279471,
+    "kitsu_id": "7099"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 57798,
+        "tmdb_id": null,
+        "kitsu_id": "7099"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/change-moi/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/change-moi/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
