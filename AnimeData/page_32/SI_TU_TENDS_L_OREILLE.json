@@ -1,0 +1,59 @@
+{
+  "nom": "SI TU TENDS L'OREILLE",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Romance",
+    "Ghibli",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/si-tu-tends-l-oreille",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/si-tu-tends-l-oreille.jpg",
+  "noms_alt": [
+    "MIMI WO SUMASEBA",
+    "WHISPER OF THE HEART"
+  ],
+  "synopsis": "Shizuku Tsukishima est une jeune collégienne vivant à Tokyo, elle est passionnée de lecture et habile en poésie, fréquentant assidûment la bibliothèque où travaille son père et usant de ses bonnes relations avec la responsable de la bibliothèque du collège pour emprunter des livres en dehors des heures d'ouverture. En allant à la bibliothèque, Shizuku voit un chat prendre le train avec elle. Elle le suit pour arriver, après quelques déambulations, dans une petite boutique d'antiquités. Elle y rencontre le propriétaire, un vieil homme sympathique. Sortie de la boutique, elle voit le chat en compagnie d'un garçon de son collège. Elle ne sait pas encore qu'il s'agit de Seiji Amasawa dont elle avait remarqué le nom sur les cartes d'emprunt d'un grand nombre des livres de bibliothèque qu'elle avait elle-même empruntés. Le propriétaire du magasin est le grand-père de Seiji. La première rencontre de Seiji et Shizuku avait été brève et indélicate mais finalement une amitié se noue entre eux. Shizuku apprend que Seiji travaille afin d'être luthier.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 45810,
+    "tmdb_id": null,
+    "kitsu_id": "50203"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 52634,
+        "tmdb_id": 37797,
+        "kitsu_id": "540"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/si-tu-tends-l-oreille/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/si-tu-tends-l-oreille/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5184986"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/g3xog8qk1c51"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
