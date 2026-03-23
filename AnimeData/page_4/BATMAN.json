@@ -1,0 +1,66 @@
+{
+  "nom": "BATMAN",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/batman",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/batman.jpg",
+  "noms_alt": [],
+  "synopsis": "Orphelin, seul dans la nuit, il a juré de venger le meurtre de Thomas et Martha Wayne, ses parents. Milliardaire le jour, il revêt le manteau de la chauve-souris quand le soir tombe...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4383,
+    "tmdb_id": 2287,
+    "kitsu_id": "7954"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Batman - Arkham City",
+      "titreComplet": "Batman - Arkham City",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4383,
+        "tmdb_id": null,
+        "kitsu_id": "7954"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/batman/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/batman/saison1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Batman - New Gotham",
+      "titreComplet": "Batman - New Gotham",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4383,
+        "tmdb_id": null,
+        "kitsu_id": "7954"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/batman/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/batman/saison1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Batman - Le Batman Qui Rit",
+      "titreComplet": "Batman - Le Batman Qui Rit",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4383,
+        "tmdb_id": null,
+        "kitsu_id": "7954"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/batman/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/batman/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
