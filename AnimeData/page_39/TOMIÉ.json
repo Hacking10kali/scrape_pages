@@ -1,0 +1,40 @@
+{
+  "nom": "TOMIÉ",
+  "type": "Scans",
+  "genres": [
+    "Horreur",
+    "Surnaturel",
+    "Shojo"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/tomie",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/tomie.jpg",
+  "noms_alt": [
+    "TOMIE"
+  ],
+  "synopsis": "Tomié est la plus belle fille de la classe pour de nombreux garçons, mais sa beauté est tellement fatale qu'ils en deviennent fous au point de vouloir la tuer, sans raison aucune, allant pour cela jusqu'à la découper ou la réduire en bouillie. Mais pourquoi, dans ce cas, réapparait-elle le lendemain en un seul morceau et sans aucune égratignure avec une lueur malsaine dans les yeux ? Ils pensaient pouvoir lui résister mais son pouvoir de séduction est bien trop fort... Ils pensaient pouvoir la détruire mais rien n'y fera jamais... Ses proies seront nombreuses et sa vengeance, implacable... Qu'est donc réellement la ravissante Tomié, femme fatale ou monstrueuse abomination ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": 106947,
+    "kitsu_id": "11330"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11330"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/tomie/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/tomie/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
