@@ -1,0 +1,91 @@
+{
+  "nom": "BURN THE WITCH",
+  "type": "Anime, Scans",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Fantasy"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/burn-the-witch/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/burn-the-witch.jpg",
+  "noms_alt": [
+    "BTW"
+  ],
+  "synopsis": "Cette œuvre prend place douze ans après l'arc Thousand-Year Blood War et deux ans après le dernier chapitre du manga Bleach. L'histoire se déroule dans un Londres fictif, où les humains vivent en harmonie avec les dragons et les sorcières. Un jour, les dragons sont devenus hostiles et ont commencé à attaquer les humains, les privant ainsi de leurs foyers. Pour contrer cette menace, Wing Bind, une organisation composée de puissant sorciers est créée. C'est dans ce cadre que nous suivons le quotidien de Niihashi Noel et Nini Spangle, deux sorcières que tout oppose.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62503,
+    "tmdb_id": 110911,
+    "kitsu_id": "6481"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62503,
+        "tmdb_id": 110911,
+        "kitsu_id": "6481"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/burn-the-witch/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/burn-the-witch/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/g8q4ebx1"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-qk728ah56i0m.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/at0gg2sy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-o2994g5423kr.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/lxnqh561"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Burn the Witch #0.8",
+      "titreComplet": "Burn the Witch #0.8",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 41468,
+        "tmdb_id": 110911,
+        "kitsu_id": "43146"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/burn-the-witch/saison0/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/burn-the-witch/saison0/vostfr/",
+      "episodes": []
+    }
+  ]
+}
