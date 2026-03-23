@@ -1,0 +1,54 @@
+{
+  "nom": "THE RUNWAY",
+  "type": "Scans",
+  "genres": [
+    "Romance - Drame - Comédie - Josei"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/the-runway",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-runway.jpg",
+  "noms_alt": [
+    "THE RUNWAY"
+  ],
+  "synopsis": "Jian, rédactrice pour un grand magazine de mode, décide de partir à Paris après avoir découvert l'infidélité de son fiancé. Sur place, elle s'autorise une aventure d'un soir avec un bel inconnu. Trois mois plus tard, de retour en Corée, elle découvre que ce mystérieux amant est devenu son nouveau rédacteur en chef.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40392,
+    "tmdb_id": 93688,
+    "kitsu_id": "42552"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 40392,
+        "tmdb_id": null,
+        "kitsu_id": "42552"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-runway/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-runway/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
