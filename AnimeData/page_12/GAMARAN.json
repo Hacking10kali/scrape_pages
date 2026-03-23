@@ -1,0 +1,41 @@
+{
+  "nom": "GAMARAN",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Comédie",
+    "Historique",
+    "Arts martiaux",
+    "Tournois"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/gamaran",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/gamaran.jpg",
+  "noms_alt": [],
+  "synopsis": "Durant l'ère Edo (1600-1868), le 27ème fils du daimyo, Washizu Naoyoshi, est méprisé par ses frères car il est le seul bâtard de la famille. Son père, le seigneur d'Unabara, désireux de savoir quelle est l'école d'arts martiaux la plus forte, décide d'organiser la plus grande compétition d'arts martiaux de tous les temps. La lutte touche aussi ses trente-et-un fils, puisque celui qui trouvera le meilleur expert en arts martiaux deviendra son successeur. Naoyoshi se met en tête de trouver le légendaire Kurogane Jinsuke, dont on dit qu'il a massacré mille adversaires. En effet, le fait de devenir le daimyo lui permettrait de se venger de ses frères. Mais ce dernier a disparu après avoir massacré la majeure partie de son dojo. Naoyoshi rencontre Gama, le fils de Kurogane Jinsuke et le plus jeune élève de l'école Ogame, le style inventé par son père. Constatant qu'il est extrêmement fort malgré son âge, Naoyoshi décide de le présenter en tant que candidat à la grande compétition organisée par son père. Gama réussira-t-il à la gagner et à retrouver son père ? Naoyoshi deviendra-t-il le prochain daimyo d'Unabara ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 782,
+    "tmdb_id": null,
+    "kitsu_id": "699"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "863"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/gamaran/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/gamaran/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
