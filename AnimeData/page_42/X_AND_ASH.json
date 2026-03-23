@@ -1,0 +1,44 @@
+{
+  "nom": "X AND ASH",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Amitié",
+    "Combats",
+    "Monstres",
+    "Super pouvoirs"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/x-and-ash",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/x-and-ash.jpg",
+  "noms_alt": [
+    "X & ASH"
+  ],
+  "synopsis": "Dans un monde de niveaux, points de caractéristiques et compétences, deux garçons tentent de rejoindre les chevaliers qui défendent l'humanité contre les démons. X, un voleur de génie et Ash, un garçon avec un mystérieux passé vont affronter les épreuves pour écuyers afin d'accomplir leurs rêves. Vont-ils parvenir à devenir des chevaliers face à ce que préparent les démons dans l'ombre ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 156,
+    "tmdb_id": null,
+    "kitsu_id": "2648"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 156,
+        "tmdb_id": null,
+        "kitsu_id": "2648"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/x-and-ash/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/x-and-ash/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
