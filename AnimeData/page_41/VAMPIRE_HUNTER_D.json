@@ -1,0 +1,56 @@
+{
+  "nom": "VAMPIRE HUNTER D",
+  "type": "Anime, Film",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Horreur",
+    "Épouvante",
+    "Science-fiction",
+    "Surnaturel",
+    "Vampires"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/vampire-hunter-d",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/vampire-hunter-d.jpg",
+  "noms_alt": [
+    "KYUKETSUKI HUNTER D",
+    "CHASSEUR DE VAMPIRES D"
+  ],
+  "synopsis": "A.D.12,090 dans un monde post-apocalyptique proche de son échéance, vivent les humains et les créatures non humaines. Parmi celles-ci se trouvent les vampires, appelés aussi nobles. Ceux-ci sont les maîtres de la nuit, et pourtant leur nombre ne cesse de décroître. Parallèlement, est apparue une nouvelle caste, celle des hunters. Les hunters sont des chasseurs de primes engagés par les humains pour régler leurs différends avec la population non humaine. Ils sont connus pour leur efficacité comme pour le prix terriblement onéreux de leurs services. Sur un sentier désert traversant des landes battues, D rencontre une jeune fille Doris Lang, fille d'un werewolf hunter. Celle-ci a reçu, durant une de ses chasses aux démons, le baiser d'un noble, Le Comte Magnus Lee. Doris désire engager notre chasseur afin de se défaire de l'emprise de se redoutable vampire, qui pour se distraire de son ennui, fait entrer dans la maison Lee, tous les siècles, une \"femme commune\" en tant qu'épouse. Cet être se trouve être un ennemi de taille, vieux de 1000 ans, dont la puissance, n'est plus à remettre en cause, puisqu'il est le survivant de la dernière guerre qui décima une majorité de la population sur la planète (humain ou non), et dont les restes des malheureux qui ont succombés, jonchent encore le sol des souterrains du château dans lequel le Comte vit, en compagnie de sa fille Larmica. Cette dernière, fière du sang noble de la maison Lee, ne désire aucunement y voir rentrer une \"femme commune\"... D aura, cette fois plusieurs obstacles à surmonter pour mener à bien son travail, non seulement empêcher que le Comte enlève la jeune Dorlis au soir du 29ième jour du mois, après la pleine lune sanglante où le sang est considéré impur par les Nobles, mais aussi les désirs assassins de Larmica, qui compte bien ôter la vie à sa future belle-mère avant que son père ait eu le temps de la convertir en vampire... Ce sera sans compter les nombreuses créatures étranges avides de violence et de sang que cachent les tréfonds de la demeure des Lee...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 28929,
+    "tmdb_id": 88506,
+    "kitsu_id": "11270"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 732,
+        "tmdb_id": 15999,
+        "kitsu_id": "659"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/vampire-hunter-d/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/vampire-hunter-d/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode Vampire Hunter D",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode Vampire Hunter D Bloodlust",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
