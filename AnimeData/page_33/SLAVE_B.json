@@ -1,0 +1,38 @@
+{
+  "nom": "SLAVE B",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/slave-b",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/slave-b.jpg",
+  "noms_alt": [],
+  "synopsis": "Il n'est rien, il veut tout. Enfant esclave, il vivait heureux avant que ses deux parents ne se fassent assassiner par un maître jaloux ! Responsable de ses deux jeunes sœurs à seulement 13 ans, il essaie d'intégrer une prestigieuse école de magie qui les sauverait de leur condition. Cherchant à impressionner le roi pour y accéder, il échoue totalement et se retrouve finalement dans une mine infestée de monstres. Mais son courage et sa détermination le font remarquer. Et il intègre la prestigieuse école : Excanum !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 49160,
+    "tmdb_id": 102749,
+    "kitsu_id": "310"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 50392,
+        "tmdb_id": null,
+        "kitsu_id": "2140"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/slave-b/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/slave-b/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
