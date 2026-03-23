@@ -1,0 +1,41 @@
+{
+  "nom": "DUNGEON ODYSSEY",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/dungeon-odyssey",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-odyssey.jpg",
+  "noms_alt": [
+    "CHRONIQUES DU DONJON"
+  ],
+  "synopsis": "Les descendants de l'humanité, nés dans les labyrinthes et élevés au lait des monstres, possédaient une force spéciale et un corps robuste. Quand ils sont revenus sur Terre, l'humanité les appelait les enfants du donjon. Parmi eux, Kim Jinwoo est né dans le plus profond des labyrinthes. \"Je n'ai jamais essayé de devenir fort, je voulais juste vivre.\" D'un petit mineur, au roi du labyrinthe, l'histoire de sa vie se déroule maintenant.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 28121,
+    "tmdb_id": null,
+    "kitsu_id": "9962"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 28121,
+        "tmdb_id": null,
+        "kitsu_id": "9962"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dungeon-odyssey/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-odyssey/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
