@@ -1,0 +1,57 @@
+{
+  "nom": "JUVENILE DETENTION CENTER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Seinen - Action - Arts martiaux - Drame - Mature - Psychologique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/juvenile-detention-center",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/juvenile-detention-center.jpg",
+  "noms_alt": [
+    "CHOKBEOP BOY",
+    "DELINCUENTE JUVENIL"
+  ],
+  "synopsis": "Dans le même univers de Lookism. La Corée du Sud est remplie de lois merdiques. Le groupe de \"délinquants\" qui a fait de ma vie un enfer n'a reçu aucune punition : ces délinquants sont le résultat de ces lois merdiques. Je vais maintenant prendre ma revanche...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59689,
+    "tmdb_id": null,
+    "kitsu_id": "11735"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11735"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/juvenile-detention-center/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/juvenile-detention-center/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
