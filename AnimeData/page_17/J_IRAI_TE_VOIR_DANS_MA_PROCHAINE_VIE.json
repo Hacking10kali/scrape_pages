@@ -1,0 +1,41 @@
+{
+  "nom": "J'IRAI TE VOIR DANS MA PROCHAINE VIE",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Comédie",
+    "Drame",
+    "Romance",
+    "Amour"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/jirai-te-voir-dans-ma-prochaine-vie",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jirai-te-voir-dans-ma-prochaine-vie.jpg",
+  "noms_alt": [
+    "SEE YOU IN MY 19TH LIFE"
+  ],
+  "synopsis": "Le plus grand rival d'amour de ma 19ème vie est celui de ma 18ème vie ? Voici l'histoire d'amour d'une femme qui se souvient de sa vie passée.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 33095,
+    "tmdb_id": 154824,
+    "kitsu_id": "6266"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "6266"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/jirai-te-voir-dans-ma-prochaine-vie/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/jirai-te-voir-dans-ma-prochaine-vie/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
