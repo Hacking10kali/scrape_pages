@@ -1,0 +1,49 @@
+{
+  "nom": "RIKUDO",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Mature",
+    "Tragique",
+    "Tournoi",
+    "Arts martiaux",
+    "Boxe",
+    "Combats",
+    "Mafia",
+    "Société",
+    "Sport"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/rikudo",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/rikudo.jpg",
+  "noms_alt": [
+    "RIKU-DO",
+    "LA RAGE AUX POINGS"
+  ],
+  "synopsis": "Pour se venger des coups qu'il a reçus, Riku boxe le corps de son père qui vient de se pendre. Il est alors retrouvé par un ancien boxeur devenu yakuza, Kyôsuke Tokorozawa. Souhaitant vivre chez sa mère, il découvre avec horreur qu'elle partage l'existence d'un dealer aussi brutal que sadique. Face à toute cette violence, Riku trouve finalement sa place dans un foyer, où il grandit entouré d'éducateurs et d'autres enfants de son âge. Il demande à Kyôsuke de lui enseigner la boxe, afin de pouvoir défendre ceux qu'il aime. L'ex-champion décide alors de l'envoyer chez Shinji Baba, son ancien entraîneur. Le jeune garçon résistera-t-il au terrible entraînement de ce coach bien décidé à repousser toutes ses limites ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54259,
+    "tmdb_id": null,
+    "kitsu_id": "46992"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54259,
+        "tmdb_id": null,
+        "kitsu_id": "5044"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/rikudo/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/rikudo/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
