@@ -1,0 +1,52 @@
+{
+  "nom": "VIRUS KING",
+  "type": "Scans",
+  "genres": [
+    "Action - Horreur - Science-fiction - Surnaturel - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/virus-king",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/virus-king.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans un monde ravagé par des zombies ou des monstres biologiques, le protagoniste acquiert le pouvoir de contrôler le virus ou de l'assimiler. Il devient le \"Roi des Virus\", capable de commander aux infectés et d'utiliser l'infection comme une arme.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 42205,
+    "tmdb_id": 9045,
+    "kitsu_id": "3542"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2364,
+        "tmdb_id": null,
+        "kitsu_id": "3542"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/virus-king/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/virus-king/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
