@@ -1,0 +1,58 @@
+{
+  "nom": "THE PLAYER HIDES HIS PAST",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Aventure - Comédie - Drame - Fantasy - Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-player-hides-his-past",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-player-hides-his-past.jpg",
+  "noms_alt": [
+    "LE PLAYER CACHE SON PASSÉ",
+    "THE PLAYER HIDING HIS PAST",
+    "THE PLAYER WITH A HIDDEN PAST"
+  ],
+  "synopsis": "Quand le jeu légendaire \"L'histoire du continent d'Arcana\" devient réalité, l'humanité est menacée par l'apparition de monstres issus des fissures aux quatre coins de la planète. Seuls les \"Players\", les êtres humains qui se sont assimilés à leur personnage dans le jeu, peuvent protéger le monde des monstres. Malheureusement pour Ho-Yeol, il a subi l'assimilation avec un personnage qu'il avait créé il y a 10 ans quand il était en pleine crise d'adolescence. Comment pourra-t-il devenir le héros dont l'humanité a tant besoin ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 5420,
+    "tmdb_id": null,
+    "kitsu_id": "6"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 5420,
+        "tmdb_id": null,
+        "kitsu_id": "6"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-player-hides-his-past/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-player-hides-his-past/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
