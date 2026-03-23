@@ -1,0 +1,86 @@
+{
+  "nom": "I SHALL SEAL THE HEAVENS",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Arts Martiaux - Fantasy - Xuanhuan - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-shall-seal-the-heavens.jpg",
+  "noms_alt": [
+    "WO YU FENG TIAN"
+  ],
+  "synopsis": "Meng Hao, un jeune érudit, est recruté de force dans une secte de cultivateurs immortels. Dans un monde vaste et dangereux, il gravit les échelons de la cultivation, défiant le destin et les cieux eux-mêmes pour protéger ceux qu'il aime et atteindre le sommet.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54616,
+    "tmdb_id": null,
+    "kitsu_id": "47154"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54616,
+        "tmdb_id": null,
+        "kitsu_id": "47154"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Remake",
+      "titreComplet": "Remake",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54616,
+        "tmdb_id": null,
+        "kitsu_id": "47154"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
