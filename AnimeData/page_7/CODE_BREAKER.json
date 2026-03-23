@@ -1,0 +1,208 @@
+{
+  "nom": "CODE BREAKER",
+  "type": "Anime, Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Fantastique",
+    "Mystère",
+    "Shônen",
+    "Surnaturel",
+    "Super pouvoirs"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/code-breaker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/code-breaker.jpg",
+  "noms_alt": [],
+  "synopsis": "Sakura Sakurakôji est une jeune fille plutôt normale si l'on excepte le fait qu'elle soit incroyablement forte. Pratiquant l'aïkido, elle est la plus forte du club de l'école, ce qui lui vaut l'admiration des filles et une grande popularité auprès des garçons. Un soir, en rentrant chez elle en bus, elle aperçoit des hommes en train d'être brûlés vif par un étrange feu bleu. Au milieu de ces torches humaines, impassible, elle aperçoit également un jeune homme. Mais lorsqu'elle se rend sur les lieux avec un policier quelques minutes plus tard, il n'y a plus rien en dehors de quelques cendres ! Le lendemain, Sakura est contrariée : cette affaire lui occupe l'esprit. Elle l'obsède d'autant plus lorsqu'un nouvel élève, Oogami Rei, est présenté à la classe. Elle en est sûre, c'est lui qu'elle a aperçu la veille, au milieu des corps ! Dans un premier temps, Rei nie. Mais il s'avère rapidement qu'il est un Code Breaker, un être possédant des pouvoirs surnaturels mais ayant abandonné sa véritable identité. Il n'a dès lors plus qu'un seul but : débarrasser le monde de la \"pourriture\" qui s'y trouve.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 11703,
+    "tmdb_id": 57287,
+    "kitsu_id": "6570"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 11703,
+        "tmdb_id": 57287,
+        "kitsu_id": "6570"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/code-breaker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/code-breaker/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/yq1avqv0"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364888"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/mcx4jx8i"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364890"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/tc5tqhrf"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364892"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/tsjxv4jy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364895"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/ell5yxyh"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364897"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/qjqa5htz"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364898"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/6sy5z0q9"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364899"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/056o2wnt"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364902"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/i0jflo5n"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364907"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/0x1sgjhg"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364915"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/u8vz6we4"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364919"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/hdelu50j"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5364925"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/tqrorsvo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
