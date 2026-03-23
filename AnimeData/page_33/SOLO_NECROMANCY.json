@@ -1,0 +1,45 @@
+{
+  "nom": "SOLO NECROMANCY",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Surnature",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/solo-necromancy",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/solo-necromancy.jpg",
+  "noms_alt": [
+    "ONLY I AM A NECROMANCER",
+    "THE LONE NECROMANCER",
+    "THE ONLY NECROMANCER"
+  ],
+  "synopsis": "C'est la fin du monde. Les monstres des légendes apparaissent partout. Ils mangent les gens, conquièrent les rues, et commencent à créer des donjons dans les immeubles et les métros. Si vous pouviez choisir un métier dans ce monde décrépit, lequel choisiriez-vous ? Pour un « nécromancien », l'extinction est mon terrain de jeu et la mort ma richesse.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60665,
+    "tmdb_id": null,
+    "kitsu_id": "48671"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 60665,
+        "tmdb_id": null,
+        "kitsu_id": "48671"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/solo-necromancy/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/solo-necromancy/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
