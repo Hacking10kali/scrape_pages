@@ -1,0 +1,40 @@
+{
+  "nom": "YOMI NO TSUGAI",
+  "type": "Scans",
+  "genres": [
+    "Prison",
+    "Secrets",
+    "Action",
+    "Mystère",
+    "Shônen"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/yomi-no-tsugai",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/yomi-no-tsugai.jpg",
+  "noms_alt": [
+    "TSUGAI - DAEMONS OF THE SHADOW REALM / THE HINGE OF THE UNDERWORLD"
+  ],
+  "synopsis": "L'histoire se déroule dans un petit village isolé en pleine montagne. Un endroit comme tant d'autres à une exception près : la prison installée au cœur du village. Yuru et sa sœur jumelle Asa vivent dans ce village depuis toujours mais n'ont jamais vraiment eu d'interactions avec la prison. Un jour, pourtant, Asa est convoquée pour y travailler et y est confinée. Séparé de sa soeur, Yuru va peu à peu découvrir les secrets de son village.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62001,
+    "tmdb_id": 260463,
+    "kitsu_id": "50023"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62001,
+        "tmdb_id": null,
+        "kitsu_id": "50023"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/yomi-no-tsugai/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/yomi-no-tsugai/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
