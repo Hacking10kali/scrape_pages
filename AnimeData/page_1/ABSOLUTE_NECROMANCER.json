@@ -1,0 +1,45 @@
+{
+  "nom": "ABSOLUTE NECROMANCER",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/absolute-necromancer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-necromancer.jpg",
+  "noms_alt": [
+    "ALL MASTER NECROMANCER",
+    "ALL-MASTER NECROMANCER",
+    "UNRIVALED NECROMANCER"
+  ],
+  "synopsis": "Trahi par les membres de sa guilde, le redoutable nécromancien Jinhyeok échappe de peu à la mort en transférant son âme au tout dernier moment. Petit couac : il se réveille une décennie plus tard dans un tout nouveau corps dépourvu de magie. Armé de toute sa volonté, le jeune homme se lance dans une quête de pouvoir et de vengeance... Pour cela, il entreprend de gravir la mystérieuse Tour qui regorge de dangers autant que d'opportunités... Parviendra-t-il à se surpasser pour devenir le maître tout-puissant ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 25397,
+    "tmdb_id": null,
+    "kitsu_id": "8641"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 25397,
+        "tmdb_id": null,
+        "kitsu_id": "8641"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/absolute-necromancer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/absolute-necromancer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
