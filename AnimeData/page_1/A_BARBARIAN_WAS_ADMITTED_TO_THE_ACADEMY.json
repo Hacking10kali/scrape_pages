@@ -1,0 +1,57 @@
+{
+  "nom": "A BARBARIAN WAS ADMITTED TO THE ACADEMY",
+  "type": "Scans",
+  "genres": [
+    "Action - Drame - Fantaisie - Historique - Isekai - Trans / Gender bender"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/a-barbarian-was-admitted-to-the-academy",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+  "noms_alt": [
+    "A BARBARIAN ENROLLED IN THE ACADEMY",
+    "A BARBARIAN ENTERED THE ACADEMY",
+    "ACADEMY ORANGKAEGA IPAKAETDA",
+    "ENTERED THE ACADEMY AS A BARBARIAN"
+  ],
+  "synopsis": "Je me suis retrouvée possédée dans un jeu auquel je jouais occasionnellement. Et pour couronner le tout, je suis la guerrière d'une tribu barbare qui ne connaît que de mauvaises fins. ... Très bien, échappons-nous.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2924,
+    "tmdb_id": null,
+    "kitsu_id": "49930"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "49930"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
