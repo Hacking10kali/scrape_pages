@@ -1,0 +1,58 @@
+{
+  "nom": "UN ÉTÉ AVEC COO",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Folklore",
+    "Yokai"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/un-ete-avec-coo",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/un-ete-avec-coo.jpg",
+  "noms_alt": [
+    "KAPPA NO COO TO NATSUYASUMI",
+    "SUMMER DAYS WITH COO"
+  ],
+  "synopsis": "Kôichi, un jeune écolier en quatrième année de primaire, découvre une pierre bien étrange encastré dans le lit asséché d'une rivière et la rapporte à la maison. Alors qu'il décide de laver cette précieuse pierre, un étrange animal en sort. Surprise, c'est un kappa, un esprit de l'eau. La famille de Kôichi appelle ce kappa Coo et décide d'en prendre soin. Toutefois, la rumeur de la présence de Coo ne tarde pas à se propager et toute la ville ne parle plus que de lui. Coo, inquiet d'ennuyer la famille de Kôichi, décide de partir. L'aventure de Coo à la recherche d'autres kappa commence.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 10798,
+    "tmdb_id": null,
+    "kitsu_id": "6353"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 11531,
+        "tmdb_id": 17234,
+        "kitsu_id": "6529"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/un-ete-avec-coo/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/un-ete-avec-coo/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5093258"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/he9fxe4bz8i8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
