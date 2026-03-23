@@ -1,0 +1,44 @@
+{
+  "nom": "PIGPEN",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Horreur",
+    "Mystère",
+    "Psychologique",
+    "Surnaturel",
+    "Tragique",
+    "Survie"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/pigpen",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/pigpen.jpg",
+  "noms_alt": [
+    "DWAEJIURI"
+  ],
+  "synopsis": "Le protagoniste se retrouve à la dérive sur une île inhabitée, où une mystérieuse famille apparaît devant lui.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": 255296,
+    "kitsu_id": "43664"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/pigpen/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/pigpen/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
