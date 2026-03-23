@@ -1,0 +1,43 @@
+{
+  "nom": "CHILD OF THE SHEATH",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/child-of-the-sheath",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/child-of-the-sheath.jpg",
+  "noms_alt": [
+    "KALJIBUI AI",
+    "SWORD SHEATH'S CHILD",
+    "SWORD SHEATHS CHILD"
+  ],
+  "synopsis": "C'est un monde où un arbre magique peut pousser sur le dos d'un épéiste, où une fille muette peut être transformée en arme vivante par sa mère, où un dragon de givre parcourt les cieux assoiffé de vengeance et où des êtres dotés de pouvoirs divins s'affrontent pour l'équilibre de la nature. Au milieu de tout cela se trouve Bira, un garçon orphelin, passant joyeusement ses journées à pêcher dans une forêt isolée. Puis, il rencontre Tanyu, un ancien général en quête de son ami d'enfance. Ensemble, ils voyagent dans un paysage enchanté incomparable.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1279,
+    "tmdb_id": null,
+    "kitsu_id": "41083"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1279,
+        "tmdb_id": null,
+        "kitsu_id": "41083"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/child-of-the-sheath/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/child-of-the-sheath/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
