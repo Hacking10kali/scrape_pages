@@ -1,0 +1,38 @@
+{
+  "nom": "RED RAVEN",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Science-fiction",
+    "Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/red-raven",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/red-raven.jpg",
+  "noms_alt": [],
+  "synopsis": "Andy a l'apparence d'un petit garçon, borgne et inoffensif. Mais il ne faut pas se fier aux apparences : en réalité, il est le 4ème exécuteur des Red Raven, un groupe chargé de maintenir l'ordre. Et il a fort à faire, puisque c'est à présent la mafia qui dirige le pays ! Les membres dissidents étant légion, Andy aura de quoi assouvir la soif de sang de son épée-guillotine ! Et comme si cela ne suffisait pas, une organisation secrète nommée Sccaggs sème la terreur avec son trafic d'armes expérimentales ! Andy semble de plus avoir une haine viscérale envers Sccaggs... Que cache-t-il donc derrière son bandeau noir ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 57325,
+    "tmdb_id": null,
+    "kitsu_id": "48256"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 57325,
+        "tmdb_id": null,
+        "kitsu_id": "48256"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/red-raven/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/red-raven/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
