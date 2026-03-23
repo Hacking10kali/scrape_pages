@@ -1,0 +1,55 @@
+{
+  "nom": "GHOST IN THE SHELL",
+  "type": "Anime, Film",
+  "genres": [
+    "Action",
+    "Psychologique",
+    "Science-fiction",
+    "Cyberpunk",
+    "Cyborgs",
+    "Mechas",
+    "Police"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ghost-in-the-shell",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ghost-in-the-shell.jpg",
+  "noms_alt": [
+    "KOUKAKU KIDOUTAI"
+  ],
+  "synopsis": "\"Année 2029, les réseaux informatiques quadrillent l'univers. Mais ce progrès n'aura pas balayés nos nations et nos groupes ethniques de la surface de la Terre\" La section 9 est une unité spéciale de police chargée des affaires d'états et terrorisme impliquant des cybercriminels. C'est dans cet univers de corruption politique que le Major Motoko Kusanagi travaille. Celle-ci est un agent au corps cybernétique de dernier cri, agissant selon ce que lui souffle son \"ghost\". Malgré cela, le Major commence à douter de sa propre nature. Les hackers maintenant s'en prennent non plus aux réseaux informatiques mais aussi au cerveau humain. Les souvenirs alors ne sont plus que de vulgaires donnés, maniables dans leur intégrité. Qu'est-ce la réalité ? Qu'est-ce virtuel ? Existe-t-il réellement une barrière entre ces deux \"univers\" ? Qui des deux est l'originel ? En ce temps de neo technologie ultra perfectionnée, ces questions se posent... Lorsque l'affaire du Puppet Master fait surface, Le Major Kusanagi sera confronté à bien plus qu'un simple criminel informatique classé comme le plus dangereux de tout les temps, mandaté et recherché dans de nombreux pays. Quel est le rapport entre la réapparition de ce cybercriminel aux origines inconnues et un certain Projet 2501, étouffé soigneusement dans les archives du ministère des affaires étrangères ? Le Major n'enquête alors plus seulement sur sa nature propre ni même sur cette affaire des plus étrange, mais sur les origines de la vie même.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 467,
+    "tmdb_id": 1095,
+    "kitsu_id": "429"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 43,
+        "tmdb_id": 9323,
+        "kitsu_id": "25"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/ghost-in-the-shell/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ghost-in-the-shell/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/2gng29ir"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
