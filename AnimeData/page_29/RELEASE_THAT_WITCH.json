@@ -1,0 +1,67 @@
+{
+  "nom": "RELEASE THAT WITCH",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Harem",
+    "Isekai",
+    "Romance",
+    "Surnaturel",
+    "Webcomic",
+    "Manhua",
+    "Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/release-that-witch",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/release-that-witch.jpg",
+  "noms_alt": [
+    "FANG KAI NA GE NU WU",
+    "RELÂCHEZ CETTE SORCIÈRE"
+  ],
+  "synopsis": "Un ingénieur mâle a émigré dans un autre monde, et est devenu un prince. Cet endroit ressemble étrangement au Moyen Âge de l'Europe, mais en même temps, semble un peu différent ! Les sorcières existent vraiment, et elles possèdent même des pouvoirs magiques, et ce sont des forces productives ! Sauvez les sorcières, libérez les forces productives ! Ouvrez la carte, combattez les démons, brisez les complots, grimpez dans l'arbre de la science et de la technologie, et ouvrez la voie de l'agriculture hardcore !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37221,
+    "tmdb_id": 298026,
+    "kitsu_id": "2641"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 37221,
+        "tmdb_id": null,
+        "kitsu_id": "2641"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/release-that-witch/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/release-that-witch/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
