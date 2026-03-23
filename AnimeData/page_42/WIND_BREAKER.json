@@ -1,0 +1,40 @@
+{
+  "nom": "WIND BREAKER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Drame",
+    "Romance",
+    "School Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/wind-breaker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/wind-breaker.jpg",
+  "noms_alt": [],
+  "synopsis": "Nous suivons l'histoire de Jay un jeune lycéen étudiant et président du conseil des élèves de la Sunny High. Alors qu'il était en train de faire du vélo, ce dernier se fera rapidement repérer par Minu, membre de la Zephyrus Crew, un groupe de cycliste. Le jeune homme ayant été impressionné par les compétences de Jay tentera de le recruter dans son équipe, chose que le président du conseil des élèves refusera catégoriquement. Voyant les nombreux refus de ce dernier, Minu abandonnera l'idée de le recruter et lui proposera simplement de faire une course contre TJ, également membre de la Zephyrus Crew. Alors que Jay s'apprêtait à décliné son offre, Minu lui dira que ce fameux TJ a insulté son vélo, disant qu'il ne s'agissait que d'un tas de ferraille. Fou de rage, Jay acceptera finalement de prendre part à la course...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54900,
+    "tmdb_id": 223500,
+    "kitsu_id": "47271"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54900,
+        "tmdb_id": null,
+        "kitsu_id": "47271"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/wind-breaker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/wind-breaker/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
