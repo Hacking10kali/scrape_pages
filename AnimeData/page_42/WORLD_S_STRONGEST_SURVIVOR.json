@@ -1,0 +1,56 @@
+{
+  "nom": "WORLD’S STRONGEST SURVIVOR",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Drame - Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/worlds-strongest-survivor",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/worlds-strongest-survivor.jpg",
+  "noms_alt": [
+    "KANUN TANIMAZ OYUNCU"
+  ],
+  "synopsis": "« Ce n'est pas le plus fort qui survit. C'est celui qui survit est le plus fort. » Après avoir terminé son service militaire, Jin Seowoon n'a rien fait d'autre que de jouer à des jeux comme un perdant. Un jour, il a été invité dans le monde de « Cloyd Survival », qui ressemblait à un jeu qu'il aimait. Dans ce monde se trouvaient des maîtres des arts martiaux, des rois d'autres mondes et des tueurs notoires... C'était un rassemblement de monstres qui dépassait l'imagination humaine. Jin Seowoon n'avait qu'un seul objectif : survivre et devenir l'un des dix meilleurs. Voici une histoire de survie où la vie de Jin Seowoon est en jeu.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3002,
+    "tmdb_id": null,
+    "kitsu_id": "1408"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "1408"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/worlds-strongest-survivor/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/worlds-strongest-survivor/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
