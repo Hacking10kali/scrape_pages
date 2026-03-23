@@ -1,0 +1,42 @@
+{
+  "nom": "THE PLAYER THAT CAN'T LEVEL UP",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-player-that-cant-level-up",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-player-that-cant-level-up.jpg",
+  "noms_alt": [
+    "PLAYER MOSHANEUN LEVELUP",
+    "THE PLAYER WHO CAN'T LEVEL UP"
+  ],
+  "synopsis": "Après une série d'échecs, Kim Gi Gyu est enfin devenu un player à l'âge de 18 ans. Il pensait ainsi pouvoir changer sa vie et mettre sa famille à l'abri du besoin... Mais même en étant détenteur d'une compétence unique, le jeune homme s'avère absolument incapable de dépasser le niveau 1 ! D'ailleurs, la seule position qui lui est accordée est celle de guide du tutoriel... Qui aurait cru qu'un player puisse devenir légendaire par son incapacité à monter le moindre niveau ?!",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 56735,
+    "tmdb_id": null,
+    "kitsu_id": "6501"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 56735,
+        "tmdb_id": null,
+        "kitsu_id": "6501"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-player-that-cant-level-up/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-player-that-cant-level-up/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
