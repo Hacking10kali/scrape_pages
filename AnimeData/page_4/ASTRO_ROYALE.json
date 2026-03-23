@@ -1,0 +1,39 @@
+{
+  "nom": "ASTRO ROYALE",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Combat",
+    "Shônen",
+    "Surnaturel"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/astro-royale",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/astro-royale.jpg",
+  "noms_alt": [
+    "NEGAI NO ASUTORO"
+  ],
+  "synopsis": "La nouvelle série de Ken Wakui, le créateur de Shinjuku Swan et Tokyo Revengers ! Alors que la bataille pour désigner le prochain chef du gang des Yotsurugi qui dirige Asakusa s'intensifie, la chute d'une météorite réveille soudain des super pouvoirs chez les Japonais. Comment Hibaru Yotsurugi, le fils du précédent chef de gang, va-t-il s'en sortir ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 971,
+    "tmdb_id": null,
+    "kitsu_id": "861"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 971,
+        "tmdb_id": null,
+        "kitsu_id": "861"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/astro-royale/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/astro-royale/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
