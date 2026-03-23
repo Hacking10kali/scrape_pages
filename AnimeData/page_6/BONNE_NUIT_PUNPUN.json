@@ -1,0 +1,42 @@
+{
+  "nom": "BONNE NUIT PUNPUN",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Comédie",
+    "Drame",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bonne-nuit-punpun",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bonne-nuit-punpun.jpg",
+  "noms_alt": [
+    "GOODNIGHT PUNPUN",
+    "OYASUMI PUNPUN"
+  ],
+  "synopsis": "Punpun est un enfant banal qui mène une vie des plus banale. Mais un jour arrive et sa vie ainsi que celle de sa famille proche bascule soudainement. À la suite d'une virulente dispute conjugale, le père de Punpun bat sa mère au point de l'envoyer à l'hôpital. En parallèle, le jeune homme fait la rencontre de Aiko, nouvelle élève de sa classe, qui semble déjà l'intéresser tout particulièrement... Véritable ode à la vie de tous les jours d'un adolescent et de sa bande de \"potes\", \"Bonne nuit Punpun\", dernière œuvre en date de Inio Asano (Solanin, Le Quartier de Lumière...), oscille entre le drame et le comique et raconte les péripéties à la fois particulières et bénignes, d'un jeune homme en quête d'espoir.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 21835,
+    "tmdb_id": null,
+    "kitsu_id": "8283"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 21835,
+        "tmdb_id": null,
+        "kitsu_id": "8283"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bonne-nuit-punpun/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bonne-nuit-punpun/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
