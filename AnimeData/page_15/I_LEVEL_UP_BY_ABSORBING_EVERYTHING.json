@@ -1,0 +1,62 @@
+{
+  "nom": "I LEVEL UP BY ABSORBING EVERYTHING",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/i-level-up-by-absorbing-everything",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-level-up-by-absorbing-everything.jpg",
+  "noms_alt": [
+    "UPGRADE BY COLLECTING EVERYTHING",
+    "LEVELING UP BY HOARDING",
+    "TALENT REAPER"
+  ],
+  "synopsis": "L'aura de l'âme s'éveille, des bêtes féroces parcourent la terre. Chi Mo transmigre et éveille la technique de la collecte. Collecter le talent de haut niveau du temps, peut accélérer ou ralentir le temps ! Recueillir la lignée du phénix du grand soleil d'or peut permettre au corps de se transformer en soleil et de brûler la terre ! Recueillir le talent de l'épée peut permettre de comprendre le concept de l'épée et de tout trancher !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 52299,
+    "tmdb_id": null,
+    "kitsu_id": "46370"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 52299,
+        "tmdb_id": null,
+        "kitsu_id": "46370"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/i-level-up-by-absorbing-everything/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/i-level-up-by-absorbing-everything/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
