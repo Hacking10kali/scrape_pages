@@ -1,0 +1,39 @@
+{
+  "nom": "ASADORA!",
+  "type": "Scans",
+  "genres": [
+    "Drame",
+    "Historique",
+    "Slice of Life",
+    "Seinen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/asadora",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/asadora.jpg",
+  "noms_alt": [],
+  "synopsis": "La ville de Tokyo, à la veille des Jeux Olympiques de 2020, est dévastée par un monstre cornu. Retour en arrière, direction Nagoya 1959, veille d'un terrible typhon, Asa, 12 ans, court chercher un médecin pour l'amener auprès de sa mère sur le point d'accoucher. Une héroïne qui ne cesse de courir, un vieil homme hanté par son passé, un événement historique marquant, des personnages secondaires haut en couleurs, des sauts dans le temps... Aucun doute n'est permis : dans Asadora!, Naoki Urasawa renoue avec tous les ingrédients à l'origine de son succès mondial.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 16317,
+    "tmdb_id": 46042,
+    "kitsu_id": "7404"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "7404"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/asadora/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/asadora/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
