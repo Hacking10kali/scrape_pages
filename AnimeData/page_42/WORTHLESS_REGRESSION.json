@@ -1,0 +1,44 @@
+{
+  "nom": "WORTHLESS REGRESSION",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Combats",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/worthless-regression",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/worthless-regression.jpg",
+  "noms_alt": [
+    "JWIPPULDO EOBSNEUN HOEGWI",
+    "POSSESSING NOTHING"
+  ],
+  "synopsis": "Un collégien ordinaire, Lee Sungmin, est convoqué dans un monde appelé « Eria ». Il endure des dizaines d'années sans talents ni pouvoirs et traverse toutes sortes d'épreuves pour survivre, mais meurt misérablement à la fin. Cependant, avant de mourir, il retourne dans le passé après avoir obtenu par hasard la « pierre de la vie passée » et a la possibilité de recommencer sa vie. Pourtant, il vit toujours une vie sans aucun talent, sans rien. Bien qu'il ne puisse pas approcher les génies qui l'entourent à cause du « mur » qui les entoure, et qu'il se sente inférieur, il avance pas à pas avec une ferme détermination, sans jamais abandonner. « Quoi qu'il arrive, je vais vivre une meilleure vie que la précédente, même si je dois lutter ! ».",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59144,
+    "tmdb_id": null,
+    "kitsu_id": "49059"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 59144,
+        "tmdb_id": null,
+        "kitsu_id": "49059"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/worthless-regression/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/worthless-regression/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
