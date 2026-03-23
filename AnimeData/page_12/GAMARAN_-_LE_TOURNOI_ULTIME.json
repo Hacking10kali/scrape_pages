@@ -1,0 +1,41 @@
+{
+  "nom": "GAMARAN - LE TOURNOI ULTIME",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Comédie",
+    "Historique",
+    "Arts martiaux",
+    "Tournois"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/gamaran-le-tournoi-ultime",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/gamaran-le-tournoi-ultime.jpg",
+  "noms_alt": [],
+  "synopsis": "Deux ans ont passé depuis la fin du légendaire Grand Tournoi d'Unabara durant lequel de nombreux combatstants ont risqué leur vie afin de déterminer qui était le plus fort d'entre eux. Iori Sengoku, devenu le 'guerrier sans égal', reçoit une invitation de la part du shogunat Tokugawa. Il va devoir défendre son titre. Ses adversaires seront des combatstants triés sur le volet par le gouvernement. Leur nom : les Cent Lames du shogunat. Que le Tournoi Ultime commence !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3002,
+    "tmdb_id": null,
+    "kitsu_id": "863"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "863"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/gamaran-le-tournoi-ultime/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/gamaran-le-tournoi-ultime/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
