@@ -1,0 +1,44 @@
+{
+  "nom": "WEBTOON CHARACTER NA KANG LIM",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Comédie",
+    "Fantasy",
+    "Harem",
+    "Romance",
+    "Slice of Life",
+    "School Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/webtoon-character-na-kang-lim",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/webtoon-character-na-kang-lim.jpg",
+  "noms_alt": [],
+  "synopsis": "Na Kang-Lim est un lycéen qui aime lire des webtoons. Un jour, l'héroïne du webtoon qu'il a l'habitude de lire apparaît devant lui. Les mêmes événements du webtoon se produisent en vrai et la mettent dans en situation critique. Le problème, il n'y a pas d'héroïne dans la vraie vie pour la sauver ! Na Kang-Lim prend alors ce rôle et remonte le temps pour la sauver.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 50552,
+    "tmdb_id": null,
+    "kitsu_id": "7651"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "7651"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/webtoon-character-na-kang-lim/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/webtoon-character-na-kang-lim/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
