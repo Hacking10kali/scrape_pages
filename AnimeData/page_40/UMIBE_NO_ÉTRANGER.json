@@ -1,0 +1,56 @@
+{
+  "nom": "UMIBE NO ÉTRANGER",
+  "type": "Anime, Film",
+  "genres": [
+    "Romance",
+    "Shônen-Ai",
+    "Slice of Life",
+    "Yaoi"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/umibe-no-etranger",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/umibe-no-etranger.jpg",
+  "noms_alt": [
+    "L'ÉTRANGER DE LA PLAGE",
+    "L'ÉTRANGER DU PLAGE"
+  ],
+  "synopsis": "Shun Hashimoto, gay, est écrivain en herbe, tandis que Mio Chibana est un lycéen mélancolique passant son temps à regarder la mer. Ils se sont rencontrés il y a de cela trois ans, sur la plage d'une petite île isolée d'Okinawa. Plus les jours passaient, plus les deux jeunes hommes se rapprochaient. Cependant, Mio ne tarde pas à devoir quitter l'île, et lorsqu'il y revient après trois longues année de réflexion, il se rend directement chez Shun pour lui avouer qu'il l'aime. Mais de son côté, le jeune écrivain a bien du mal à faire les premiers pas vers une relation amoureuse...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40615,
+    "tmdb_id": null,
+    "kitsu_id": "5950"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 40615,
+        "tmdb_id": 642121,
+        "kitsu_id": "42659"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/umibe-no-etranger/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/umibe-no-etranger/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/1pzwoelj\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/qa8zuui7yuqrf8c75ief3zwc7h"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
