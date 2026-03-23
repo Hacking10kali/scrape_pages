@@ -1,0 +1,44 @@
+{
+  "nom": "SSS-CLASS GACHA HUNTER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sss-class-gacha-hunter",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sss-class-gacha-hunter.jpg",
+  "noms_alt": [
+    "SSS-CLASS HUNTER WHO GETS STRONGER BY GACHA",
+    "THE SSS-RANK HUNTER'S LUCKY DRAW",
+    "SSS CLASS GACHA HUNTER"
+  ],
+  "synopsis": "Le pire jour de ma vie, j'ai reçu un miracle en cadeau de l'univers réel.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 11061,
+    "tmdb_id": null,
+    "kitsu_id": "49740"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62924,
+        "tmdb_id": null,
+        "kitsu_id": "49740"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sss-class-gacha-hunter/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sss-class-gacha-hunter/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
