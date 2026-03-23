@@ -1,0 +1,46 @@
+{
+  "nom": "100 METERS",
+  "type": "Film",
+  "genres": [
+    "Action - Drame - Athlétisme - Sport"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF",
+    "VASTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/100-meters",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/100-meters.jpg",
+  "noms_alt": [
+    "100 MÈTRES / 100 M. / HYAKUEMU.",
+    "HYAKU M."
+  ],
+  "synopsis": "Je m'appelle Togashi. Je suis né avec un don pour la rapidité. C'est pourquoi je régnais sans conteste dans le pays sur les compétitions de course aux 100 mètres. C'est comme ça que je me suis fait des amis et que j'ai trouvé ma place au sommet. Mais pour la première fois, à l'automne de la sixième année d'athlétisme : j'ai appris la peur de la défaite. Et en même temps, j'ai compris que cette remise en cause avait le potentiel pour me soutenir et me permettre de m'améliorer. Un sprint de 100 mètres. Seulement un sprint de 100 mètres. Mais auquel il faut que j'arrive à insuffler suffisamment de passion pour me pousser à engager ma peau dans ce jeu.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37510,
+    "tmdb_id": null,
+    "kitsu_id": "43367"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 48352,
+        "tmdb_id": 1295026,
+        "kitsu_id": "49072"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/100-meters/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/100-meters/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
