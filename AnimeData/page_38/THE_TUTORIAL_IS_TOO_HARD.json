@@ -1,0 +1,54 @@
+{
+  "nom": "THE TUTORIAL IS TOO HARD",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Psychologique - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/the-tutorial-is-too-hard",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-tutorial-is-too-hard.jpg",
+  "noms_alt": [
+    "LE TUTORIEL EST TROP DIFFICILE"
+  ],
+  "synopsis": "Lee Ho-Jae, un ancien joueur professionnel, entre dans un tutoriel de jeu de survie avec une difficulté \"Enfer\". Piégé dans ce monde impitoyable, il doit surmonter des épreuves impossibles pour devenir plus fort et espérer un jour s'échapper.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": null,
+    "kitsu_id": "1091"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "1091"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-tutorial-is-too-hard/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-tutorial-is-too-hard/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
