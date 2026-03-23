@@ -1,0 +1,159 @@
+{
+  "nom": "THE GARDEN OF SINNERS",
+  "type": "Anime",
+  "genres": [
+    "Horreur",
+    "Épouvante",
+    "Psychologique",
+    "Romance",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-garden-of-sinners",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-garden-of-sinners.jpg",
+  "noms_alt": [
+    "KARA NO KYOUKAI : THE GARDEN OF SINNERS"
+  ],
+  "synopsis": "Kara no Kyoukai est basé sur le roman et le jeu du même nom produit par type-moon et dont les deux personnes à l'origine sont Nasu Kinoko (histoire) et Takeuchi Takashi (illustrations). Kara no Kyoukai est composé de 7 films produit par le studio ufotable. Une série de suicide est le sujet de toutes les attentions et questions des médias locaux, en effet ces suicides ont tous un point commun, ceux qui se sont suicidés se sont tous jetés du toit du même immeuble, mais la police patauge. Pendant ces événements Kokuto Mikiya est tombée dans le coma et Shiki Ryougi commence alors à s'intéresser personnellement à cette affaire. Cependant cette affaire est sujette à des rumeurs prétendant qu'il y aurait un fantôme sur le toit de cet immeuble.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4549,
+    "tmdb_id": 97825,
+    "kitsu_id": "44107"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4549,
+        "tmdb_id": 97825,
+        "kitsu_id": "44107"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/the-garden-of-sinners/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-garden-of-sinners/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/pfsimh68"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/rrriyjhqym6wxypjwzhc8n339h"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813404"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/qcm1ftcv"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/gr6p1pxhs5hrtpoe7c3crqxbpe"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813405"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/1xssjb5b"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/qmf86b3yebawbgmp79ztw4f8wr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813406"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/szq56fqe"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/7p1yjbk9ni4r9xz11pbywyk3ho"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813409"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/nxcrcnze"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/9zq3mww6nrfwxkcs9w35raqe7a"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813413"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/02sfvpq6"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/o33xjbpkhctwxkd9uqx3zt1jce"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813415"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/ukac7tj4\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/t93y49cwq58wzcaif5ey7rr55o"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
