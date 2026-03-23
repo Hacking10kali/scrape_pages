@@ -1,0 +1,59 @@
+{
+  "nom": "A MOUNTAIN OF CORPSES, A SEA OF BLOOD",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Drame - Fantaisie - Webcomic - Manhua"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/a-mountain-of-corpses-a-sea-of-blood",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
+  "noms_alt": [
+    "MOUNTAINS OF CORPSES AND SEAS OF BLOOD",
+    "RIVERS OF BLOOD",
+    "SEA OF BLOOD",
+    "MOUNTAIN OF BONES",
+    "SHI SHAN XUE HAI",
+    "THE CRIMSON BATTLEFIELD"
+  ],
+  "synopsis": "La guerre ultime entre les humains et les démons toucha à sa fin lorsque le plus puissant des héros, Gron, périt en entraînant le Roi Démon avec lui. Cinq ans plus tard, Gron se réveille au coeur du camp des démons et découvre que son âme s'est réincarnée dans le corps du plus faible d'entre eux. Cependant, il ne tarde pas à réaliser que son esprit a éveillé en ce corps une puissance cachée : le pouvoir d'évolution du Dieu Serpent antique. Autrefois célèbre pour sa justice extrême, quel carnage Gron déclenchera-t-il désormais dans ce corps démoniaque ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2924,
+    "tmdb_id": null,
+    "kitsu_id": "7117"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "7117"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
