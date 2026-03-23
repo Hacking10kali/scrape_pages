@@ -1,0 +1,46 @@
+{
+  "nom": "HÉROS FRAGILE",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "School Life",
+    "Slice of Life",
+    "Amitié",
+    "Arts martiaux",
+    "Combats",
+    "Ecole",
+    "Harcèlement"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/heros-fragile",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/heros-fragile.jpg",
+  "noms_alt": [
+    "WEAK HERO"
+  ],
+  "synopsis": "Une fois que les intimidateurs vous ciblent, la partie est terminée. L'école est dirigée par des tyrans dont le passe-temps préféré est de tourmenter les enfants les plus faibles de la classe. Mais Si Eun est arrivé. Ce mystérieux nouvel élève menace de démanteler l'ordre établi. Il peut être de petite taille, mais ses combats calculateurs et brutaux laissent des adversaires sans méfiance allongés sur le sol et implorants. Maintenant, les brutes les plus coriaces de l'école doivent se démener pour éliminer ce nouveau héros.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60382,
+    "tmdb_id": 200709,
+    "kitsu_id": "8195"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8195"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/heros-fragile/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/heros-fragile/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
