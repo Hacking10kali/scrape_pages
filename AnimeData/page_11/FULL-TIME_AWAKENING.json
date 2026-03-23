@@ -1,0 +1,54 @@
+{
+  "nom": "FULL-TIME AWAKENING",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantaisie - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/full-time-awakening",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/full-time-awakening.jpg",
+  "noms_alt": [
+    "5(ALL) ELEMENTS"
+  ],
+  "synopsis": "En tant que capitaine de la Légion divine et plus puissant Éveillé, Bai Yi est trahi par un camarade et voit tous ses coéquipiers mourir sous ses yeux. C'est alors seulement qu'il réalise qu'il n'a toujours été qu'un pion entre les mains des puissants. Ayant tout perdu, il renaît 20 ans plus tôt, à l'époque où il était encore au collège, avant son éveil. À cette époque, sa famille et ses coéquipiers sont encore en vie. Pour les sauver, venger le traître et renverser tout le système corrompu au pouvoir, il s'engage dans un chemin solitaire vers la puissance.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2942,
+    "tmdb_id": null,
+    "kitsu_id": "755"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2942,
+        "tmdb_id": null,
+        "kitsu_id": "755"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/full-time-awakening/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/full-time-awakening/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
