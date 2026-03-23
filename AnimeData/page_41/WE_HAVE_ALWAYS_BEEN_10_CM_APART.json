@@ -1,0 +1,119 @@
+{
+  "nom": "WE HAVE ALWAYS BEEN 10 CM APART",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Romance",
+    "School Life",
+    "Slice of Life",
+    "Ecole",
+    "Quotidien"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/we-have-always-been-10-cm-apart",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/we-have-always-been-10-cm-apart.jpg",
+  "noms_alt": [
+    "ITSUDATTE BOKURA NO KOI WA 10 CENTI DATTA."
+  ],
+  "synopsis": "Cette série animée va se baser sur les musiques \"Hatsukoi no Ehon\" (The Picture Book of the First Love) et \"Ippun Ichibyō Kimi to Boku no\" (Yours and My One Minute and One Second) de HoneyWorks.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 9922,
+    "tmdb_id": 74094,
+    "kitsu_id": "47987"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 9922,
+        "tmdb_id": 74094,
+        "kitsu_id": "47987"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/we-have-always-been-10-cm-apart/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/we-have-always-been-10-cm-apart/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/gejakcx4"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5407116"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/o40jhvbs"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5407117"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/64nyp93s"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5407120"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/bpra55yr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5407122"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/jfp3gtxy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5407123"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/fh0dd161"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
