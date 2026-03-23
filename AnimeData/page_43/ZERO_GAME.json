@@ -1,0 +1,57 @@
+{
+  "nom": "ZERO GAME",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Drame - Fantasy - Romance"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/zero-game",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/zero-game.jpg",
+  "noms_alt": [
+    "LE JEU DE ZÉRO",
+    "ZER0GAME"
+  ],
+  "synopsis": "Yoo Hanra est sur le point d'abandonner sa vie à cause de ses malheurs, une nouvelle chance lui est offerte par le biais d'une invitation au mystérieux Zero Game. Si elle gagne elle sera capable de créer une seconde vie exactement comme elle le souhaite. Si elle pers elle mourra pour de bon. Avec un nouveau partenariat fragile, des compétences à apprendre et des ennemis à sa poursuite, elle doit trouver un moyen de finir tous les niveaux et de rencontrer l'opérateur pour enfin obtenir la vie qu'elle souhaite. Une histoire fantastique / dramatique qui suit une jeune fille qui participe à un jeu de survie avec comme prix une chance de reconstruire sa vie pour qu'elle soit meilleure que celle qu'elle avait auparavant. Et le prix de l'échec étant sa mort.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63292,
+    "tmdb_id": 95485,
+    "kitsu_id": "6028"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 63292,
+        "tmdb_id": null,
+        "kitsu_id": "6028"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/zero-game/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/zero-game/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
