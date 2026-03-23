@@ -1,0 +1,45 @@
+{
+  "nom": "REAPER OF THE DRIFTING MOON",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Arts martiaux",
+    "Drame",
+    "Fantaisie",
+    "Mystère",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/reaper-of-the-drifting-moon",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/reaper-of-the-drifting-moon.jpg",
+  "noms_alt": [
+    "GRIM REAPER'S FLOATING MOON",
+    "GRIM REAPERS FLOATING MOON"
+  ],
+  "synopsis": "Il est dans la partie la plus profonde du Jianghu. Gardez les yeux grands ouverts si vous ne voulez pas être entraîné dans l'abîme.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 47257,
+    "tmdb_id": null,
+    "kitsu_id": "7722"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 47257,
+        "tmdb_id": null,
+        "kitsu_id": "7722"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/reaper-of-the-drifting-moon/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/reaper-of-the-drifting-moon/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
