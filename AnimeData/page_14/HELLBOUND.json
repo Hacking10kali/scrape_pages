@@ -1,0 +1,124 @@
+{
+  "nom": "HELLBOUND",
+  "type": "Autres",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Horreur",
+    "Epouvante",
+    "Mystère",
+    "Suspense",
+    "Thriller",
+    "Anges",
+    "Monstres",
+    "Paranormal",
+    "Religion"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hellbound",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hellbound.jpg",
+  "noms_alt": [
+    "JIOK"
+  ],
+  "synopsis": "Un jour, des créatures surnaturelles surgissent dans les rues de Séoul et condamnent un homme en plein jour et au milieu de la rue. Face à cet évènement effrayant, une secte, la Nouvelle Vérité mené par le charismatique et mystérieux Jeong Jin Su, voit le jour et interprète ces phénomènes comme des signes de Dieu censés mener au Jugement. Les pécheurs reçoivent un jugement leur annonçant le jour de leur mort puis s'en suit une démonstration à l'heure prévue. Trois créatures frappent à mort la victime avant d'envoyer son âme en Enfer et de calciner le corps. Si une grande majorité de la population se laisse convaincre par ces interprétations, plusieurs personnes dont des policiers et l'avocate Min Hye Jin tentent de dénoncer cette nouvelle religion et leur vision peut-être pas si correcte... Mais c'est sans compter la branche extrémiste de la Nouvelle Vérité, la Pointe de Flèche, qui use de la violence pour découvrir les péchés des condamnés, les afficher au grand public et se débarrasser des personnes se mettant sur leur chemin et, ainsi, selon eux, refusant la volonté de Dieu.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 11269,
+    "tmdb_id": 106651,
+    "kitsu_id": "5243"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 11269,
+        "tmdb_id": 106651,
+        "kitsu_id": "5243"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/hellbound/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hellbound/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/ie4prtagewcwfrd8kod3qiw1er"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/u9mcitos"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/ji3cf7waywqwpytr5xw7iw4ade"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/1lj0gdzi"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/c7s7zkd8p63rp8xc1u7m7rrzxy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/prnzdr3z"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/ur9gjztknujw5dwgpom5fu44sa"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/74i3d51w"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/pj3of6mxuferxepzfg6gq7e9ur"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/mrgkhdxv"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/yh3k6t5u45erdqr8hbpi3ymsxr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
