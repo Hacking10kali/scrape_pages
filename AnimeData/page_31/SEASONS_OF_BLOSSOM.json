@@ -1,0 +1,57 @@
+{
+  "nom": "SEASONS OF BLOSSOM",
+  "type": "Scans",
+  "genres": [
+    "Webcomic - Manhwa - Comédie - Romance - School Life - Shôjo"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/seasons-of-blossom",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/seasons-of-blossom.jpg",
+  "noms_alt": [
+    "CHEONGCHUN BLOSSOM",
+    "YOUTH BLOSSOM"
+  ],
+  "synopsis": "Ô, être jeune et amoureux. Ô, être farouche et insouciant. Le printemps de la vie est intense, tumultueux, et parfois, ô combien déroutant. Printemps, été, automne, hiver -- l'amour fleurit en toute saison.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 32189,
+    "tmdb_id": 205454,
+    "kitsu_id": "266"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 32189,
+        "tmdb_id": null,
+        "kitsu_id": "266"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/seasons-of-blossom/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/seasons-of-blossom/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
