@@ -1,0 +1,46 @@
+{
+  "nom": "GENESIS",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Historique",
+    "Mature",
+    "Surnaturel",
+    "Préhistoire",
+    "Voyage temporel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/genesis",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/genesis.jpg",
+  "noms_alt": [
+    "SOUSEI NO TAIGA"
+  ],
+  "synopsis": "Alors qu'ils se promènent dans la campagne australienne vers un vignoble qu'ils désirent visiter, Taiga et ses amis, tous jeunes scientifiques venus de Tokyo, découvrent une grotte où sont peintes des fresques rupestres très anciennes. La joie de cette découverte est de courte durée car un tremblement de terre les enferme dans la grotte. Trouvant néanmoins une sortie, les jeunes gens ne reconnaissent plus rien de leur environnement. Ils vont découvrir peu à peu qu'ils ont, en fait, été transportés en pleine Préhistoire, à l'époque de l'affrontement entre hommes de Néandertal et Homo sapiens. Mammouths, crocodiles géants, meutes de loups géants... Chaque mammifère est une menace pour leur survie. Pourront-ils dépasser leurs habitudes et retrouver l'instinct animal qui leur permettra de vivre ? Chaque jour s'avère être un combat nouveau.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 21843,
+    "tmdb_id": 115645,
+    "kitsu_id": "3182"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 21843,
+        "tmdb_id": null,
+        "kitsu_id": "3182"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/genesis/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/genesis/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
