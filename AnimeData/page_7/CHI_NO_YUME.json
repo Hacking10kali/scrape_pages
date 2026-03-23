@@ -1,0 +1,37 @@
+{
+  "nom": "CHI NO YUME",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Romance",
+    "Science-fiction"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/chi-no-yume",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/chi-no-yume.jpg",
+  "noms_alt": [],
+  "synopsis": "Mhine, une jeune fille de 17 ans, porte en elle les cicatrices d'une enfance bouleversée et traumatisante. Mais un jour, tout bascule lorsque l'explosion d'une météorite transforme le monde à jamais. Elle croise alors la route d'une personne hors du commun, qui lui confère des pouvoirs surnaturels. Que réserve l'avenir ? Seule la suite nous le dira...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8449,
+    "tmdb_id": null,
+    "kitsu_id": "12243"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8449,
+        "tmdb_id": null,
+        "kitsu_id": "12243"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/chi-no-yume/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/chi-no-yume/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
