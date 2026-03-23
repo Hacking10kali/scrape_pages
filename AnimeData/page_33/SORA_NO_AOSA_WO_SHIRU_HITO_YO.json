@@ -1,0 +1,49 @@
+{
+  "nom": "SORA NO AOSA WO SHIRU HITO YO",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame - Fantastique - Romance - Slice of Life - Adolescence - Amour - Musique - Voyage temporel"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sora-no-aosa-wo-shiru-hito-yo",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sora-no-aosa-wo-shiru-hito-yo.jpg",
+  "noms_alt": [
+    "THE PERSON WHO KNOWS HOW BLUE THE SKY IS",
+    "HER BLUE SKY"
+  ],
+  "synopsis": "L'histoire prend place dans une petite ville nichée dans les montagnes. On y suit le quotidien d'Aoi, sa sœur Akane, son ex-petit ami guitariste Shinnosuke Kanomura et un jeune Shinno... qui n'est autre que le Shinnosuke du passé, âgé de 13 ans. Il y a 13 ans, les parents d'Aoi et Akane sont décédés et aujourd'hui, les deux jeunes filles vivent seules ; Akane, la grande-sœur, a renoncé à son rêve d'aller vivre à Tokyo pour subvenir aux besoins de sa cadette. Musicienne en herbe, Aoi est un jour invitée à venir se produire sur scène par un célèbre chanteur d'enka du nom de Dankichi. Au même moment, Shinnosuke, qui avait disparu quelques temps, refait son apparition dans les vies des deux sœurs... et Shinno aussi. Pour la première fois, Aoi va sentir son cœur battre pour quelqu'un.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8861,
+    "tmdb_id": null,
+    "kitsu_id": "7668"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 39569,
+        "tmdb_id": 615165,
+        "kitsu_id": "42207"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sora-no-aosa-wo-shiru-hito-yo/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sora-no-aosa-wo-shiru-hito-yo/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://oneupload.to/embed-fgwg8yulll7d.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
