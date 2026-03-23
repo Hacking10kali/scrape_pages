@@ -1,0 +1,41 @@
+{
+  "nom": "DARK MORTAL",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Fantastique",
+    "School Life",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/dark-mortal",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dark-mortal.jpg",
+  "noms_alt": [
+    "GEOMEUNINGAN"
+  ],
+  "synopsis": "Gangnam a perdu ses parents et la vue lors d'un incendie. Il n'a rien pu voir d'autre qu'une hallucination appelée Kkamjang. Mais est-ce réellement une hallucination ou quelque chose de plus grave ? «Tes cicatrices, tes deux yeux et... même ta force ! Je changerai tout pour toi.»",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 23133,
+    "tmdb_id": 60807,
+    "kitsu_id": "8335"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 23133,
+        "tmdb_id": null,
+        "kitsu_id": "8335"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dark-mortal/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dark-mortal/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
