@@ -1,0 +1,62 @@
+{
+  "nom": "RANKER’S RETURN",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/rankers-return",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/rankers-return.jpg",
+  "noms_alt": [
+    "LE RETOUR DU RANKER"
+  ],
+  "synopsis": "Les débuts du jeu en réalité virtuelle, Arena. Meleekod était le meilleur joueur, en haut du classement ! Mais, sur un coup de tête, il a quitté le jeu après avoir supprimé son compte. Afin de redorer le nom de sa famille, qui est en faillite, il retourne dans Arena ! « Souhaitez-vous créer un personnage ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 27991,
+    "tmdb_id": null,
+    "kitsu_id": "11131"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11131"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/rankers-return/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/rankers-return/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
