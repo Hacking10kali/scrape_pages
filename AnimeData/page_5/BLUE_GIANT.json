@@ -1,0 +1,43 @@
+{
+  "nom": "BLUE GIANT",
+  "type": "Anime, Film, Scans",
+  "genres": [
+    "School Life",
+    "Slice of Life",
+    "Seinen"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/blue-giant",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/blue-giant.jpg",
+  "noms_alt": [],
+  "synopsis": "Dai Miyamoto est en terminale. Il fait partie de l'équipe de basket, travaille à mi-temps dans une station service, et vit seul avec son père et sa petite soeur. Surtout, il s'est pris de passion pour le jazz depuis le collège. À tel point qu'il joue tous les jours sur les berges de la rivière, peu importe les conditions météo. Qu'il pleuve, qu'il vente ou que la canicule soit au rendez-vous, il joue. Il veut être un géant du jazz et reste persuadé qu'il peut y arriver. Seulement, pour cela, il va devoir se confronter à la réalité : entre les explications aux amis, les premières représentations chaotiques et les rencontres diverses, la détermination de Dai va être mise à rude épreuve...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2964,
+    "tmdb_id": null,
+    "kitsu_id": "2939"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 50183,
+        "tmdb_id": 887870,
+        "kitsu_id": "45347"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/blue-giant/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/blue-giant/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
