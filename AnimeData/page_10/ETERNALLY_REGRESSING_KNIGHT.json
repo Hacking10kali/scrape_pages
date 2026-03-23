@@ -1,0 +1,65 @@
+{
+  "nom": "ETERNALLY REGRESSING KNIGHT",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Psychologique",
+    "Comédie"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/eternally-regressing-knight",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/eternally-regressing-knight.jpg",
+  "noms_alt": [
+    "A KNIGHT WHO ETERNALLY REGRESSES",
+    "THE KNIGHT ONLY LIVES TODAY",
+    "THE KNIGHT WHO ONLY LIVES TODAY"
+  ],
+  "synopsis": "Rêvant de devenir chevalier, Enclide, s'acharne pendant des années et devient chef d'escouade. Cependant, il est loin d'atteindre son but par son manque de talent. Un jour, il rencontre un adversaire particulier qui le tue \"sans effort\". Or, au lieu de mourir, Enclide répète le même jour. Ce jour sans fin, qui aurait dû être le début d'un enfer, devient une opportunité toute particulière pour lui afin de devenir un vrai chevalier talentueux. Arrivera-t-il à atteindre \"l'avenir\" ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 51293,
+    "tmdb_id": null,
+    "kitsu_id": "5782"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 51293,
+        "tmdb_id": null,
+        "kitsu_id": "5782"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/eternally-regressing-knight/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/eternally-regressing-knight/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
