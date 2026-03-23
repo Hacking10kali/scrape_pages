@@ -1,0 +1,41 @@
+{
+  "nom": "THE NEWBIE IS TOO STRONG",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantaisie",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-newbie-is-too-strong",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-newbie-is-too-strong.jpg",
+  "noms_alt": [],
+  "synopsis": "JaeJu (qui signifie « compétence » en coréen) a grandi sans parents dans un orphelinat avec compétence, comme son nom l'indique. Un jour, il a entendu dire que l'orphelinat avait des difficultés et qu'il devrait fermer dans trois ans. Alors qu'il essayait de collecter des fonds pour l'orphelinat, JaeJu a reçu une alerte sur son téléphone. Il y voit une vidéo de lui en train d'escalader la tour en tant que BJ (broadcasting jockey ou streamer). Il y a sept ans, une tour est soudainement apparue et a accueilli des gens au hasard. Si vous réussissez à franchir la tour et à devenir un « Eveillé », ce n'est qu'une question de temps avant que vous ne deveniez riche !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54913,
+    "tmdb_id": null,
+    "kitsu_id": "43167"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54913,
+        "tmdb_id": null,
+        "kitsu_id": "43167"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-newbie-is-too-strong/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-newbie-is-too-strong/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
