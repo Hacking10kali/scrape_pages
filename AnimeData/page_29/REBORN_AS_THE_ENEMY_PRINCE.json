@@ -1,0 +1,65 @@
+{
+  "nom": "REBORN AS THE ENEMY PRINCE",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Mystère",
+    "Slice of Life",
+    "Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/reborn-as-the-enemy-prince",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/reborn-as-the-enemy-prince.jpg",
+  "noms_alt": [
+    "HOW TO LIVE AS THE ENEMY PRINCE"
+  ],
+  "synopsis": "Imaginez que vous soyez le parent de votre ennemi juré... Tué au combat alors qu'il défendait son pays, Bern se réveille dans le corps du prince ennemi, Kalian, et jure de venger son peuple. Mais entre l'apprivoisement d'un demi-frère violent et la survie au réseau d'intrigues mortelles de sa mère, la douce vengeance semble s'éloigner de lui à chaque tournant.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 48415,
+    "tmdb_id": null,
+    "kitsu_id": "886"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 48415,
+        "tmdb_id": null,
+        "kitsu_id": "886"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/reborn-as-the-enemy-prince/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/reborn-as-the-enemy-prince/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
