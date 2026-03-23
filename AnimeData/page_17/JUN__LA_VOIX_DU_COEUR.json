@@ -1,0 +1,64 @@
+{
+  "nom": "JUN, LA VOIX DU COEUR",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Slice of Life",
+    "Surnaturel",
+    "Ecole",
+    "Quotidien"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/jun-la-voix-du-coeur",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jun-la-voix-du-coeur.jpg",
+  "noms_alt": [
+    "KOKOSAKE",
+    "BEAUTIFUL WORD",
+    "BEAUTIFUL WORLD",
+    "ANTHEM OF THE HEART",
+    "BEAUTIFUL WORD",
+    "BEAUTIFUL WORLD-",
+    "THE ANTHEM OF THE HEART",
+    "JUN",
+    "LA VOIX DU CŒUR",
+    "KOKORO GA SAKEBITAGATTERUN DA",
+    "JUN LA VOIX DU COEUR"
+  ],
+  "synopsis": "Jun est une fille dont les mots ont été scellés. Avant, elle était une fille très heureuse, mais à cause d'une certaine chose qu'elle a dite lorsqu'elle était très jeune, sa famille s'est déchirée. Un jour, la fée des œufs est apparue devant elle et a scellé sa capacité à parler afin de l'empêcher de blesser autrui. Depuis cette expérience traumatisante, Jun vit dans l'ombre de la foule. Mais, un jour, elle est nommée pour devenir membre exécutif d'un groupe scolaire. Par-dessus le marché, Jun est aussi désignée pour jouer le rôle principal dans leur comédie musicale...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3022,
+    "tmdb_id": null,
+    "kitsu_id": "43848"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 28725,
+        "tmdb_id": 364111,
+        "kitsu_id": "1868"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/jun-la-voix-du-coeur/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/jun-la-voix-du-coeur/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4686582"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
