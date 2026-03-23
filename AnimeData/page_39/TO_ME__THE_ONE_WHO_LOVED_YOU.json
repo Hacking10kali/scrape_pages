@@ -1,0 +1,52 @@
+{
+  "nom": "TO ME, THE ONE WHO LOVED YOU",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Science-fiction",
+    "Amour",
+    "Autre monde"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/to-me-the-one-who-loved-you",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/to-me-the-one-who-loved-you.jpg",
+  "noms_alt": [
+    "KIMI WO AISHITA HITORI NO BOKU E"
+  ],
+  "synopsis": "Ce film se déroule dans un monde où le voyage vers des mondes parallèles est un phénomène courant et quotidien. L'histoire se centre sur Koyomi Hidaka, un garçon qui vit avec son père suite au divorce de ses parents. Un jour, il fait la rencontre d'une fille nommée Shiori Satō dans le laboratoire de recherche de son père. Suite à cette rencontre, ils commencent une relation qui se transforme lentement en amour. Toutefois, tout change lorsque leurs parents décident de se marier. Pour continuer de vivre leur amour, Koyomi et Shiori choisissent de s'installer dans un monde parallèle où ils ne sont pas frères et sœurs par alliance.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 41389,
+    "tmdb_id": null,
+    "kitsu_id": "42047"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 49835,
+        "tmdb_id": 874745,
+        "kitsu_id": "45219"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/to-me-the-one-who-loved-you/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/to-me-the-one-who-loved-you/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5120680"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
