@@ -1,0 +1,55 @@
+{
+  "nom": "JE PEUX ENTENDRE L'OCÉAN",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "School Life",
+    "Ghibli",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/je-peux-entendre-l-ocean",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/je-peux-entendre-l-ocean.jpg",
+  "noms_alt": [
+    "UMI GA KIKOERU",
+    "TU PEUX ENTENDRE LA MER",
+    "OCEAN WAVES"
+  ],
+  "synopsis": "Suite à une réunion d'anciens élèves, Taku Morisaki retourne dans sa ville natale. Là il aperçoit une jeune fille ressemblant étrangement à une de ses anciennes camarades de classe. Cet incident lui fait repenser à ses années de lycée et surtout à sa relation avec son meilleur ami de l'époque qui fut chamboulée par l'arrivée de cette jeune fille, Rikako Muto.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39551,
+    "tmdb_id": null,
+    "kitsu_id": "7882"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 36098,
+        "tmdb_id": 21057,
+        "kitsu_id": "5190"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/je-peux-entendre-l-ocean/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/je-peux-entendre-l-ocean/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5055319"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
