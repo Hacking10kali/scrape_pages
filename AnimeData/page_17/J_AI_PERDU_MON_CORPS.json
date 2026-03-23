@@ -1,0 +1,52 @@
+{
+  "nom": "J'AI PERDU MON CORPS",
+  "type": "Anime, Film",
+  "genres": [
+    "Romance",
+    "Drame",
+    "Aventure"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/jai-perdu-mon-corps",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jai-perdu-mon-corps.jpg",
+  "noms_alt": [],
+  "synopsis": "A Paris, Naoufel tombe amoureux de Gabrielle. Un peu plus loin dans la ville, une main coupée s’échappe d’un labo, bien décidée à retrouver son corps. S’engage alors une cavale vertigineuse à travers la ville, semée d’embûches et des souvenirs de sa vie jusqu’au terrible accident. Naoufel, la main, Gabrielle, tous trois retrouveront, d’une façon poétique et inattendue, le fil de leur histoire...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 56009,
+    "tmdb_id": 213228,
+    "kitsu_id": "42422"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 16834,
+        "tmdb_id": 586940,
+        "kitsu_id": "2662"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/jai-perdu-mon-corps/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/jai-perdu-mon-corps/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/kte09uiy\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/9ugy6jq65f4rjjp5shcnisf8ny"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
