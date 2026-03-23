@@ -1,0 +1,41 @@
+{
+  "nom": "ALL YOU NEED IS KILL",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Mystère",
+    "Surnaturel",
+    "Aliens",
+    "Combats",
+    "Guerre"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/all-you-need-is-kill",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/all-you-need-is-kill.jpg",
+  "noms_alt": [],
+  "synopsis": "Keiji Kiriya, nouvelle recrue de l'armée de Défense des Etats, a pour but de détruire de terribles aliens, appelés Mimics (les imitateurs). Au cours de sa première bataille, il est vite tué au combats face à ces dangereux envahisseurs. Cependant, inexplicablement, et à sa grande surprise, il se réveille la veille de son décès.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 35413,
+    "tmdb_id": null,
+    "kitsu_id": "10907"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 35413,
+        "tmdb_id": null,
+        "kitsu_id": "10907"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/all-you-need-is-kill/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/all-you-need-is-kill/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
