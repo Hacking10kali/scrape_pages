@@ -1,0 +1,54 @@
+{
+  "nom": "BILLY BAT",
+  "type": "Scans",
+  "genres": [
+    "Seinen - Drame - Historique - Mystère - Psychologique - Détective"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/billy-bat",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/billy-bat.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire se passe aux Etats-Unis, en 1949, alors que la \"Peur Rouge\" met en émoi la plupart de la population du pays, qui voit des Soviétiques partout. Dans ce climat de méfiance intense, un comics connaît un succès fou : il s'agit de Billy Bat, créé par Kevin Yamagata, fils d'immigrés Japonais. Un jour, un homme apprend à Kevin qu'il a déjà vu son personnage, lorsqu'il était en campagne au Japon. Intrigué, Kevin décide de se rendre dans son pays d'origine pour en avoir le cœur net : a t-il inconsciemment connu un personnage qu'il a vu enfant ? Si tel est le cas, il lui faut absolument l'autorisation de l'auteur originel pour continuer, ou il romprait une promesse qu'il a faite à son père longtemps auparavant. Mais la piste des origines de Billy pourrait bien être sanglante et entraîner le jeune auteur dans une spirale incontrôlable.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3900,
+    "tmdb_id": null,
+    "kitsu_id": "5369"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8520,
+        "tmdb_id": null,
+        "kitsu_id": "5369"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/billy-bat/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/billy-bat/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
