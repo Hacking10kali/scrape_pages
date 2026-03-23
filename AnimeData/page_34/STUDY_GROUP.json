@@ -1,0 +1,40 @@
+{
+  "nom": "STUDY GROUP",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Combats",
+    "Tournois",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/study-group",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/study-group.jpg",
+  "noms_alt": [],
+  "synopsis": "Yoon Ga Min, un étudiant de 17 ans, est scolarisé dans une école connue pour abriter de futurs criminels. Coincé dans un environnement carnivore où seuls les plus forts survivent, il a des difficultés pour obtenir de bonnes notes afin d'entrer dans une université d'un cursus de 4 ans. Mais sera-t-il capable d'étudier suffisamment pour entrer à l'université, ou sera-t-il impliqué dans les bagarres incessantes autour de l'école ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38778,
+    "tmdb_id": 233347,
+    "kitsu_id": "5741"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38778,
+        "tmdb_id": null,
+        "kitsu_id": "5741"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/study-group/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/study-group/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
