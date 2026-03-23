@@ -1,0 +1,43 @@
+{
+  "nom": "FFF-CLASS TRASHERO",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/fff-class-trashero",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/fff-class-trashero.jpg",
+  "noms_alt": [
+    "FFFGEUP GWANSIMYONGSA",
+    "FFF CLASS TRASHERO"
+  ],
+  "synopsis": "Kang Han Soo, lycéen ordinaire, est invoqué dans le monde fantastique de Fantasia et bat le roi démon après 10 ans de calvaire. Alors qu'il devait retourner sur terre, une carte de score créée par le dieu de Fantasia apparaît devant lui, et lui donne un score de F en personnalité. Le dieu lui annonce qu'il doit alors recommencer de zéro, Kang Han Soo va-t-il être capable de finir l'infinissable ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 56584,
+    "tmdb_id": null,
+    "kitsu_id": "42237"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/fff-class-trashero/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/fff-class-trashero/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
