@@ -1,0 +1,84 @@
+{
+  "nom": "WAKFU",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Amitié",
+    "Combats"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/wakfu",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/wakfu.jpg",
+  "noms_alt": [],
+  "synopsis": "Deux cents ans ont passé depuis le grand déluge qui a mis fin à l'âge des Dofus et transformé les continents de l'époque en archipels. Les eaux montent, la nature devient folle. Des choses se sont passées, d'autres se sont terminées, mais le Wakfu, l'énergie primordiale créatrice du monde est fortement perturbée par un être mystérieux. Sur une petite île au large de la nation d'Amakna, se trouve un petit village perdu dans la forêt : Emelka. Dans ce petit village, démarrent les épopées d'un jeune garçon du nom de Yugo, qui vient de découvrir ses pouvoirs, mais aussi ses origines. C'est ici que tout commence.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 61899,
+    "tmdb_id": 64414,
+    "kitsu_id": "8299"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61899,
+        "tmdb_id": 64414,
+        "kitsu_id": "8299"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/wakfu/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/wakfu/saison1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61899,
+        "tmdb_id": 64414,
+        "kitsu_id": "8299"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/wakfu/saison2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/wakfu/saison2/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 3",
+      "titreComplet": "Saison 3",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61899,
+        "tmdb_id": 64414,
+        "kitsu_id": "8299"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/wakfu/saison3/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/wakfu/saison3/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 4",
+      "titreComplet": "Saison 4",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 61899,
+        "tmdb_id": 64414,
+        "kitsu_id": "8299"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/wakfu/saison4/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/wakfu/saison4/vostfr/",
+      "episodes": []
+    }
+  ]
+}
