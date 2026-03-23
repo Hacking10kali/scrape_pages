@@ -1,0 +1,41 @@
+{
+  "nom": "GOODBYE ERI",
+  "type": "Scans",
+  "genres": [
+    "Drame",
+    "Hors-Série",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/goodbye-eri",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/goodbye-eri.jpg",
+  "noms_alt": [
+    "ADIEU ERI",
+    "SAYONARA ERI"
+  ],
+  "synopsis": "Avec sa mère mourante, Yuta tente de capturer ses derniers jours sur son téléphone. Après sa mort, Yuta se dirige vers le toit de l'hôpital pour se suicider, mais une rencontre avec une fille étrange le conduit sur la voie de la réalisation d'un film.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 42774,
+    "tmdb_id": null,
+    "kitsu_id": "2369"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 42774,
+        "tmdb_id": null,
+        "kitsu_id": "2369"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/goodbye-eri/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/goodbye-eri/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
