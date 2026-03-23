@@ -1,0 +1,40 @@
+{
+  "nom": "REAL",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Basketball",
+    "Ecole",
+    "Handicap",
+    "Handisport",
+    "Sport"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/real",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/real.jpg",
+  "noms_alt": [],
+  "synopsis": "Tomomi Nomiya vient d'être renvoyé de son lycée. Passionné de basket-ball, il ne joue plus depuis l'accident de moto dans lequel Natsumi Yamashita, sa passagère, a perdu l'usage des jambes. Son exclusion fait le jeu de Hisanobu Takahashi, lui laissant le champ libre pour s'imposer comme leader de l'équipe de basket du lycée. En visitant Natsumi, Tomomi fait la connaissance de Kiyogaru Togawa, amputé d'une jambe suite à une maladie des os et qui s'est exclu de sa propre équipe d'[i]handi-basket[i], qu'il juge médiocre. C'est alors, que Hisanobu est victime d'un grave accident de la circulation, renversé par un camion en roulant sur un vélo volé. Il va alors à l'hôpital pour la rééducation, mais ne veut pas croire qu'il devra se déplacer en fauteuil roulant pendant le restant de sa vie.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 36793,
+    "tmdb_id": 32390,
+    "kitsu_id": "14276"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 36793,
+        "tmdb_id": null,
+        "kitsu_id": "8174"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/real/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/real/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
