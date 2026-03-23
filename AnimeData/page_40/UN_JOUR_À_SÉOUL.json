@@ -1,0 +1,41 @@
+{
+  "nom": "UN JOUR À SÉOUL",
+  "type": "Scans",
+  "genres": [
+    "Horreur",
+    "Romance",
+    "Thriller",
+    "Survie",
+    "Manhwa",
+    "Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/un-jour-a-seoul",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/un-jour-a-seoul.jpg",
+  "noms_alt": [
+    "EONEUNAL GAPJAGI SEOULEUN"
+  ],
+  "synopsis": "Alors que la classe de Seconde 3 du lycée Joon Gang pense passer un bon voyage scolaire à Séoul, un étrange virus fait son apparition dans la ville. Yeon Woo, un élève très introverti, avait trouvé l'occasion parfaite de se rapprocher de ses camarades de classe, mais surtout de So Yeon, la fille qui fait battre son cœur. Seulement, avec l'arrivée soudaine de ces cellules gluantes semblables à des œufs de grenouille, ses plans furent complètement bouleversés dès lors qu'une première victime fut déclarée dans sa classe.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 10798,
+    "tmdb_id": null,
+    "kitsu_id": "6442"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10798,
+        "tmdb_id": null,
+        "kitsu_id": "6442"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/un-jour-a-seoul/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/un-jour-a-seoul/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
