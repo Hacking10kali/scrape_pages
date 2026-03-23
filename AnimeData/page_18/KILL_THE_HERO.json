@@ -1,0 +1,42 @@
+{
+  "nom": "KILL THE HERO",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Tragique",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kill-the-hero",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kill-the-hero.jpg",
+  "noms_alt": [
+    "KTH"
+  ],
+  "synopsis": "Un jour, le monde s'est transformé en jeu. Donjons et monstres apparurent au milieu des villes et des joueurs ayant reçu l'autorité des dieux apparurent. Moi seul connaît le secret de celui qu'on appelle le Messie, le héro trompeur dont l'ambition secrète est de gouverner le monde. Moi qui fut trahi et tué de ses propres mains, suis retourné dans le passé. Et cette fois-ci, c'est mon tour de le chasser.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 41834,
+    "tmdb_id": null,
+    "kitsu_id": "42900"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 41834,
+        "tmdb_id": null,
+        "kitsu_id": "42900"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kill-the-hero/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kill-the-hero/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
