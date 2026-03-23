@@ -1,0 +1,41 @@
+{
+  "nom": "PICK ME UP",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Fantasy",
+    "Isekai",
+    "Combats",
+    "Jeux vidéo",
+    "Survie"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/pick-me-up",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/pick-me-up.jpg",
+  "noms_alt": [],
+  "synopsis": "Han Seo Jin, AKA Loki, le maître des MJ, est une véritable légende sur le jeu mobile Pick Me Up ! Difficulté infernale, combats ultra-réalistes, modes immersifs... Tout cela est certes incroyable, mais ce jeu cache un terrible secret. Les héros invoqués ne sont pas des IA... ce sont des personnes réelles ! Et très peu d'entre elles survivent à cette invocation. Soudainement propulsé dans Pick Me Up !, Han découvre alors la douloureuse vérité. Désormais, il lui faudra se battre ou périr. L'aventure commence...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62102,
+    "tmdb_id": 214310,
+    "kitsu_id": "1331"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62102,
+        "tmdb_id": null,
+        "kitsu_id": "1331"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/pick-me-up/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/pick-me-up/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
