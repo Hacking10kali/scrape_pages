@@ -1,0 +1,64 @@
+{
+  "nom": "DRUG-EATING GENIUS MAGE",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/drug-eating-genius-mage",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/drug-eating-genius-mage.jpg",
+  "noms_alt": [
+    "MEDICINE GENIUS WIZARD",
+    "TALENT DRUG DEVOURING MAGICIAN",
+    "THE GENIUS MEDICINAL MAGE",
+    "TOXICO-MAGE"
+  ],
+  "synopsis": "Dans World 1.0, il jouait un combattant, dans World 2.0 un mousquetaire, un mage semblait évident pour World 3.0. La méthode pour créer un personnage puissant ? On mise tout sur certaines compétences, mais en créant des points faibles, comme insomniaque, ou drogué ! Ça semblait une bonne idée... jusqu'à ce que Lénok se réveille dans le corps de ce mage toxicomane exploité dans une usine par des hommes sans scrupules. Pris à son propre jeu, il doit survivre entre drogue et magie !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40960,
+    "tmdb_id": null,
+    "kitsu_id": "41075"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 40960,
+        "tmdb_id": null,
+        "kitsu_id": "41075"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/drug-eating-genius-mage/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/drug-eating-genius-mage/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
