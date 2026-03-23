@@ -1,0 +1,52 @@
+{
+  "nom": "THE ARCHMAGE'S RESTAURANT",
+  "type": "Scans",
+  "genres": [
+    "Comédie - Cuisine - Fantasy - Slice of Life - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/the-archmages-restaurant",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-archmages-restaurant.jpg",
+  "noms_alt": [],
+  "synopsis": "Un archimage surpuissant prend sa retraite pour ouvrir un restaurant. Il utilise sa magie de haut niveau pour cuisiner des plats incroyables (et parfois dangereux), attirant des clients allant des dragons aux rois, tout en réglant les problèmes locaux à coup de louche magique.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": null,
+    "kitsu_id": "48058"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "48058"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-archmages-restaurant/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-archmages-restaurant/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
