@@ -1,0 +1,48 @@
+{
+  "nom": "HERO TICKET",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Fantastique",
+    "Surnaturel",
+    "Arts martiaux",
+    "Combats",
+    "Dieux",
+    "Déesses",
+    "Fantômes",
+    "Organisations secrètes",
+    "Paranormal",
+    "Shinigami"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/hero-ticket",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hero-ticket.jpg",
+  "noms_alt": [
+    "SASINSONYEON"
+  ],
+  "synopsis": "Kyeong Ho est un jeune homme à l'histoire tragique. Après avoir perdu tout ce qui lui était cher, il décide de mettre fin à ses jours. Il est cependant sauvé par Sierra, l'ange de la mort. Après un marché avec cette dernière, il paie avec sa vie et utilise la force des héros. Il lui reste 1 an pour trouver l'esprit de sa mère. Pourra-t-il la retrouver tout en protégeant la fille qui voit les esprits ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34281,
+    "tmdb_id": null,
+    "kitsu_id": "1361"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 34281,
+        "tmdb_id": null,
+        "kitsu_id": "1361"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hero-ticket/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hero-ticket/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
