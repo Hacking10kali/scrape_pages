@@ -1,0 +1,522 @@
+{
+  "nom": "THE BOONDOCKS",
+  "type": "Autres",
+  "genres": [
+    "Comédie",
+    "Action",
+    "Animation"
+  ],
+  "langues": [
+    "VASTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-boondocks",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-boondocks.jpg",
+  "noms_alt": [],
+  "synopsis": "Huey et Riley Freeman, deux frères afro-américains, vivent avec leur grand-père Robert Freeman. Devenu riche, Robert Freeman décide de quitter Chicago pour une ville du Sud des États-Unis nommée Woodcrest. Ainsi Huey et Riley, vivant avec leur grand-père, quittent le ghetto de Chicago pour se retrouver dans une banlieue majoritairement blanche, riche et paisible.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": 2604,
+    "kitsu_id": "7950"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": 2604,
+        "kitsu_id": "7950"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/the-boondocks/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-boondocks/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107930"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-2dxw6bt504x4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107931"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zru4vltrgslx.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107932"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-hgpj1j0b9imj.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107934"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1wh9lgn5evty.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107936"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-m5s5r1lduaxf.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107937"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-9x0vd7tuag76.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107939"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-bgvpb43pkirc.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107940"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zcv1ppfhnnv4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107941"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-gxxo6iaxv6aw.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107942"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-uwox5fzbufbu.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107943"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ps5b7fupyeoz.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107944"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-hrann5326d0t.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107945"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-9uzij8crwsc5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107946"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-18ibj8um9f2u.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6107947"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": 2604,
+        "kitsu_id": "7950"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-boondocks/saison2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-boondocks/saison2/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 3",
+      "titreComplet": "Saison 3",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": 2604,
+        "kitsu_id": "7950"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-boondocks/saison3/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-boondocks/saison3/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 4",
+      "titreComplet": "Saison 4",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": 2604,
+        "kitsu_id": "7950"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-boondocks/saison4/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-boondocks/saison4/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903781"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ph0hjrekdhel.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903783"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-v4m38xdtreko.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903788"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ueoozcjphhxf.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903795"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-exnxd9r5pyfb.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903797"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-cbvum1hg0p54.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903804"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-riqf6xvcjxjn.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903808"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-jlh63hysjyix.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903810"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xmr50z8p7rfm.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903814"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-7brqvkynpm7d.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4903816"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
