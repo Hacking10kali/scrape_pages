@@ -1,0 +1,43 @@
+{
+  "nom": "JUNGLE JUICE",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Fantastique",
+    "Science-fiction",
+    "Surnaturel",
+    "Apprentissage",
+    "Combats",
+    "Monstres",
+    "Super pouvoirs"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/jungle-juice",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jungle-juice.jpg",
+  "noms_alt": [],
+  "synopsis": "Suchan Jang est un étudiant extraordinaire au sommet de la chaîne alimentaire sociale. Mais sous sa façade parfaite, il cache une paire d'ailes d'insectes qui ont soudainement poussé lorsqu'il a utilisé un mystérieux insectifuge appelé «Jungle Juice». La vie de Suchan s'effondre quand il montre ses ailes au monde pour sauver la vie de quelqu'un. Quand tout espoir semble perdu, Suchan tombe sur un monde caché d'humains insectes où chacun est accepté pour ce qu'il est. Mais la loi de la jungle régit cette société secrète et tous doivent se débrouiller seuls pour survivre.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2569,
+    "tmdb_id": null,
+    "kitsu_id": "228"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2569,
+        "tmdb_id": null,
+        "kitsu_id": "228"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/jungle-juice/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/jungle-juice/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
