@@ -1,0 +1,41 @@
+{
+  "nom": "BATTLE THROUGH THE HEAVENS",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/battle-through-the-heavens",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/battle-through-the-heavens.jpg",
+  "noms_alt": [
+    "DOU PO CANG QIONG",
+    "DOUPO CANGQIONG"
+  ],
+  "synopsis": "L'histoire se déroule sur un continent où les arts martiaux sont utilisés avec du Dou-Qi, une sorte d'énergie qui fait penser à de la magie sans en être. On y suit les aventures de Xiao Yan, une jeune homme qui était le plus puissant de son clan, et qui du jour au lendemain perd tous ses pouvoirs et devient la risée de tous. Seuls son père et Xun, une fille aussi belle que puissante, gardent confiance en lui.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 24231,
+    "tmdb_id": 79481,
+    "kitsu_id": "14116"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 24231,
+        "tmdb_id": null,
+        "kitsu_id": "14116"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/battle-through-the-heavens/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/battle-through-the-heavens/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
