@@ -1,0 +1,41 @@
+{
+  "nom": "ABSOLUTE REGRESSION",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Arts martiaux"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/absolute-regression",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-regression.jpg",
+  "noms_alt": [],
+  "synopsis": "« S'il vous plaît, renvoyez-moi dans le passé. » S'il ne peut pas tuer cette personne à cette époque, il lui suffit de retourner dans le passé. L'homme utilisa la « Grande Technique de Régression » pour traverser le temps, retournant dans le passé qu'il désirait tant. L'« épéiste hors pair » qui a tout perdu, sa famille, ses amis et sa vie. C'est la première étape de sa vengeance.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 25397,
+    "tmdb_id": null,
+    "kitsu_id": "8641"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 25397,
+        "tmdb_id": null,
+        "kitsu_id": "8641"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/absolute-regression/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/absolute-regression/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
