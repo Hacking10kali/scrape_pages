@@ -1,0 +1,54 @@
+{
+  "nom": "KIKI LA PETITE SORCIÈRE",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Ghibli"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kiki-la-petite-sorciere",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kiki-la-petite-sorciere.jpg",
+  "noms_alt": [
+    "MAJO NO TAKKYUBIN",
+    "KIKI'S DELIVERY SERVICE",
+    "WITCH'S EXPRESS DELIVERY"
+  ],
+  "synopsis": "Comme toutes les sorcières qui atteignent l'âge de 13 ans, Kiki doit quitter ses parents et s'établir pendant un an dans une autre ville, en vivant et en exerçant un métier lié à son état de sorcière. Dans la ville de Koriko, Kiki, accompagnée de son chat noir Jiji, va distribuer des colis en volant sur son balai, grâce à ses pouvoirs.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1057,
+    "tmdb_id": null,
+    "kitsu_id": "539"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 512,
+        "tmdb_id": 16859,
+        "kitsu_id": "41702"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/kiki-la-petite-sorciere/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kiki-la-petite-sorciere/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4935942\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
