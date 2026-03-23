@@ -1,0 +1,52 @@
+{
+  "nom": "ENCANTO",
+  "type": "Autres",
+  "genres": [
+    "Famille",
+    "Fantastique",
+    "Comédie"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/encanto",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/encanto.jpg",
+  "noms_alt": [
+    "ENCANTO",
+    "LA FANTASTIQUE FAMILLE MADRIGAL"
+  ],
+  "synopsis": "Dans un mystérieux endroit niché au cœur des montagnes de Colombie, la fantastique famille Madrigal habite une maison enchantée dans une cité pleine de vie, un endroit merveilleux appelé Encanto. L’Encanto a doté chacun des enfants de la famille d’une faculté magique allant d’une force surhumaine au pouvoir de guérison. Seule Mirabel n’a reçu aucun don particulier. Mais lorsque la magie de l’Encanto se trouve menacée, la seule enfant ordinaire de cette famille extraordinaire va peut-être se révéler leur unique espoir…",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2044,
+    "tmdb_id": 110072,
+    "kitsu_id": "227"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1044,
+        "tmdb_id": 568124,
+        "kitsu_id": "4912"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/encanto/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/encanto/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4742359\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
