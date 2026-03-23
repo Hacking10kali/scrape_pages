@@ -1,0 +1,39 @@
+{
+  "nom": "THE HOUSE WITHOUT TIME",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Fantasy"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/the-house-without-time",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-house-without-time.jpg",
+  "noms_alt": [
+    "SIGAN-I MEOMUN JIB"
+  ],
+  "synopsis": "Une petite fille maltraitée sans rien pour vivre rencontre un vieil homme avec une horrible personnalité.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38923,
+    "tmdb_id": null,
+    "kitsu_id": "565"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38923,
+        "tmdb_id": null,
+        "kitsu_id": "565"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-house-without-time/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-house-without-time/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
