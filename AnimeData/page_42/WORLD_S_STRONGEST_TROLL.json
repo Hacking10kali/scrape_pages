@@ -1,0 +1,54 @@
+{
+  "nom": "WORLD'S STRONGEST TROLL",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Comédie - Jeu vidéo - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/worlds-strongest-troll",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/worlds-strongest-troll.jpg",
+  "noms_alt": [
+    "THE GAME'S GREATEST TROLL"
+  ],
+  "synopsis": "Dans un jeu en réalité virtuelle (VRMMO), le protagoniste ne cherche pas à être le héros, mais le plus grand \"Troll\" (provocateur). En exploitant les bugs, en piégeant les autres joueurs et en jouant de manière non conventionnelle, il devient paradoxalement le plus fort.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 36882,
+    "tmdb_id": null,
+    "kitsu_id": "49867"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 36882,
+        "tmdb_id": null,
+        "kitsu_id": "49867"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/worlds-strongest-troll/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/worlds-strongest-troll/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
