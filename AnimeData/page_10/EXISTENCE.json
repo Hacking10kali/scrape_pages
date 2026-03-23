@@ -1,0 +1,39 @@
+{
+  "nom": "EXISTENCE",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantaisie",
+    "Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/existence",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/existence.jpg",
+  "noms_alt": [],
+  "synopsis": "C'était la dernière réincarnation d'un être qui avait connu des dizaines de milliers de réincarnations et de vies. Il était né en tant qu'humain avec le pouvoir de chaque forme de vie qu'il avait été. Pourquoi a-t-il une telle capacité ? Lee Jain a finalement compris. « J'existe pour éradiquer l'humanité. »",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54455,
+    "tmdb_id": 139294,
+    "kitsu_id": "4697"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "322"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/existence/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/existence/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
