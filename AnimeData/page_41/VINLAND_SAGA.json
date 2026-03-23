@@ -1,0 +1,966 @@
+{
+  "nom": "VINLAND SAGA",
+  "type": "Anime, Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Historique",
+    "Folklore",
+    "Guerre",
+    "Médiéval",
+    "Vengeance",
+    "Viking"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/vinland-saga/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/vinland-saga0.jpg",
+  "noms_alt": [],
+  "synopsis": "Vinland Saga nous raconte l'histoire d'un jeune Viking, Thorfinn. Ce dernier fait partie de l'équipage d'un chef de guerre du nom d'Askeladd. Enchainant les combats et les missions dangereuses, Thorfinn s'endurcit et gagne en maturité. Il a un objectif : la vengeance !",
+  "bande_annonce": "https://www.youtube.com/embed/f8JrZ7Q_p-8",
+  "ids": {
+    "jikan_id": 37521,
+    "tmdb_id": 88803,
+    "kitsu_id": "41084"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 37521,
+        "tmdb_id": 88803,
+        "kitsu_id": "41084"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/vinland-saga/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/vinland-saga/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3647044"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/dpqvmaau"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vthen7b51est.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3647304"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/z9z17xjv"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-0hyb2g0535tb.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3647443"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/j7pgiwjz"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-nufzbhbwvwwj.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3662684"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/yl2o5bjy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-4ya25jdt3mrt.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3667963"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/f33ywyic"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-lfa1sw3zw70c.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3672944"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/8wnx7aao"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-csi9hwtb86ew.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3676493"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/qtwhk6k8"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-wrpb9nimev0m.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3688051"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/sl89mk6w"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ifcns4wsrzzt.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3691477"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/wcx2ftwb"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-fim7rtazpts9.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3702318"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/2k2ektbw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-a1guakfo2fnz.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3706484"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/6ereb6sy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3h6jfrsxdfis.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3710539"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/uqkdmhzn"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-4vac8aw6amtx.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3717142"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/50qn98if"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-z14rzzqjvqil.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3721647"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/1z9wjytg"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3pmwojvz70sr.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3726383"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/9t7gxebk"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 16",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-4nfbsarhvrfa.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3730909"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/m5575u3l"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 17",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-u04asfp978fr.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3736885"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/pxe5mp82"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 18",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zemcc3cano2i.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3748880"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/0s48s0bw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 19",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-yaa145xqdz3s.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3756834"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/gl8duiwz"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 20",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-4dqx4nn8t6cm.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3762340"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/6boz6y31"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 21",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-g48t0uari8lf.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3767329"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/kuu4kvye"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 22",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-5vh34r0nfpqu.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3772512"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/cdwwojsu"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 23",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-mnof1d6oafuj.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3776730"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/o3y56go4"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 24",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-644g5dcdpj3z.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3782231"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/3a9hy1ya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 37521,
+        "tmdb_id": 88803,
+        "kitsu_id": "41084"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/vinland-saga/saison2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/vinland-saga/saison2/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239160&hash=32a10bb399149cdb&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5004408"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/xy2sh6vl"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-5fg319amiouu.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239223&hash=fb298701f2ddd791&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5011334"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/z9r7i7o8"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ozfjhwjhjr40.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239272&hash=d24f5081c773538c&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5018542"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/uk9r709b"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-31rq80q1ir7k.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239214&hash=c4499d8e5691e6bf&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5026395"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/pv7r3k50"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-mgvufshgnx8s.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5033314"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/q4xrt2ce"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/9bo1ut9t3fuwjkjxybzeuppphy"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-s4bvgrykjdtc.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5042085"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/egkh9pry"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://www.myvi.tv/embed/4by7gg5pkgkwp8c3uxqdydmfpr"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-i2h7k4pxrws4.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239336&hash=ee6aa9822ada0f07&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5052406"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/s3ohjlf5"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-knc8bgn9oig1.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239374&hash=020bde00774909fb&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5060798"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/9p9fp5xp"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-2p5q8g9asbvz.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239416&hash=3388c6936d4a42bb&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5069061"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/96bzh2yt"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-m1av6i8i0ekt.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239456&hash=42c76cb210e15bbf&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5075067"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/ickv5bm4"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-iohtjyi0mfw5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239488&hash=385f6b0f2e3e79fb&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5081387"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/14doop1t"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-piqsd3wnoa47.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239520&hash=1134137c4ce0e2e6&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5088885"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/jnejl8rq"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 13",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3aoaxaomsugz.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239540&hash=4606f2cfcdadd048&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5095328"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/8kdn8t73"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 14",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zwxlkdbuiu36.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239567&hash=be1b42c0cedddcc2&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5101840"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/uac3xa54"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 15",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-h6ccsetexmiw.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239597&hash=121b226faf399fe6&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5108510"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/d4arx2ur"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 16",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-n42dt3b3932y.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239629&hash=37d1f391763236fe&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5116560"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/5z1rz252"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 17",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-siej2umiz8po.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=790085849&id=456239038&hash=9115d7c6c187c3f4&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5123255"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/hvmlfog7"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 18",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-6p0vvm4br7x7.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239681&hash=7919e886d7764837&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5129963"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/izmtlhib"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 19",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ujyehdaw3ja6.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239709&hash=c63dbb06ec55f943&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5140997"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/7rra2wnj"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 20",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-8qg4zawh4tuz.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239735&hash=41b3fde9f217d381&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5149336"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/57s30i11"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 21",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-afbjw7qalt58.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239760&hash=24786f7ab3289d5a&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5155922"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/fm825zpw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 22",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-m6sha5qb0np9.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239785&hash=487dd2984beddd43&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5163016"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/39ti3ucn"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 23",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-rfn5ymbb12ck.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239810&hash=5fcc6dabb5ed2abc&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5169663"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/wfulp40x"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 24",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-bkehk74pxgmo.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vk.com/video_ext.php?oid=755747641&id=456239838&hash=5d9b0cd681942e1b&hd=3"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5176400"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://sendvid.com/embed/v0z0a0uf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
