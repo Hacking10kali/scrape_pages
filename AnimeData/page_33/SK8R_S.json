@@ -1,0 +1,41 @@
+{
+  "nom": "SK8R'S",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Sport",
+    "Comédie",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sk8rs",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sk8rs.jpg",
+  "noms_alt": [
+    "SKATERS"
+  ],
+  "synopsis": "Akio a 10 ans quand il découvre celui qu'il baptise « l'homme volant » : un skater de génie virevoltant dans les airs dans des figures acrobatiques. Impressionné, Akio ne va cesser de se perfectionner sur son skate, la nuit. À 16 ans, Akio est devenu un skater prodigieux mais qui cache son talent notamment à une mère trop protectrice. Il rêve en secret de participer à des tournois, mais pour cela, il devra se faire connaître, s'exposer au grand jour et donc... avouer sa passion à sa mère...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": null
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sk8rs/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sk8rs/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
