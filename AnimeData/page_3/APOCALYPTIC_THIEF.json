@@ -1,0 +1,61 @@
+{
+  "nom": "APOCALYPTIC THIEF",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/apocalyptic-thief",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apocalyptic-thief.jpg",
+  "noms_alt": [
+    "GOING ROGUE IN THE APOCALYPSE",
+    "ROGUE OF DOOM"
+  ],
+  "synopsis": "Un mouvement dans l'univers a apporté des mutations au niveau des espèces vivantes. Un poison, des morts vivants, des géants et des monstres rugissent dans la ville en agitant leurs armes. Alors que des bêtes dans les bois se battent pour des territoires, certains humains éveillent une capacité spéciale connue sous le nom de pouvoir des étoiles... Zhou Zheng, déficient de ce pouvoir, va traverser ce nouveau monde post apocalyptique. Utilisant ses capacités de voleur issues d'un autre jeu, il détruit ténèbres et brouillard, à la recherche du pouvoir suprême !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1567,
+    "tmdb_id": null,
+    "kitsu_id": "40600"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "40600"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/apocalyptic-thief/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/apocalyptic-thief/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
