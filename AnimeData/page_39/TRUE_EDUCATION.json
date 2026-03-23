@@ -1,0 +1,38 @@
+{
+  "nom": "TRUE EDUCATION",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/true-education",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/true-education.jpg",
+  "noms_alt": [],
+  "synopsis": "Na Hwa-Jin, membre du Bureau de protection de l'éducation, commence une 'véritable éducation' pour protéger l'autorité scolaire effondrée!",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2129,
+    "tmdb_id": null,
+    "kitsu_id": "48201"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2129,
+        "tmdb_id": null,
+        "kitsu_id": "48201"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/true-education/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/true-education/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
