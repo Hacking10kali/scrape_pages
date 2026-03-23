@@ -1,0 +1,41 @@
+{
+  "nom": "HOARDING IN HELL",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hoarding-in-hell",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hoarding-in-hell.jpg",
+  "noms_alt": [],
+  "synopsis": "Kang Hyun-Moo est un pauvre type dont le rêve de devenir chasseur a été anéanti. Mais un jour, alors qu'il rêvait de devenir riche, quelque chose apparut devant lui... [Difficulté : Enfer. Vous entrez dans l'Étoile de l'Apocalypse.] « Quoi... ? » Il va à présent accaparer les objets et compétences d'une future Terre envahie par les monstres !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60460,
+    "tmdb_id": null,
+    "kitsu_id": "1303"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 37475,
+        "tmdb_id": null,
+        "kitsu_id": "1303"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hoarding-in-hell/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hoarding-in-hell/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
