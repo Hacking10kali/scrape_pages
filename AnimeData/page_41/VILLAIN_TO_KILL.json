@@ -1,0 +1,41 @@
+{
+  "nom": "VILLAIN TO KILL",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Fantastique",
+    "Combats",
+    "Vengeance",
+    "Isekai"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/villain-to-kill",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/villain-to-kill.jpg",
+  "noms_alt": [],
+  "synopsis": "Il existe deux types de personnes dotées de capacités extraordinaires : les méchants, qui sont poussés par leurs désirs, et les psykers, qui poursuivent la justice et luttent contre les criminels. Cassian est l'un des meilleurs psykers avec un tempérament de feu.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54617,
+    "tmdb_id": null,
+    "kitsu_id": "41294"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54617,
+        "tmdb_id": null,
+        "kitsu_id": "13550"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/villain-to-kill/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/villain-to-kill/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
