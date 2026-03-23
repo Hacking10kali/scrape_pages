@@ -1,0 +1,54 @@
+{
+  "nom": "GLOBAL BEAST TAMER",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Monstres - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/global-beast-tamer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/global-beast-tamer.jpg",
+  "noms_alt": [
+    "GLOBAL BEAST TAMER: I CAN SEE THE PATH OF EVOLUTION"
+  ],
+  "synopsis": "Le monde a changé et tout le monde peut devenir un dompteur de bêtes. Le protagoniste découvre qu'il peut voir les \"voies d'évolution\" cachées de ses créatures, lui permettant de transformer des familiers ordinaires en bêtes mythiques invincibles.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 52046,
+    "tmdb_id": null,
+    "kitsu_id": "967"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "967"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/global-beast-tamer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/global-beast-tamer/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
