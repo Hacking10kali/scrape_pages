@@ -1,0 +1,55 @@
+{
+  "nom": "SOLO RESURRECTION",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Comédie - Drame - Fantaisie - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/solo-resurrection",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/solo-resurrection.jpg",
+  "noms_alt": [
+    "I ALONE RESURRECT",
+    "I AM RESURRECTED ALONE"
+  ],
+  "synopsis": "Capacité unique : Résurrection « Qu'est-ce que c'est que ça ? Cette aptitude ridiculement cheat, qui brise les régles ? » Mais Kang Hyun ne le savait pas. Ce que signifie vraiment ne jamais mourir, même si on le souhaite... Un homme qui est devenu le chasseur le plus célèbre de la planète avec un corps immortel ! Pour la survie de l'humanité, ou plutôt, pour l'humanité qui a déjà péri, aujourd'hui encore, je ressuscite seul et vaincrez seule !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60665,
+    "tmdb_id": null,
+    "kitsu_id": "46231"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 60665,
+        "tmdb_id": null,
+        "kitsu_id": "46231"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/solo-resurrection/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/solo-resurrection/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
