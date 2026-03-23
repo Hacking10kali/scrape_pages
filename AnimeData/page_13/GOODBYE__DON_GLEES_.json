@@ -1,0 +1,49 @@
+{
+  "nom": "GOODBYE, DON GLEES!",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure - Comédie - Drame - Amitié - Voyage"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/goodbye-don-glees",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/goodbye-don-glees.jpg",
+  "noms_alt": [
+    "GOODBYE",
+    "DONGLEES!"
+  ],
+  "synopsis": "L'histoire se centre sur deux garçons nommés Rōma et Toto. Ces derniers se sont rencontrés après le déménagement de Rōma à la campagne. Après cette rencontre, ils décident de former un duo qu'ils nomment \"Don Glees\". Malgré les bons moments qu'ils ont passé ensemble, Toto doit déménager à Tokyo pour poursuivre ses études. Cependant, durant l'été de leur première année de lycée, ils font la rencontre de Drop, un nouveau venu au sein des Don Glees, qui les invite à \"voir le monde d'en haut.\" Un jour, en suivant Drop, Rōma et Toto se retrouvent impliqués dans un feu de forêt dont ils sont tenus responsables. Pour prouver leur innocence, ils partent à la recherche d'un drone disparu qui contient des preuves pouvant les disculper. Cet incident va devenir un voyage qui va changer leur vie et dont le point culminant est l'Islande.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 42774,
+    "tmdb_id": null,
+    "kitsu_id": "2369"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 49345,
+        "tmdb_id": 846993,
+        "kitsu_id": "44858"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/goodbye-don-glees/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/goodbye-don-glees/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://oneupload.to/embed-i597treiwkso.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
