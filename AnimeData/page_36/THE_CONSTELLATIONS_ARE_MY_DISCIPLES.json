@@ -1,0 +1,60 @@
+{
+  "nom": "THE CONSTELLATIONS ARE MY DISCIPLES",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-constellations-are-my-disciples",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-constellations-are-my-disciples.jpg",
+  "noms_alt": [
+    "LES SAINTS SONT MES DISCIPLES"
+  ],
+  "synopsis": "Kim Hyuno n'aspire qu'à une chose : une vie paisible. Hélas, il trouve la mort après un combat acharné contre Bartché, le roi de la dévastation. Cependant, une nouvelle chance de réaliser son rêve lui est accordée lorsqu'il se réincarne trois-cents ans plus tard dans le corps de Kim Juhyeok. Malheureusement, son bonheur est de courte durée, car un mystérieux message lui annonce l'apparition prochaine de la tour de la destruction et lui demande de se mettre en quête de ses armes et de ses souvenirs. Pour cela, il devra intégrer Valhalla, la célèbre académie de chasseurs, où il fera des rencontres qui lui rappelleront son passé.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": null,
+    "kitsu_id": "851"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "851"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-constellations-are-my-disciples/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-constellations-are-my-disciples/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
