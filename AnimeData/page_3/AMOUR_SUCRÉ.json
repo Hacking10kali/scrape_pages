@@ -1,0 +1,37 @@
+{
+  "nom": "AMOUR SUCRÉ",
+  "type": "Scans",
+  "genres": [
+    "Romance",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/amour-sucre",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/amour-sucre.jpg",
+  "noms_alt": [],
+  "synopsis": "Lynn, héroïne du jeu Amour Sucré, vient d'emménager à Sweet Amoris avec sa tante. Nouvelle au lycée, elle est la proie des moqueries et des persécutions d'Ambre et ses amies. Heureusement pour elle, Lysandre, Castiel, Nathaniel et ses autre amis sont là pour la soutenir. Suivez les aventures de Lynn à travers ce manga qui, comme le jeu, vous fera vivre des histoires d'amour différentes en fonction de vos choix !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2221,
+    "tmdb_id": null,
+    "kitsu_id": "47574"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2221,
+        "tmdb_id": null,
+        "kitsu_id": "47574"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/amour-sucre/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/amour-sucre/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
