@@ -1,0 +1,54 @@
+{
+  "nom": "HIKARU NO GO",
+  "type": "Scans",
+  "genres": [
+    "Shônen - Action - School Life - Ecole - Jeux - Sport - Tournois - Traditions"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hikaru-no-go",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hikaru-no-go.jpg",
+  "noms_alt": [],
+  "synopsis": "Un jour, Hikaru, 11 ans, trouve dans une remise une vieille table de go. Soudain, de celle-ci surgit un fantôme qui y était enfermé : le fantôme de Saï Fujiwara, un génie du jeu de go à l'époque Heïan (VIIIe à XIIe siècle) qui s'introduit dans l'esprit de Hikaru. Acceptant de permettre à Saï de jouer au go contre quelqu'un, Hikaru fait la connaissance de Akira Toya, fils du meilleur joueur japonais et promis lui aussi à un brillant avenir. La passion de Saï et de Akira pour ce jeu entraîne peu à peu Hikaru dans le monde du go...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 135,
+    "tmdb_id": 30982,
+    "kitsu_id": "114"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 135,
+        "tmdb_id": null,
+        "kitsu_id": "114"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hikaru-no-go/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hikaru-no-go/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
