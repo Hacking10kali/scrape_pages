@@ -1,0 +1,60 @@
+{
+  "nom": "I CONTRACTED MYSELF",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/i-contracted-myself",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-contracted-myself.jpg",
+  "noms_alt": [
+    "I MADE A CONTRACT WITH MYSELF",
+    "THE PLAYER BECOME A MONSTER"
+  ],
+  "synopsis": "C'était un monde où les Éveillés et les bêtes aliénées coexistaient. Zhang Ping a eu la chance de devenir un Éveillé, mais sa capacité a été classée comme inutile. Ne voulant pas être médiocre pour le reste de sa vie, il a résolument avalé le joyau de contrat, que les gens ordinaires évitaient comme la peste, et s'est contracté lui-même pour devenir sa propre invocation ! Dès lors, le monde entier s'ouvrit à lui. Mille variations de superpouvoirs, des bêtes aliénées à l'infini, des mondes parallèles dangereux, tout est possible.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1249,
+    "tmdb_id": null,
+    "kitsu_id": "44218"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1249,
+        "tmdb_id": null,
+        "kitsu_id": "44218"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/i-contracted-myself/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/i-contracted-myself/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
