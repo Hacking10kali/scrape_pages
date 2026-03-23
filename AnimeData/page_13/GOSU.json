@@ -1,0 +1,42 @@
+{
+  "nom": "GOSU",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Historique",
+    "Arts martiaux",
+    "Combats"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/gosu",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/gosu.jpg",
+  "noms_alt": [],
+  "synopsis": "Gang Ryong s'est entraîné pendant des années pour venger son maître trahi et laissé pour mort par ses anciens subordonnés. Mais une fois prêt à accomplir sa mission, après avoir maitrisé l'art martial de son maître, les choses ne vont pas se dérouler comme prévu pour notre héros...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 41006,
+    "tmdb_id": 317286,
+    "kitsu_id": "46300"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 41006,
+        "tmdb_id": null,
+        "kitsu_id": "46300"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/gosu/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/gosu/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
