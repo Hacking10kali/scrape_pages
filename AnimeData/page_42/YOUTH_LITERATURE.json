@@ -1,0 +1,127 @@
+{
+  "nom": "YOUTH LITERATURE",
+  "type": "Anime",
+  "genres": [
+    "Historique",
+    "Horreur",
+    "Épouvante",
+    "Mystère",
+    "Psychologique",
+    "Littérature",
+    "Poésie"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/youth-literature",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/youth-literature.jpg",
+  "noms_alt": [
+    "AOI BUNGAKU SERIES",
+    "BLUE LITERATURE SERIES"
+  ],
+  "synopsis": "Six nouvelles classiques d'auteurs largement connus de la littérature japonaise ont été adoptées en anime dans Aoi Bungaku Series. Voilà la liste des titres :, No Longer Human (Ningen Shikaku) et Run, Melos (Hashire, Melos) de Osamu Dazai;, Kokoro de Natsume Souseki;, Hell Screen (Jigoku Hen) et The Spider's Thread (Kumo no Ito) de Ryunosuke Akutagawa;,In the Forest, Under Cherries in Full Bloom (Sakura no Mori no Mankai no Shita) de Ango Sakaguchi. Vu que les artistes de renommés tels que Tite Kubo (Bleach), Takeshi Obata (Death Note, Hikaru No Go) et Takeshi Konomi (Prince Of Tennis) ont travaillés sur le character design dans ce projet, l'anime promet d'être une pure merveille au niveau des graphismes.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 7193,
+    "tmdb_id": 61289,
+    "kitsu_id": "3762"
+  },
+  "saisons": [
+    {
+      "titreVignette": "La Déchéance d'un Homme",
+      "titreComplet": "La Déchéance d'un Homme",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 7193,
+        "tmdb_id": null,
+        "kitsu_id": "3762"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/youth-literature/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/youth-literature/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Sous les Fleurs de la Forêt de Cerisiers",
+      "titreComplet": "Sous les Fleurs de la Forêt de Cerisiers",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 7193,
+        "tmdb_id": null,
+        "kitsu_id": "3762"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/youth-literature/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/youth-literature/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Le Pauvre Coeur des Hommes",
+      "titreComplet": "Le Pauvre Coeur des Hommes",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 7193,
+        "tmdb_id": null,
+        "kitsu_id": "3762"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/youth-literature/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/youth-literature/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Le Fil de l'Araignée - Figures Infernales",
+      "titreComplet": "Le Fil de l'Araignée - Figures Infernales",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 7193,
+        "tmdb_id": null,
+        "kitsu_id": "3762"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/youth-literature/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/youth-literature/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Melos",
+      "titreComplet": "Melos",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 7193,
+        "tmdb_id": null,
+        "kitsu_id": "3762"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/youth-literature/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/youth-literature/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
