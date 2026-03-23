@@ -1,0 +1,39 @@
+{
+  "nom": "HERO KILLER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Fantastique",
+    "Super-héros",
+    "Super pouvoirs"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/hero-killer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hero-killer.jpg",
+  "noms_alt": [],
+  "synopsis": "Le monde est en constante agitation, avec des guerres incessantes entre les super-héros et les malfaiteurs. Leurs affrontements se fichent du nombre de victimes qu'ils créaient et la distinction entre les deux camps s'affine. Si personne ne veut protéger les innocents, qui sont les vrais héros et qui sont les vrais méchants ? Qu'est-ce qui sépare vraiment l'un de l'autre ? Dotée de capacités surnaturelles, Yi Hwa s'est entraînée pendant des années afin de devenir une tueuse de héros. Et elle tuera sans répit jusqu'à retrouver l'assassin qui lui a pris sa sœur.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34281,
+    "tmdb_id": null,
+    "kitsu_id": "323"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 34281,
+        "tmdb_id": null,
+        "kitsu_id": "323"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hero-killer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hero-killer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
