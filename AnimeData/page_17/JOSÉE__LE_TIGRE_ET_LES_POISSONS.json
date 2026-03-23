@@ -1,0 +1,56 @@
+{
+  "nom": "JOSÉE, LE TIGRE ET LES POISSONS",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Slice of Life",
+    "Amour",
+    "Handicap",
+    "Quotidien"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/josee-le-tigre-et-les-poissons",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/josee-le-tigre-et-les-poissons.jpg",
+  "noms_alt": [
+    "JOSEE",
+    "THE TIGER AND THE FISH",
+    "JOSEE TO TORA TO SAKANA-TACHI"
+  ],
+  "synopsis": "L'histoire se centre sur Tsuneo, un étudiant universitaire travaillant à temps partiel dans un club de Mah-jong. Ces derniers jours, les clients parlent d'une vieille femme se déplaçant avec un mystérieux landau. Un jour, il découvre ce qu'il se trouve dans ce landau : une jeune fille paraplégique du nom de Kumiko mais qui se fait appeler Josée, un nom provenant de son livre favori. Ainsi, une amitié se développe entre eux, jusqu'à peu à peu se transformer en amour.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40787,
+    "tmdb_id": null,
+    "kitsu_id": "12732"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 40787,
+        "tmdb_id": 652837,
+        "kitsu_id": "42825"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/josee-le-tigre-et-les-poissons/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/josee-le-tigre-et-les-poissons/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5273345"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
