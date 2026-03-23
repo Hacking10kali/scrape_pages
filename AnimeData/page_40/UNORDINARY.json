@@ -1,0 +1,44 @@
+{
+  "nom": "UNORDINARY",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "Fantasy",
+    "School Life",
+    "Adolescence",
+    "Mensonges",
+    "Secrets",
+    "Super-héros",
+    "Super pouvoirs"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/unordinary",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/unordinary.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire prend place dans un monde où chacun est doté d'une capacité qui lui est propre. John, est un impotent, c'est-à-dire une personne née sans pouvoir. Il est donc compliqué pour lui de vivre dans ce monde où il est de coutume d'écraser les plus faibles. Cependant, il est pourvu d'un grand sens de la justice et, même s'il est faible et qu'il a tendance à éviter les ennuis, il n'hésitera pas à se battre si d'autres se font harceler.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": "10740"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "322"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/unordinary/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/unordinary/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
