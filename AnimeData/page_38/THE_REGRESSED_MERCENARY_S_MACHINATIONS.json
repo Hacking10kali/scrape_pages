@@ -1,0 +1,63 @@
+{
+  "nom": "THE REGRESSED MERCENARY’S MACHINATIONS",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-regressed-mercenarys-machinations",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-regressed-mercenarys-machinations.jpg",
+  "noms_alt": [
+    "EVERY RETURNED MERCENARY HAS A PLAN",
+    "L'INTRIGUE SURPRENANTE D'UN MERCENAIRE RÉGRESSEUR"
+  ],
+  "synopsis": "Gisel Perdium est le roi des mercenaires. Il s'est lancé dans la guerre pour venger la destruction de sa famille. Mais il finit par trouver la mort lors d'une ultime bataille, regrettant amèrement de ne pas avoir mené sa vendetta jusqu'au bout. Cependant, il se réveille des années plus tôt, dans un corps jeune. Devant lui se dresse son territoire, qui n'est pas encore tombé. Revenu dans le passé, Gisel compte bien utiliser ce qu'il sait pour empêcher la mort de sa famille et pour prendre enfin la vengeance qu'il attendait tant.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 51916,
+    "tmdb_id": null,
+    "kitsu_id": "11937"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 51916,
+        "tmdb_id": null,
+        "kitsu_id": "11937"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-regressed-mercenarys-machinations/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-regressed-mercenarys-machinations/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
