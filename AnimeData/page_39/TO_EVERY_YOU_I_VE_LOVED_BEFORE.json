@@ -1,0 +1,54 @@
+{
+  "nom": "TO EVERY YOU I'VE LOVED BEFORE",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Mystère",
+    "Romance",
+    "School Life",
+    "Science-fiction",
+    "Amour",
+    "Autre monde"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/to-every-you-ive-loved-before",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/to-every-you-ive-loved-before.jpg",
+  "noms_alt": [
+    "BOKU GA AISHITA SUBETE NO KIMI E"
+  ],
+  "synopsis": "Ce film se déroule dans un monde où le voyage vers des mondes parallèles est un phénomène courant et quotidien. L'histoire se centre sur Koyomi Takasaki, un garçon qui vit avec sa mère suite au divorce de ses parents. Il essaie de se faire des amis dans son école préparatoire mais sa maladresse sociale combinée à une atmosphère focalisée sur les études le fait échouer. Un jour, sa camarade de classe nommée Kazune Takigawa l'aborde et lui dit qu'elle vient en réalité de la World Line 85 où elle et Koyomi sont en couple.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40833,
+    "tmdb_id": null,
+    "kitsu_id": "49978"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 49834,
+        "tmdb_id": 874743,
+        "kitsu_id": "45220"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/to-every-you-ive-loved-before/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/to-every-you-ive-loved-before/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5120673"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
