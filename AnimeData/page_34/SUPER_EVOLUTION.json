@@ -1,0 +1,43 @@
+{
+  "nom": "SUPER EVOLUTION",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Combats",
+    "Aventure",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/super-evolution",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/super-evolution.jpg",
+  "noms_alt": [
+    "ADVANCED EVOLUTION",
+    "EXTRAORDINARY EVOLUTION"
+  ],
+  "synopsis": "Ming He est un jeune homme doté d'un extraordinaire pouvoir de type invisible, mais ses pouvoirs se situent au rang le plus médiocre de la poussière blanche. Sur le chemin du retour, une étoile filante désastreuse portant le nom de code « Goddess » perce le ciel. Elle heurte par hasard Ming He, qui roulait sur une route déserte, et s'attache à lui. « Déesse » confère à Ming He un talent puissant et extraordinaire. Avec son talent original et inattendu de « déesse », Ming He va lentement devenir l'humain le plus fort, tout en découvrant la vérité derrière le pouvoir cosmique !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 33417,
+    "tmdb_id": 281197,
+    "kitsu_id": "4779"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 33417,
+        "tmdb_id": null,
+        "kitsu_id": "973"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/super-evolution/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/super-evolution/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
