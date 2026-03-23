@@ -1,0 +1,41 @@
+{
+  "nom": "JUVENILE LAW",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Vie Scolaire",
+    "School Life"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/juvenile-law",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/juvenile-law.jpg",
+  "noms_alt": [
+    "LAWS OF THE GOOD CHILD"
+  ],
+  "synopsis": "Dans le même univers que Lookism. En Russie, un orphelinat privé appelé « Dead Mansion » forme de jeunes enfants à devenir des agents. « Nom de Code Sean » , la légende de Dead Mansion, que l'on croyait perdue, est soudain apparue dans un collège en Corée !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 479,
+    "tmdb_id": null,
+    "kitsu_id": "5766"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11735"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/juvenile-law/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/juvenile-law/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
