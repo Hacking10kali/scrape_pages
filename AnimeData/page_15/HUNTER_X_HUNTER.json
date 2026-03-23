@@ -1,0 +1,84 @@
+{
+  "nom": "HUNTER X HUNTER",
+  "type": "Anime, Scans",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "Shônen",
+    "Surnaturel",
+    "Thriller",
+    "Tournois",
+    "Kaï"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hunter-x-hunter/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hunter-x-hunter.jpg",
+  "noms_alt": [
+    "HXH"
+  ],
+  "synopsis": "Le jeune Gon vit sur une petite île avec sa tante. Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter. Il sera aidé par de nouvelles connaissances qui aspirent au même but que lui, telles que Kurapika, Leorio et Killua.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 136,
+    "tmdb_id": 46298,
+    "kitsu_id": "115"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Version 1999",
+      "titreComplet": "Version 1999",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 136,
+        "tmdb_id": null,
+        "kitsu_id": "115"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/hunter-x-hunter/saison1999/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hunter-x-hunter/saison1999/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Version 2011",
+      "titreComplet": "Version 2011",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 136,
+        "tmdb_id": null,
+        "kitsu_id": "115"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/hunter-x-hunter/saison2011/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hunter-x-hunter/saison2011/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 13271,
+        "tmdb_id": 211755,
+        "kitsu_id": "6930"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hunter-x-hunter/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hunter-x-hunter/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Phantom Rouge",
+          "lecteurs": []
+        },
+        {
+          "episode": "The Last Mission",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
