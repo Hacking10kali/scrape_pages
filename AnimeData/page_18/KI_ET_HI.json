@@ -1,0 +1,54 @@
+{
+  "nom": "KI ET HI",
+  "type": "Scans",
+  "genres": [
+    "Comédie - Slice of Life - Shônen"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/ki-et-hi",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ki-et-hi.jpg",
+  "noms_alt": [
+    "KI & HI"
+  ],
+  "synopsis": "Les aventures loufoques de deux frères, Ki, le grand frère calme et raisonnable, et Hi, le petit frère turbulent et énergique. À travers des situations du quotidien qui dégénèrent souvent, ils explorent leur relation fraternelle dans un univers coloré et humoristique.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34292,
+    "tmdb_id": null,
+    "kitsu_id": "5949"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 34292,
+        "tmdb_id": null,
+        "kitsu_id": "5949"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ki-et-hi/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ki-et-hi/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
