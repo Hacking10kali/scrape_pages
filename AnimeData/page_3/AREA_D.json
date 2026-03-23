@@ -1,0 +1,40 @@
+{
+  "nom": "AREA D",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Fantastique",
+    "Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/area-d",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/area-d.jpg",
+  "noms_alt": [
+    "AREA D INOURYOUIKI"
+  ],
+  "synopsis": "Suite à l'explosion d'une étoile, des humains du monde entier ont développé des capacités spéciales : force surhumaine, changement d'apparence... Des mutations génétiques qui effrayent les autorités, qui les considèrent alors comme dangereux. Les Altered, c'est ainsi qu'on les appelle, sont envoyés sur l'île D, Area D, un mystérieux endroit prévu pour l'exil, dont personne ne revient jamais...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 11697,
+    "tmdb_id": 297010,
+    "kitsu_id": "293"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 11697,
+        "tmdb_id": null,
+        "kitsu_id": "293"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/area-d/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/area-d/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
