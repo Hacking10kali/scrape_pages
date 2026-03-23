@@ -1,0 +1,57 @@
+{
+  "nom": "THE BULLY IN CHARGE",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Action - Arts Martiaux - Drame - School Life"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-bully-in-charge",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-bully-in-charge.jpg",
+  "noms_alt": [
+    "DESIGNATED BULLY",
+    "ILJIN IN CHARGE ILJIN"
+  ],
+  "synopsis": "Après avoir abandonné l'école, Kwon Daegun prépare son examen de qualification. Alors qu'il occupe un emploi à temps partiel dans une supérette, il se bat avec des voyous. Daegun, qui les a facilement maîtrisés, se voit proposer un projet intitulé \"Iljin in Charge/The Bully In Charge\" par la Fondation pour l'éducation, qui le surveille de près depuis longtemps. Il accepte l'offre après mûre réflexion, entre dans un lycée appartenant à la fondation et bat les principales brutes de cette école une par une, selon l'ordre de la fondation.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": null,
+    "kitsu_id": "44704"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "44704"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-bully-in-charge/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-bully-in-charge/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
