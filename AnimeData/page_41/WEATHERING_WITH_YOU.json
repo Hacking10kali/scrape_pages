@@ -1,0 +1,59 @@
+{
+  "nom": "WEATHERING WITH YOU",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Fantasy",
+    "Mystère",
+    "Romance",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/weathering-with-you/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/weathering-with-you.jpg",
+  "noms_alt": [
+    "LES ENFANTS DU TEMPS",
+    "TENKI NO KO"
+  ],
+  "synopsis": "L'histoire se déroule dans un futur proche où la météo est complètement désordonnée. Un jour, Hodaka Morishima, un jeune lycéen, fui sa petite île natale pour tenter sa chance à Tokyo. Très vite, il va se rendre compte de la difficulté d'y vivre en tant que mineur. Keisuke Suga, un écrivain, va cependant l'aider en lui proposant un petit job pour un magazine dédié au paranormal. Chargé d'enquêter sur les \"prêtresses du temps\", Hodaka va faire la rencontre de Hina Amano, une jeune fille joyeuse et volontaire vivant avec son petit frère. Et contre toute attente, elle est dotée d'un étrange pouvoir : celui d'éclaircir le ciel...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60765,
+    "tmdb_id": null,
+    "kitsu_id": "47943"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38826,
+        "tmdb_id": 568160,
+        "kitsu_id": "42028"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/weathering-with-you/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/weathering-with-you/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4110281"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/iycx9qs0hlh1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
