@@ -1,0 +1,58 @@
+{
+  "nom": "BLOODHOUND’S REGRESSION INSTINCT",
+  "type": "Scans",
+  "genres": [
+    "Webcomic - Manhwa - Action - Seinen - Drame - Fantasy - Arts martiaux"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bloodhounds-regression-instinct",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bloodhounds-regression-instinct.jpg",
+  "noms_alt": [
+    "RETURN OF THE HOUND",
+    "THE RETURN INSTINCT OF THE HUNTING DOG",
+    "THE RETURNING INSTINCT OF A HOUND"
+  ],
+  "synopsis": "Yan, le protagoniste, a subi un lavage de cerveau de la part de l'empereur et a vécu comme sa marionnette. Après avoir découvert qu'il était le jouet de l'empereur, il a voulu se venger, mais il s'est effondré sous l'effet de la puissance de celui-ci. Il pensait être mort, mais lorsqu'il s'est réveillé, il s'est rendu compte qu'il avait régressé jusqu'à l'époque où il était une recrue. Se venger de l'empereur ou retrouver sa famille, tel était le choix qui s'offrait à lui. Le choix est entre ses mains.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 14211,
+    "tmdb_id": null,
+    "kitsu_id": "11447"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bloodhounds-regression-instinct/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bloodhounds-regression-instinct/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
