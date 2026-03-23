@@ -1,0 +1,51 @@
+{
+  "nom": "VOICES OF A DISTANT STAR",
+  "type": "Anime",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Science-fiction"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/voices-of-a-distant-star",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/voices-of-a-distant-star.jpg",
+  "noms_alt": [
+    "HOSHI NO KOE"
+  ],
+  "synopsis": "C'est l'histoire d'un garçon et d'une fille qui se connaissent depuis longtemps. Ils s'aiment et prévoient d'aller dans le même lycée. Malheureusement, la fille se trouve affectée à un vaisseau spatial qui va partir pour une mission et s'éloigner de plus en plus de la Terre. Ils continuent à communiquer par mails mais plus le vaisseau s'éloigne plus les mails mettent du temps à arriver sur Terre. Leur relation saura-t-elle surmonter le temps et l'espace qui les séparent? Attention préparez vous à plonger pour 25 minutes de poésie et de beauté à l'état pur. Ce film à petit budget, créé par le réalisateur Makoto Shinkai et sa femme, a été diffusé au départ dans une seule salle de cinéma de quartier au fin fond de Tokyo et au bout d'une semaine la file d'attente devant la salle était impressionnante et le cinéma faisait salle comble.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53912,
+    "tmdb_id": null,
+    "kitsu_id": "940"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1689,
+        "tmdb_id": 37910,
+        "kitsu_id": "11614"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/voices-of-a-distant-star/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/voices-of-a-distant-star/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4835129\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
