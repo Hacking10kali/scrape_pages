@@ -1,0 +1,65 @@
+{
+  "nom": "20TH CENTURY BOYS",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Mystère",
+    "Surnaturel",
+    "Thriller",
+    "Seinen",
+    "Amitié",
+    "Apocalypse",
+    "Enquête",
+    "Jeunesse",
+    "Justice",
+    "Police",
+    "Pouvoirs psychiques",
+    "Yakuza"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/20th-century-boys",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/20th-century-boys.jpg",
+  "noms_alt": [
+    "21ST CENTURY BOYS"
+  ],
+  "synopsis": "1969 : Un groupe d'enfants se retrouve régulièrement dans une base secrète ; sous l'impulsion de Kenji Endô, les enfants inventent une histoire de science-fiction racontant la destruction de l'humanité par une organisation maléfique à laquelle ils s'opposaient pour finir par devenir les sauveurs du monde. Ils consignent cette histoire dans un Cahier de Prédictions. 1997 : Kenji dirige depuis un convini et porte constamment sur le dos le bébé que sa sœur lui a confié avant de disparaître mystérieusement. La mort d'un ami d'enfance va réunir la bande de copains qui, lorsqu'ils avaient dix ans, construisaient le monde avec des yeux d'enfants. Ami, le gourou d'une secte, va croiser le chemin de nos amis sans raison apparente... mais pourtant il semble être en étroite relation avec leur passé...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62856,
+    "tmdb_id": null,
+    "kitsu_id": "137"
+  },
+  "saisons": [
+    {
+      "titreVignette": "20th Century Boys",
+      "titreComplet": "20th Century Boys",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62856,
+        "tmdb_id": null,
+        "kitsu_id": "137"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/20th-century-boys/saison20/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/20th-century-boys/saison20/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "21st Century Boys",
+      "titreComplet": "21st Century Boys",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62856,
+        "tmdb_id": null,
+        "kitsu_id": "137"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/20th-century-boys/saison21/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/20th-century-boys/saison21/vostfr/",
+      "episodes": []
+    }
+  ]
+}
