@@ -1,0 +1,44 @@
+{
+  "nom": "JAGAAAN",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Drame",
+    "Horreur",
+    "Mature",
+    "Mystère",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/jagaaan",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jagaaan.jpg",
+  "noms_alt": [
+    "JAGAAAAAAN"
+  ],
+  "synopsis": "Shintarô Jagasaki est un policier de quartier vivant une vie ennuyeuse, qui s'imagine tirer sur tous ceux qui l'énervent. Et suite à la pluie de grenouilles qui a déferlé sur la ville, certains humains commencent à perdre la raison, devenant des monstres à l'image de leurs désirs : les humains brisés. Choisi par l'étrange chouette Doku-chan, Shintarô va devenir Jagaaan, l'humain brisé à la gâchette facile !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": "7123"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/jagaaan/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/jagaaan/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
