@@ -1,0 +1,52 @@
+{
+  "nom": "ARRIETTY, LE PETIT MONDE DES CHAPARDEURS",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Ghibli",
+    "Fantasy"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/arrietty-le-petit-monde-des-chapardeurs",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arrietty-le-petit-monde-des-chapardeurs.jpg",
+  "noms_alt": [
+    "KARIGURASHI NO ARRIETTY"
+  ],
+  "synopsis": "Dans la banlieue de Tokyo, sous le plancher d'une vieille maison perdue au cœur d'un immense jardin, la minuscule Arrietty vit en secret avec sa famille. Ce sont des Chapardeurs. Arrietty connaît les règles : on n'emprunte que ce dont on a besoin, en tellement petite quantité que les habitants de la maison ne s'en aperçoivent pas. Plus important encore, on se méfie du chat, des rats, et interdiction absolue d'être vus par les humains sous peine d'être obligés de déménager et de perdre cet univers miniature fascinant fait d'objets détournés. Arrietty sait tout cela. Pourtant, lorsqu'un jeune garçon, Sho, arrive à la maison pour se reposer avant une grave opération, elle sent que tout sera différent. Entre la jeune fille et celui qu'elle voit comme un géant, commence une aventure et une amitié que personne ne pourra oublier...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 7711,
+    "tmdb_id": null,
+    "kitsu_id": "5090"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 7711,
+        "tmdb_id": 51739,
+        "kitsu_id": "5090"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/arrietty-le-petit-monde-des-chapardeurs/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/arrietty-le-petit-monde-des-chapardeurs/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5055314"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
