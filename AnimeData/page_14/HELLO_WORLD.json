@@ -1,0 +1,48 @@
+{
+  "nom": "HELLO WORLD",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Science-fiction"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hello-world",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hello-world.jpg",
+  "noms_alt": [],
+  "synopsis": "Naomi Katagaki est un lycéen du secondaire qui, un beau jour, fait la rencontre de son « lui du futur », de dix ans son aîné. Ensemble, ils vont s'atteler à sauver la vie de Ruri, une camarade de classe à laquelle le jeune Naomi commence tout juste à s'attacher...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60460,
+    "tmdb_id": 208094,
+    "kitsu_id": "3417"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38816,
+        "tmdb_id": 604605,
+        "kitsu_id": "42030"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/hello-world/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hello-world/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3974086"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
