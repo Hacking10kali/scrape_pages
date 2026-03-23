@@ -1,0 +1,46 @@
+{
+  "nom": "ESCAPE ROOM",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "Thriller",
+    "Mort",
+    "Survie",
+    "Psychologique",
+    "Mystère"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/escape-room",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/escape-room.jpg",
+  "noms_alt": [
+    "BANGTALCHUL"
+  ],
+  "synopsis": "Réfléchissez et prenez la bonne décision pour sortir de l'escape room. Une petite faute peut vous guider directement vers la mort.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34393,
+    "tmdb_id": 300221,
+    "kitsu_id": "50337"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 50862,
+        "tmdb_id": null,
+        "kitsu_id": "6686"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/escape-room/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/escape-room/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
