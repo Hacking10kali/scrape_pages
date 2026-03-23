@@ -1,0 +1,54 @@
+{
+  "nom": "VALHALLA SAGA",
+  "type": "Scans",
+  "genres": [
+    "Webcomic - Manhwa - Action - Aventure - Drame - Fantasy - Comédie - Seinen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/valhalla-saga",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/valhalla-saga.jpg",
+  "noms_alt": [],
+  "synopsis": "Un joueur professionnel meurt inopinément lors d'un tournoi de sport électronique et est envoyé au Valhalla, un paradis réservé aux plus grands guerriers. Les guerriers du Valhalla sont confrontés à une lutte pour la survie face à un ennemi commun. Heureusement, chaque guerrier possède les racines de sa propre saga, un récit légendaire de son ascension vers la gloire et de ses exploits. Assistez à la naissance d'une saga épique alors que ce joueur défie les légendes et se fraie un chemin vers la gloire ultime. L'histoire elle-même tourne autour de la mythologie nordique et incorpore un système de jeu aux côtés de sorciers magiques et de puissants guerriers.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37976,
+    "tmdb_id": null,
+    "kitsu_id": "1011"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "1011"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/valhalla-saga/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/valhalla-saga/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
