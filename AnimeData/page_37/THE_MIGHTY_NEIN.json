@@ -1,0 +1,74 @@
+{
+  "nom": "THE MIGHTY NEIN",
+  "type": "Autres",
+  "genres": [
+    "Aventure",
+    "Fantasy",
+    "Jeu de rôle"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-mighty-nein",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-mighty-nein.jpg",
+  "noms_alt": [
+    "CRITICAL ROLE: CAMPAIGN 2"
+  ],
+  "synopsis": "Les aventures d'un groupe hétéroclite d'aventuriers dans le monde de l'Exandria (continent de Wildemount). Originaires de milieux différents et portant de lourds secrets, ils se lient d'amitié et affrontent des menaces politiques et magiques qui pourraient déclencher une guerre entre deux empires.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3974,
+    "tmdb_id": 219080,
+    "kitsu_id": "43053"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 3974,
+        "tmdb_id": 219080,
+        "kitsu_id": "43053"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/the-mighty-nein/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-mighty-nein/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
