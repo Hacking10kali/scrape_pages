@@ -1,0 +1,54 @@
+{
+  "nom": "EVERYONE LOVES HER",
+  "type": "Scans",
+  "genres": [
+    "Action - Drame - Mystère - Surnaturel - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/everyone-loves-her",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/everyone-loves-her.jpg",
+  "noms_alt": [
+    "TOUT LE MONDE L'AIME"
+  ],
+  "synopsis": "Du jour au lendemain, la vie de Kang Min-ah bascule lorsqu'elle acquiert le pouvoir de téléportation. Mais ce don devient vite un fardeau : à chaque choix, les conséquences sont irréversibles. Tiraillée entre colère, confusion et un sens aigu de la justice, Min-ah s'interroge : jusqu'où utiliser son pouvoir ? Un nouveau chapitre s'ouvre, fait de décisions critiques... et de non-retours. Quel chemin choisira-t-elle, et où son pouvoir la mènera-t-il ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53434,
+    "tmdb_id": null,
+    "kitsu_id": "50067"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 21427,
+        "tmdb_id": null,
+        "kitsu_id": "50067"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/everyone-loves-her/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/everyone-loves-her/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
