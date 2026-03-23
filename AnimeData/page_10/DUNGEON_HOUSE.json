@@ -1,0 +1,43 @@
+{
+  "nom": "DUNGEON HOUSE",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Fantaisie",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/dungeon-house",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-house.jpg",
+  "noms_alt": [
+    "TOO MUCH DANGEROUS OUTSIDE THE HOUSE"
+  ],
+  "synopsis": "Un jour, ma maison s'est retrouvée, sans raison apparente, connectée à un donjon. C'est dangereux dehors, mais il me faut le terminer avant que le temps soit écoulé pour rester en vie. “Je ne veux pas mourir. Je survivrai quoi qu'il arrive”. Le jeune Kim Hyun-Bok doit maintenant terminer un donjon alors que tout le monde est mort. Il commence par apprivoiser les monstres avec ses compétences... Et débute une aventure dans les donjons en risquant sa propre vie, accompagné des squelettes Chris, Kai et Castle qui ont retrouvé leur mémoire.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 28121,
+    "tmdb_id": null,
+    "kitsu_id": "9962"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 28121,
+        "tmdb_id": null,
+        "kitsu_id": "9962"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dungeon-house/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-house/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
