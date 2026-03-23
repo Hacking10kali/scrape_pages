@@ -1,0 +1,57 @@
+{
+  "nom": "THE MAGIC TOWER PROBLEMATIC CHILD",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Aventure - Drame - Fantasy - Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-magic-tower-problematic-child",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-magic-tower-problematic-child.jpg",
+  "noms_alt": [
+    "THE MAGIC TOWER'S PROBLEM CHILD",
+    "THE TROUBLEMAKERS OF THE MAGE TOWER"
+  ],
+  "synopsis": "Le maître de la tour de magie blanche, Oscar Sage, et ses mages ont tout sacrifié, y compris leur vie, pour l'avenir de l'humanité. 20 ans ont passé, et Oscar Sage a ouvert les yeux sur son reflet dans le miroir : un mage de niveau 1 qui ne pouvait utiliser que des sorts de base, et une Tour de magie blanche qui risquait d'être exclue de la Ligue des quatre tours. En se jurant de redonner à la Tour de Magie Blanche sa gloire d'antan, Oscar, le maître de la tour, entame sa seconde vie.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 42826,
+    "tmdb_id": null,
+    "kitsu_id": "907"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 42826,
+        "tmdb_id": null,
+        "kitsu_id": "907"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-magic-tower-problematic-child/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-magic-tower-problematic-child/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
