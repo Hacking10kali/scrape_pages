@@ -1,0 +1,45 @@
+{
+  "nom": "HORIZON",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Historique",
+    "Psychologique",
+    "Thriller",
+    "Tragique",
+    "Post-apocalyptique"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/horizon",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/horizon.jpg",
+  "noms_alt": [
+    "SUPYEONGSEON"
+  ],
+  "synopsis": "Deux enfants se rencontrent soudainement, le garçon et la fille. Leurs regards se croisent. Ils décident alors de poursuivre leur chemin ensemble, tout en tentant de survivre et aller de l'avant dans un monde soumis à la terreur et au chaos.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 23321,
+    "tmdb_id": 1966,
+    "kitsu_id": "7622"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 23321,
+        "tmdb_id": null,
+        "kitsu_id": "6187"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/horizon/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/horizon/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
