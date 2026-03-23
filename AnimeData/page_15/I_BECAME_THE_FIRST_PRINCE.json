@@ -1,0 +1,54 @@
+{
+  "nom": "I BECAME THE FIRST PRINCE",
+  "type": "Scans",
+  "genres": [
+    "Action - Fantasy - Historique - Royauté - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/i-became-the-first-prince",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-became-the-first-prince.jpg",
+  "noms_alt": [
+    "I BECAME THE FIRST PRINCE: LEGEND OF SWORD'S SONG"
+  ],
+  "synopsis": "Un homme se réveille dans le corps du premier prince d'un royaume fantastique, un personnage connu pour son incompétence ou son destin tragique. Utilisant sa connaissance de l'avenir (souvent issue d'un jeu ou d'un roman), il décide de changer son destin et de renforcer sa position par l'épée et la stratégie.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 57892,
+    "tmdb_id": null,
+    "kitsu_id": "50180"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 57892,
+        "tmdb_id": null,
+        "kitsu_id": "50180"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/i-became-the-first-prince/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/i-became-the-first-prince/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
