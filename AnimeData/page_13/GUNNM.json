@@ -1,0 +1,39 @@
+{
+  "nom": "GUNNM",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Science-fiction",
+    "Seinen",
+    "Combats"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/gunnm",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/gunnm.jpg",
+  "noms_alt": [],
+  "synopsis": "Gally est un cyborg créé par le docteur Ido qui est aussi un chasseur de prime. Ce dernier la trouve alors qu'il cherchait des pièces pour cyborgs dans une décharge. Gally suit ensuite les traces de son créateur Ido et devient chasseur de prime. Rapidemment, Gally devient l'un des meilleurs chasseurs de prime de toute la décharge et son talent est reconnu par tous. C'est en chassant un criminel que Gally rencontre Yugo, un jeune mécano qui répare les inventions du docteur Ido. Gally tombe sous le charme de Yugo et fera tout pour être à ses côtés. Yugo rêvant d'aller à Zalem, Gally fera tout pour aider ce dernier à rejoindre cette cité...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1016,
+    "tmdb_id": 71999,
+    "kitsu_id": "1337"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/gunnm/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/gunnm/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
