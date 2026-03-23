@@ -1,0 +1,52 @@
+{
+  "nom": "REINCARNATOR'S STREAM",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Streaming - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/reincarnators-stream",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/reincarnators-stream.jpg",
+  "noms_alt": [],
+  "synopsis": "Un protagoniste qui a vécu de multiples vies ou qui possède des connaissances du futur utilise un système de streaming pour diffuser ses aventures. En interagissant avec les spectateurs (parfois des dieux ou des constellations), il gagne des récompenses et influence le monde réel.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2109,
+    "tmdb_id": null,
+    "kitsu_id": "48448"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "48448"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/reincarnators-stream/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/reincarnators-stream/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
