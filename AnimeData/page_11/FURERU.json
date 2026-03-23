@@ -1,0 +1,43 @@
+{
+  "nom": "FURERU",
+  "type": "Film",
+  "genres": [
+    "Drame - Surnaturel - Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/fureru",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/fureru.jpg",
+  "noms_alt": [
+    "FURERU."
+  ],
+  "synopsis": "Aki, Ryo et Yuta, trois amis d'enfance, rencontrent sur une île une mystérieuse créature nommée Fureru dont le pouvoir télépathique lié au \"toucher\" renforce leur lien. Dix ans plus tard, alors qu'ils vivent en colocation à Tokyo, les secrets de ce pouvoir refont surface et mettent leur amitié à l'épreuve.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 57448,
+    "tmdb_id": null,
+    "kitsu_id": "48655"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 57448,
+        "tmdb_id": 1214138,
+        "kitsu_id": "48655"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/fureru/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/fureru/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
