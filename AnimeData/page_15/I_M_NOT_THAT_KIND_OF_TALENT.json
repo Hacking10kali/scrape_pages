@@ -1,0 +1,41 @@
+{
+  "nom": "I'M NOT THAT KIND OF TALENT",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/im-not-that-kind-of-talent",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/im-not-that-kind-of-talent.jpg",
+  "noms_alt": [
+    "JE NE SUIS PAS CE GENRE DE PERSONNE"
+  ],
+  "synopsis": "Moi, Dion Hart, suis une personne malade, vomissant du sang quand je suis stressé. Cependant, je suis aussi le Comte Hart, qui a été étrangement incompris et considéré comme une personne forte, et par conséquent craint de tous.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63508,
+    "tmdb_id": null,
+    "kitsu_id": "7504"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "7504"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/im-not-that-kind-of-talent/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/im-not-that-kind-of-talent/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
