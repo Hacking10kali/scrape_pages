@@ -1,0 +1,56 @@
+{
+  "nom": "THE MARSHAL KING",
+  "type": "Scans",
+  "genres": [
+    "Shônen - Action - Drame - Historique - Western"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-marshal-king",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-marshal-king.jpg",
+  "noms_alt": [
+    "THE MARSHALL KING"
+  ],
+  "synopsis": "L'histoire se concentre sur un jeune homme, Jim Godspeed, qui prétend être le fils d'un légendaire hors-la-loi et prétend l'avoir tué et traîné son cadavre dans le désert pour preuve. Cependant, les vérités sur son passé restent floues, ce qui laisse entrevoir un récit oscillant entre mythe et réalité.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38119,
+    "tmdb_id": null,
+    "kitsu_id": "2994"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38119,
+        "tmdb_id": null,
+        "kitsu_id": "2994"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-marshal-king/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-marshal-king/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
