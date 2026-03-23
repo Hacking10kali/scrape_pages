@@ -1,0 +1,41 @@
+{
+  "nom": "BOUNCER",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Drame",
+    "Combats",
+    "Délinquance",
+    "Quotidien",
+    "Travail",
+    "Slice of Life"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/bouncer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bouncer.jpg",
+  "noms_alt": [],
+  "synopsis": "On suit l'histoire de Jouichirou Shishido, un raté impulsif et trop honnête qui va d'échec en échec sur le plan professionnel. Un soir, il va croiser la route d'un groupe de gardes du corps, membres d'une entreprise de sécurité privée du nom de Tokyo Fist, qui va bouleverser son quotidien.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 18153,
+    "tmdb_id": 224025,
+    "kitsu_id": "10464"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "10464"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bouncer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bouncer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
