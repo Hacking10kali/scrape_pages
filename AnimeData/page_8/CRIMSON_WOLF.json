@@ -1,0 +1,40 @@
+{
+  "nom": "CRIMSON WOLF",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Fantastique",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/crimson-wolf",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/crimson-wolf.jpg",
+  "noms_alt": [
+    "KURENAI NO OOKAMI TO ASHIKASE NO HITSUJI"
+  ],
+  "synopsis": "Yôichi est un jeune garçon qui a été élevé dans un temple. Ses origines lui valent le mépris de ses camarades de classe, qui s'amusent à le martyriser. Yôichi était le seul à être victime de l'ijimé jusqu'au jour où une jeune fille nommée Akatsuki Ayame fait son entrée dans sa classe. Avec ses cheveux blancs, son apparence de gamine et son caractère frondeur, elle s'attire bien vite les foudres des autres élèves ! Mais elle se lie amitié avec Yôichi et finit par lui faire découvrir un autre monde éclairé par une lune rouge.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3358,
+    "tmdb_id": 199964,
+    "kitsu_id": "2954"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 3358,
+        "tmdb_id": null,
+        "kitsu_id": "2954"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/crimson-wolf/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/crimson-wolf/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
