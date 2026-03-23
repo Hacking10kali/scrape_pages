@@ -1,0 +1,54 @@
+{
+  "nom": "BONES",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Horreur - Psychologique - Tragédie - Webcomic - Mannhwa"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bones",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bones.jpg",
+  "noms_alt": [],
+  "synopsis": "Ji Hyun, hanté par la douleur et la colère intérieure, attend de devenir chasseur avec le rêve de devenir invincible. Mais le destin cruel en a décidé autrement, lui privant de la chose la plus précieuse - le coût de l'amour et de la santé. Se morfondant dans le désespoir, mais ne se résignant pas à son sort, Ji Hyun se tenait au bord de l'abîme. Devenu une ombre de lui-même, il est sorti des cendres et à plonger le monde dans la terreur. C'est l'histoire de la naissance d'un nouveau personnage, incarnant toute la rage et la détermination, dont les actions auront un écho dans le monde entier.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 30187,
+    "tmdb_id": 1911,
+    "kitsu_id": "10706"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 30187,
+        "tmdb_id": null,
+        "kitsu_id": "10706"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bones/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bones/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
