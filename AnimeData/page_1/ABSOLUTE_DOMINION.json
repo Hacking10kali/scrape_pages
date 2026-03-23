@@ -1,0 +1,44 @@
+{
+  "nom": "ABSOLUTE DOMINION",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Comédie",
+    "Drame"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/absolute-dominion",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-dominion.jpg",
+  "noms_alt": [
+    "ABSOLUTE REIGN"
+  ],
+  "synopsis": "« Je vais dominer le Jianghu ! » Dit un mystérieux fils de marchand de fruits, tenant l'épée du monarque dans sa main gauche et la lame des enfers dans sa main droite. Possédant non seulement l'éloquence, mais aussi des capacités martiales impressionnantes, quel pourrait être son but ultime ? C'est ainsi que commence le périple de ce jeune homme de vingt ans, Jeok Leegeon, qui rêve de dominer le monde des arts martiaux !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 25397,
+    "tmdb_id": null,
+    "kitsu_id": "8641"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 25397,
+        "tmdb_id": null,
+        "kitsu_id": "8641"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/absolute-dominion/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/absolute-dominion/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
