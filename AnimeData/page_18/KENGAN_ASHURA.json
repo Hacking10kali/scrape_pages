@@ -1,0 +1,82 @@
+{
+  "nom": "KENGAN ASHURA",
+  "type": "Anime, Scans",
+  "genres": [
+    "Action",
+    "Drame"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kengan-ashura",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kengan-ashura.jpg",
+  "noms_alt": [
+    "KENGAN ASURA"
+  ],
+  "synopsis": "Depuis la période d'Edo, des arènes de gladiateurs existent dans certaines régions du Japon. Dans ces arènes, les riches propriétaires d'entreprises engagent des gladiateurs pour qu'ils se battent entre eux dans des combats sans arme où le vainqueur remporte tout. Nous suivons le quotidien de Tokita Ouma, un guerrier surnommé Ashura, qui dévaste ses adversaires les uns après les autres. Ses capacités hors du commun attirent l'attention des grands propriétaires d'entreprise, dont le président du groupe Nogi Group, Nogi Hideki.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54449,
+    "tmdb_id": 90660,
+    "kitsu_id": "971"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 Partie 1",
+      "titreComplet": "Saison 1 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54449,
+        "tmdb_id": 90660,
+        "kitsu_id": "971"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/kengan-ashura/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kengan-ashura/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 Partie 2",
+      "titreComplet": "Saison 1 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54449,
+        "tmdb_id": 90660,
+        "kitsu_id": "971"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/kengan-ashura/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kengan-ashura/saison1-partie2/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 2 Partie 1",
+      "titreComplet": "Saison 2 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54449,
+        "tmdb_id": 90660,
+        "kitsu_id": "971"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/kengan-ashura/saison2-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kengan-ashura/saison2-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 2 Partie 2",
+      "titreComplet": "Saison 2 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54449,
+        "tmdb_id": 90660,
+        "kitsu_id": "971"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/kengan-ashura/saison2-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kengan-ashura/saison2-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}
