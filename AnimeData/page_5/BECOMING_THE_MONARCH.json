@@ -1,0 +1,52 @@
+{
+  "nom": "BECOMING THE MONARCH",
+  "type": "Scans",
+  "genres": [
+    "Action - Fantasy - Aventure - Régression"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/becoming-the-monarch",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/becoming-the-monarch.jpg",
+  "noms_alt": [],
+  "synopsis": "Chris, un mercenaire vétéran et manchot, a vécu une vie de regrets jusqu'à ce qu'il avale un mystérieux artefact sur un champ de bataille. Il se réveille dans le passé, dans son corps de 15 ans et avec ses deux bras. Fort de son expérience, il jure de devenir le monarque de sa propre destinée.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4514,
+    "tmdb_id": 281610,
+    "kitsu_id": "42467"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54853,
+        "tmdb_id": null,
+        "kitsu_id": "42467"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/becoming-the-monarch/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/becoming-the-monarch/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
