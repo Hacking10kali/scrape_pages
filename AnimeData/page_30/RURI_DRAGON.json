@@ -1,0 +1,43 @@
+{
+  "nom": "RURI DRAGON",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Comédie",
+    "Fantastique",
+    "School Life",
+    "Slice of Life",
+    "Adolescence",
+    "Dragons",
+    "Famille"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ruri-dragon",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ruri-dragon.jpg",
+  "noms_alt": [],
+  "synopsis": "Alors qu'elle se réveille un beau matin, Ruri Aoki voit que des cornes lui ont poussé sur la tête au cours de la nuit ! Sa mère, pas plus surprise que ça, lui révèle alors que son père est un dragon et qu'à priori c'est normal. Quoi qu'il en soit, Ruri va désormais devoir se faire à son nouveau style de vie, gérant à la fois l'insistance de ses camarades trop curieux et l'apparition progressive de ses pouvoirs de dragon !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63188,
+    "tmdb_id": 309381,
+    "kitsu_id": "50418"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 63188,
+        "tmdb_id": null,
+        "kitsu_id": "50418"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ruri-dragon/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ruri-dragon/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
