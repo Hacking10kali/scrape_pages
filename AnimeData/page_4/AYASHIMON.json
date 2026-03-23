@@ -1,0 +1,37 @@
+{
+  "nom": "AYASHIMON",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ayashimon",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ayashimon.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire se centre sur Maruo, un garçon avec une force surhumaine qui a soif de combats. Après avoir passé la journée à chercher un travail, il fait la rencontre de Urara, une jeune fille qui tente d'échapper aux voyous de la pègre...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": "2712"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "2712"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ayashimon/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ayashimon/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
