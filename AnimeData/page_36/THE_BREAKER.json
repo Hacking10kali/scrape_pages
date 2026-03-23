@@ -1,0 +1,76 @@
+{
+  "nom": "THE BREAKER",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Comédie",
+    "Drame",
+    "Romance",
+    "School Life",
+    "Amitié",
+    "Arts martiaux",
+    "Combats",
+    "Harcèlement",
+    "Organisations secrètes"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/the-breaker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-breaker.jpg",
+  "noms_alt": [
+    "NEW WAVES",
+    "ETERNAL FORCE"
+  ],
+  "synopsis": "The Breaker raconte l'histoire d'un lycéen se nommant Shi-Woon et qui se fait tabasser, racketter par les membres d'une bande se trouvant dans la même classe que lui. Un jour, après s'être fait tabasser pour ne pas avoir rapporté l'argent demandé, un jeune homme pour le moins étrange, se prénommant Chun Woo, apparaît et se moque de la faiblesse de Shi-Woon. Mais au plus grand désarrois de ce-dernier, Chun Woo s'avère être le professeur remplaçant d'anglais. Sauf que ce remplaçant n'est pas un professeur comme les autres : en effet, c'est un maître en arts martiaux. Shi-Woon le découvre et lui demande de les lui apprendre pour protéger les gens auxquels il tient (dont celle qu'il aime... ), de la bande qui le martyrise.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 47257,
+    "tmdb_id": 94631,
+    "kitsu_id": "48992"
+  },
+  "saisons": [
+    {
+      "titreVignette": "The Breaker",
+      "titreComplet": "The Breaker",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 17651,
+        "tmdb_id": 135374,
+        "kitsu_id": "48992"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-breaker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-breaker/saison1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "New Waves",
+      "titreComplet": "New Waves",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 47257,
+        "tmdb_id": null,
+        "kitsu_id": "1118"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-breaker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-breaker/saison1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Eternal Force",
+      "titreComplet": "Eternal Force",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 47257,
+        "tmdb_id": null,
+        "kitsu_id": "48992"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-breaker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-breaker/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
