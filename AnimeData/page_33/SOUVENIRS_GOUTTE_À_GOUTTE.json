@@ -1,0 +1,59 @@
+{
+  "nom": "SOUVENIRS GOUTTE À GOUTTE",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Ghibli",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/souvenirs-goutte-a-goutte",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/souvenirs-goutte-a-goutte.jpg",
+  "noms_alt": [
+    "OMOHIDE PORO PORO",
+    "OMOIDE POROPORO",
+    "SOUVENIRS GOUTTE À GOUTTE",
+    "ONLY YESTERDAY"
+  ],
+  "synopsis": "Taeko, une jeune citadine de 27 ans, part en vacances à la campagne dans la famille de son beau-frère. Laissant derrière elle ses préoccupations, elle se laisse submerger par ses souvenirs d'enfance, des anecdotes survenues en 1966 alors qu'elle n'avait que 11 ans...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62981,
+    "tmdb_id": null,
+    "kitsu_id": "6896"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 1029,
+        "tmdb_id": 15080,
+        "kitsu_id": "40659"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/souvenirs-goutte-a-goutte/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/souvenirs-goutte-a-goutte/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5366093"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/47j68li1jmgt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
