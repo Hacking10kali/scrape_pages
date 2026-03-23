@@ -1,0 +1,57 @@
+{
+  "nom": "WASURENAGUMO",
+  "type": "Film",
+  "genres": [
+    "Fantastique - Surnaturel - Folklore"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/wasurenagumo",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/wasurenagumo.jpg",
+  "noms_alt": [
+    "LA PETITE FILLE ARAIGNÉE",
+    "WAKATE ANIMATOR IKUSEI PROJECT",
+    "2011 YOUNG ANIMATOR TRAINING PROJECT",
+    "ANIME MIRAI 2011",
+    "LI'L SPIDER GIRL"
+  ],
+  "synopsis": "Suzuri est un vendeur de livres antiques. Un jour, alors que Mizuki est à sa boutique, elle ouvre un ouvrage mystérieux et laisse s'échapper une petite créature mi-humaine mi-araignée. Suzuri s'éprend rapidement de la créature mythique, au point de s'occuper d'elle nuits et jours... ce qui n'est pas sans inquiéter Mizuki, qui va alors tenter de le ramener à ses esprits...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 13171,
+    "tmdb_id": null,
+    "kitsu_id": "6901"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 13171,
+        "tmdb_id": 126830,
+        "kitsu_id": "6901"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/wasurenagumo/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/wasurenagumo/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://movearnpre.com/embed/bmj9yqkv026c"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5942022"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
