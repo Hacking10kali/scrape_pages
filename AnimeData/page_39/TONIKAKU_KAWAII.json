@@ -1,0 +1,70 @@
+{
+  "nom": "TONIKAKU KAWAII",
+  "type": "Anime, Scans",
+  "genres": [
+    "Comédie",
+    "Romance",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/tonikaku-kawaii/ ",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/tonikaku-kawaii.jpg",
+  "noms_alt": [
+    "TONIKAWA: OVER THE MOON FOR YOU",
+    "FLY ME TO THE MOON"
+  ],
+  "synopsis": "Le prénom de Nasa Yuzaki, un collégien studieux, s'écrit avec le kanji de «Nuit étoilée», mais il se prononce «Nasa». Pour ne plus que l'on se moque de son nom étrange, il s'est juré de devenir une personne importante. Durant une nuit enneigée, il aperçoit une jeune fille dont il tombe tout de suite amoureux. Cependant, alors qu'il ne fait plus attention à la route, il se fait renverser par un camion. Tsukasa, la jeune fille qu'il regardait, le sauve et Nasa profite de cette situation pour lui avouer ses sentiments. La jeune fille accepte de sortir avec lui mais à une seule condition : ils doivent se marier ! Plusieurs années après cet événement, Tsukasa vient sonner chez Nasa pour tenir la promesse qu'elle a faite. Ainsi commence la vie à deux de nos jeunes mariés !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 41389,
+    "tmdb_id": 100049,
+    "kitsu_id": "43034"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 41389,
+        "tmdb_id": 100049,
+        "kitsu_id": "43034"
+      },
+      "langue": "vf",
+      "lien_vf": null,
+      "lien_vostfr": null,
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 41389,
+        "tmdb_id": 100049,
+        "kitsu_id": "43034"
+      },
+      "langue": "vf",
+      "lien_vf": null,
+      "lien_vostfr": null,
+      "episodes": []
+    },
+    {
+      "titreVignette": "High School Days",
+      "titreComplet": "High School Days",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38619,
+        "tmdb_id": 100049,
+        "kitsu_id": "43034"
+      },
+      "langue": "vf",
+      "lien_vf": null,
+      "lien_vostfr": null,
+      "episodes": []
+    }
+  ]
+}
