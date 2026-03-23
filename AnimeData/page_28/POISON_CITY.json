@@ -1,0 +1,40 @@
+{
+  "nom": "POISON CITY",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Psychologique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/poison-city",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/poison-city.jpg",
+  "noms_alt": [
+    "YUUGAI TOSHI"
+  ],
+  "synopsis": "À moins d'un an de l'ouverture des Jeux olympiques, le Japon est bien décidé à faire place nette afin de recevoir les athlètes du monde entier. Une vague de puritanisme exacerbé s'abat sur tout le pays, cristallisée par la multiplication de mouvements autoproclamés de vigilance citoyenne. Littérature, cinéma, jeu vidéo, bande dessinée : aucun mode d'expression n'est épargné. C'est dans ce climat suffocant que Mikio Hibino, jeune auteur de 32 ans, se lance un peu naïvement dans la publication d'un manga d'horreur ultra-réaliste, Dark Walker. Une démarche aux conséquences funestes qui va précipiter l'auteur et son éditeur dans l'œil du cyclone...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59898,
+    "tmdb_id": null,
+    "kitsu_id": "3057"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 30240,
+        "tmdb_id": null,
+        "kitsu_id": "3057"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/poison-city/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/poison-city/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
