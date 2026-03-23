@@ -1,0 +1,40 @@
+{
+  "nom": "THE EXECUTIONER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-executioner",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-executioner.jpg",
+  "noms_alt": [],
+  "synopsis": "Un héros ne doit en aucun cas tuer quelqu'un, pas même le pire des vilains. Gangyu n'a jamais pu comprendre pourquoi son équipe de héros vivait selon ces mots, mais il a fait de son mieux pour faire de même... jusqu'à ce que le vilain qui a anéanti son équipe et tué son frère en prison. Gangyu rompt son serment et entre à Ruculus avec la permission de tuer en tant que bourreau de la prison. Il doit maintenant se frayer un chemin parmi les vilains pour tuer le plus dangereux d'entre eux.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 47162,
+    "tmdb_id": 117886,
+    "kitsu_id": "44011"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 47162,
+        "tmdb_id": null,
+        "kitsu_id": "44011"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-executioner/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-executioner/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
