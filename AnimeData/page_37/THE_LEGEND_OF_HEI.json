@@ -1,0 +1,47 @@
+{
+  "nom": "THE LEGEND OF HEI",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Slice of Life",
+    "Donghua"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-legend-of-hei",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-legend-of-hei.jpg",
+  "noms_alt": [
+    "LUO XIAO HEI ZHAN JI"
+  ],
+  "synopsis": "Dans un monde où les humains et les esprits coexistent, Luo Xiaohei, un esprit chat, voit sa forêt détruite par le développement humain. Errant sans domicile, il rencontre divers esprits et humains, devant choisir son camp dans le conflit qui oppose les deux mondes.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 48441,
+    "tmdb_id": 88319,
+    "kitsu_id": "42467"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 40211,
+        "tmdb_id": 1144107,
+        "kitsu_id": "43296"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-legend-of-hei/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-legend-of-hei/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
