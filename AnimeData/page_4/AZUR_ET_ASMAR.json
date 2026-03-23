@@ -1,0 +1,50 @@
+{
+  "nom": "AZUR ET ASMAR",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Histoire",
+    "Aventure",
+    "Romance",
+    "Comédie"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/azur-et-asmar",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/azur-et-asmar.jpg",
+  "noms_alt": [],
+  "synopsis": "Il y a bien longtemps, deux enfants étaient bercés par la même femme. Azur, blond aux yeux bleus, fils du châtelain, et Asmar, brun aux yeux noirs, fils de la nourrice. Elevés comme deux frères, les enfants sont séparés brutalement. Mais Azur, marqué par la légende de la Fée des Djins que lui racontait sa nourrice, n'aura de cesse de la retrouver, au-delà des mers. Les deux frères de lait devenus grands partent chacun à la recherche de la Fée. Rivalisant d'audace, ils iront à la découverte de terres magiques, recelant autant de dangers que de merveilles...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38328,
+    "tmdb_id": null,
+    "kitsu_id": "42420"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 2171,
+        "tmdb_id": 19026,
+        "kitsu_id": "43380"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/azur-et-asmar/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/azur-et-asmar/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://oneupload.to/embed-tk5nvv0qxsht.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
