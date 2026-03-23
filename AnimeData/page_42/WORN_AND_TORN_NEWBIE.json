@@ -1,0 +1,44 @@
+{
+  "nom": "WORN AND TORN NEWBIE",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Webcomic",
+    "Manhwa",
+    "Shônen"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/worn-and-torn-newbie",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/worn-and-torn-newbie.jpg",
+  "noms_alt": [
+    "NOLIFE",
+    "THE OVERPOWERED NOOB",
+    "SOLO SMURF"
+  ],
+  "synopsis": "Il reste 15 ans avant la fermeture du jeu. La fin n'est connue que de moi. Je suis un ancien combattant.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 24703,
+    "tmdb_id": null,
+    "kitsu_id": "13615"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 24703,
+        "tmdb_id": null,
+        "kitsu_id": "13615"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/worn-and-torn-newbie/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/worn-and-torn-newbie/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
