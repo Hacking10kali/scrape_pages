@@ -1,0 +1,44 @@
+{
+  "nom": "ARCHMAGE STREAMER",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/archmage-streamer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/archmage-streamer.jpg",
+  "noms_alt": [
+    "BJ ARCHMAGE",
+    "BJ GRAND MAGE"
+  ],
+  "synopsis": "Jung Hyeon-Woo n'avait ni « Talent », ni « Argent », ni « Chance ».« Comment se fait-il que je puisse voir les informations cachées du jeu ? » Après un accident causé par une électrisation, j'ai commencé à voir des choses qui m'étaient impossibles auparavant dans le jeu.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2109,
+    "tmdb_id": null,
+    "kitsu_id": "48058"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "48058"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/archmage-streamer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/archmage-streamer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
