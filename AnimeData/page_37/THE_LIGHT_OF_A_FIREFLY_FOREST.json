@@ -1,0 +1,51 @@
+{
+  "nom": "THE LIGHT OF A FIREFLY FOREST",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-light-of-a-firefly-forest/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-light-of-a-firefly-forest.jpg",
+  "noms_alt": [
+    "HOTARUBI NO MORI E",
+    "VERS LA FORÊT DES LUCIOLES"
+  ],
+  "synopsis": "Alors qu'elle n'avait que six ans, Hotaru se perdit dans une forêt pendant ses vacances d'été. Elle sera secourue par une personne portant un masque de youkai prénommée Gin. Il dit être un esprit de la forêt et que si on venait à le toucher, il disparaîtrait. Hotaru, intriguée par cette personne, décide de passer ses vacances d'été avec lui. Une amitié naît alors entre eux. Depuis ce jour, Hotaru vient rendre visite à Gin chaque année à la même période. Le film nous raconte les moments passés entre Hotaru et Gin durant dix étés.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 247,
+    "tmdb_id": null,
+    "kitsu_id": "4135"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 10408,
+        "tmdb_id": 92321,
+        "kitsu_id": "6169"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-light-of-a-firefly-forest/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-light-of-a-firefly-forest/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/8jaqgq8ounorubbeskymtdny4e"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
