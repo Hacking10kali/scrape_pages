@@ -1,0 +1,62 @@
+{
+  "nom": "I'M THE GRIM REAPER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Combat",
+    "Drame",
+    "Psychologique",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/im-the-grim-reaper",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/im-the-grim-reaper.jpg",
+  "noms_alt": [
+    "GRAVEWEAVER"
+  ],
+  "synopsis": "Sur Terre il y a deux types de personnes : les mauvaises et les TRÈS MAUVAISES. Si vous faites partie de cette dernière catégorie, vous ne serez pas uniquement envoyé en enfer mais vous rejoindrez le monde des morts ET on vous assignera à la récupération des âmes des individus les plus pourris de la planète. C’est ainsi, qu’après sa mort, une jeune femme du nom de Scarlet, rejoint la chaleur des enfers et pour son premier emploi elle est… La Faucheuse.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 47257,
+    "tmdb_id": null,
+    "kitsu_id": "40597"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "40597"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/im-the-grim-reaper/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/im-the-grim-reaper/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
