@@ -1,0 +1,49 @@
+{
+  "nom": "COLORFUL",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Fantastique",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/colorful",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/colorful.jpg",
+  "noms_alt": [],
+  "synopsis": "L'âme d'une personne décédée va avoir droit à une seconde chance parmi les vivants. Elle est réincarnée dans le corps d'un adolescent de 14 ans, Makoto Kobayashi, qui vient de mettre fin à ses jours. L'âme n'est réincarnée que pendant un temps limité, durant lequel elle doit réussir à trouver quelle a été sa pire faute au cours de sa vie antérieure et apprendre ce qui a conduit Makoto au suicide. Elle sera suivie tout au long de son périple par un esprit neutre nommé Purapura.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 841,
+    "tmdb_id": 11147,
+    "kitsu_id": "746"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 8142,
+        "tmdb_id": 853780,
+        "kitsu_id": "5212"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/colorful/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/colorful/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5340739"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
