@@ -1,0 +1,53 @@
+{
+  "nom": "BELLADONNA OF SADNESS",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Erotique",
+    "Historique",
+    "Contes et légendes",
+    "Folklore",
+    "Sorcellerie"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/belladonna-of-sadness",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/belladonna-of-sadness.jpg",
+  "noms_alt": [
+    "KANASHIMI NO BELLADONNA"
+  ],
+  "synopsis": "C'est l'adaptation du roman La Sorcière, de Jules Michelet. Il retrace l'histoire d'une paysanne nommée Jeanne, violée par son seigneur car n'ayant pas pu obtenir le droit de se marier avec son bien-aimé : Jean, faute d'argent. Leur amour ne sera par la suite plus jamais le même, et le diable cherchera à séduire Jeanne...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2815,
+    "tmdb_id": null,
+    "kitsu_id": "4504"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 3220,
+        "tmdb_id": 715128,
+        "kitsu_id": "9201"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/belladonna-of-sadness/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/belladonna-of-sadness/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/1o9kw5srmq7wznas4z8b87xp9o"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
