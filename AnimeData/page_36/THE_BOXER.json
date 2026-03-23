@@ -1,0 +1,40 @@
+{
+  "nom": "THE BOXER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Mature",
+    "School Life",
+    "Tournois",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-boxer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-boxer.jpg",
+  "noms_alt": [],
+  "synopsis": "Au début de l'histoire, on suit un coach qui a formé cinq combattants mondiaux en boxe anglaise du nom de K qui arrive dans un club banal pour trouver son nouveau poulain. Devant lui, un nouveau dans le club du nom de Baek San Ryu, un combattant de génie. Son corps lui permet d'esquiver et de mettre des coups normalement impossibles. Malheureusement, il ne possède aucune expérience dans un ring. À première vue, on pourrait croire que c'est le héros de l'histoire mais ce n'est pas le seul. En effet, au cours du récit on ne suit pas seulement un mais trois personnages différents, tous lycéens ; Baek San Ryu, le nouveau combattant qui est en vérité un bourreau qui victimise les gens plus faibles que lui et prend plaisir à se battre et détruire les gens qu'il croise. Ensuite vient In Jae, fils de boxeur sans réel talent qui se fait martyriser en classe notamment par Baek mais qui, au fur et à mesure de l'histoire, va vouloir se défaire de sa tyrannie. Et pour finir, Yu, un dernier personnage dont on ne connait pas le vrai nom, une réelle coquille vide. Il est passif devant la vie. Comme In Jae ; c'est une victime, non pas par faiblesse mais tout simplement parce que le monde lui est indifférent. Au fond de lui, il cache pourtant un énorme talent et une expérience en boxe monstrueuse. L'histoire se concentrera donc sur l'évolution des trois protagonistes au profil pourtant très différents dans l'univers de la boxe anglaise.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": 207795,
+    "kitsu_id": "14"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "14"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-boxer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-boxer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
