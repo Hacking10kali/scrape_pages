@@ -1,0 +1,191 @@
+{
+  "nom": "FAMILY BUSINESS",
+  "type": "Autres",
+  "genres": [
+    "Comédie"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/family-business",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/family-business.jpg",
+  "noms_alt": [
+    "TOUT PART EN FUM"
+  ],
+  "synopsis": "Joseph, 35 ans, fourmille d’idées de business... même s'il bosse toujours malgré lui dans la boucherie casher de son père Gérard. Lorsqu'il apprend de source \"sûre\" que le cannabis va être légalisé, c’est la révélation. Son idée de génie : transformer, à l’aide de sa famille et de ses potes, la boucherie familiale en \"Beucherie\"...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 50265,
+    "tmdb_id": 84007,
+    "kitsu_id": "2147"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 50265,
+        "tmdb_id": 84007,
+        "kitsu_id": "2147"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/family-business/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/family-business/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/c638cmke4d5w3mycra85q91mzw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/z799f1i5"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/9k1ukpejpb3rud5ksrpsfybxpo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/tm5f2r0q"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/1zfpyr4zy4grjc98gayaei8tie"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/jb9hlaa8"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/wy5dfkyk8eswunc3ap3zggiqqw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/uu7zzm6v"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/emejqmxq9i5ruddds1c1p1r1xc"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/76tlo3kg"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/r7hq19d3di5rf8wcamg74dw9ge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 50265,
+        "tmdb_id": 84007,
+        "kitsu_id": "2147"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/family-business/saison2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/family-business/saison2/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        }
+      ]
+    },
+    {
+      "titreVignette": "Saison 3",
+      "titreComplet": "Saison 3",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 50265,
+        "tmdb_id": 84007,
+        "kitsu_id": "2147"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/family-business/saison3/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/family-business/saison3/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
