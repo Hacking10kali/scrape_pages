@@ -1,0 +1,67 @@
+{
+  "nom": "FROM GOBLIN TO GOBLIN GOD",
+  "type": "Scans",
+  "genres": [
+    "Manhua",
+    "Seinen",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Ecchi",
+    "Fantasy",
+    "Harem",
+    "Horreur",
+    "Mature",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/from-goblin-to-goblin-god",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/from-goblin-to-goblin-god.jpg",
+  "noms_alt": [
+    "CONG GE BU LIN DAO GE BU LIN SHEN"
+  ],
+  "synopsis": "Lin Tian s'est réincarné en gobelin, le rang le plus bas des créatures magiques, et au début, il a dû faire profil bas. Plus tard, il a pleinement libéré sa vraie nature de gobelin. Béni, plus il a d'enfants, plus il devient fort grâce aux bénédictions des Dieux !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34834,
+    "tmdb_id": null,
+    "kitsu_id": "4066"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 34834,
+        "tmdb_id": null,
+        "kitsu_id": "4066"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/from-goblin-to-goblin-god/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/from-goblin-to-goblin-god/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
