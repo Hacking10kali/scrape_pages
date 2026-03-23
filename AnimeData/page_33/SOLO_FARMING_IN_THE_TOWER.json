@@ -1,0 +1,61 @@
+{
+  "nom": "SOLO FARMING IN THE TOWER",
+  "type": "Scans",
+  "genres": [
+    "Webcomic - Manhwa - Action - Aventure - Drame - Fantasy - Comédie - Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/solo-farming-in-the-tower",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/solo-farming-in-the-tower.jpg",
+  "noms_alt": [
+    "DUNGEON FARMING ON MY OWN",
+    "FARMING IN THE TOWER ALONE",
+    "I'M THE ONLY ONE FARMING IN THE DUNGEON",
+    "ONLY I FARM IN THE DUNGEON",
+    "SOLE DUNGEON FARMING",
+    "THE TOP DUNGEON FARMER"
+  ],
+  "synopsis": "Un beau jour, une tour mystérieuse apparut soudainement dans la ville. Les habitants décidèrent de l'appeler \"donjon\", et bien qu'elle soit remplie de terrains accidentés et de monstres dangereux, c'est aussi une terre d'opportunités, où d'innombrables trésors attendent. Lorsque Sejun, un jeune homme à la vie ordinaire, est invité par hasard dans le donjon, il est ravi à l'idée de devenir riche, mais il se retrouve coincé dans une zone cachée de la mystérieuse tour. Tout ce qu'il possède, ce sont quelques graines et son corps. Sejun doit maintenant cultiver, collecter des ressources et trouver sa propre stratégie de survie !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60665,
+    "tmdb_id": null,
+    "kitsu_id": "46492"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 60665,
+        "tmdb_id": null,
+        "kitsu_id": "46492"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/solo-farming-in-the-tower/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/solo-farming-in-the-tower/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
