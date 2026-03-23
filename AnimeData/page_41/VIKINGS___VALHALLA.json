@@ -1,0 +1,140 @@
+{
+  "nom": "VIKINGS : VALHALLA",
+  "type": "Autres",
+  "genres": [
+    "Drame",
+    "Historique",
+    "Action"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/vikings-valhalla",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/vikings-valhalla.jpg",
+  "noms_alt": [],
+  "synopsis": "100 ans après les premiers vikings, l'histoire de leurs descendants, parmi lesquels les légendaires Leif Erikson, Freydis, Harald Harada et William Le Conquérant, des hommes et des femmes prêts à tout pour survivre dans une Europe en pleine mutation...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2836,
+    "tmdb_id": 116135,
+    "kitsu_id": "2590"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2836,
+        "tmdb_id": 116135,
+        "kitsu_id": "2590"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/vikings-valhalla/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/vikings-valhalla/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/4uxqamyfzhnw9mx84s7b39k9pa"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/xjpe55iw"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/ad6i635jjqdrpkjif4u6isbdxw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/7ln7evgg"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/9w5tc1fheuewbpcwhhwfep5fty"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/p8kex610"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/7crt9666ep1wug8fhwu4kmya1h"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/lv6h95v6"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/9ngw9degsk4wff3ko164qchn4w"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/zykmbtz4"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/3oat7c3z6unwjy5yzaae1mq9ih"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/0ap8av9h"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/docxghy5gxmrmmsrphcy337qzw"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/p84vemmh"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/8wf5foh78jsrmeaiyw8nb3m3gy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
