@@ -1,0 +1,39 @@
+{
+  "nom": "CODE ADAM",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Surnaturel",
+    "Super pouvoirs",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/code-adam/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/code-adam.jpg",
+  "noms_alt": [],
+  "synopsis": "Ils ont été formés comme des enfants pour devenir des super-soldats. Des êtres humains littéralement créés dans un laboratoire pour combattre en première ligne d'une guerre sanglante. Mais à la fin de la guerre, que faire des armes humaines ? Faisant l'objet d'expériences brutales, certains choisissent de se libérer et de chercher un remède avant que leurs propres pouvoirs ne les consument.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 31456,
+    "tmdb_id": null,
+    "kitsu_id": "47784"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 31456,
+        "tmdb_id": null,
+        "kitsu_id": "47784"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/code-adam/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/code-adam/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
