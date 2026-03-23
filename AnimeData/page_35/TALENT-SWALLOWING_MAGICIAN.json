@@ -1,0 +1,54 @@
+{
+  "nom": "TALENT-SWALLOWING MAGICIAN",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Shônen - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/talent-swallowing-magician",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/talent-swallowing-magician.jpg",
+  "noms_alt": [
+    "LE MAGICIEN DÉVOREUR DE TALENTS / TALENT SWALLOWING MAGICIAN"
+  ],
+  "synopsis": "Elric Meldinger, issu d'une prestigieuse famille de magiciens, souffre d'une maladie qui l'empêche d'accumuler du mana. Il découvre qu'il peut \"avaler\" les démons et leurs talents. Il commence à chasser des monstres pour guérir et devenir le plus grand magicien.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37744,
+    "tmdb_id": null,
+    "kitsu_id": "11748"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11748"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/talent-swallowing-magician/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/talent-swallowing-magician/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
