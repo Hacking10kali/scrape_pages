@@ -1,0 +1,41 @@
+{
+  "nom": "THE CONSTELLATION THAT RETURNED FROM HELL",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Comédie",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-constellation-that-returned-from-hell",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-constellation-that-returned-from-hell.jpg",
+  "noms_alt": [],
+  "synopsis": "Après des centaines d'années en Enfer, je suis revenu dans le but de sauver l'humanité !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": null,
+    "kitsu_id": "851"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "851"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-constellation-that-returned-from-hell/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-constellation-that-returned-from-hell/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
