@@ -1,0 +1,41 @@
+{
+  "nom": "SLEEPING RANKER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/sleeping-ranker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sleeping-ranker.jpg",
+  "noms_alt": [],
+  "synopsis": "Entre sa soeur malade et son boss tyrannique, Hyunsung n'a pas la vie facile... Alors pour se reposer, il a trouvé l'astuce : il dort dans un jeu en réalité virtuelle où le temps passe cinq fois plus lentement. Mais un jour, une fenêtre apparaît... et lui apprend qu'il a acquis une classe divine ! Il est désormais capable de progresser rien qu'en dormant ! Maintenant, c'est sûr, plus rien ne peut l'arrêter : fini, le job barbant, il sera joueur pro !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 33966,
+    "tmdb_id": null,
+    "kitsu_id": "1951"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 33966,
+        "tmdb_id": null,
+        "kitsu_id": "1951"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sleeping-ranker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sleeping-ranker/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
