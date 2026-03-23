@@ -1,0 +1,43 @@
+{
+  "nom": "SANGS ET PAPILLONS",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Fantastique",
+    "Horreur",
+    "Psychologique",
+    "Surnaturel",
+    "Monstres"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/sangs-et-papillons",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sangs-et-papillons.jpg",
+  "noms_alt": [
+    "PIWA NABI"
+  ],
+  "synopsis": "Un jour, un monstre appelé \"insecte\" est apparu soudainement sur terre. Les enfants du \"papillons\" sont les seuls espoirs de l'humanité.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 62852,
+    "tmdb_id": null,
+    "kitsu_id": "11912"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 62852,
+        "tmdb_id": null,
+        "kitsu_id": "11912"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/sangs-et-papillons/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sangs-et-papillons/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
