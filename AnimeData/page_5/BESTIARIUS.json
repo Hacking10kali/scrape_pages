@@ -1,0 +1,45 @@
+{
+  "nom": "BESTIARIUS",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Fantasy",
+    "Historique",
+    "Mature",
+    "Tragique",
+    "Combats",
+    "Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bestiarius",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bestiarius.jpg",
+  "noms_alt": [
+    "TOUJUUSHI"
+  ],
+  "synopsis": "Ier siècle après Jésus-Christ, l'Empire romain est à son apogée et ses légions soumettent une à une les dernières contrées où monstres et humains vivent encore en paix. Criminels, innocents, orphelins, demi-humains, wyvernes... Tous constituent les rangs d'esclaves guerriers jetés dans l'arène et forcés de s'entretuer pour divertir la foule romaine avide de sang et son Empereur : Domitien. Parmi ces combatstants se trouvent des gladiateurs qui affrontent fauves et créatures légendaires : on les appelle les 'Bestiari'. Or, certains d'entre eux, comme Finn ou Zenon, ont été élevés aux côtés de ceux qui, aux yeux de Rome, ne sont que de simples bêtes, et ils comptent bien retourner leurs armes contre leurs geôliers... et même contre l'Empire tout entier !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": null
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bestiarius/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bestiarius/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
