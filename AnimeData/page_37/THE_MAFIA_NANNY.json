@@ -1,0 +1,59 @@
+{
+  "nom": "THE MAFIA NANNY",
+  "type": "Scans",
+  "genres": [
+    "Romance",
+    "Action",
+    "Comédie",
+    "Crime",
+    "Webcomic",
+    "Manhwa"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-mafia-nanny",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-mafia-nanny.jpg",
+  "noms_alt": [],
+  "synopsis": "Être une nounou d'élite, c'est simple : protéger l'enfant à charge, obéir aux ordres du client principal et ne pas s'attacher émotionnellement. Plus facile à dire qu'à faire lorsque le premier client de Davina est un sous-chef de la mafia vénitienne dangereusement irrésistible qui est déterminé à la déstabiliser. Ce qu'il attend d'elle, elle ne peut l'imaginer, mais Gabriel Angelini l'entraîne à nouveau dans le monde étincelant du crime organisé qu'elle pensait avoir laissé derrière elle pour toujours. Elle pourrait obtenir des réponses sur son passé si elle creuse assez profondément, mais peut-elle protéger Mikey des ambitions de son père et empêcher son cœur de s'emmêler dans leur toile perfide ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 26441,
+    "tmdb_id": null,
+    "kitsu_id": "11957"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 26441,
+        "tmdb_id": null,
+        "kitsu_id": "11957"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-mafia-nanny/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-mafia-nanny/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
