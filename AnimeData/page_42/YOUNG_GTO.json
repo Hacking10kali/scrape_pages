@@ -1,0 +1,124 @@
+{
+  "nom": "YOUNG GTO",
+  "type": "Anime, Scans",
+  "genres": [
+    "Action",
+    "Comédie",
+    "School Life",
+    "Yakuza",
+    "Shônen"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/young-gto/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/young-gto.jpg",
+  "noms_alt": [
+    "SHONAN JUNAI GUMI"
+  ],
+  "synopsis": "Young GTO est la jeunesse d'Eikichi Onizuka (personnage principal de GTO) et de son meilleur ami Ryuji Danma. Ils sont encore au lycée mais ont déjà formé leur duo de choc l'Onibaku Combi (\"combi\" pour duo et \"oni\" de Onizuka, qui signifie démon et \"baku\" pour danma, parce que \"bakudan\" signifie bombe, autrement dit : le \"duo démon-bombe\"). À peine arrivés dans leur nouvel établissement, ils sont déjà les caïds et maîtrisent \"facilement\" leurs senpaï (aînés). Mais d'autres aventures attendent nos héros, des combats mais aussi des histoires de coeur...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 30740,
+    "tmdb_id": 45070,
+    "kitsu_id": "106"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 30740,
+        "tmdb_id": 45070,
+        "kitsu_id": "106"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/young-gto/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/young-gto/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/tmi5tgpae8zrjxod37ywox9wqh"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/dzhgqkow"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798234"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/cr9o5mu3xguw3q81gz6tmr7k8h"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/3f2dm9fo"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798236"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/7n8iezoig5cr3xdfb7izaxqk7o"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/qmbq36ic"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798238"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/sp1mdwtxmybr5r5fguj5up16wa"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/9pmupc1g"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4798239"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.top/embed/9ytfiams93swdjz55ta11mtfso"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/9hafnduc"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
