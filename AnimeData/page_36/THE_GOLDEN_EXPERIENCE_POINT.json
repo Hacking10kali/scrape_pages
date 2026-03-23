@@ -1,0 +1,61 @@
+{
+  "nom": "THE GOLDEN EXPERIENCE POINT",
+  "type": "Scans",
+  "genres": [
+    "Manga",
+    "Seinen",
+    "Action",
+    "Comédie",
+    "Fantasy",
+    "Science-fiction"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-golden-experience-point",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-golden-experience-point.jpg",
+  "noms_alt": [
+    "OUGON NO KEIKENCHI"
+  ],
+  "synopsis": "L'histoire de la conquête du boss final commence ici ! « Boot Hour, Shoot Curse » est un VRMMORPG qui n'a ni de concept de niveaux ni de professions. Au lieu de cela, les joueurs doivent accumuler des points d'expérience pour acquérir de nouvelles compétences et améliorer leur statut et leur personnage. Rare, une jeune fille qui a participé aux tests de la version bêta fermée, a acquis la compétence cachée « Subordonné », qui lui permet de transformer des PNJ en ses subordonnés. Cette compétence transfère également les points d'expérience gagnés par les subordonnés à Rare. Elle a utilisé cette compétence pour ajouter progressivement à son groupe de nouveaux PNJ qu'elle rencontrait. Et grâce à la quantité d'expérience accumulée par ses subordonnés, elle a pu devenir un Roi Démon.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 24075,
+    "tmdb_id": null,
+    "kitsu_id": "7887"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 24075,
+        "tmdb_id": null,
+        "kitsu_id": "7887"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-golden-experience-point/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-golden-experience-point/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
