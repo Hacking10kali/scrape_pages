@@ -1,0 +1,41 @@
+{
+  "nom": "KAMISAMA NO INAI NICHIYOUBI",
+  "type": "Scans",
+  "genres": [
+    "Drame",
+    "Mystère",
+    "Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kamisama-no-inai-nichiyoubi",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kamisama-no-inai-nichiyoubi.jpg",
+  "noms_alt": [
+    "SUNDAY WITHOUT GOD",
+    "UN DIMANCHE SANS DIEU"
+  ],
+  "synopsis": "Ai, 12 ans, est une jeune Fossoyeuse officiant dans un petit village. Elle y attend le retour d'un certain Hampnie Hambart qui, selon sa mère, peut l'aider à retrouver son père. Mais le jour où Hampnie arrive au village, il massacre tous les habitants à la grande surprise de la jeune fille.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 16009,
+    "tmdb_id": 49473,
+    "kitsu_id": "7358"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 16009,
+        "tmdb_id": null,
+        "kitsu_id": "7358"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kamisama-no-inai-nichiyoubi/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kamisama-no-inai-nichiyoubi/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
