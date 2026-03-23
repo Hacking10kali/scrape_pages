@@ -1,0 +1,53 @@
+{
+  "nom": "RIDE YOUR WAVE",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ride-your-wave",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ride-your-wave.jpg",
+  "noms_alt": [
+    "RIDING A WAVE WITH YOU",
+    "KIMI TO",
+    "NAMI NI NORETARA"
+  ],
+  "synopsis": "À son entrée à l'université, Hinako déménage dans une ville côtière. Elle adore le surf et quand elle est sur les vagues, elle n'a peur de rien. Cependant, elle ne sait toujours pas quoi faire quand elle rentrera dans la vie active. Un jour, alors qu'un incendie ravage sa ville, Hinako fait la rencontre de Minato, un jeune pompier. Depuis cette rencontre, ils surfent et passent plus de temps ensemble. Hinako se sent de plus en plus attiré par Minato et la façon dont il se consacre à aider les autres. Alors que ses sentiments commencent à grandir, elle ne sait pas qu'elle occupe également une place particulière dans le cœur de Minato.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40595,
+    "tmdb_id": null,
+    "kitsu_id": "81"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38594,
+        "tmdb_id": 530079,
+        "kitsu_id": "42031"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/ride-your-wave/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ride-your-wave/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813970\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
