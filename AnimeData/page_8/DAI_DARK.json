@@ -1,0 +1,41 @@
+{
+  "nom": "DAI DARK",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Drame",
+    "Science-fiction",
+    "Surnaturel",
+    "Seinen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/dai-dark",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dai-dark.jpg",
+  "noms_alt": [],
+  "synopsis": "Sanko Zaha, un ado qui adore les spaghettis, voyage dans les ténèbres de l'espace infini. On raconte que ses os exauceraient n'importe quel souhait. C'est pourquoi les pires malfrats de l'univers veulent lui faire la peau ! Heureusement, toujours accompagné d'Avakian, son fidèle sakadoh, il n'hésitera pas à désosser gaiement tous ses assaillants.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40906,
+    "tmdb_id": null,
+    "kitsu_id": "4567"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 40906,
+        "tmdb_id": null,
+        "kitsu_id": "4567"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dai-dark/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dai-dark/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
