@@ -1,0 +1,64 @@
+{
+  "nom": "BLADE OF RETRIBUTION",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Seinen",
+    "Action",
+    "Arts martiaux",
+    "Drame",
+    "Tragédie"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/blade-of-retribution",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/blade-of-retribution.jpg",
+  "noms_alt": [
+    "LA LAME DE LA VENGEANCE",
+    "PRICE OF VIOLENCE",
+    "THE COST OF VIOLENCE"
+  ],
+  "synopsis": "Le jour où Shiho, champion de kendo décide d'aider sa mère célibataire à tenir un restaurant de gukbap, il apprend que sa soeur, Shiyeon, s'est suicidée. Pendant les funérailles, Shiho se rend compte que quelque chose cloche. Ce n'était pas un suicide, elle a été assassinée. Pour découvrir la vérité et venger la mort de sa soeur, Shiho reprend son sabre et entame sa propre guerre.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4151,
+    "tmdb_id": null,
+    "kitsu_id": "41370"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4151,
+        "tmdb_id": null,
+        "kitsu_id": "41370"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/blade-of-retribution/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/blade-of-retribution/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
