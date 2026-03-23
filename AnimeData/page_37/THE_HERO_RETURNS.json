@@ -1,0 +1,42 @@
+{
+  "nom": "THE HERO RETURNS",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Isekai",
+    "Surnaturel",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-hero-returns",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-hero-returns.jpg",
+  "noms_alt": [],
+  "synopsis": "Le plus fort héros de l'humanité, Kim Sung In. Il a tout risqué et s'est démené mais... il n'a pas pu empêcher la destruction du monde. Mais sa légende ne fait que commencer puisqu'il revient 20 ans dans le passé.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38659,
+    "tmdb_id": 32152,
+    "kitsu_id": "7725"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38659,
+        "tmdb_id": null,
+        "kitsu_id": "7725"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-hero-returns/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-hero-returns/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
