@@ -1,0 +1,39 @@
+{
+  "nom": "CLOVER",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Comédie",
+    "School Life",
+    "Amitié",
+    "Combats"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/clover",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/clover.jpg",
+  "noms_alt": [],
+  "synopsis": "Après quelques années, Hayato revient dans le village de son enfance. A peine arrivé, il se met à la recherche de ses deux anciens amis d'enfance, Tomoki et Kenji. Chose faite, il décide de s'installer chez Tomoki, qui lui n'a qu'une envie : réparer la moto de son père en paix. Mais cela n'est pas sans mal, car Hayato est une vraie tête brûlée, et partout où il va, il trouve la bagarre. Les 3 amis vont vivre leur scolarité sous le signe de la bagarre et des ennuis, mais se trouveront aussi quelques amis, tous aussi tordus et mordus de baston les uns que les autres.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 16,
+    "tmdb_id": 73223,
+    "kitsu_id": "13209"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 16,
+        "tmdb_id": null,
+        "kitsu_id": "13209"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/clover/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/clover/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
