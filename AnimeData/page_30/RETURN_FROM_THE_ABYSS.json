@@ -1,0 +1,56 @@
+{
+  "nom": "RETURN FROM THE ABYSS",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Aventure - Drame - Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/return-from-the-abyss",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/return-from-the-abyss.jpg",
+  "noms_alt": [
+    "SHINEN KARA NO KIKAN"
+  ],
+  "synopsis": "« Je t'attendrai au bord de l'abîme... » C'est ce qu'un homme mystérieux a dit à Sora Mukujima dans l'un de ses rêves. Sora menait une vie modeste avec ses parents, jusqu'au jour où cette vie paisible s'est effondrée. Une tour massive est apparue. Son frère, un soldat, était inaccessible. Et des monstres commencèrent à attaquer soudainement. Alors qu'il se trouvait dans une situation désespérée, l'homme de son rêve est apparu devant lui. Lorsqu'il se réveilla ensuite, il se trouvait dans un endroit inconnu. Il s'agissait d'un monde différent appelé « Abysse », comme l'homme l'avait appelé dans son rêve. Afin de retourner dans son monde d'origine et de sauver sa famille, Sora se promet de défier l'Abysse, de se battre et de devenir plus fort à tout prix !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 27991,
+    "tmdb_id": null,
+    "kitsu_id": "6724"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 27991,
+        "tmdb_id": null,
+        "kitsu_id": "6724"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/return-from-the-abyss/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/return-from-the-abyss/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
