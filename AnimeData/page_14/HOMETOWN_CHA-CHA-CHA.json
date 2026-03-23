@@ -1,0 +1,48 @@
+{
+  "nom": "HOMETOWN CHA-CHA-CHA",
+  "type": "Autres",
+  "genres": [
+    "Comédie",
+    "Comédie sentimentale",
+    "Romance",
+    "Vie sociale",
+    "Amour",
+    "Campagne",
+    "Médecine",
+    "Quotidien",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/hometown-cha-cha-cha",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/hometown-cha-cha-cha.jpg",
+  "noms_alt": [
+    "SEASIDE VILLAGE CHACHACHA",
+    "GAESMAEUL CHACHACHA"
+  ],
+  "synopsis": "Yun Hye Jin est une jeune dentiste qui part s'installer dans le village côtier de Gongjin. Elle décide d'y ouvrir un cabinet et va y faire la rencontre d'un étrange jeune homme. Hong Du Sik est un homme sans emploi qui passe son temps à aider tous les habitants du coin. Alors que tout semble les opposer, ils vont apprendre à se connaître et se rapprocher au fil du temps.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 48118,
+    "tmdb_id": 128883,
+    "kitsu_id": "41016"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 48118,
+        "tmdb_id": 128883,
+        "kitsu_id": "41016"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/hometown-cha-cha-cha/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/hometown-cha-cha-cha/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
