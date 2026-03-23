@@ -1,0 +1,44 @@
+{
+  "nom": "SKELETON SOLDIER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Tragique",
+    "Isekai"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/skeleton-soldier",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/skeleton-soldier.jpg",
+  "noms_alt": [
+    "THE SKELETON SOLDIER FAILED TO DEFEND THE DUNGEON",
+    "SQUELETTE"
+  ],
+  "synopsis": "En tant que Squelette, il n'avait qu'un seul but : protéger une Succube, protéger sa Maîtresse. Mais lors d'un assaut, sa Maîtresse meurt et lui, sur le point de mourir, regrette de n'avoir pas pu la protéger... C'est alors qu'il revient soudainement dans le passé, bien avant sa rencontre avec sa Maîtresse. À peine revient-il dans le passé qu'il se fait de nouveau tuer par des aventuriers, mais contre toute attente, il revient quelque temps avant sa seconde mort et ses statistiques augmentent soudainement. À chaque fois qu'il meurt il deviendra plus fort. C'est l'histoire d'un Squelette qui a reçu une seconde chance, pour changer le destin et réussir, cette fois-ci, à protéger sa Maîtresse.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 1678,
+    "tmdb_id": null,
+    "kitsu_id": "44423"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 48760,
+        "tmdb_id": null,
+        "kitsu_id": "44423"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/skeleton-soldier/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/skeleton-soldier/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
