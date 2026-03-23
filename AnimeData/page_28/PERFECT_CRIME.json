@@ -1,0 +1,43 @@
+{
+  "nom": "PERFECT CRIME",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Horreur",
+    "Mature",
+    "Psychologique",
+    "Enquête"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/perfect-crime",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/perfect-crime.jpg",
+  "noms_alt": [
+    "IMPOSSIBILITY DEFENSE"
+  ],
+  "synopsis": "Tadashi Usobuki, un homme plein de mystère, est capable de tuer n'importe qui sans que l'on puisse l'accuser de quoique ce soit. En effet, son seul pouvoir est celui de convaincre sa victime. Pour lui demander un service, il faut lui laisser ses coordonnées dans une cabine téléphonique qui se trouve dans certain parc...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59148,
+    "tmdb_id": 46700,
+    "kitsu_id": "49125"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 59148,
+        "tmdb_id": null,
+        "kitsu_id": "49125"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/perfect-crime/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/perfect-crime/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
