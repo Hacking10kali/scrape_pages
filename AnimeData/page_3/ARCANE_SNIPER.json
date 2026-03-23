@@ -1,0 +1,39 @@
+{
+  "nom": "ARCANE SNIPER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantaisie",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/arcane-sniper",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/arcane-sniper.jpg",
+  "noms_alt": [],
+  "synopsis": "« Sergent Ha, espèce de fou. Tu as vidé un chargeur complet en plein dan le mille ? » Le tireur d’élite Ha Lee-Ha voulait simplement faire de l’armée sa vocation. Cependant, à la suite d’un malheureux accident, il est devenu paraplégique et a été renvoyé dans la société. Le jeu VR révolutionnaire [Middle Earth] lui a offert une nouvelle vie et l’argent obtenu dans ce lui-ci a une valeur réelle ! Pourtant, il a gâché sa chance en sélectionnant la classe la moins joué ! « Je ne suis pas comme les autres et c’est tout ce que j’ai. » Poudre noire, balles en fer et tige… Je vais vous montrer à tous ce qu’est un vrai « mousquetaire » !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 12967,
+    "tmdb_id": null,
+    "kitsu_id": "45320"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 12967,
+        "tmdb_id": null,
+        "kitsu_id": "45320"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/arcane-sniper/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/arcane-sniper/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
