@@ -1,0 +1,43 @@
+{
+  "nom": "SOLO LOGIN",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantaisie",
+    "Romance",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/solo-login",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/solo-login.jpg",
+  "noms_alt": [],
+  "synopsis": "Jung Si-woo, 26 ans, n'a jamais eu d'amis, parce qu'il n'y avait rien d'intéressant chez lui. Il a vécu une vie moyenne comme une personne moyenne dans un monde moyen. Mais soudainement, la terre a fait face à un grand changement quand un mystérieux 'Châteaux du ciel' flottant est apparu. Les 'Châteaux du Ciel' ont accordé des ailes et des pouvoirs à certaines personnes, mais malheureusement, Si-woo n'était pas l'un d'eux.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60665,
+    "tmdb_id": null,
+    "kitsu_id": "46231"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 60665,
+        "tmdb_id": null,
+        "kitsu_id": "46231"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/solo-login/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/solo-login/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
