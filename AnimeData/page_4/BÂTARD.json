@@ -1,0 +1,46 @@
+{
+  "nom": "BÂTARD",
+  "type": "Scans",
+  "genres": [
+    "Drame",
+    "Horreur",
+    "Mystère",
+    "Psychologique",
+    "Romance",
+    "School Life",
+    "Slice of Life",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/batard",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/batard.jpg",
+  "noms_alt": [
+    "BASTARD",
+    "BATARD"
+  ],
+  "synopsis": "« Il y a un tueur en série chez moi ! » Jin Seon est loin d'être un étudiant ordinaire de lycée. D'une part, il a été élevé par son père unique Dongsoo Seon, le PDG populaire et charismatique d'une société influente. Pour un autre, en raison d'un \"accident\" grave de l'enfance qui l'a dépouillé de ses souvenirs et de l'utilisation de son œil gauche, il a des valves artificielles dans son cœur, des épingles et des plaques dans ses articulations. En outre, son père est un tueur en série, et Jin est son complice involontaire.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 32951,
+    "tmdb_id": 42107,
+    "kitsu_id": "45830"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11942"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/batard/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/batard/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
