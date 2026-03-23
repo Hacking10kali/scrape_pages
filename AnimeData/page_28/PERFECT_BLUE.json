@@ -1,0 +1,56 @@
+{
+  "nom": "PERFECT BLUE",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Horreur",
+    "Épouvante",
+    "Mystère",
+    "Psychologique",
+    "Thriller"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/perfect-blue",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/perfect-blue.jpg",
+  "noms_alt": [],
+  "synopsis": "C'est sans regret que la chanteuse pop Mima quitte son groupe déjà très populaire, les Cham, pour se lancer dans une carrière d'actrice. Pour ses débuts, elle accepte un petit rôle dans une série télévisée. Mais ce brusque changement de carrière ne plaît pas à tout ses fans et l'un d'entre eux fera savoir sa rancœur à Mima en dévoilant d'abord sa vie privée sur un site internet. Par la suite, plusieurs incidents très graves émaillent la vie de Mima. La jeune femme se rend compte que son existence se confond de façon malsaine avec la série qu'elle tourne, la plongeant dans un état de schizophrénie avancée.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 13331,
+    "tmdb_id": 46069,
+    "kitsu_id": "2873"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 437,
+        "tmdb_id": 10494,
+        "kitsu_id": "400"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/perfect-blue/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/perfect-blue/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://Smoothpre.com/embed/uskjvn3nol39"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4705638"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
