@@ -1,0 +1,178 @@
+{
+  "nom": "YURI ON ICE",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Slice of Life",
+    "Tournois"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/yuri-on-ice/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/yuri-on-ice.jpg",
+  "noms_alt": [
+    "YURION",
+    "YURI!!!"
+  ],
+  "synopsis": "Alors qu'il participe à une compétition particulièrement importante, Yûri Katsuki, talentueux patineur japonais, est écrasé par la pression et voit s'envoler toute chance de victoire. De retour chez lui, à Kyushu, il s'enferme chez ses parents, ne sachant plus très bien s'il doit continuer à patiner ou tout abandonner. Mais les choses changent lorsque le célèbre patineur russe Victor Nikiforov, son idole, se présente chez lui avec la ferme intention de l'entraîner.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 32995,
+    "tmdb_id": 68129,
+    "kitsu_id": "11999"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 32995,
+        "tmdb_id": 68129,
+        "kitsu_id": "11999"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/yuri-on-ice/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/yuri-on-ice/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120104"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-fgldbx6na9s0.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120106"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 3",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 4",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-j6rjzbzj1fhe.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120109"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 5",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zlebfuntivf1.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120113"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 6",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-8e8xq9oiiosw.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120118"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 7",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-qea5x251mvxt.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120122"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 8",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-oy7kl59m863m.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120128"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 9",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-aw0nng7uicm8.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120130"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 10",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-rdku5hm214q8.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120131"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 11",
+          "lecteurs": []
+        },
+        {
+          "episode": "Episode 12",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3jfng87d9301.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6120133"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
