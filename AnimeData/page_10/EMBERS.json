@@ -1,0 +1,54 @@
+{
+  "nom": "EMBERS",
+  "type": "Scans",
+  "genres": [
+    "Shônen - Action - School Life - Délinquance - Ecole - Football - Sport - Tournois"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/embers",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/embers.jpg",
+  "noms_alt": [],
+  "synopsis": "Noboru Haitani, un collégien, passe son temps à se battre. Lui qui ne perd jamais un combat, il subit un jour une cuisante défaite lors d'un duel au football. Par frustration, Haitani se passionne de plus en plus pour ce sport, jusqu'au jour où il est contraint de jouer un match contre l'équipe de Takami, le prodige du collège ! Un hors-la-loi fait son entrée dans le monde du football !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 58749,
+    "tmdb_id": 24777,
+    "kitsu_id": "44511"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 58749,
+        "tmdb_id": null,
+        "kitsu_id": "44511"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/embers/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/embers/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
