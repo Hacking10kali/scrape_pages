@@ -1,0 +1,54 @@
+{
+  "nom": "A SILENT VOICE",
+  "type": "Anime, Scans, Film",
+  "genres": [
+    "Drame",
+    "Psychologique",
+    "Romance",
+    "School Life",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/a-silent-voice/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-silent-voice.jpg",
+  "noms_alt": [
+    "THE SHAPE OF VOICE",
+    "KOE KATACHI"
+  ],
+  "synopsis": "Tout commence lorsque Shôko Nishimiya intègre en cours d'année la classe de primaire de Shôya Ishida. La jeune Shôko est une sourde et Shôya est un jeune garçon turbulent qui n'en fait qu'à sa tête et qui ne cause que des problèmes. Ce sont deux personnes différentes et Shôya ne semble pas comprendre qui est réellement Shôko. De ce fait, il commencera à la brutaliser, ne sachant pas comment s'y prendre avec elle. La classe suivra le mouvement au fur et à mesure, mais plus discrètement, sans que leur professeur principal ne fasse d'efforts pour les rappeler à l'ordre. Seulement un jour, le garçon dépasse les limites et le directeur demande à savoir qui a cassé les appareils auditifs de Shôko. C'est ainsi que Shôya réalisera qu'il se retrouve tout seul car tout le monde lui tourne le dos, feignant d'avoir été manipulés par ce dernier. Shôko est transférée dans une nouvelle école et Shôya se rend compte que chaque jour, malgré tout, elle souhaitait seulement être son amie. Les années passent : Shôya est désormais un lycéen de dernière année. Rempli de remords, il ne peut penser à autre chose qu'à se repentir de ses actes envers Shôko. Il a même décidé d'apprendre la langue des signes pour qu'elle puisse comprendre ce qu'il a à lui dire. Avant de mettre fin à ses jours, il apprend où se trouve Shôko et décide de la rencontrer afin d'alléger son cœur mais il ne se doutait pas que ces retrouvailles allaient changer son destin.",
+  "bande_annonce": "https://youtube.com/embed/BpEBRRCnzDs",
+  "ids": {
+    "jikan_id": 2924,
+    "tmdb_id": 297829,
+    "kitsu_id": "41941"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 28851,
+        "tmdb_id": 1171702,
+        "kitsu_id": "10028"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/a-silent-voice/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/a-silent-voice/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5036237"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
