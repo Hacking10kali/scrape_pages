@@ -1,0 +1,50 @@
+{
+  "nom": "FALLEN ANGELS",
+  "type": "Autres",
+  "genres": [
+    "Romance",
+    "Policier"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/fallen-angels",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/fallen-angels.jpg",
+  "noms_alt": [
+    "DUO LUO TIAN SHI",
+    "LES ANGES DÉCHUS"
+  ],
+  "synopsis": "Hong Kong la nuit. Un tueur à gages en a assez de tuer. Une femme lui sert d'agent et reve qu'il tombe amoureux d'elle. Une jeune fille veut se venger d'un amour decu. Une jeune femme guette le grand amour. Un garçon muet déambule dans les rues. Le tueur, héros de ce film, sort directement de 'Chungking Express', du même réalisateur, où il devait composer une troisième partie supprimée en raison de la longueur du film.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 21053,
+    "tmdb_id": 4981,
+    "kitsu_id": "927"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 4983,
+        "tmdb_id": 1413471,
+        "kitsu_id": "45411"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/fallen-angels/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/fallen-angels/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4815689\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
