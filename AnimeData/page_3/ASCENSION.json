@@ -1,0 +1,43 @@
+{
+  "nom": "ASCENSION",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Drame",
+    "Seinen",
+    "Alpinisme",
+    "Nature",
+    "Sport"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/ascension",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ascension0.jpg",
+  "noms_alt": [
+    "KOKOU NO HITO",
+    "THE CLIMBER"
+  ],
+  "synopsis": "Buntaro Mori, jeune lycéen solitaire et renfermé, est défié par un camarade de classe fan d'escalade. Le défi ? Escalader le lycée ! C'est alors que, en grimpant le long d'une tuile bien placée, Buntaro se découvre une passion et un don. Après avoir escaladé sans trop de mal le lycée, ce dernier est tout de suite repéré par son prof d'anglais, lui même fan de grimpe extrême. Grâce à l'escalade, Buntaro va se découvrir un but dans la vie, et se perfectionner dans ce domaine, jusqu'à atteindre les cieux...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39285,
+    "tmdb_id": 60741,
+    "kitsu_id": "8653"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8653"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ascension/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ascension/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
