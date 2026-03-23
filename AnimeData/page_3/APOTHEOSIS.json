@@ -1,0 +1,42 @@
+{
+  "nom": "APOTHEOSIS",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/apotheosis",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/apotheosis.jpg",
+  "noms_alt": [
+    "FORGED SUCCESS / PRINCIPLES OF HEAVENS",
+    "ZEN'S CULTIVATION OF IMMORTALITY"
+  ],
+  "synopsis": "Luo Zheng est le fils d'une famille riche, trahis il se retrouve esclave de celle-ci. Cependant son père a laissé derrière lui un livre contenant une ancienne technique divine qui confère à celui qui le lis un immense pouvoir, celui de transformer le corps en arme. Une lutte contre le destin commence !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 52949,
+    "tmdb_id": 213791,
+    "kitsu_id": "46916"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/apotheosis/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/apotheosis/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
