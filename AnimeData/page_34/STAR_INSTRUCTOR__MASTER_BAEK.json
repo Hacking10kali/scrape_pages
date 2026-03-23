@@ -1,0 +1,59 @@
+{
+  "nom": "STAR INSTRUCTOR, MASTER BAEK",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Shônen - Action - Arts martiaux - Comédie - Drame - Fantasy - Historique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/star-instructor-master-baek",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/star-instructor-master-baek.jpg",
+  "noms_alt": [
+    "BEST TEACHER BAEK",
+    "INSTRUCTOR ESTELAR",
+    "MAESTRO BAEK",
+    "THE ONE HIT TEACHER"
+  ],
+  "synopsis": "Suryong Baek, le meilleur instructeur du culte démoniaque, se fait tuer. Mais il se réveille dans le corps d'un homme qui enseigne les arts martiaux dans un petit dojo de campagne. Bien que son nouveau corps soit faible et ne puisse pas cultiver l'énergie interne, Suryong connaît cette situation et la méthode pour guérir. Cependant, la cure demande beaucoup d'argent ce qui va l'amener à passer plusieurs épreuves pour tenter de devenir le meilleur instructeur de l'académie du dragon azur. Parviendra-t-il à devenir le plus grand maître malgré les vestiges du culte démoniaque qui commencent à apparaître ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8934,
+    "tmdb_id": null,
+    "kitsu_id": "11020"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8934,
+        "tmdb_id": null,
+        "kitsu_id": "11020"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/star-instructor-master-baek/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/star-instructor-master-baek/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
