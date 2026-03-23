@@ -1,0 +1,52 @@
+{
+  "nom": "BREAKERS",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Comédie - Fantaisie - Harem - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/breakers",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/breakers.jpg",
+  "noms_alt": [],
+  "synopsis": "Joo In-gong a été entraîné dans le remake d'un jeu auquel il jouait, intitulé < Knight Saga:Re >. Cependant, quelque chose n'allait pas. Les seuls personnages jouables devaient être Loch, du côté humain, et Zephyr, du côté démoniaque. Au lieu de cela, il se réveille dans le corps de Shutra, le neuvième prince du royaume des démons, un personnage qui n'existait pas dans l'histoire du jeu. Doté de deux pouvoirs mystérieux, “Réglage du protagoniste” et \"Conquête\" , Joo In-gong doit désormais modifier l'intrigue du jeu pour survivre face à Zephyr. Mais à chaque rebondissement de l'intrigue, il attire davantage l'attention...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 40850,
+    "tmdb_id": 1984,
+    "kitsu_id": "42910"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 40850,
+        "tmdb_id": null,
+        "kitsu_id": "42910"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/breakers/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/breakers/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
