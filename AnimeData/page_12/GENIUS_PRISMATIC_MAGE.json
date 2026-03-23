@@ -1,0 +1,55 @@
+{
+  "nom": "GENIUS PRISMATIC MAGE",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Drame - Fantaisie - Tragédie - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/genius-prismatic-mage",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/genius-prismatic-mage.jpg",
+  "noms_alt": [
+    "THE GENIUS MAGICIAN WHO SEES THE RAINBOW",
+    "THE GENIUS PRISMATIC MAGE"
+  ],
+  "synopsis": "Dans les bas-fonds vivait un jeune garçon nommé Ray, dépourvu d'émotions. Un jour, il acquit soudainement la capacité de voir des « couleurs » que personne d'autre ne pouvait percevoir, ainsi que le pouvoir de les contrôler. Un jour, il perdit son abri, un passage souterrain, et ses amis à cause d'un magicien. Il perdit même Niles, en qui il croyait et qu'il suivait. Ce garçon sans émotion jura de se venger, entamant ainsi une quête pour retrouver ses émotions.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 37662,
+    "tmdb_id": null,
+    "kitsu_id": "10037"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 37662,
+        "tmdb_id": null,
+        "kitsu_id": "10037"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/genius-prismatic-mage/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/genius-prismatic-mage/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
