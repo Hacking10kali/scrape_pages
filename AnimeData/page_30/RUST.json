@@ -1,0 +1,61 @@
+{
+  "nom": "RUST",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Seinen",
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Comédie",
+    "Mature"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/rust",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/rust.jpg",
+  "noms_alt": [],
+  "synopsis": "Maru travaille comme boucher dans un abattoir. Un jour, son patron l'invite à aller travailler quelque temps au Japon, où il se retrouve mêlé à des affaires de yakuzas. Alors qu'il lutte pour sa survie, il réalise peu à peu son talent au couteau, qui lui sera d'une grande aide tandis qu'il doit naviguer dans les milieux sombres des grands conglomérats.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 50664,
+    "tmdb_id": 73541,
+    "kitsu_id": "44189"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 50664,
+        "tmdb_id": null,
+        "kitsu_id": "7863"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/rust/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/rust/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
