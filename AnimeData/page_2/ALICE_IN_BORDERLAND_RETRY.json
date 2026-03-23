@@ -1,0 +1,42 @@
+{
+  "nom": "ALICE IN BORDERLAND RETRY",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Action",
+    "Psychologique",
+    "Surnaturel",
+    "Tragique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/alice-in-borderland-retry",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/alice-in-borderland-retry.jpg",
+  "noms_alt": [
+    "IMAWA NO KUNI NO ALICE RETRY"
+  ],
+  "synopsis": "Alice a maintenant 26 ans, il est marié et attend son premier enfant avec Yuzuha. Alors qu'il se rend dans un temple, il est de retour à Borderland. Il doit, à nouveau, participer à des jeux pour sauver sa peau. Dès la première épreuve, Alice se retrouve avec cinq personnes étranges et un mystérieux cadavre !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2572,
+    "tmdb_id": null,
+    "kitsu_id": "2337"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2572,
+        "tmdb_id": null,
+        "kitsu_id": "2337"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/alice-in-borderland-retry/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/alice-in-borderland-retry/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
