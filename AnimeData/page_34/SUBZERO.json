@@ -1,0 +1,40 @@
+{
+  "nom": "SUBZERO",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Fantastique",
+    "Romance",
+    "Surnaturel",
+    "Amour",
+    "Dragons",
+    "Guerre"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/subzero",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/subzero.jpg",
+  "noms_alt": [],
+  "synopsis": "Clove est la dernière princesse d'un clan de dragons en voie d'extinction. Afin de pouvoir mettre fin à la guerre qui décime son peuple et de ramener la paix dans son pays, elle va devoir se marier avec son ennemi juré : Kyro, le prince du clan adverse.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 51711,
+    "tmdb_id": 284906,
+    "kitsu_id": "46088"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "46088"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/subzero/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/subzero/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
