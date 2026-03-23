@@ -1,0 +1,56 @@
+{
+  "nom": "STARVING ANONYMOUS",
+  "type": "Scans",
+  "genres": [
+    "Seinen - Horreur - Mature - Science-fiction - Prison"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/starving-anonymous",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/starving-anonymous.jpg",
+  "noms_alt": [
+    "SHOKURYOU JINRUI"
+  ],
+  "synopsis": "Quand Ie se réveille, ses souvenirs sont flous ... Il se souvient vaguement d'un gaz qui se répandait dans le bus, le ramenant chez lui.Où est son ami Kazu ? Les autres passagers ?Enfermé dans un immense entrepôt, le garçon est entouré de dizaines de corps : certains sont congelés et hachés, d'autres sont gavés d'un étrange liquide addictif qui s'écoule d'un tuyau. Bientôt, il comprend qu'il est prisonnier d'une ferme industrielle où les humains sont traités en bétail. Dans quel but ? Comment échapper de ce cauchemar ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 31240,
+    "tmdb_id": null,
+    "kitsu_id": "9404"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 31240,
+        "tmdb_id": null,
+        "kitsu_id": "9404"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/starving-anonymous/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/starving-anonymous/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
