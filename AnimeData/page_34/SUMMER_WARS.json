@@ -1,0 +1,47 @@
+{
+  "nom": "SUMMER WARS",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Drame",
+    "Romance",
+    "Science-fiction",
+    "Thriller"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/summer-wars",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/summer-wars.jpg",
+  "noms_alt": [],
+  "synopsis": "A l'approche des vacances d'été, un jeune lycéen au tempérament réservé et passionné de mathématiques passe le plus clair de son temps libre à surfer dans la ville virtuelle OZ. Cette été là, il obtient un job tout à fait particulier par sa senpai Natsuki Shinohara, élève populaire dans son lycée où elle pratique le Kendo avec talent. Son objectif : l'accompagner dans la campagne de Nagano, afin de rejoindre sa famille au grand complet réunie à l'occasion du 90e anniversaire de la doyenne de la famille, l'arrière grand-mère de Natsuki, Sakae Jinnouchi. Kenji se fera passer pour le fiancé de la jeune fille qui avait fait la promesse à son arrière grand-mère pour cette occasion. Kenji essaye alors tant bien que mal de cohabiter avec ce groupe familial hétéroclite en plus des jeunes garnements qui le chahutent. Un soir, il reçoit un message qui l'alerte d'une situation dans le monde virtuel OZ après l'arrivée mystérieuse d'un avatar qui provoquera rapidement une crise aux proportions mondiales... La famille Jinnouchi se met alors en marche pour résoudre la crise !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39184,
+    "tmdb_id": null,
+    "kitsu_id": "47199"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 5681,
+        "tmdb_id": 28874,
+        "kitsu_id": "4241"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/summer-wars/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/summer-wars/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
