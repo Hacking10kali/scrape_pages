@@ -1,0 +1,68 @@
+{
+  "nom": "DICKINSON",
+  "type": "Autres",
+  "genres": [
+    "Comédie",
+    "Shônen",
+    "Mystère",
+    "Drame"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/dickinson",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dickinson.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans le contexte d'un Amherst du milieu du 19ème siècle, Emily Dickinson est bien décidée à devenir la plus grande poétesse du monde et à triompher des contraintes sociales et familiales. Ce récit sinistrement comique, d'une jeune fille devenant femme, revisite de façon moderne la vie d'une des figures littéraires américaines les plus intrigantes.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": 89901,
+    "kitsu_id": "43639"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": null,
+        "tmdb_id": 89901,
+        "kitsu_id": "43639"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/dickinson/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dickinson/saison1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 2",
+      "titreComplet": "Saison 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": null,
+        "tmdb_id": 89901,
+        "kitsu_id": "43639"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/dickinson/saison2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dickinson/saison2/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 3",
+      "titreComplet": "Saison 3",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": null,
+        "tmdb_id": 89901,
+        "kitsu_id": "43639"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/dickinson/saison3/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dickinson/saison3/vostfr/",
+      "episodes": []
+    }
+  ]
+}
