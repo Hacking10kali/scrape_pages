@@ -1,0 +1,60 @@
+{
+  "nom": "SHIKA NO OU",
+  "type": "Anime, Film",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Mystère",
+    "Slice of Life",
+    "Animaux",
+    "Médiéval"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/shika-no-ou",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/shika-no-ou.jpg",
+  "noms_alt": [
+    "LE ROI CERF",
+    "THE DEER KING: THE PROMISED JOURNEY WITH YUNA"
+  ],
+  "synopsis": "Dans un Japon féodal dominé par l'Empire, Van est l'ancien chef d'une unité de guerriers qui s'est rebellée contre l'ordre. Défait et désormais esclave, il travaille à la mine dans de rudes conditions, jusqu'au jour où une horde de loups vient l'attaquer. Dans le combat, il est mordu par l'un d'eux et sa blessure, en plus d'être profonde, s'infecte : il s'évanouit. Au réveil, il découvre que tous les prisonniers qui travaillaient avec lui à la mine sont morts. Seule Yuna, une jeune enfant qu'il décide de prendre sous son aile, semble avoir survécu... Ailleurs, dans d'autres contrées, des attaques similaires se produisent. Il est temps de lever le voile sur ce mystère.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38555,
+    "tmdb_id": null,
+    "kitsu_id": "42277"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 38015,
+        "tmdb_id": 633844,
+        "kitsu_id": "41412"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/shika-no-ou/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/shika-no-ou/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5093225"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/apu7lacmkonr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
