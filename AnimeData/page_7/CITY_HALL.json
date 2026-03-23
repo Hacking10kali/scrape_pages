@@ -1,0 +1,38 @@
+{
+  "nom": "CITY HALL",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Historique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/city-hall",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/city-hall.jpg",
+  "noms_alt": [],
+  "synopsis": "Bienvenue au début du XXe siècle où l'écriture manuscrite donne vie à tout ce que vous écrivez. Après une terrible guerre dont l'écriture manuscrite fut la principale arme et raison de combattre, le papier fut interdit et disparut de ce monde, sombrant ainsi dans l'oubli. Seule l'écriture numérique fut épargnée, car inoffensive. Toutefois, un attentat sur un ministre britannique survenant dans le cœur de Londres va faire resurgir cette arme du passé, oubliée depuis par la population. En effet, l'un des plus grands criminel de l'histoire est parvenu à se procurer du papier et compte bien s'en servir pour assouvir ses sombres projets. Face à une telle menace, le maire de Londres fait appel à Jules Verne, écrivain à succès et inventeur, ainsi qu'au jeune étudiant Arthur Conan Doyle pour mener l'enquête et, surtout, arrêter ce mystérieux Lord Black Fowl qui semble bien connaître ses nouveaux adversaires.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59898,
+    "tmdb_id": 44232,
+    "kitsu_id": "8342"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 59898,
+        "tmdb_id": null,
+        "kitsu_id": "8342"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/city-hall/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/city-hall/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
