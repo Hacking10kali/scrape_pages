@@ -1,0 +1,56 @@
+{
+  "nom": "7 JOURS",
+  "type": "Anime, Film",
+  "genres": [
+    "School Life",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/7-jours",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/7-jours.jpg",
+  "noms_alt": [
+    "BOKURA NO NANOKAKAN SENSOU",
+    "SEVEN DAYS WAR",
+    "7 DAYS WAR"
+  ],
+  "synopsis": "Ne supportant plus la pression qu'ils subissent au quotidien de la part de leur parents et de leurs professeurs, un groupe de lycéens décide de se barricader dans une usine abandonnée. Ils y resteront 7 jours.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39836,
+    "tmdb_id": 137626,
+    "kitsu_id": "370"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 3252,
+        "tmdb_id": 39681,
+        "kitsu_id": "11335"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/7-jours/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/7-jours/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://www.myvi.tv/embed/tb49fct7r9bruf8mn96i1if8iy\t"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/tnjx1uqy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
