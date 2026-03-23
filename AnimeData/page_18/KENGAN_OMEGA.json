@@ -1,0 +1,44 @@
+{
+  "nom": "KENGAN OMEGA",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Arts martiaux",
+    "Tragique",
+    "Combats",
+    "Tournois"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/kengan-omega",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kengan-omega.jpg",
+  "noms_alt": [
+    "KENGAN ASURA 2",
+    "KENGAN ASHURA 2"
+  ],
+  "synopsis": "L'histoire se situe deux ans après le dernier tournoi Kengan. L'histoire suit le parcours de Koga Narushima un pratiquant d'arts martiaux talentueux. Il a envie de tester ses capacités en participant à un tournoi Kengan pour voir jusqu'où il pourra aller.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 12929,
+    "tmdb_id": null,
+    "kitsu_id": "971"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 1086,
+        "tmdb_id": null,
+        "kitsu_id": "971"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kengan-omega/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kengan-omega/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
