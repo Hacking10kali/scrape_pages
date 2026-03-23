@@ -1,0 +1,44 @@
+{
+  "nom": "BOY'S ABYSS",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Mature",
+    "Psychologique",
+    "Romance",
+    "Mort",
+    "Quotidien",
+    "Secrets",
+    "Suicide"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/boys-abyss",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/boys-abyss.jpg",
+  "noms_alt": [
+    "SHOUNEN NO ABYSS"
+  ],
+  "synopsis": "Reiji n'est pas un adolescent épanoui, ni même heureux de vivre. Son quotidien est morne et rempli d'obligations. Dans sa ville, personne ne fait attention aux autres, l'ambiance y est morose, presque morte. Le seul endroit touristique de la ville est d'ailleurs « L'abysse des amoureux » rendu tristement célèbre par l'auteur « Esemori Kôsaku » qui en a fait le lieu d'un double suicide des héros de son roman, « Un cercueil printanier ». Cette ville est donc bien morbide et Reiji, tout comme Chako, son amie d'enfance, rêve de la fuir. C'est une rencontre fortuite qui va changer l'avenir morne qui les attendait. Mais pas forcément pour un bien...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 34501,
+    "tmdb_id": 206958,
+    "kitsu_id": "1434"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 34501,
+        "tmdb_id": null,
+        "kitsu_id": "1434"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/boys-abyss/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/boys-abyss/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
