@@ -1,0 +1,42 @@
+{
+  "nom": "REALITY QUEST",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Comédie",
+    "Drame",
+    "Fantasy",
+    "School Life"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/reality-quest",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/reality-quest.jpg",
+  "noms_alt": [
+    "REAL LIFE QUEST"
+  ],
+  "synopsis": "À cause des menaces d'un harceleur pour obtenir un objet dans un jeu, Ha Do-Wan meurt comme un déplorable esclave des jeux après avoir joué à des jeux pendant une semaine complète sans dormir. À ce moment, il réapparaît dans une salle de classe une semaine avant... Tout est identique à ce jour. À l'exception d'une chose, juste devant ses yeux ! Quoi ? Tabasser le harceleur en utilisant les compétences des jeux auxquels j'ai joué ? !?!",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 44276,
+    "tmdb_id": 294602,
+    "kitsu_id": "1750"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 44276,
+        "tmdb_id": null,
+        "kitsu_id": "1750"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/reality-quest/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/reality-quest/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
