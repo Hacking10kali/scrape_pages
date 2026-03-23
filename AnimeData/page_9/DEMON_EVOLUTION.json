@@ -1,0 +1,42 @@
+{
+  "nom": "DEMON EVOLUTION",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Arts martiaux",
+    "Aventure",
+    "Fantasy",
+    "Historique",
+    "Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/demon-evolution",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/demon-evolution.jpg",
+  "noms_alt": [
+    "THE DEVIL NEVER CRIES",
+    "DEMONIC EVOLUTION"
+  ],
+  "synopsis": "Au seuil de la mort, le plus fort guerrier de l'humanité, Ang, se réincarne mystérieusement soixante ans plus tard avec la force du « Démon le plus fort » – une dangereuse épée à double tranchant. Afin se libérer de ses regrets et de dévoiler la vérité, Ang n'a d'autre choix que d' »évoluer » continuellement pour tenter d'échapper à son destin passé.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38000,
+    "tmdb_id": null,
+    "kitsu_id": "297"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38000,
+        "tmdb_id": null,
+        "kitsu_id": "297"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/demon-evolution/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/demon-evolution/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
