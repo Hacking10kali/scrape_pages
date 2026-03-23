@@ -1,0 +1,39 @@
+{
+  "nom": "KAGURA BACHI",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Drame",
+    "Mystère",
+    "Surnaturel"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/kagura-bachi",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kagura-bachi.jpg",
+  "noms_alt": [
+    "KAGURABACHI"
+  ],
+  "synopsis": "Le jeune Chihiro passe ses journées à s'entraîner auprès de son célèbre père forgeron en espérant lui aussi se faire un nom dans le milieu. Soudainement, alors qu'ils pensaient que ces jours calmes seraient éternels, une tragédie les frappe. Désormais, Chihiro et sa lame ne vivent plus que pour la vengeance.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 15119,
+    "tmdb_id": null,
+    "kitsu_id": "10083"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 15119,
+        "tmdb_id": null,
+        "kitsu_id": "41373"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/kagura-bachi/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/kagura-bachi/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
