@@ -1,0 +1,42 @@
+{
+  "nom": "SECOND LIFE RANKER",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/second-life-ranker",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/second-life-ranker.jpg",
+  "noms_alt": [
+    "RANKER WHO LIVES A SECOND TIME",
+    "DU BEON SANEUN RANKER"
+  ],
+  "synopsis": "Yeon Woo avait un frère jumeau, Jeong Woo, disparu il y a cinq ans. Un jour, la montre à gousset de son frère, dont il ne se séparait jamais, refait surface. Il y découvre le journal intime de Jeong Woo narrant son ascension de l'Obélisque, une tour où plusieurs univers se croisent, mais également les circonstances de sa mort : isolé, trahi par ses propres compagnons. Après avoir appris la vérité, Yeon Woo se résout à consacrer sa vie à un unique but : gravir la tour et venger son frère.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63431,
+    "tmdb_id": null,
+    "kitsu_id": "3954"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 63431,
+        "tmdb_id": null,
+        "kitsu_id": "3954"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/second-life-ranker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/second-life-ranker/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
