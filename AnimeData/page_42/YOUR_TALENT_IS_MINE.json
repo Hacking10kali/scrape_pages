@@ -1,0 +1,42 @@
+{
+  "nom": "YOUR TALENT IS MINE",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantaisie",
+    "Shônen",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/your-talent-is-mine/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/your-talent-is-mine.jpg",
+  "noms_alt": [
+    "I CAN COPY TALENTS"
+  ],
+  "synopsis": "Le jeune Ye Tian a obtenu la capacité de copier les compétences des autres et se bat maintenant contre les cieux pour faire changer le monde. Il peine à survivre et protéger sa sœur de l’invasion d’étranges créatures. Dans le but de devenir plus fort, il commence l’exploration de cet univers inconnu et découvre progressivement… les raisons derrière l’invasion de ces êtres…",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 55995,
+    "tmdb_id": null,
+    "kitsu_id": "11595"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 55995,
+        "tmdb_id": null,
+        "kitsu_id": "11595"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/your-talent-is-mine/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/your-talent-is-mine/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
