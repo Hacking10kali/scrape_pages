@@ -1,0 +1,40 @@
+{
+  "nom": "TERROR MAN",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Action",
+    "Fantastique",
+    "Psychologique",
+    "Combats"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/terror-man",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/terror-man.jpg",
+  "noms_alt": [
+    "TEREO MAEN"
+  ],
+  "synopsis": "Depuis sa naissance, Min Jung Woo a un pouvoir qui lui indique par une couleur violette les zones de son champ de vision où le futur y est néfaste, lui permettant de faire le meilleur choix en conséquence. Mais alors qu'une vague d'attentats frappe la ville, il se retrouve au beau milieu d'un immeuble sur le point de s'effondrer. Avec sa majordome Lilia, il va ainsi débuter sa vie de terroriste et tenter de sauver les civils de ces zones néfastes dont lui seul a la connaissance.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2161,
+    "tmdb_id": 308005,
+    "kitsu_id": "43222"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 23283,
+        "tmdb_id": null,
+        "kitsu_id": "6274"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/terror-man/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/terror-man/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
