@@ -1,0 +1,55 @@
+{
+  "nom": "THE LORD OF THE WHEEL OF DESTINY",
+  "type": "Scans",
+  "genres": [
+    "Action - Aventure - Fantasy - Science-fiction - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/the-lord-of-the-wheel-of-destiny",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-lord-of-the-wheel-of-destiny.jpg",
+  "noms_alt": [
+    "LORD OF DESTINY WHEEL",
+    "LE SEIGNEUR DE LA ROUE DU DESTIN"
+  ],
+  "synopsis": "Une planète nommée \"Étoile du Diable\" apparaît soudainement, transformant la faune et la flore terrestre en monstres. Au bord de l'extinction, les humains découvrent un moyen de se connecter à cette étoile fantôme pour acquérir des pouvoirs et combattre les monstres, débutant l'ère de l'exploration stellaire.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 54853,
+    "tmdb_id": null,
+    "kitsu_id": "5766"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 54853,
+        "tmdb_id": null,
+        "kitsu_id": "5766"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-lord-of-the-wheel-of-destiny/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-lord-of-the-wheel-of-destiny/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
