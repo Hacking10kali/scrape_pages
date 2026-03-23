@@ -1,0 +1,43 @@
+{
+  "nom": "DENJIN N",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Drame",
+    "Horreur",
+    "Mystère",
+    "Psychologique",
+    "Science-fiction",
+    "Idols"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/denjin-n",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/denjin-n.jpg",
+  "noms_alt": [],
+  "synopsis": "Nasu, loser notoire vivant chez sa mère alcoolique, travaille comme véritable larbin dans une supérette. Son seul plaisir dans la vie est d'encourager Misaki Kanzaki, petite idole d'un groupe sans grand succès, à travers son casque de réalité virtuelle. Mais à la suite d'un accident aussi tragique qu'extraordinaire, il se retrouve capable de \"posséder\" n'importe quel système électrique... \"N\" décide d'utiliser ce pouvoir afin d'éliminer tous ceux qui seront sur le chemin de Misaki ! La police fait alors appel à deux frères médiums pour traquer ce tueur en série omnipotent.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 17115,
+    "tmdb_id": null,
+    "kitsu_id": "4325"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 5891,
+        "tmdb_id": null,
+        "kitsu_id": "4325"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/denjin-n/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/denjin-n/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
