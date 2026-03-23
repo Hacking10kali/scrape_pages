@@ -1,0 +1,54 @@
+{
+  "nom": "SUMMER GHOST",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Mystère",
+    "Slice of Life",
+    "Quotidien"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/summer-ghost",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/summer-ghost.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire se centre sur Tomoya, Aoi et Ryo, des lycéens qui se sont rencontrés sur Internet. Selon une légende urbaine, le \"Summer Ghost\" est un fantôme qui apparaît lorsque des feux d'artifice sont allumés. Tomoya ne peut pas vivre la vie qu'il imaginait pour lui-même. Aoi n'arrive pas à trouver sa place dans le monde. Ryo voit son avenir, autrefois brillant, lui échapper brusquement. Chacun a sa propre raison de vouloir rencontrer le \"Summer Ghost\". Par une nuit d'été où la vie et la mort se croisent, où leurs émotions vont-elles les mener ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39184,
+    "tmdb_id": null,
+    "kitsu_id": "4680"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 48171,
+        "tmdb_id": 798544,
+        "kitsu_id": "44099"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/summer-ghost/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/summer-ghost/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5093237"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://movearnpre.com/embed/iv1ku7cls0o0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
