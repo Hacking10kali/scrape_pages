@@ -1,0 +1,43 @@
+{
+  "nom": "BLUE FLAG",
+  "type": "Scans",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Romance",
+    "School Life",
+    "Slice of Life",
+    "Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/blue-flag",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/blue-flag.jpg",
+  "noms_alt": [
+    "AO NO FLAG"
+  ],
+  "synopsis": "Taichi Ichinose vient d'entrer dans sa troisième et dernière année de lycée. Dans sa classe, il retrouve Touma Mita, membre du club de baseball populaire et ami d'enfance ainsi que Futaba Kuze, une jeune fille maladroite qui se trouvait dans la même classe que lui les années précédentes et avec qui il n'a jamais parlé. Pourtant, ces trois personnes que tout oppose vont finir par se rapprocher et former un petit groupe d'amis.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2964,
+    "tmdb_id": null,
+    "kitsu_id": "3362"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2964,
+        "tmdb_id": null,
+        "kitsu_id": "12026"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/blue-flag/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/blue-flag/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
