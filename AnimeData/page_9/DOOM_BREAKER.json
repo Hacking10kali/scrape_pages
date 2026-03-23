@@ -1,0 +1,42 @@
+{
+  "nom": "DOOM BREAKER",
+  "type": "Scans",
+  "genres": [
+    "Combats",
+    "Démons",
+    "Magie",
+    "Monstres",
+    "Voyage temporel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/doom-breaker/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/doom-breaker.jpg",
+  "noms_alt": [
+    "REINCARNATION OF THE SUICIDAL BATTLE GOD"
+  ],
+  "synopsis": "\"Même si ce sont ces dieux répugnants qui m'ont donné cette chance, une opportunité reste une opportunité. Je la saisirai pour exécuter ma vengeance.\" Le dernier survivant de l'humanité, Zephyr, a finalement était vaincu. La guerre contre les démons s'est soldé par une défaite et le voici maintenant dans l'au-delà. Du moins, c'est ce qu'il pensait. Les mêmes dieux qui avaient abandonné les Hommes lui ont donné une nouvelle chance de les amuser. Remontant 10 ans en arrière, Zephyr se jure de ne plus refaire ses erreurs passées ainsi que de terrasser les démons et les dieux. \"Cette fois, je les réduirai en poussière.\"",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38555,
+    "tmdb_id": null,
+    "kitsu_id": "5920"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 38555,
+        "tmdb_id": null,
+        "kitsu_id": "5920"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/doom-breaker/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/doom-breaker/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
