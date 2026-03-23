@@ -1,0 +1,48 @@
+{
+  "nom": "VOYAGE VERS AGARTHA",
+  "type": "Anime",
+  "genres": [
+    "Aventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/voyage-vers-agartha",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/voyage-vers-agartha.jpg",
+  "noms_alt": [
+    "LES ENFANTS QUI POURSUIVENT LES ÉTOILES",
+    "CHILDREN WHO CHASE LOST VOICES",
+    "HOSHI WO OU KODOMO"
+  ],
+  "synopsis": "C'est l'histoire d'Asuna, une jeune fille qui passe ses journées dehors avec une radio en cristal que son père lui avait donnée. Une mystérieuse musique émane de la radio et va l'embarquer dans un voyage étrange qui va lui faire découvrir les merveilles et les vices cachés du Monde.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2151,
+    "tmdb_id": null,
+    "kitsu_id": "2309"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 44836,
+        "tmdb_id": 79707,
+        "kitsu_id": "44801"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/voyage-vers-agartha/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/voyage-vers-agartha/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
