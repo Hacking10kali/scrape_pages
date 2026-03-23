@@ -1,0 +1,41 @@
+{
+  "nom": "ZOMGAN",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "Surnaturel",
+    "Combats",
+    "Post-apocalyptique",
+    "Zombies"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/zomgan",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/zomgan.jpg",
+  "noms_alt": [],
+  "synopsis": "Depuis l'apparition d'un virus zombie il y a plusieurs années, le monde est sous le joug des créatures mi-humaines, mi-zombies appelées les Zomgans. Alors que la résistance s'organise du côté des survivants humains, un adolescent aux pouvoirs étonnants décide d'affronter les Zomgans les plus puissants dans un seul but : mourir.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": null,
+    "tmdb_id": null,
+    "kitsu_id": "1077"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/zomgan/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/zomgan/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
