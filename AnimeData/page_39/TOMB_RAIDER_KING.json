@@ -1,0 +1,48 @@
+{
+  "nom": "TOMB RAIDER KING",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Historique",
+    "Mystère",
+    "Contes et légendes",
+    "Dieux / Déesses",
+    "Magie",
+    "Monstres",
+    "Réincarnation / Transmigration",
+    "Voyage temporel"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/tomb-raider-king",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/tomb-raider-king.jpg",
+  "noms_alt": [
+    "DOGULWANG"
+  ],
+  "synopsis": "Des tombes de Dieu ont commencé à apparaître dans le monde entier. En raison des reliques contenues dans ces tombes, beaucoup ont pu exercer un pouvoir légendaire, tandis que d'autres sont devenus esclaves de ces reliques. Cependant, un Tomb Raider apparaît dans le but de voler ces reliques. C'est l'histoire d'un Tomb Raider ressuscité, nommé Seo Joo Heon, qui fera tout ce qui est en son pouvoir pour piller lui-même toutes les tombes et les reliques de ce monde !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 63316,
+    "tmdb_id": 297826,
+    "kitsu_id": "50480"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 63316,
+        "tmdb_id": null,
+        "kitsu_id": "50480"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/tomb-raider-king/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/tomb-raider-king/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
