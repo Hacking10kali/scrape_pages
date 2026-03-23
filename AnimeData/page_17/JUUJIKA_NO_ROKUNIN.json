@@ -1,0 +1,43 @@
+{
+  "nom": "JUUJIKA NO ROKUNIN",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Drame",
+    "Psychologique",
+    "Thriller",
+    "Tragique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/juujika-no-rokunin",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/juujika-no-rokunin.jpg",
+  "noms_alt": [
+    "JUJIKA NO ROKUNIN",
+    "CROSS OF THE CROSS"
+  ],
+  "synopsis": "Dans le but de se venger de plusieurs monstres dépourvus d'humanité, ce garçon en a lui-même perdu la sienne. Uruma Shun, un élève de sixième, a été nommé \"Sujet d'expérience: A\" par 5 de ses camarades de classe l'ayant sévèrement malmené et lui ayant fait vivre un enfer. Ses seuls moments de bonheur étaient avec son petit frère qui l'aimait, et ses parents qui le protégeaient... Jusqu'au jour où les cinq monstres tuent sa famille. Lorsqu'il perd finalement tout et qu'il affronte un véritable enfer, un sombre \"souhait\" naît en Shun.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4415,
+    "tmdb_id": null,
+    "kitsu_id": "42602"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "42602"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/juujika-no-rokunin/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/juujika-no-rokunin/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
