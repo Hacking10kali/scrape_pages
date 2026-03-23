@@ -1,0 +1,44 @@
+{
+  "nom": "WHITE BLOOD",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Fantastique",
+    "Romance",
+    "Slice of Life",
+    "Combats",
+    "Quotidien",
+    "Vampires"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/white-blood",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/white-blood.jpg",
+  "noms_alt": [
+    "UNHOLY BLOOD"
+  ],
+  "synopsis": "Park Ha Yan est une vampire de sang pur qui ne rêve que de vivre en paix avec les humains. Mais pour ces derniers, les vampires sont des monstres effrayants. Et chaque nouveau meurtre commis par un vampire renforce la haine que les humains leur vouent. Pour s'intégrer à la société et obtenir la paix qu'elle désire, Ha Yan doit mettre fin aux crimes des autres membres de son espèce.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 6165,
+    "tmdb_id": 299275,
+    "kitsu_id": "14212"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 6165,
+        "tmdb_id": null,
+        "kitsu_id": "14212"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/white-blood/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/white-blood/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
