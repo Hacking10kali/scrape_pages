@@ -1,0 +1,52 @@
+{
+  "nom": "SAKASAMA NO PATEMA",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Drame",
+    "Fantastique",
+    "Fantasy",
+    "Science-fiction",
+    "Autre monde",
+    "Post-apocalyptique",
+    "Voyage"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sakasama-no-patema",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sakasama-no-patema.jpg",
+  "noms_alt": [
+    "PATÉMA ET LE MONDE INVERSÉ",
+    "PATEMA INVERTED"
+  ],
+  "synopsis": "Suite à une immense catastrophe naturelle, la Terre telle que l'on la connaît est scindée en deux mondes qui semblent défier les lois de la gravité. Patema est une jeune fille de 13 ans qui vit dans l'un de ces mondes. Rêveuse, envieuse d'exploration, elle fait un jour la rencontre de Eiji, un garçon de son âge qui vit dans le monde parallèle...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2744,
+    "tmdb_id": 100068,
+    "kitsu_id": "5095"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 12477,
+        "tmdb_id": 212167,
+        "kitsu_id": "6742"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/sakasama-no-patema/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sakasama-no-patema/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
