@@ -1,0 +1,39 @@
+{
+  "nom": "USOGUI",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Mystère",
+    "Psychologique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/usogui",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/usogui.jpg",
+  "noms_alt": [],
+  "synopsis": "Certains parieurs n'hésitent pas à mettre leur vie en jeu, mais pour sécuriser l'intégrité de ces paris, il existe une puissante organisation pour arbitrer, appelée Kagerou. Nous suivons donc le parcours de Baku Madarame, alias Usogui, dans ses paris contre des joueurs démoniaques, afin de les mettre tous hors-jeu et ainsi pouvoir contrôler lui-même cette organisation.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 13303,
+    "tmdb_id": 312528,
+    "kitsu_id": "6935"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/usogui/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/usogui/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
