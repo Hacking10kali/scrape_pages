@@ -1,0 +1,42 @@
+{
+  "nom": "IKIGAMI",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Psychologique",
+    "Science-fiction",
+    "Thriller",
+    "Mort",
+    "Politique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ikigami",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ikigami.jpg",
+  "noms_alt": [],
+  "synopsis": "Au Japon, dans une société du futur, une nouvelle loi prospère, la \"Loi pour le maintient de la prospérité nationale\". En rentrant à l'école primaire, chaque enfant reçoit un vaccin. Une injection sur 1000 contient une capsule qui se logera dans le cœur et explosera à une date et une heure définie, entre les 18 et 24 ans de la personne concernée. 24 heures avant sa mort, cette personne recevra un préavis de décès, l'\"Ikigami\" qui lui donne droit à un certain nombre de services privilégiés. Fujimoto est chargé de livrer l'ikigami.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 30123,
+    "tmdb_id": null,
+    "kitsu_id": "10621"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "10621"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ikigami/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ikigami/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
