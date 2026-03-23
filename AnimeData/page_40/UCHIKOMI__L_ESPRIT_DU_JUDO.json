@@ -1,0 +1,42 @@
+{
+  "nom": "UCHIKOMI, L'ESPRIT DU JUDO",
+  "type": "Scans",
+  "genres": [
+    "Shônen",
+    "Arts martiaux",
+    "Sport",
+    "Tournois",
+    "Action"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/uchikomi-lesprit-du-judo",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/uchikomi-lesprit-du-judo.jpg",
+  "noms_alt": [
+    "UCHIKOMI!!"
+  ],
+  "synopsis": "Ren est un garçon de quinze ans complexé par sa petite taille. Maltraité par ses pairs face auxquels il se sent impuissant, il contient quotidiennement sa rage. Mais le hasard amène ce lycéen à découvrir l'art qui saura faire éclore son talent insoupçonné : le judo. Ren s'engage alors sur 'la voie de la souplesse' avec une ardeur et une ténacité inlassables qui seront les clés de son ascension !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 11857,
+    "tmdb_id": null,
+    "kitsu_id": "6619"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/uchikomi-lesprit-du-judo/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/uchikomi-lesprit-du-judo/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
