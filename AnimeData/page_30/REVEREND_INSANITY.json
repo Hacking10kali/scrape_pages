@@ -1,0 +1,63 @@
+{
+  "nom": "REVEREND INSANITY",
+  "type": "Scans",
+  "genres": [
+    "Manhua",
+    "Shônen",
+    "Action",
+    "Arts martiaux",
+    "Fantasy",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/reverend-insanity",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/reverend-insanity.jpg",
+  "noms_alt": [
+    "DAOIST GU",
+    "MASTER OF GU",
+    "GU DAOIST MASTER"
+  ],
+  "synopsis": "C'est l'histoire d'un méchant ayant suivi la voie du démon, Fang Yuan, qui parvient à se ressusciter 500 ans plus tôt grâce au pouvoir de la Cigale du Printemps et de l'Automne, qu'il avait minutieusement raffiné dans sa précédente vie. Dans un monde cruel où l'on cultive à l'aide de créatures appelées Gu, c'est avec sa sagesse et ses expériences, qu'impitoyable, il atteindra ses objectifs ultimes.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 49292,
+    "tmdb_id": 290526,
+    "kitsu_id": "1657"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "1657"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/reverend-insanity/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/reverend-insanity/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
