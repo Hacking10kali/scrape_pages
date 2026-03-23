@@ -1,0 +1,41 @@
+{
+  "nom": "FIRE PUNCH",
+  "type": "Scans",
+  "genres": [
+    "Aventure",
+    "Fantastique",
+    "Mature",
+    "Mystère",
+    "Surnaturel",
+    "Tragique"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/fire-punch",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/fire-punch.jpg",
+  "noms_alt": [],
+  "synopsis": "Dans un futur indéterminé où tout est recouvert de glace, la famine et le chaos règnent sur la Terre. Parmi les quelques humains qui tentent de survivre, certains sont dotés de pouvoirs surnaturels. Agni et sa sœur, Luna, font partie de ces « élus » et possèdent la faculté de se régénérer. Agni utilise ce pouvoir pour nourrir les habitants de son village. Pourtant cela ne suffira pas à les préserver du terrible malheur qui va s'abattre sur eux... Agni sera le seul survivant du massacre qui a brûlé tous ses proches. Brûlant continuellement suite à ce drame, il se lance alors dans une quête effrénée pour assouvir sa soif de vengeance !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 4667,
+    "tmdb_id": null,
+    "kitsu_id": "13991"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 4667,
+        "tmdb_id": null,
+        "kitsu_id": "48467"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/fire-punch/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/fire-punch/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
