@@ -1,0 +1,40 @@
+{
+  "nom": "DUNGEONS AND ARTIFACTS",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/dungeons-artifacts",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeons-artifcats.jpg",
+  "noms_alt": [
+    "L'ARTÉFACT DÉVOREUR"
+  ],
+  "synopsis": "Dès que je mettrai la main sur ces artefacts, ce sera la fin pour vous !» Le début de la vengeance pour un explorateur de donjon tué à tort et ses artefacts ! Les donjons attirent l'esprit humain, se renforcent avec les morts et utilisent des appâts et des artefacts pour attirer plus de victimes. Celui qui a été tué par une ruse dans un donjon, Stetch Atelier. Au-delà du seuil de la mort, il a eu une seconde chance! Il commence son long voyage pour se venger.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60253,
+    "tmdb_id": null,
+    "kitsu_id": "49179"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 60253,
+        "tmdb_id": null,
+        "kitsu_id": "49179"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dungeons-artifacts/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dungeons-artifacts/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
