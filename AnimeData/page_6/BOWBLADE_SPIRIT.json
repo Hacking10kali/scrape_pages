@@ -1,0 +1,62 @@
+{
+  "nom": "BOWBLADE SPIRIT",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Arts martiaux",
+    "Histoire",
+    "Shônen-ai"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/bowblade-spirit",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/bowblade-spirit.jpg",
+  "noms_alt": [],
+  "synopsis": "L'arc est une arme qui domine tout ce qui est en vue, même pour les cibles qui se cachent à des distances trop éloignées pour que les yeux puissent les voir. Imaginez une arme que vous ne pouvez même pas voir et qui vise votre vie. Qu'est-ce qui pourrait être plus effrayant que cela ? Un régime d'entraînement de l'enfer avec un grand-père brutal. Un joyeux voyage à Zhongyuan à la recherche d'une femme. L'ascension d'un héros qui va bouleverser le monde des Murim. La Flèche Guidée Ki, une nouvelle version de la Flèche Guidée Ki qui est plus forte que l'Épée et la Lame Guidée Ki ! Lancez la flèche dans le futur !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 44203,
+    "tmdb_id": null,
+    "kitsu_id": "11113"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11113"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/bowblade-spirit/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/bowblade-spirit/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
