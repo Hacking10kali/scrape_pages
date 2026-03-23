@@ -1,0 +1,59 @@
+{
+  "nom": "I'VE ALWAYS LIKED YOU",
+  "type": "Anime, Film",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Romance",
+    "School Life",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/ive-always-liked-you",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ive-always-liked-you.jpg",
+  "noms_alt": [
+    "ZUTTO MAE KARA SUKI DESHITA.",
+    "CONFESSION EXECUTIVE COMMITTEE ~LOVE SERIES~",
+    "KOKUHAKU JIKKOU IINKAI : RENAI SERIES",
+    "IVE ALWAYS LIKED YOU"
+  ],
+  "synopsis": "Dans cette histoire nous suivons un groupe de lycéens dans le quotidien. Autant dans leurs peines que dans leurs meilleurs moments. Natsuki Enomoto est une étudiante de troisième année au lycée Sakuragaoka. Cette dernière est amoureuse de Setoguchi Yû, son ami d'enfance. Un jour, lorsqu'elle décide enfin à se déclarer, Natsuki fait une grave erreur. En effet, par peur de se faire rejeter, elle décide de faire passer sa déclaration pour un entraînement. Vu que Natsuki continue de prétendre ne pas être amoureuse de Yû, Koyuki Ayase, un autre élève de sa classe décide de se lancer pour se déclarer à Natsuki. Pourra-t-elle un jour arrêter cette mascarade et se déclarer pour de 'vrai' à Yû ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 38573,
+    "tmdb_id": null,
+    "kitsu_id": "13600"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 31245,
+        "tmdb_id": 374853,
+        "kitsu_id": "11204"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/ive-always-liked-you/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/ive-always-liked-you/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/smalp392"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.tv/embed/6dxy9bpogetr5mww6j7j7gxgfr"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
