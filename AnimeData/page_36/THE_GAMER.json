@@ -1,0 +1,39 @@
+{
+  "nom": "THE GAMER",
+  "type": "Scans",
+  "genres": [
+    "Fantasy",
+    "Mystère",
+    "Surnaturel",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-gamer",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-gamer.jpg",
+  "noms_alt": [],
+  "synopsis": "L'histoire se déroule en Corée du Sud. On suit les aventures de Han Jee Han qui a mystérieusement obtenu un pouvoir qui transforme sa vie en jeu vidéo. En effet, il peut voir les niveaux des gens ou augmenter ses compétences... Mais quel secret se cache derrière ce pouvoir incroyable nouvellement acquis ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 60460,
+    "tmdb_id": 280049,
+    "kitsu_id": "7880"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 60460,
+        "tmdb_id": null,
+        "kitsu_id": "7863"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-gamer/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-gamer/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
