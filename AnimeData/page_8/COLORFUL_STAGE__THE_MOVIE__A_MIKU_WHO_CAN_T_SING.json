@@ -1,0 +1,44 @@
+{
+  "nom": "COLORFUL STAGE! THE MOVIE: A MIKU WHO CAN'T SING",
+  "type": "Film",
+  "genres": [
+    "Drame - Slice of Life - Musique - Quotidien"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/colorful-stage-the-movie-a-miku-who-cant-sing",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/colorful-stage-the-movie-a-miku-who-cant-sing.jpg",
+  "noms_alt": [
+    "GEKIJOUBAN PROJECT SEKAI - KOWARETA SEKAI TO UTAENAI MIKU",
+    "PROJECT SEKAI THE MOVIE: THE BROKEN WORLD AND THE MIKU WHO CAN'T SING"
+  ],
+  "synopsis": "L'histoire nous entraîne dans le quotidien de Ichika Hoshino, une lycéenne et musicienne de rue, qui rencontre une version différente de Hatsune Miku après avoir entendu une nouvelle chanson de Miku dans un magasin de CD. Cette Miku a du mal à se connecter à son public alors elle décide d'unir ses forces avec Ichika pour toucher le cœur des gens à travers leur musique.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 841,
+    "tmdb_id": null,
+    "kitsu_id": "41958"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 59419,
+        "tmdb_id": 1322752,
+        "kitsu_id": "49092"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/colorful-stage-the-movie-a-miku-who-cant-sing/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/colorful-stage-the-movie-a-miku-who-cant-sing/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
