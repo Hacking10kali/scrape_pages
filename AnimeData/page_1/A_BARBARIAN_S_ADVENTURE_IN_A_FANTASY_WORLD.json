@@ -1,0 +1,62 @@
+{
+  "nom": "A BARBARIAN'S ADVENTURE IN A FANTASY WORLD",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Shônen",
+    "Action",
+    "Aventure",
+    "Comédie",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/a-barbarians-adventure-in-a-fantasy-world",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarians-adventure-in-a-fantasy-world.jpg",
+  "noms_alt": [
+    "SURVIVING AS A BARBARIAN IN A FANTASY WORLD"
+  ],
+  "synopsis": "Chaque nuit, il priait pour se réveiller dans un monde de magie et d'aventure. Un jour, son voeu s'exauça, mais pas vraiment comme il le voulait. Il se réveilla dans une vaste étendue enneigée, en tant que barbare, une puissante race crainte pour leur force et leur sauvagerie. Bien que ce monde était tout ce qu'il souhaitait, sa nouvelle vie tant attendue venait avec de nombreux problèmes. Déterminé à ne pas vivre comme une brute sans cervelle, il apprit la langue des humains, étudiait leurs coutumes, et devint mercenaire. Mais malgré tous ses efforts, sa monstrueuse apparence et sa force colossale faisait que la plupart des gens le voyaient comme une menace. Maintenant, partagé entre le monde dans lequel il a toujours voulu vivre et celui qui le rejetait, il doit se battre pour prouver qu'il est plus qu'une simple brute sans cervelle et trouver la raison de sa venue dans ce monde.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2924,
+    "tmdb_id": null,
+    "kitsu_id": "49930"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "49930"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
