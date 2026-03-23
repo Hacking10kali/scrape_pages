@@ -1,9 +1,47 @@
 {
   "page": 1,
-  "scraped_at": "20260320_101805",
-  "duration_s": 535,
-  "total": 25,
+  "scraped_at": "20260323_093928",
+  "duration_s": 11447,
+  "total": 48,
   "animes": [
+    {
+      "nom": "#DRCL MIDNIGHT CHILDREN",
+      "type": "Scans",
+      "genres": [
+        "Drame",
+        "Fantastique",
+        "Surnaturel"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/drcl-midnight-children/",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/drcl-midnight-children0.jpg",
+      "noms_alt": [],
+      "synopsis": "Dans un pays lointain de l'Est, il existe une créature qu'on ne remarque pas mais qui est pourtant bien là... Le Comte Dracula !",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 1,
+        "tmdb_id": null,
+        "kitsu_id": "7442"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 1,
+            "tmdb_id": null,
+            "kitsu_id": "7442"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/drcl-midnight-children/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/drcl-midnight-children/saison1/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
     {
       "nom": "'TIS TIME FOR \"TORTURE,\" PRINCESS",
       "type": "Anime",
@@ -26,7 +64,7 @@
       "synopsis": "Hime-sama, princesse de l'armée royale, et son épée sacré Ex, ont été capturées par l'armée du Roi démon; Afin de connaître tous les secrets détenus par cette dernière, le bourreau de l'armée du Roi démon décide de la \"torturer\".",
       "bande_annonce": "https://www.youtube.com/embed/--EXveSl_0k",
       "ids": {
-        "jikan_id": null,
+        "jikan_id": 55774,
         "tmdb_id": 229443,
         "kitsu_id": "47656"
       },
@@ -36,7 +74,7 @@
           "titreComplet": "Saison 1",
           "isFilm": false,
           "ids": {
-            "jikan_id": null,
+            "jikan_id": 55774,
             "tmdb_id": 229443,
             "kitsu_id": "47656"
           },
@@ -47,10 +85,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-dbx2jrfg1svz.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5391428"
@@ -303,7 +337,7 @@
           "titreComplet": "Saison 2",
           "isFilm": false,
           "ids": {
-            "jikan_id": null,
+            "jikan_id": 55774,
             "tmdb_id": 229443,
             "kitsu_id": "47656"
           },
@@ -314,10 +348,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-bju16nck16ta.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://lpayer.embed4me.com/#53e5n"
@@ -526,6 +556,96 @@
       ]
     },
     {
+      "nom": "100 JOURS AVANT TA MORT",
+      "type": "Scans",
+      "genres": [
+        "Comédie",
+        "Drame",
+        "Romance",
+        "School Life",
+        "Slice of Life",
+        "Shôjo"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/100-jours-avant-ta-mort/",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/100-jours-avant-ta-mort0.jpg",
+      "noms_alt": [
+        "LAST HUNDRED DAYS TILL SHE DIES",
+        "KIMI GA SHINU MADE ATO HYAKU NICHI"
+      ],
+      "synopsis": "Taro a enfin pu avouer à son amie d'enfance Umi qu'il l'aime depuis toujours ! Mais à cet instant, s'affiche le nombre 100 devant la jeune fille... Car Taro a un pouvoir spécial : celui de visualiser un compte à rebours sur tous les êtres vivants qui ont moins de 100 jours à vivre ! Ensemble, le couple va faire face au destin et tenter d'arrêter le décompte fatidique...",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 37510,
+        "tmdb_id": null,
+        "kitsu_id": "43367"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 37510,
+            "tmdb_id": null,
+            "kitsu_id": "43367"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/100-jours-avant-ta-mort/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/100-jours-avant-ta-mort/saison1/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "nom": "100 METERS",
+      "type": "Film",
+      "genres": [
+        "Action - Drame - Athlétisme - Sport"
+      ],
+      "langues": [
+        "VOSTFR",
+        "VF",
+        "VASTFR"
+      ],
+      "lien": "https://anime-sama.to/catalogue/100-meters",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/100-meters.jpg",
+      "noms_alt": [
+        "100 MÈTRES / 100 M. / HYAKUEMU.",
+        "HYAKU M."
+      ],
+      "synopsis": "Je m'appelle Togashi. Je suis né avec un don pour la rapidité. C'est pourquoi je régnais sans conteste dans le pays sur les compétitions de course aux 100 mètres. C'est comme ça que je me suis fait des amis et que j'ai trouvé ma place au sommet. Mais pour la première fois, à l'automne de la sixième année d'athlétisme : j'ai appris la peur de la défaite. Et en même temps, j'ai compris que cette remise en cause avait le potentiel pour me soutenir et me permettre de m'améliorer. Un sprint de 100 mètres. Seulement un sprint de 100 mètres. Mais auquel il faut que j'arrive à insuffler suffisamment de passion pour me pousser à engager ma peau dans ce jeu.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 37510,
+        "tmdb_id": null,
+        "kitsu_id": "43367"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Film",
+          "titreComplet": "Film",
+          "isFilm": true,
+          "ids": {
+            "jikan_id": 48352,
+            "tmdb_id": 1295026,
+            "kitsu_id": "49072"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/100-meters/film/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/100-meters/film/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nom": "16BIT SENSATION: ANOTHER LAYER",
       "type": "Anime",
       "genres": [
@@ -557,7 +677,7 @@
           "titreComplet": "Saison 1",
           "isFilm": false,
           "ids": {
-            "jikan_id": null,
+            "jikan_id": 54041,
             "tmdb_id": 217512,
             "kitsu_id": "46934"
           },
@@ -568,10 +688,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240187&hd=3"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5268117"
@@ -832,10 +948,6 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4206093"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/h9qf3tcz"
                 },
@@ -1077,7 +1189,7 @@
           "titreComplet": "Saison 1",
           "isFilm": false,
           "ids": {
-            "jikan_id": null,
+            "jikan_id": 53802,
             "tmdb_id": 216074,
             "kitsu_id": "46842"
           },
@@ -1088,10 +1200,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-6jskj9kg7ina.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5586966"
@@ -1435,10 +1543,6 @@
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5759427"
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=5759427"
                 }
               ]
             },
@@ -1498,6 +1602,71 @@
       ]
     },
     {
+      "nom": "20TH CENTURY BOYS",
+      "type": "Scans",
+      "genres": [
+        "Action",
+        "Drame",
+        "Mystère",
+        "Surnaturel",
+        "Thriller",
+        "Seinen",
+        "Amitié",
+        "Apocalypse",
+        "Enquête",
+        "Jeunesse",
+        "Justice",
+        "Police",
+        "Pouvoirs psychiques",
+        "Yakuza"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/20th-century-boys",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/20th-century-boys.jpg",
+      "noms_alt": [
+        "21ST CENTURY BOYS"
+      ],
+      "synopsis": "1969 : Un groupe d'enfants se retrouve régulièrement dans une base secrète ; sous l'impulsion de Kenji Endô, les enfants inventent une histoire de science-fiction racontant la destruction de l'humanité par une organisation maléfique à laquelle ils s'opposaient pour finir par devenir les sauveurs du monde. Ils consignent cette histoire dans un Cahier de Prédictions. 1997 : Kenji dirige depuis un convini et porte constamment sur le dos le bébé que sa sœur lui a confié avant de disparaître mystérieusement. La mort d'un ami d'enfance va réunir la bande de copains qui, lorsqu'ils avaient dix ans, construisaient le monde avec des yeux d'enfants. Ami, le gourou d'une secte, va croiser le chemin de nos amis sans raison apparente... mais pourtant il semble être en étroite relation avec leur passé...",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 62856,
+        "tmdb_id": null,
+        "kitsu_id": "137"
+      },
+      "saisons": [
+        {
+          "titreVignette": "20th Century Boys",
+          "titreComplet": "20th Century Boys",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 62856,
+            "tmdb_id": null,
+            "kitsu_id": "137"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/20th-century-boys/saison20/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/20th-century-boys/saison20/vostfr/",
+          "episodes": []
+        },
+        {
+          "titreVignette": "21st Century Boys",
+          "titreComplet": "21st Century Boys",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 62856,
+            "tmdb_id": null,
+            "kitsu_id": "137"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/20th-century-boys/saison21/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/20th-century-boys/saison21/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
+    {
       "nom": "29-SAI DOKUSHIN CHUUKEN BOUKENSHA NO NICHIJOU",
       "type": "Anime",
       "genres": [
@@ -1535,10 +1704,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-4av8gyf0cn9g.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://lpayer.embed4me.com/#vlq69"
@@ -1855,10 +2020,6 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-bxuk8718bdw8.html"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5700596"
                 },
@@ -2152,10 +2313,6 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-08ngwswlfmsp.html"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4734128"
                 },
@@ -2371,10 +2528,6 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-shznvt33p0ck.html"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4734149"
                 },
@@ -2576,6 +2729,169 @@
       ]
     },
     {
+      "nom": "5CM PER SECOND",
+      "type": "Anime, Film",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Slice of Life"
+      ],
+      "langues": [
+        "VOSTFR",
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/5-cm-per-second/",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/5-cm-per-second.jpg",
+      "noms_alt": [
+        "BYOUSOKU 5 CENTIMETER : A CHAIN OF SHORT STORIES ABOUT THEIR DISTANCE",
+        "5 CM PER SECOND",
+        "5 CENTIMETERS PER SECOND",
+        "FIVE CENTIMETERS PER SECOND",
+        "BYOUSOKU 5 CENTIMETER",
+        "A CHAIN OF SHORT STORIES ABOUT THEIR DISTANCE",
+        "5 CENTIMETRES PER SECOND"
+      ],
+      "synopsis": "L'histoire commence à Tokyo, Akari Shinohara et Takaki Tonoo sont deux jeunes amis inséparables, jusqu'au jour où Akari doit déménager. Cette nouvelle vie est accompagnée par une correspondance entre les deux qui ont du mal à supporter la distance. Un jour Takaki apprend qu'il va déménager très loin d'Akari, il décide alors d'aller la revoir. Pendant son voyage, par une nuit d'hiver, lorsque son train est coincé par la neige, Takaki se remémore tous ses moments passés avec Akari. Œuvre emblématique pour celui que l'on nomme souvent le « nouveau Miyasaki »,5cm Per Second est une variation poignante sur la jeunesse perdue où l'émotion du récit rejoint la pureté du graphisme.",
+      "bande_annonce": "https://youtube.com/embed/W_1DUw41LsA",
+      "ids": {
+        "jikan_id": 1519,
+        "tmdb_id": null,
+        "kitsu_id": "7667"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Film",
+          "titreComplet": "Film",
+          "isFilm": true,
+          "ids": {
+            "jikan_id": 1689,
+            "tmdb_id": 1359916,
+            "kitsu_id": "1517"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/5-cm-per-second/film/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/5-cm-per-second/film/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5340642"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/2xw3494d"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "66,666 YEARS ADVENT OF THE DARK MAGE",
+      "type": "Scans",
+      "genres": [
+        "Webcomic",
+        "Manhwa",
+        "Action",
+        "Fantasy",
+        "Combats",
+        "Magie",
+        "Réincarnation / transmigration",
+        "Isekai"
+      ],
+      "langues": [],
+      "lien": "https://anime-sama.to/catalogue/66666-years-advent-of-the-dark-mage",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/66666-years-advent-of-the-dark-mage.jpg",
+      "noms_alt": [
+        "66666NYEON MANE HWANSAENGHAN HEUKMABEOPSA",
+        "66 666 YEARS ADVENT OF THE DARK MAGE",
+        "66",
+        "666 YEARS: ADVENT OF THE DARK MAGE"
+      ],
+      "synopsis": "Diablo Volpir, un puissant magicien, a été scellé par douze dieux il y a de cela 66 666 ans. Réussissant à s'échapper de sa prison, il s'est réincarné dans le corps du fils d'un comte, Jamie Welton. Désormais âgé de 9 ans, il entreprend d'aiguiser ses compétences magiques afin de se venger de ses tortionnaires divins. Sauf qu'un jour, contre toute attente, son père autorise la religion de Zenith à s'établir sur leur territoire. Sachant que Zenith n'est autre que l'un des ennemis jurés de Jamie, le jeune magicien décide alors d'enquêter. Dans cette nouvelle vie, réussira-t-il à assouvir sa vengeance ?",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 48198,
+        "tmdb_id": null,
+        "kitsu_id": "6887"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 10869,
+            "tmdb_id": null,
+            "kitsu_id": "6887"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/66666-years-advent-of-the-dark-mage/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/66666-years-advent-of-the-dark-mage/saison1/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "nom": "7 JOURS",
+      "type": "Anime, Film",
+      "genres": [
+        "School Life",
+        "Slice of Life"
+      ],
+      "langues": [
+        "VOSTFR",
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/7-jours",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/7-jours.jpg",
+      "noms_alt": [
+        "BOKURA NO NANOKAKAN SENSOU",
+        "SEVEN DAYS WAR",
+        "7 DAYS WAR"
+      ],
+      "synopsis": "Ne supportant plus la pression qu'ils subissent au quotidien de la part de leur parents et de leurs professeurs, un groupe de lycéens décide de se barricader dans une usine abandonnée. Ils y resteront 7 jours.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 39836,
+        "tmdb_id": 137626,
+        "kitsu_id": "370"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Film",
+          "titreComplet": "Film",
+          "isFilm": true,
+          "ids": {
+            "jikan_id": 3252,
+            "tmdb_id": 39681,
+            "kitsu_id": "11335"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/7-jours/film/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/7-jours/film/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://www.myvi.tv/embed/tb49fct7r9bruf8mn96i1if8iy\t"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/tnjx1uqy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nom": "7 SEEDS",
       "type": "Anime",
       "genres": [
@@ -2619,10 +2935,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-1za4l9665wch.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/sgkq20pq"
@@ -2790,10 +3102,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-lim6ctyhhgvf.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/f0c0la3u"
@@ -2989,10 +3297,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-qogk4au80yk4.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5390320"
@@ -3277,10 +3581,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-zj4og0qhkgmx.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4337019"
@@ -3658,10 +3958,6 @@
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4722411"
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4722411"
                 }
               ]
             }
@@ -3709,10 +4005,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-2ybi9fxnwl96.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4821344"
@@ -3932,6 +4224,170 @@
       ]
     },
     {
+      "nom": "99 REINFORCED WOOD STICK",
+      "type": "Scans",
+      "genres": [
+        "Shônen",
+        "Action",
+        "Aventure",
+        "Drame",
+        "Fantaisie",
+        "Webcomic"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/99-reinforced-wood-stick",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/99-reinforced-wood-stick.jpg",
+      "noms_alt": [
+        "99 WOODEN STICK",
+        "99 HARDENED WOODEN STICK",
+        "99 WOODEN STICK"
+      ],
+      "synopsis": "Dans le jeu de réalité virtuelle 'Chrono Life', où règne la Loi de la jungle, alors que tout le monde me méprisait à cause de mon équipement, j'ai réussi à renforcer une arme pour débutants obtenue par hasard au niveau 99.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 54837,
+        "tmdb_id": null,
+        "kitsu_id": "50067"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 54837,
+            "tmdb_id": null,
+            "kitsu_id": "50067"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/99-reinforced-wood-stick/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/99-reinforced-wood-stick/saison1/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "nom": "A BARBARIAN WAS ADMITTED TO THE ACADEMY",
+      "type": "Scans",
+      "genres": [
+        "Action - Drame - Fantaisie - Historique - Isekai - Trans / Gender bender"
+      ],
+      "langues": [],
+      "lien": "https://anime-sama.to/catalogue/a-barbarian-was-admitted-to-the-academy",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarian-was-admitted-to-the-academy.jpg",
+      "noms_alt": [
+        "A BARBARIAN ENROLLED IN THE ACADEMY",
+        "A BARBARIAN ENTERED THE ACADEMY",
+        "ACADEMY ORANGKAEGA IPAKAETDA",
+        "ENTERED THE ACADEMY AS A BARBARIAN"
+      ],
+      "synopsis": "Je me suis retrouvée possédée dans un jeu auquel je jouais occasionnellement. Et pour couronner le tout, je suis la guerrière d'une tribu barbare qui ne connaît que de mauvaises fins. ... Très bien, échappons-nous.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "49930"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 2924,
+            "tmdb_id": null,
+            "kitsu_id": "49930"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-barbarian-was-admitted-to-the-academy/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid="
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "A BARBARIAN'S ADVENTURE IN A FANTASY WORLD",
+      "type": "Scans",
+      "genres": [
+        "Manhwa",
+        "Webcomic",
+        "Shônen",
+        "Action",
+        "Aventure",
+        "Comédie",
+        "Fantasy"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/a-barbarians-adventure-in-a-fantasy-world",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-barbarians-adventure-in-a-fantasy-world.jpg",
+      "noms_alt": [
+        "SURVIVING AS A BARBARIAN IN A FANTASY WORLD"
+      ],
+      "synopsis": "Chaque nuit, il priait pour se réveiller dans un monde de magie et d'aventure. Un jour, son voeu s'exauça, mais pas vraiment comme il le voulait. Il se réveilla dans une vaste étendue enneigée, en tant que barbare, une puissante race crainte pour leur force et leur sauvagerie. Bien que ce monde était tout ce qu'il souhaitait, sa nouvelle vie tant attendue venait avec de nombreux problèmes. Déterminé à ne pas vivre comme une brute sans cervelle, il apprit la langue des humains, étudiait leurs coutumes, et devint mercenaire. Mais malgré tous ses efforts, sa monstrueuse apparence et sa force colossale faisait que la plupart des gens le voyaient comme une menace. Maintenant, partagé entre le monde dans lequel il a toujours voulu vivre et celui qui le rejetait, il doit se battre pour prouver qu'il est plus qu'une simple brute sans cervelle et trouver la raison de sa venue dans ce monde.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "49930"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 2924,
+            "tmdb_id": null,
+            "kitsu_id": "49930"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-barbarians-adventure-in-a-fantasy-world/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid="
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nom": "A CENTAUR'S LIFE",
       "type": "Anime",
       "genres": [
@@ -3978,10 +4434,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=5306559"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/ldbw6kva"
@@ -4177,219 +4629,99 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ppcbecywow1h.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 2",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-5o8wia5ou4w4.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 3",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-avy618mqta2q.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 4",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ji250gj1gtiy.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 5",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gj0o0gnmx6t8.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 6",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-hh1a5sj079or.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 7",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-423mk11ni02m.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 8",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gbhxs7r9zpgf.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 9",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-pa7wv93bgdx8.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 10",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-1jci8ex0j5nz.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 11",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-j15dyql6tbgg.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 12",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-beo0d3p28ewi.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 13",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-65l3mj82qlqy.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 14",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-p50ba5jp54f7.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 15",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-63iak839ip1b.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 16",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-pc8egd7poczd.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 17",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-64c0240dyle2.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 18",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-xqkt5nml466z.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 19",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-48btr0xm3sa5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 20",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-glhmb7mt51o1.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 21",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gv79a46ki0az.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 22",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-6gtxkz5ik73y.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 23",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-b9f5cvei9kao.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 24",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ytruzkrje04h.html"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         },
@@ -4408,219 +4740,99 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-rlwxnfhvewql.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 2",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-2o9ye96v9852.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 3",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-kc8d158g80ks.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 4",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-m0351of2cvig.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 5",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-0ozs97vkffko.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 6",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-1ucvq0svbs91.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 7",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-w7iai4f0h6e5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 8",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-h8j6qgnzgyi7.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 9",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-unu33vhnqcqt.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 10",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-2qqu7z86t1ul.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 11",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-c4k3w1q636t8.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 12",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-337vv0sice31.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 13",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-glvwea54qtb5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 14",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-z368sz8qkbvj.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 15",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-yruisnv1i6ea.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 16",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-dqw7r11jrsks.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 17",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gl177j8zx42m.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 18",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-889totb4c5n4.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 19",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-3h8oqq08uw3a.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 20",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-fk9tuycdvymc.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 21",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-52mc6znjsb4d.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 22",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-e1vgnfcyb1bd.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 23",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-n0arwin8adlc.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 24",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-5i323pvl8czt.html"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         },
@@ -4639,237 +4851,107 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-t0pkf02ctj99.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 2",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-67rbizik4e0i.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 3",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-w652etql5nyo.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 4",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-l4owm8rzolnl.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 5",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-13rpfzbrmuef.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 6",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-m8u6f596yjeh.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 7",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-p1xuidvh9qe9.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 8",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ylo2yx7hlnc5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 9",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-1nt5xabnx04r.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 10",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-a32wermchljz.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 11",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-s5ej3dokt8ry.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 12",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-b9p4nmor7u3i.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 13",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-wf2pv4sak74u.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 14",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-olwp4iqn2geb.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 15",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-x6r96ia966se.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 16",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-qq6aupt4uzwc.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 17",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-1tq815hlb325.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 18",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-hzoimn156eei.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 19",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ltfoz9auvkhg.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 20",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-efgv4k21ht21.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 21",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-g2ljzhb55yvr.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 22",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-h3npla3m2uxv.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 23",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-2ijnbulv0v4q.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 24",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-6ns9cvx5ibwr.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 25",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-s8i886ekig7y.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 26",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ik03mzvfm1bo.html"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         },
@@ -4888,12 +4970,7 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4754108\t"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         },
@@ -4912,219 +4989,99 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ppcbecywow1h.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 2",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-5o8wia5ou4w4.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 3",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-avy618mqta2q.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 4",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ji250gj1gtiy.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 5",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gj0o0gnmx6t8.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 6",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-hh1a5sj079or.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 7",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-423mk11ni02m.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 8",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gbhxs7r9zpgf.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 9",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-pa7wv93bgdx8.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 10",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-1jci8ex0j5nz.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 11",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-j15dyql6tbgg.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 12",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-beo0d3p28ewi.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 13",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-65l3mj82qlqy.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 14",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-p50ba5jp54f7.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 15",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-63iak839ip1b.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 16",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-pc8egd7poczd.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 17",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-64c0240dyle2.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 18",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-xqkt5nml466z.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 19",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-48btr0xm3sa5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 20",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-glhmb7mt51o1.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 21",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gv79a46ki0az.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 22",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-6gtxkz5ik73y.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 23",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-b9f5cvei9kao.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 24",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ytruzkrje04h.html"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         }
@@ -5171,10 +5128,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-3hz1u7hwz5td.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=3650026"
@@ -5418,228 +5371,103 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-zrcrpl6378tk.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 2",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-cldhuhr30duj.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 3",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-w08r428wqmgn.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 4",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-sn6gyvly6w9s.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 5",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-4a5vmvugnhza.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 6",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-lwr9ha71oqc9.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 7",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-f2pvciuk6mkp.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 8",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-bkw22kbegic4.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 9",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ii7y87hdi1tc.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 10",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-aqvyhoaoco36.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 11",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ybgxe8ap6qof.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 12",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-krk3c3ftxir5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 13",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-k74yf66kt9fk.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 14",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-n39i86yow00z.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 15",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-cdrxl0b0kzxv.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 16",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-kpwsvjc6ik91.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 17",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-dw0k035ags8q.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 18",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-9hr2l1dknp9i.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 19",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gyemys45m312.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 20",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-6wp949pq18dz.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 21",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-qiee0hod0p6m.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 22",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-2xoe4w14anpc.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 23",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-cbm6znvbiwfh.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 24",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-fq49h0ekpp1d.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 25",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-uw2ibrrzuptd.html"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         },
@@ -5658,219 +5486,99 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-e1t9y8dgaki0.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 2",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-egln814ya0nt.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 3",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ti13ytv6rg2y.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 4",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-cfen1w1hvo8u.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 5",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-qn3tdekxt7h2.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 6",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-lcg6yuse7nnq.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 7",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-yswhpiu3qge9.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 8",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-vsm1y2yqrcuk.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 9",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-f1c65ooc51gy.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 10",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-5qkuj7920azw.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 11",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-f2c2zlvh0bps.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 12",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-g9ex6ur6i65r.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 13",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-nsqxv3jaop53.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 14",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-walwmpa63wlw.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 15",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-0bfrxaufqpha.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 16",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-1iz0gansq8wf.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 17",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ljhl08rs4d32.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 18",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-jpvhv14iy0mr.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 19",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ot5k7lfh69io.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 20",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-36gg6bk9oemd.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 21",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-9chsycx3bw1x.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 22",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-fv4nqfz7dj5p.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 23",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-2oy1h0uv0e0n.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 24",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-x14yu7se90x3.html"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         },
@@ -5889,228 +5597,103 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-lbkwylyho5vw.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 2",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-sg8sbyjqkx47.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 3",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-pfry6g79gpae.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 4",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-w20prk4gpdqd.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 5",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-m9084r1cpkmm.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 6",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-uu7r4lptg1tj.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 7",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-cdv0svzm52wr.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 8",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-phk40lor6y9g.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 9",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-jq0dc9672j3v.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 10",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ctz5wzz5lh8g.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 11",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-8k7xsaqz1xmj.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 12",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-p3objduab4h9.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 13",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-rk58l6fqh5g5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 14",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-m9ota4l1fwus.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 15",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-lnu0ihxn70n0.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 16",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-baxuw8sl7802.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 17",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-vko5j3y1gx1p.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 18",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-agimdr6p5bmt.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 19",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-wminsjsqkc9a.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 20",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-w18vu3hvx20y.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 21",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-man5brq6dgu5.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 22",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-fxup0ykruwdi.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 23",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ylxw5w6u257s.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 24",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-jpw0el5419x2.html"
-                }
-              ]
+              "lecteurs": []
             },
             {
               "episode": "Episode 25",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-0wyy486th6cq.html"
-                }
-              ]
+              "lecteurs": []
             }
           ]
         }
@@ -6162,10 +5745,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-vaoj577q1yon.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5516672"
@@ -6339,10 +5918,6 @@
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5586364"
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=5586364"
                 }
               ]
             },
@@ -6360,6 +5935,762 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://sendvid.com/embed/rj4bd5sg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "A COUPLE OF CUCKOOS",
+      "type": "Anime, Scans",
+      "genres": [
+        "Shônen",
+        "Comédie",
+        "Romance",
+        "School Life",
+        "Slice of Life"
+      ],
+      "langues": [
+        "VOSTFR",
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/a-couple-of-cuckoos",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-couple-of-cuckoos.jpg",
+      "noms_alt": [
+        "THE CUCKOO'S FIANCEE",
+        "KAKKOU NO IINAZUKE"
+      ],
+      "synopsis": "Nagi est un élève sérieux passionné par ses études. Un jour, alors qu'il est en deuxième année, il découvre qu'il a été échangé à la naissance avec une fille. Espérant garder leurs enfants biologiques et adoptifs, leurs parents décident qu'ils vont se fiancer pour pouvoir rester en famille. Mais Nagi est déjà amoureux d'une autre fille...",
+      "bande_annonce": "https://youtube.com/embed/vSVgtTbbzaw",
+      "ids": {
+        "jikan_id": 48675,
+        "tmdb_id": 122587,
+        "kitsu_id": "44310"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Saison 1",
+          "titreComplet": "Saison 1",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 48675,
+            "tmdb_id": 122587,
+            "kitsu_id": "44310"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/a-couple-of-cuckoos/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-couple-of-cuckoos/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4712976"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/2mi100f3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-to8bpxux9gqr.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4712977"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/li6eh13n"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 3",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-4zinadxlxe2p.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4722278"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/wf8uuyom"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 4",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-4lerjnr11x8z.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4731444"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/y72r446p"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 5",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-1x12a0irde96.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4739483"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/q3ezyiif"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 6",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-kzwlyzuhml2z.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4748230"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/cm3s1mb6"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 7",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-wgp43p6y4ace.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4756350"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/r5wri4sk"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 8",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-zmfrbsvsw5xg.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4766352"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/rnzrmb60"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 9",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ksmv22vcwvv5.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4776160"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/n46smwxh"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 10",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-w1yz6wtlbnlx.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4784166"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/p0ccnzoo"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 11",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-sihs3onoiqlo.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4794616"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 12",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ypimupk91dv8.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4799505"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/o9h54wh5"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 13",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vg947jfajp0g.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4816303"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/sppq9iqf"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 14",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-zjz9m0pvkk94.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4837606"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/acyoil91"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 15",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-fjzicj7k8y73.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4837624"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/130aezmm"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 16",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-j2h76xe2735y.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4847898"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/pb5sv2ew"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 17",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-a100j93o0kyk.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4856731"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/7jmd3khv"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 18",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-zlootg8nftbs.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4879042"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/vd8punx7"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 19",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-metwcua4wd4d.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4884537"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/dkqs4nvy"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 20",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-pu578hr3l9h6.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4902295"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/jyosxji6"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 21",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ma30hggqttn5.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4911664"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/lubmpgnh"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 22",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-0avhjv04gfvo.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4919703"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/psd7nuhl"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 23",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-2vb9xpt86dha.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4934437"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/9w50cm1f"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 24",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-suqahq5szant.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4934439"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/f9j2cb7w"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "titreVignette": "Saison 2",
+          "titreComplet": "Saison 2",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 48675,
+            "tmdb_id": 122587,
+            "kitsu_id": "44310"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/a-couple-of-cuckoos/saison2/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-couple-of-cuckoos/saison2/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/eahfwunhrtfw"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5978520"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-4mqul25h24mi.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/8batno40"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-izm6xkyfpveu.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/y01qvv3gmhi6"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5984296"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-qpcm052actd1.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/zlhok90f"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 3",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-2glrevs67nmj.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/j2aelskyeeso"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6011727"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-q959c70rru09.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/od20ncx1"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 4",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-y0vdlocoekko.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/a2gbb7m41guu"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6011731"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-k09gzt7wqmqm.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/ccl3e7hd"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 5",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-scoq06bthnx0.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/91u2nrxal731"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6011732"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-f77tt7i3l0ke.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/ncx8q1jx"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 6",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-miwce2u2jwnb.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/xhwwlxe7azfp"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6011734"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-019ki9aekm4b.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/dfqfilgb"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 7",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-hnoz77mp2eho.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/jcf4zhwjs21u"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6019918"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-42v45p4yv9u2.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/3rs5m5kl"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 8",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-r1ilkwg7f3hj.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/g8dr73szuaxd"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6019919"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-nq95vbk2s67e.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/t82v380w"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 9",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-pq1u31kmpzac.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/98z9ibcd8x5s"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6019921"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-pw7dajw4ag2u.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/34afwdjr"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 10",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-n2fk5r5vbhfz.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/m70po7vmsbq9"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6024079"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-kb52guxk1ep8.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/6whhg6nn"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 11",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-cta7sthohzoy.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/6ksqqtwej0p0"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6028388"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://oneupload.to/embed-wn9hrharkerp.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/hc3oz7a2"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 12",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-nu63jfnfzsge.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://movearnpre.com/embed/yjm6rknr15u1"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6033868"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vidmoly.biz/embed-nu63jfnfzsge.html"
+                },
+                {
+                  "lecteur": "Lecteur 5",
+                  "url": "https://sendvid.com/embed/n0ls8yt3"
                 }
               ]
             }
@@ -6410,10 +6741,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=3799321"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/xioxlcnb"
@@ -6616,6 +6943,62 @@
       ]
     },
     {
+      "nom": "A DRAGONSLAYER’S PEERLESS REGRESSION",
+      "type": "Scans",
+      "genres": [
+        "Webcomic - Manhwa - Action - Aventure - Drame - Fantasy - Arts martiaux - Shônen"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/a-dragonslayers-peerless-regression",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-dragonslayers-peerless-regression.jpg",
+      "noms_alt": [
+        "DRAGONSLAYER'S CLASS REGRESSION"
+      ],
+      "synopsis": "Zeke Draker, premier descendant direct du clan Tueur de Dragons à échouer à s'éveiller. Doté d'un talent de guérisseur et non d'épéiste, il a été renié par sa famille. Luttant désespérément pour devenir plus fort, Zeke connut une fin tragique. Au moment de sa mort, de mystérieux mots apparurent sous ses yeux : [L'âme d'un Dragon Ancien est gravé au coeur de la volonté de celui qui persévère]. [Un pouvoir immuable et immérité est en train de s'activer]. Lorsqu'il reprit conscience, il fut renvoyé au sein du clan Tueur de dragons qui l'avait exclu 20 ans plus tôt. « Si je suis capable de devenir plus fort, je me servirai de tout et de n'importe quoi. » Armé d'un nouveau pouvoir immortel, la légende du Tueur de Dragons commence.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "11655"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 2924,
+            "tmdb_id": null,
+            "kitsu_id": "11655"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/a-dragonslayers-peerless-regression/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-dragonslayers-peerless-regression/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid="
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nom": "A GALAXY NEXT DOOR",
       "type": "Anime",
       "genres": [
@@ -6658,10 +7041,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-3iolpt5xbh2o.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5100038"
@@ -6909,10 +7288,6 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-kxjuvts4pgs2.html"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5263379"
                 },
@@ -6935,10 +7310,6 @@
                 },
                 {
                   "lecteur": "Lecteur 2",
-                  "url": "https://sendvid.com/embed/8icjdewb"
-                },
-                {
-                  "lecteur": "Lecteur 3",
                   "url": "https://sendvid.com/embed/8icjdewb"
                 },
                 {
@@ -7085,10 +7456,6 @@
                   "url": "https://sendvid.com/embed/hxgijxxr"
                 },
                 {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/hxgijxxr"
-                },
-                {
                   "lecteur": "Lecteur 4",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5334648"
                 }
@@ -7183,6 +7550,119 @@
       ]
     },
     {
+      "nom": "A MERCENARY'S REBIRTH AMONG NOBLES",
+      "type": "Scans",
+      "genres": [
+        "Action - Fantasy - Guerre - Noblesse - Manhwa - Webcomic"
+      ],
+      "langues": [],
+      "lien": "https://anime-sama.to/catalogue/a-mercenarys-rebirth-among-nobles",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mercenarys-rebirth-among-nobles.jpg",
+      "noms_alt": [
+        "REINCARNATED AS THE GRAND DUKE'S THIRD SON"
+      ],
+      "synopsis": "Un mercenaire vétéran impitoyable meurt et se réincarne dans le corps du plus jeune fils d'une famille noble (souvent maladif ou méprisé). Il utilise ses compétences de combat brutales pour s'imposer dans la haute société et sur le champ de bataille.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "2264"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 2924,
+            "tmdb_id": null,
+            "kitsu_id": "2264"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/a-mercenarys-rebirth-among-nobles/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-mercenarys-rebirth-among-nobles/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid="
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "A MOUNTAIN OF CORPSES, A SEA OF BLOOD",
+      "type": "Scans",
+      "genres": [
+        "Action - Aventure - Drame - Fantaisie - Webcomic - Manhua"
+      ],
+      "langues": [],
+      "lien": "https://anime-sama.to/catalogue/a-mountain-of-corpses-a-sea-of-blood",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-mountain-of-corpses-a-sea-of-blood.jpg",
+      "noms_alt": [
+        "MOUNTAINS OF CORPSES AND SEAS OF BLOOD",
+        "RIVERS OF BLOOD",
+        "SEA OF BLOOD",
+        "MOUNTAIN OF BONES",
+        "SHI SHAN XUE HAI",
+        "THE CRIMSON BATTLEFIELD"
+      ],
+      "synopsis": "La guerre ultime entre les humains et les démons toucha à sa fin lorsque le plus puissant des héros, Gron, périt en entraînant le Roi Démon avec lui. Cinq ans plus tard, Gron se réveille au coeur du camp des démons et découvre que son âme s'est réincarnée dans le corps du plus faible d'entre eux. Cependant, il ne tarde pas à réaliser que son esprit a éveillé en ce corps une puissance cachée : le pouvoir d'évolution du Dieu Serpent antique. Autrefois célèbre pour sa justice extrême, quel carnage Gron déclenchera-t-il désormais dans ce corps démoniaque ?",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": null,
+        "kitsu_id": "7117"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 2924,
+            "tmdb_id": null,
+            "kitsu_id": "7117"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-mountain-of-corpses-a-sea-of-blood/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid="
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nom": "A PLACE FURTHER THAN THE UNIVERSE",
       "type": "Anime",
       "genres": [
@@ -7226,10 +7706,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-bauitcie4klq.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=3297812"
@@ -7494,10 +7970,6 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-gx06plggi2m5.html"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=6091488"
                 }
@@ -7651,6 +8123,649 @@
       ]
     },
     {
+      "nom": "A RETURNER'S MAGIC SHOULD BE SPECIAL",
+      "type": "Anime, Scans",
+      "genres": [
+        "Action",
+        "Aventure",
+        "Drame",
+        "Fantasy",
+        "School Life",
+        "Webcomic",
+        "Isekai",
+        "Voyage temporel"
+      ],
+      "langues": [
+        "VOSTFR"
+      ],
+      "lien": "https://anime-sama.to/catalogue/a-returners-magic-should-be-special",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-returners-magic-should-be-special.jpg",
+      "noms_alt": [
+        "GWIHWANJAUI MABEOBEUN TEUKBYEOLHAEYA HAPNIDA"
+      ],
+      "synopsis": "Dix ans après l'apparition du Labyrinthe des Ombres, une entité appartenant au Monde des Ombres, l'humanité tout entière fut décimée. Les six derniers survivants tentèrent un assaut sans précédant afin de détruire la source du Labyrinthe. Alors que le combats contre le Dragon touche à sa fin et que les six ont réussi à le vaincre, le cœur du Labyrinthe se fit souffler par une explosion, emportant Desir Herrman, ses compagnons, et par conséquent le monde à la fin. Cependant, ce n'est pas la mort que Desir a retrouvé en face de lui dans cette explosion, mais le monde, treize ans auparavant... Lorsqu'il allait s'inscrire à la plus prestigieuse académie de magie du pays d'Havrion. À partir de cet instant, Desir Herrman a trois ans devant lui avant l'apparition de la dimension du Monde des Ombres. Trois ans pour réunir de puissants alliés et changer le tragique destin vers lequel l'humanité tout entière se rend.",
+      "bande_annonce": "https://www.youtube.com/embed/H8wVjR8ou7k",
+      "ids": {
+        "jikan_id": 54852,
+        "tmdb_id": 230050,
+        "kitsu_id": "47240"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Saison 1",
+          "titreComplet": "Saison 1",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 54852,
+            "tmdb_id": 230050,
+            "kitsu_id": "47240"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/a-returners-magic-should-be-special/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-returners-magic-should-be-special/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5271586"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/f7yjfw4j"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240208&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-rlwzbsxxrole.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5280633"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/sc02zhuj"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240261&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 3",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-bd1bf9tgbww1.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5290567"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/hxve7yki"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240308&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 4",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-s2wixse1caqc.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5300039"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/shk0o8x6"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240355&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 5",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-b819uvypes0t.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5308269"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/zs74296v"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240400&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 6",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-x5kf2uwz1rqx.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5317248"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/py4i1438"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240441&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 7",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-e6si7o7kcx2g.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5327013"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/apqrdcfn"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240482&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 8",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-z4zcrwzzrzm0.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5337468"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/eoomp500"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240514&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 9",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-0wflfl4r20va.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5348089"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/sl6det52"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240547&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 10",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ujxcdkvhmo08.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5358030"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/n0jnmp5j"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240576&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 11",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-oua7t4fade85.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5366622"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/0uw1o72s"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240606&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 12",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-pupy3lvc671b.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5374501"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/h0d6nwon"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=755747641&id=456240635&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "A SENSE OF AMUSEMENT",
+      "type": "Scans",
+      "genres": [
+        "Action - Drame - Psychologique - School Life"
+      ],
+      "langues": [],
+      "lien": "https://anime-sama.to/catalogue/a-sense-of-amusement",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-sense-of-amusement.jpg",
+      "noms_alt": [
+        "PLAYTHING"
+      ],
+      "synopsis": "Lee Myung-jun, un puissant vice-président de conglomérat, perd sa fille bien-aimée à cause du harcèlement scolaire. Pour assouvir sa vengeance sans éveiller les soupçons, il adopte Yoon Karma, une jeune fille psychopathe élevée comme une arme humaine, pour qu'elle s'infiltre au lycée et terrorise les bourreaux.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 57533,
+        "tmdb_id": null,
+        "kitsu_id": "44181"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 57533,
+            "tmdb_id": null,
+            "kitsu_id": "44181"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/a-sense-of-amusement/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-sense-of-amusement/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid="
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "A SIGN OF AFFECTION",
+      "type": "Anime, Scans",
+      "genres": [
+        "Drame",
+        "Romance",
+        "Slice of Life",
+        "Amour",
+        "Handicap",
+        "Quotidien"
+      ],
+      "langues": [
+        "VOSTFR",
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/a-sign-of-affection",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-sign-of-affection.jpg",
+      "noms_alt": [
+        "YUBISAKI TO RENREN"
+      ],
+      "synopsis": "Yuki est une étudiante qui, comme beaucoup d'autres, construit son quotidien autour de ses amis, des réseaux sociaux et de ce qu'elle aime. Mais quand un jour, dans le train, elle croise un jeune homme qui voyage à travers le monde, son univers va être chamboulé : ce dernier, bien que trilingue, ne connaît pas la langue des signes. Pourtant, très vite, il manifestera pour elle un intérêt bien particulier... Comment réagira-t-elle face à ce camarade d'université entreprenant et communicatif ?",
+      "bande_annonce": "https://www.youtube.com/embed/SuX_3-KTXv8",
+      "ids": {
+        "jikan_id": 55866,
+        "tmdb_id": 230059,
+        "kitsu_id": "47691"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Saison 1",
+          "titreComplet": "Saison 1",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 55866,
+            "tmdb_id": 230059,
+            "kitsu_id": "47691"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/a-sign-of-affection/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-sign-of-affection/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5415183"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/p5ofzutb"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-hdpk1bkvopik.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5421713"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/3o5lyx35"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 3",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-0pdojlzwg6hf.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5428445"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/ly65qxoe"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 4",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-f7pmvmo16kgw.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5436006"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/a5bvo8vk"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 5",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-33a1s8b32o0a.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5445013"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/8z62abbi"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 6",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-gizykqjqlfkl.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5453304"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/0d6srtlk"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 7",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-qupel6y8fggq.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5462160"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/lid1o94a"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 8",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-cj79szcoyc9r.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5470707"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/66wyvh38"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 9",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-iu0qopmjtfe3.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5479723"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 10",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-zkt1lgjk86ua.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5488078"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/4an4t4e0"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 11",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-94p22w4o8ygz.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5496143"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/1udfavqc"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 12",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-p26qulzfml67.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5504030"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/b4c0p50r"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "A SILENT VOICE",
+      "type": "Anime, Scans, Film",
+      "genres": [
+        "Drame",
+        "Psychologique",
+        "Romance",
+        "School Life",
+        "Slice of Life"
+      ],
+      "langues": [
+        "VOSTFR",
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/a-silent-voice/",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/a-silent-voice.jpg",
+      "noms_alt": [
+        "THE SHAPE OF VOICE",
+        "KOE KATACHI"
+      ],
+      "synopsis": "Tout commence lorsque Shôko Nishimiya intègre en cours d'année la classe de primaire de Shôya Ishida. La jeune Shôko est une sourde et Shôya est un jeune garçon turbulent qui n'en fait qu'à sa tête et qui ne cause que des problèmes. Ce sont deux personnes différentes et Shôya ne semble pas comprendre qui est réellement Shôko. De ce fait, il commencera à la brutaliser, ne sachant pas comment s'y prendre avec elle. La classe suivra le mouvement au fur et à mesure, mais plus discrètement, sans que leur professeur principal ne fasse d'efforts pour les rappeler à l'ordre. Seulement un jour, le garçon dépasse les limites et le directeur demande à savoir qui a cassé les appareils auditifs de Shôko. C'est ainsi que Shôya réalisera qu'il se retrouve tout seul car tout le monde lui tourne le dos, feignant d'avoir été manipulés par ce dernier. Shôko est transférée dans une nouvelle école et Shôya se rend compte que chaque jour, malgré tout, elle souhaitait seulement être son amie. Les années passent : Shôya est désormais un lycéen de dernière année. Rempli de remords, il ne peut penser à autre chose qu'à se repentir de ses actes envers Shôko. Il a même décidé d'apprendre la langue des signes pour qu'elle puisse comprendre ce qu'il a à lui dire. Avant de mettre fin à ses jours, il apprend où se trouve Shôko et décide de la rencontrer afin d'alléger son cœur mais il ne se doutait pas que ces retrouvailles allaient changer son destin.",
+      "bande_annonce": "https://youtube.com/embed/BpEBRRCnzDs",
+      "ids": {
+        "jikan_id": 2924,
+        "tmdb_id": 297829,
+        "kitsu_id": "41941"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Film",
+          "titreComplet": "Film",
+          "isFilm": true,
+          "ids": {
+            "jikan_id": 28851,
+            "tmdb_id": 1171702,
+            "kitsu_id": "10028"
+          },
+          "langue": "vf",
+          "lien_vf": "https://anime-sama.to/catalogue/a-silent-voice/film/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/a-silent-voice/film/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5036237"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "nom": "A STAR BRIGHTER THAN THE SUN",
       "type": "Anime",
       "genres": [
@@ -7689,10 +8804,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-exh93j3kr4vl.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://lpayer.embed4me.com/#r6mr"
@@ -8029,10 +9140,6 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-uv00lex47tbf.html"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://lpayer.embed4me.com/#e8c1"
                 },
@@ -8279,10 +9386,6 @@
               "episode": "Episode 11",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-ppen0sckn3on.html"
-                },
-                {
                   "lecteur": "Lecteur 2",
                   "url": "https://lpayer.embed4me.com/#ek3vv"
                 },
@@ -8375,10 +9478,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=5085821"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/u61t2gwz"
@@ -8581,6 +9680,50 @@
       ]
     },
     {
+      "nom": "ABSOLUTE DOMINION",
+      "type": "Scans",
+      "genres": [
+        "Webcomic",
+        "Manhwa",
+        "Action",
+        "Arts martiaux",
+        "Aventure",
+        "Comédie",
+        "Drame"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/absolute-dominion",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-dominion.jpg",
+      "noms_alt": [
+        "ABSOLUTE REIGN"
+      ],
+      "synopsis": "« Je vais dominer le Jianghu ! » Dit un mystérieux fils de marchand de fruits, tenant l'épée du monarque dans sa main gauche et la lame des enfers dans sa main droite. Possédant non seulement l'éloquence, mais aussi des capacités martiales impressionnantes, quel pourrait être son but ultime ? C'est ainsi que commence le périple de ce jeune homme de vingt ans, Jeok Leegeon, qui rêve de dominer le monde des arts martiaux !",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 25397,
+        "tmdb_id": null,
+        "kitsu_id": "8641"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 25397,
+            "tmdb_id": null,
+            "kitsu_id": "8641"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/absolute-dominion/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/absolute-dominion/saison1/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
+    {
       "nom": "ABSOLUTE DUO",
       "type": "Anime",
       "genres": [
@@ -8625,10 +9768,6 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
-                {
-                  "lecteur": "Lecteur 1",
-                  "url": "https://vidmoly.biz/embed-500zrils5kvj.html"
-                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4951352"
@@ -8827,6 +9966,192 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "nom": "ABSOLUTE NECROMANCER",
+      "type": "Scans",
+      "genres": [
+        "Webcomic",
+        "Manhwa",
+        "Action",
+        "Aventure",
+        "Drame",
+        "Fantasy"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/absolute-necromancer",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-necromancer.jpg",
+      "noms_alt": [
+        "ALL MASTER NECROMANCER",
+        "ALL-MASTER NECROMANCER",
+        "UNRIVALED NECROMANCER"
+      ],
+      "synopsis": "Trahi par les membres de sa guilde, le redoutable nécromancien Jinhyeok échappe de peu à la mort en transférant son âme au tout dernier moment. Petit couac : il se réveille une décennie plus tard dans un tout nouveau corps dépourvu de magie. Armé de toute sa volonté, le jeune homme se lance dans une quête de pouvoir et de vengeance... Pour cela, il entreprend de gravir la mystérieuse Tour qui regorge de dangers autant que d'opportunités... Parviendra-t-il à se surpasser pour devenir le maître tout-puissant ?",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 25397,
+        "tmdb_id": null,
+        "kitsu_id": "8641"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 25397,
+            "tmdb_id": null,
+            "kitsu_id": "8641"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/absolute-necromancer/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/absolute-necromancer/saison1/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "nom": "ABSOLUTE REGRESSION",
+      "type": "Scans",
+      "genres": [
+        "Webcomic",
+        "Manhwa",
+        "Action",
+        "Aventure",
+        "Fantasy",
+        "Arts martiaux"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/absolute-regression",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-regression.jpg",
+      "noms_alt": [],
+      "synopsis": "« S'il vous plaît, renvoyez-moi dans le passé. » S'il ne peut pas tuer cette personne à cette époque, il lui suffit de retourner dans le passé. L'homme utilisa la « Grande Technique de Régression » pour traverser le temps, retournant dans le passé qu'il désirait tant. L'« épéiste hors pair » qui a tout perdu, sa famille, ses amis et sa vie. C'est la première étape de sa vengeance.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 25397,
+        "tmdb_id": null,
+        "kitsu_id": "8641"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 25397,
+            "tmdb_id": null,
+            "kitsu_id": "8641"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/absolute-regression/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/absolute-regression/saison1/vostfr/",
+          "episodes": []
+        }
+      ]
+    },
+    {
+      "nom": "ABSOLUTE SWORD SENSE",
+      "type": "Scans",
+      "genres": [
+        "Action - Arts martiaux - Aventure - Drame - Fantasy - Historique - Surnaturel - Webcomic - Mannhwa"
+      ],
+      "langues": [
+        "VF"
+      ],
+      "lien": "https://anime-sama.to/catalogue/absolute-sword-sense",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/absolute-sword-sense.jpg",
+      "noms_alt": [
+        "JEOLDAEGEOMGAM",
+        "LE SENS DE L'ÉPÉE",
+        "PERFECT SWORD SENSE"
+      ],
+      "synopsis": "So Woonhwi n'a connu qu'embûches et misères dans sa vie. Incapable d'apprendre les arts martiaux avec son dantian détruit, il est abandonné par son clan et capturé par le Culte du Sang où il devient un espion de bas-étage. Trahi et tué par ceux qui avaient promis de le tirer de son malheur, il se retrouve projeté dix ans en arrière, le jour de son kidnapping. Accompagné de sa dague au sale caractère, parviendra-t-il à changer son destin dans cette nouvelle vie ?",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 49891,
+        "tmdb_id": null,
+        "kitsu_id": "45616"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 25397,
+            "tmdb_id": null,
+            "kitsu_id": "45616"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/absolute-sword-sense/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/absolute-sword-sense/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid="
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nom": "ACADEMY'S GENIUS SWORDMASTER",
+      "type": "Scans",
+      "genres": [
+        "Action",
+        "Arts Martiaux",
+        "Aventure",
+        "Drame",
+        "Fantasy",
+        "Webcomic",
+        "Manhwa"
+      ],
+      "langues": [],
+      "lien": "https://anime-sama.to/catalogue/academys-genius-swordmaster",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/academys-genius-swordmaster.jpg",
+      "noms_alt": [
+        "L'ÉPÉISTE PRODIGE DE L'ACADÉMIE"
+      ],
+      "synopsis": "Ronan a vécu une vie de gaspillage remplie de regrets. Une seconde chance s'offre à lui à la fin de sa vie futile. Il est revenu à l'époque où il était un enfant de dix ans ! Pour les personnes qui se sont sacrifiées pour lui, il devient déterminé à vivre une nouvelle vie.",
+      "bande_annonce": null,
+      "ids": {
+        "jikan_id": 337,
+        "tmdb_id": null,
+        "kitsu_id": "7972"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Scans",
+          "titreComplet": "Scans",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 337,
+            "tmdb_id": null,
+            "kitsu_id": "7972"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/academys-genius-swordmaster/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/academys-genius-swordmaster/saison1/vostfr/",
+          "episodes": []
         }
       ]
     }
