@@ -1,0 +1,52 @@
+{
+  "nom": "HOW TO LIVE AS THE VAMPIRE LORD",
+  "type": "Scans",
+  "genres": [
+    "Action - Comédie - Fantasy - Isekai - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/how-to-live-as-the-vampire-lord",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/how-to-live-as-the-vampire-lord.jpg",
+  "noms_alt": [],
+  "synopsis": "Un humain ordinaire se retrouve transformé en Seigneur des Vampires, dirigeant une armée de morts-vivants. Il doit apprendre à gérer son royaume de ténèbres tout en cachant son humanité ou en essayant de coexister avec les humains.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53434,
+    "tmdb_id": null,
+    "kitsu_id": "4697"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53434,
+        "tmdb_id": null,
+        "kitsu_id": "4697"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/how-to-live-as-the-vampire-lord/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/how-to-live-as-the-vampire-lord/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
