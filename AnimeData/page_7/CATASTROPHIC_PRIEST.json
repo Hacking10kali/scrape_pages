@@ -1,0 +1,54 @@
+{
+  "nom": "CATASTROPHIC PRIEST",
+  "type": "Scans",
+  "genres": [
+    "Shônen - Action - Drame - Fantaisie - Webcomic - Manhwa"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/catastrophic-priest",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/catastrophic-priest.jpg",
+  "noms_alt": [
+    "I AM THE CATASTROPHIC PRIEST!"
+  ],
+  "synopsis": "Des changements globaux se produisent, le jeu devient réalité et des catastrophes démoniaques commencent à faire des ravages. Afin de résister à tout cela, chacun doit choisir une classe et monter de niveau comme un fou. Lin Ye éveille son talent divin depuis le début, renversant la situation et commençant à courir rapidement depuis le donjon supérieur. Les prêtres sont faibles ? Si j'utilise la technique de guérison, tu pourrais mourir !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 143,
+    "tmdb_id": null,
+    "kitsu_id": "11455"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "11455"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/catastrophic-priest/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/catastrophic-priest/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
