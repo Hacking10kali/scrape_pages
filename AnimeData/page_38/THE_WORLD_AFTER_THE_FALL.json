@@ -1,0 +1,43 @@
+{
+  "nom": "THE WORLD AFTER THE FALL",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Fantasy",
+    "Isekai",
+    "Webcomic"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-world-after-the-fall",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-world-after-the-fall.jpg",
+  "noms_alt": [
+    "MYEOLMANG IHUUI SEGYE"
+  ],
+  "synopsis": "Quand l'apocalypse a éclaté, j'ai été convoqué par la « tour des cauchemars » et j'ai décidé de la monter en joignant mes forces avec les autres afin d'arrêter la destruction de l'humanité. Alors que nous combatstions dans la tour, une pierre mystérieuse est apparue devant nous. Cette pierre offre à son utilisateur la possibilité de retourner dans le passé. La plupart des autres ont fini, un par un, par l'accepter, tandis que moi j'ai décidé de rester dans le présent. Pourrais-je réussir à monter seul en haut de la tour et sauver l'humanité ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 35079,
+    "tmdb_id": null,
+    "kitsu_id": "11455"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 35079,
+        "tmdb_id": null,
+        "kitsu_id": "42345"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-world-after-the-fall/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-world-after-the-fall/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
