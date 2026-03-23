@@ -1,0 +1,49 @@
+{
+  "nom": "JIN-ROH",
+  "type": "Anime, Film",
+  "genres": [
+    "Drame",
+    "Psychologique",
+    "Romance",
+    "Science-fiction",
+    "Thriller"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/jin-roh",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jin-roh.jpg",
+  "noms_alt": [
+    "JIN ROH LA BRIGADE DES LOUPS",
+    "JIN-ROH : THE WOLF BRIGADE"
+  ],
+  "synopsis": "L'histoire se déroule à Tokyo dans les années 60-70 d'un monde uchronique ou l'Allemagne à gagné la Seconde Guerre mondiale et envahi le Japon. Les révoltes font rage opposant les forces de police aux membres de la Secte, une organisation composée d'opposants au pouvoir. Pour contrer les rebelles, une police spéciale a été mise en place, dans laquelle il existe une brigade spéciale militarisée : la Brigade des loups (Wolf brigade). Fuse, un membre de cette unité spéciale voie sous ses yeux une jeune femme terroriste se suicider. Dès lors, il devient hanté par l'image de cette jeune femme. Par la suite, il rencontre la sœur de la victime et en tombe amoureux. Rencontre destinée ou préméditée ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 11841,
+    "tmdb_id": 233221,
+    "kitsu_id": "13262"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 570,
+        "tmdb_id": 823,
+        "kitsu_id": "527"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/jin-roh/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/jin-roh/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
