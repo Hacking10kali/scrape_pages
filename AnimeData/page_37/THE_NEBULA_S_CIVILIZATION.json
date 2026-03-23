@@ -1,0 +1,54 @@
+{
+  "nom": "THE NEBULA'S CIVILIZATION",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Action - Aventure - Drame - Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/the-nebulas-civilization",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-nebulas-civilization.jpg",
+  "noms_alt": [],
+  "synopsis": "Choi Sungwoon a réussi tous les exploits du jeu « Perished World » et est devenu le premier joueur du jeu. Après un bref moment de joie, Sungwoon reçoit un e-mail suspect et est convoqué dans une version réelle de « Perished World », entamant ainsi sa course pour devenir un « dieu ».",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8074,
+    "tmdb_id": null,
+    "kitsu_id": "824"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8074,
+        "tmdb_id": null,
+        "kitsu_id": "824"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/the-nebulas-civilization/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/the-nebulas-civilization/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
