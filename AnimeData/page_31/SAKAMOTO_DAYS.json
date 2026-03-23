@@ -1,0 +1,60 @@
+{
+  "nom": "SAKAMOTO DAYS",
+  "type": "Anime, Scans",
+  "genres": [
+    "Assassinat",
+    "Chasseur de prime",
+    "Combats",
+    "Mariage",
+    "Parodie",
+    "Pouvoirs psychiques",
+    "Action",
+    "Comédie",
+    "Shônen"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF",
+    "VASTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/sakamoto-days",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sakamoto-days0.jpg",
+  "noms_alt": [],
+  "synopsis": "Taro Sakamoto est un assassin légendaire, le meilleur d'entre tous, craint par tous les gangsters, adulé par ses pairs. Mais un beau jour... il tombe amoureux ! S'ensuivent retraite, mariage, paternité... et prise de poids. Sakamoto est aujourd'hui patron d'une petite épicerie de quartier et coule des jours heureux avec sa famille. Mais lorsque son passé le rattrape sous les traits de Shin, un jeune assassin télépathe, Sakamoto reprend du service... Et malgré son apparence, il est toujours aussi charismatique lorsqu'il passe à l'action !",
+  "bande_annonce": "https://www.youtube.com/embed/DiaETPq4Faw",
+  "ids": {
+    "jikan_id": 58939,
+    "tmdb_id": 207332,
+    "kitsu_id": "6062"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1 Partie 1",
+      "titreComplet": "Saison 1 Partie 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 58939,
+        "tmdb_id": 207332,
+        "kitsu_id": "6062"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/sakamoto-days/saison1-partie1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sakamoto-days/saison1-partie1/vostfr/",
+      "episodes": []
+    },
+    {
+      "titreVignette": "Saison 1 Partie 2",
+      "titreComplet": "Saison 1 Partie 2",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 58939,
+        "tmdb_id": 207332,
+        "kitsu_id": "6062"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/sakamoto-days/saison1-partie2/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/sakamoto-days/saison1-partie2/vostfr/",
+      "episodes": []
+    }
+  ]
+}
