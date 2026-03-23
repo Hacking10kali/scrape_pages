@@ -1,0 +1,47 @@
+{
+  "nom": "ADABANA",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Drame",
+    "Mature",
+    "Mystère",
+    "Psychologique",
+    "Thriller",
+    "Amitié",
+    "Amour",
+    "Avocat",
+    "Crime",
+    "Enquête",
+    "Traumatisme"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/adabana",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/adabana.jpg",
+  "noms_alt": [],
+  "synopsis": "La tranquillité d'une petite ville japonaise, recouverte de neige, est brutalement perturbée par un meurtre odieux. Le corps démembré d'une lycéenne du nom de Mako Igarashi est retrouvé près d'un lac. Bientôt, Mizuki Aikawa, élève au même lycée que la victime, revendique les faits auprès des forces de polices locales. Cependant, alors qu'elle relate les événements, le doute s'invite progressivement dans la tête de ses avocats. Quels lourds secrets Mako et Mizuki partageaient-elles ? Voici le récit d'une lutte au cœur des ténèbres de l'âme humaine et de ses perversions.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 56980,
+    "tmdb_id": null,
+    "kitsu_id": "48185"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "6594"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/adabana/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/adabana/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
