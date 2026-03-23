@@ -1,0 +1,54 @@
+{
+  "nom": "DUKEDOM'S LEGENDARY PRODIGY",
+  "type": "Scans",
+  "genres": [
+    "Action - Fantasy - Magie - Noblesse - Manhwa - Webcomic"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/dukedoms-legendary-prodigy",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dukedoms-legendary-prodigy.jpg",
+  "noms_alt": [
+    "LEGENDARY YOUNGEST SON OF THE MARQUIS HOUSE"
+  ],
+  "synopsis": "Un individu talentueux se réincarne en tant que plus jeune fils d'une famille ducale prestigieuse. Grâce à ses connaissances de sa vie antérieure et à son talent inné, il surmonte les obstacles politiques et magiques pour devenir une légende au sein de l'empire.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 39523,
+    "tmdb_id": null,
+    "kitsu_id": "8850"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 10869,
+        "tmdb_id": null,
+        "kitsu_id": "8850"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dukedoms-legendary-prodigy/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dukedoms-legendary-prodigy/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
