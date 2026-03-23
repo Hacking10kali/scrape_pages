@@ -1,0 +1,42 @@
+{
+  "nom": "DUNGEON RESET",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Fantasy",
+    "Isekai",
+    "Autre monde",
+    "Combats",
+    "Magie"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/dungeon-reset",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-reset.jpg",
+  "noms_alt": [],
+  "synopsis": "Une fois un donjon exploré et ses pièges activés, il se réinitialise pour les prochains «utilisateurs». Mais ces réinitialisations ne s'appliquent pas à moi ?! Jeong Da Woon, surnommé \"the Bug\", commence son exploration de donjon !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 28121,
+    "tmdb_id": null,
+    "kitsu_id": "44031"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 28121,
+        "tmdb_id": null,
+        "kitsu_id": "44031"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/dungeon-reset/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-reset/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
