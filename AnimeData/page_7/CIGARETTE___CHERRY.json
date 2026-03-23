@@ -1,0 +1,54 @@
+{
+  "nom": "CIGARETTE & CHERRY",
+  "type": "Scans",
+  "genres": [
+    "Seinen - Comédie - Romance"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/cigarette-and-cherry",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/cigarette-and-cherry.jpg",
+  "noms_alt": [
+    "CIGARETTE AND CHERRY"
+  ],
+  "synopsis": "Après trois années passées dans un lycée pour garçons, un jeune homme vient d'entrer à l'université. Très vite, il fait la rencontre d'une étudiante plus âgée que lui. Il tombe sous le charme et va tenter de la séduire... Pour ce faire il suit les conseils d'un livre de drague et, bien entendu, ça ne marche pas. Mais la situation n'est pas aussi désespérée qu'elle semble l'être...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 28691,
+    "tmdb_id": 228957,
+    "kitsu_id": "50551"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 28691,
+        "tmdb_id": 228957,
+        "kitsu_id": "50551"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/cigarette-and-cherry/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/cigarette-and-cherry/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
