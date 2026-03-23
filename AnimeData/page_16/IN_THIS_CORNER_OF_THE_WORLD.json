@@ -1,0 +1,51 @@
+{
+  "nom": "IN THIS CORNER OF THE WORLD",
+  "type": "Film",
+  "genres": [
+    "Drame",
+    "Historique",
+    "Romance",
+    "Slice of Life",
+    "Famille",
+    "Guerre",
+    "Quotidien"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/in-this-corner-of-the-world",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/in-this-corner-of-the-world.jpg",
+  "noms_alt": [
+    "KONO SEKAI NO KATASUMI NI",
+    "DANS UN RECOIN DU MONDE"
+  ],
+  "synopsis": "Suzu Urano est une fille d'Hiroshima. Lorsqu'elle se marie avec le fils de la famille Hojo, elle part vivre chez lui, à Kure, une ville où l'aspect militaire est particulièrement présent puisqu'elle dispose entre autres d'une base navale. Alors que leur quotidien se met en place, la jeune femme découvre les déceptions de la vie de couple : quelques souvenirs du passé refont surface... Petit à petit, la vie que Suzu avait pourtant rêvé empire et la guerre n'arrange pas les choses. En 1945, un bombardement va littéralement bouleverser son existence...",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53730,
+    "tmdb_id": 81297,
+    "kitsu_id": "11584"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 15227,
+        "tmdb_id": 378108,
+        "kitsu_id": "7234"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/in-this-corner-of-the-world/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/in-this-corner-of-the-world/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": []
+        }
+      ]
+    }
+  ]
+}
