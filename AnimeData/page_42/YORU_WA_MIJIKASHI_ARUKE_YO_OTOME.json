@@ -1,0 +1,55 @@
+{
+  "nom": "YORU WA MIJIKASHI ARUKE YO OTOME",
+  "type": "Anime",
+  "genres": [
+    "Comédie",
+    "Psychologique",
+    "Romance",
+    "Slice of Life"
+  ],
+  "langues": [
+    "VOSTFR"
+  ],
+  "lien": "https://anime-sama.to/catalogue/yoru-wa-mijikashi-aruke-yo-otome",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/yoru-wa-mijikashi-aruke-yo-otome.jpg",
+  "noms_alt": [
+    "THE NIGHT IS SHORT",
+    "WALK ON GIRL",
+    "THE NIGHT IS SHORT",
+    "SO WALK",
+    "GIRL"
+  ],
+  "synopsis": "L'histoire tourne autour d'un lycéen qui essaie maladroitement d'attirer l'attention de celle qu'il aime.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 44387,
+    "tmdb_id": null,
+    "kitsu_id": "46090"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 34537,
+        "tmdb_id": 430214,
+        "kitsu_id": "13138"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/yoru-wa-mijikashi-aruke-yo-otome/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/yoru-wa-mijikashi-aruke-yo-otome/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4813399\t"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
