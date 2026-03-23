@@ -1,0 +1,53 @@
+{
+  "nom": "BELLE",
+  "type": "Anime, Film",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Monde virtuel",
+    "Musique"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/belle",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/belle.jpg",
+  "noms_alt": [
+    "THE PRINCESS OF DRAGONS AND FRECKLES",
+    "RYUU TO SOBAKASU NO HIME"
+  ],
+  "synopsis": "L'histoire d'une adolescente de 17 ans, Suzu, dont le quotidien se partage entre le petit village où elle vit avec son père et \"U\", un monde virtuel aux cinq milliards d'abonnés dont elle est l'une des icônes, la chanteuse Belle. Lorsqu'elle rencontre une mystérieuse créature, elle se lance dans une quête pleine d'aventures.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 3836,
+    "tmdb_id": 2617,
+    "kitsu_id": "3288"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 44807,
+        "tmdb_id": 205601,
+        "kitsu_id": "43808"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/belle/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/belle/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4802185"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
