@@ -1,0 +1,45 @@
+{
+  "nom": "INFINITE MAGE",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Fantasy",
+    "Amitié",
+    "Apprentissage",
+    "Combats",
+    "Discrimination",
+    "Magie",
+    "Royauté"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/infinite-mage",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/infinite-mage.jpg",
+  "noms_alt": [
+    "MUHANUI MABEOPSA"
+  ],
+  "synopsis": "Quand les membres de la famille Ariane découvrent un bébé aux cheveux blonds abandonné dans leur étable, ils ne s'attendent pas à élever un véritable petit génie ! À l'âge de douze ans, le jeune Shirone découvre la magie dans un livre et rêve de devenir un grand mage. Cependant, au royaume de Thormia, il est hors de question de laisser un simple roturier apprendre cette noble discipline ! La détermination de Shirone suffira-t-elle pour accomplir son rêve dans ce monde impitoyable?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 18247,
+    "tmdb_id": null,
+    "kitsu_id": "47375"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 18247,
+        "tmdb_id": null,
+        "kitsu_id": "8126"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/infinite-mage/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/infinite-mage/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
