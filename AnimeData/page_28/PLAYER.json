@@ -1,0 +1,39 @@
+{
+  "nom": "PLAYER",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Aventure",
+    "Fantastique",
+    "Ecole"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/player",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/player.jpg",
+  "noms_alt": [],
+  "synopsis": "Seoljin est un vrai loser à l'école : il est méprisé par tous, même par ceux qu'il croyait être ses amis. La seule chose qu'il puisse faire pour échapper à cette dure réalité, c'est de lire des webtoons d'action, de s'imaginer à la place des héros qui se battent courageusement contre leurs adversaires, sans la moindre hésitation. Mais la vie de Seoljin va prendre un tout autre tournant lorsqu'il laissera un petit commentaire sur le webtoon \"Player\" : un commentaire qui, bientôt, le conduira dans l'univers-même de ce webtoon !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 9952,
+    "tmdb_id": 154063,
+    "kitsu_id": "11380"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 9952,
+        "tmdb_id": null,
+        "kitsu_id": "8174"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/player/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/player/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
