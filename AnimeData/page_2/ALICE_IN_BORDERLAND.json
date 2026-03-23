@@ -1,0 +1,42 @@
+{
+  "nom": "ALICE IN BORDERLAND",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Psychologique",
+    "Surnaturel",
+    "Tragique",
+    "Shônen"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/alice-in-borderland",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/alice-in-borderland.jpg",
+  "noms_alt": [
+    "IMAWA NO KUNI NO ALICE"
+  ],
+  "synopsis": "Alice Ryôhei, 18 ans, est ce qu'on appelle un échec de la société. Il tente vainement de réussir des examens pour garantir son futur mais rien n'y fait : il veut rester dans ce monde insouciant de l'enfance. Il est d'autant plus découragé que son frère est son exact opposé : il est le parfait exemple de la réussite scolaire et sociale. Alice est, en quelque sorte, atteint du syndrome de Peter Pan. Avec ses amis Chôta Segawa, obsédé par les filles, et Karube Daikichi, ancien voyou devenu propriétaire d'un bar, il imagine un monde meilleur et tente d'oublier que demain arrivera pour le tirer de sa rêverie.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 2572,
+    "tmdb_id": 110316,
+    "kitsu_id": "2337"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 2572,
+        "tmdb_id": null,
+        "kitsu_id": "2337"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/alice-in-borderland/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/alice-in-borderland/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
