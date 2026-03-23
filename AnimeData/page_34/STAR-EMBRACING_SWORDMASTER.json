@@ -1,0 +1,60 @@
+{
+  "nom": "STAR-EMBRACING SWORDMASTER",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Drame",
+    "Fantasy",
+    "Surnaturel"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/star-embracing-swordmaster",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/star-embracing-swordmaster.jpg",
+  "noms_alt": [
+    "STAR-FOSTERED SWORDMASTER",
+    "THE STELLAR SWORDMASTER"
+  ],
+  "synopsis": "Vlad est un jeune vagabond du bidonville de Shoara qui admire les chevaliers depuis toujours. Sa vie bascule le jour où une voix commence à résonner dans sa tête après avoir été frappé par un éclair noir, et où le chevalier de la lune bleue apparaît soudainement devant lui.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 8934,
+    "tmdb_id": null,
+    "kitsu_id": "1697"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 8934,
+        "tmdb_id": null,
+        "kitsu_id": "1697"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/star-embracing-swordmaster/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/star-embracing-swordmaster/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
