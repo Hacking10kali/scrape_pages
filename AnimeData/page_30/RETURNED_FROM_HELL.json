@@ -1,0 +1,57 @@
+{
+  "nom": "RETURNED FROM HELL",
+  "type": "Scans",
+  "genres": [
+    "Manhwa - Webcomic - Seinen - Action - Aventure - Drame - Fantasy - Surnaturel"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/returned-from-hell",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/returned-from-hell.jpg",
+  "noms_alt": [
+    "HAN DAE SEONG CAME BACK FROM HELL",
+    "HAN DAE SUNG RETURNED FROM HELL"
+  ],
+  "synopsis": "Sur le chemin du retour de sa troisième année de collège, Han Dae-sung tombe en enfer sans aucun contexte. Au début, il errait en enfer pendant quelques jours et désespérait, mais il a décidé qu'il devait vivre. Il commence à se battre avec la détermination de revenir sur Terre. L'enfer ressemblait à un jeu. Une fenêtre contextuelle UI apparaît devant ses yeux comme un hologramme, semblable à un jeu RPG. Il y a une fenêtre d'état où il apprend des compétences et acquiert des objets. Même s'il a failli perdre la vie plusieurs fois face aux bêtes féroces de l'enfer, il a persisté et a continué à grandir. 10 ans passent, 50 ans passent et 80 ans s'écoulent. Il finit par vaincre le démon, le seigneur absolu de l'enfer, et accède à un nouveau siège de pouvoir. \"Souhaitez-vous retourner sur Terre ?\"",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 53494,
+    "tmdb_id": null,
+    "kitsu_id": "43553"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 53494,
+        "tmdb_id": null,
+        "kitsu_id": "48216"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/returned-from-hell/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/returned-from-hell/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
