@@ -1,0 +1,57 @@
+{
+  "nom": "YOUR NAME",
+  "type": "Anime, Scans, Film",
+  "genres": [
+    "Drame",
+    "Romance",
+    "School Life",
+    "Surnaturel",
+    "Seinen"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/your-name/",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/your-name.jpg",
+  "noms_alt": [
+    "KIMI NO NA WA"
+  ],
+  "synopsis": "Mitsuha est une lycéenne qui réside dans une petite ville située dans les montagnes. Elle vit aux côtés de sa petite soeur, sa grand-mère ainsi que son père, bien que ce dernier ne soit jamais à la maison à cause de son travail de maire. En réalité, sa vie ne lui convient pas et elle souhaite pouvoir vivre à Tokyo. Taki est un lycéen qui habite à Tokyo et qui adore l'architecture et l'art. Il vit une vie normale d'étudiant entouré d'amis et travaille même dans un petit restaurant italien. Mais un jour, il fait un rêve dans lequel il est dans la peau d'une jeune fille qui vit dans une ville en montagne. Mitsuha, quant à elle, fait également un rêve dans lequel elle est dans un corps d'un garçon tokyoïte. Quel est le secret qui se cache derrière ces étranges rêves qui échangent la vie de ces deux jeunes gens ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 61839,
+    "tmdb_id": 72851,
+    "kitsu_id": "702"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 32281,
+        "tmdb_id": 372058,
+        "kitsu_id": "11614"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/your-name/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/your-name/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=3202964"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://Smoothpre.com/embed/rxa56wio3f15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
