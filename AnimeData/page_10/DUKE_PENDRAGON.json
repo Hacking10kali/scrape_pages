@@ -1,0 +1,63 @@
+{
+  "nom": "DUKE PENDRAGON",
+  "type": "Scans",
+  "genres": [
+    "Webcomic",
+    "Manhwa",
+    "Action",
+    "Aventure",
+    "Drame",
+    "Fantasy",
+    "Romance"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/duke-pendragon",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/duke-pendragon.jpg",
+  "noms_alt": [
+    "BAEKRYONGGONGJAK PENDRAGON",
+    "HAKURYUU KOUSHAKU PENDRAGON"
+  ],
+  "synopsis": "Raven Balt, qu'on surnomme le corbeau immortel de la légion démoniaque, cache un lourd passé ! Ce guerrier est en fait issu d'une noble famille déchue... et injustement condamnée ! Il apprendra cependant cette triste vérité qu'une seconde avant de se faire couper la tête par son commandant... et de se réveiller dans le corps d'Ellen Pendragon. Il ne reste plus qu'à Raven, devenu Ellen, une dernière chance de réaliser sa vengeance. Avec le dragon blanc à ses côtés, ça serait peut-être plus simple...!",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 47257,
+    "tmdb_id": null,
+    "kitsu_id": "44035"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 47257,
+        "tmdb_id": null,
+        "kitsu_id": "44035"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/duke-pendragon/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/duke-pendragon/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid="
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vk.com/video_ext.php?oid=&hd=3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
