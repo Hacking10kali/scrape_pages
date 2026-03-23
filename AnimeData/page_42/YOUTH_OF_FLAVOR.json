@@ -1,0 +1,56 @@
+{
+  "nom": "YOUTH OF FLAVOR",
+  "type": "Film",
+  "genres": [
+    "Comédie",
+    "Drame",
+    "Romance",
+    "Slice of Life",
+    "Adolescence",
+    "Mode",
+    "Quotidien"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/youth-of-flavor",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/youth-of-flavor.jpg",
+  "noms_alt": [
+    "SHIKIORIORI",
+    "FLAVORS OF YOUTH"
+  ],
+  "synopsis": "Shikioriori est un projet de trois courts films d'animation réalisé par le studio CoMiX Wave en collaboration avec la société chinoise Haoliners. Le projet final, qui comprend deux heures de vidéo, est décliné en trois courts films, tous réalisés par trois réalisateurs différents, et tous se déroulant dans une ville chinoise : Hidamari no Choushoku, de Jiaoshou Yi Xiaoxing : l'histoire d'un salarié vivant à Shanghai qui retourne dans son village natal et se remémore les bonnes nouilles que lui préparait sa grand-mère. Chiisana Fashion Show, de Yoshitaka Takeuchi, le parcours de deux sœurs à Guangzhou, qui partagent le même rêve, celui de travailler dans la mode. L'une en tant que modèle, l'autre en tant que styliste. Shanghai Koi, de Li Haoling, l'histoire d'amitié entre un jeune homme et une fille, dans le Shanghai des années 90.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 518,
+    "tmdb_id": null,
+    "kitsu_id": "354"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 37396,
+        "tmdb_id": 513347,
+        "kitsu_id": "41404"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/youth-of-flavor/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/youth-of-flavor/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/0ozvesop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
