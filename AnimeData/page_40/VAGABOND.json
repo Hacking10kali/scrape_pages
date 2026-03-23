@@ -1,0 +1,40 @@
+{
+  "nom": "VAGABOND",
+  "type": "Scans",
+  "genres": [
+    "Seinen",
+    "Action",
+    "Drame",
+    "Historique",
+    "Arts martiaux"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/vagabond",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/vagabond.jpg",
+  "noms_alt": [],
+  "synopsis": "En 1600 a lieu la terrible bataille de Sekigahara, qui assied le pouvoir du shôgun Tokugawa. Parmi les combattants se trouve Musashi, le fils d'un grand samurai, qui est prêt à tout pour survivre. Alors qu'il revient dans son village natal, il est pourchassé pour avoir déserté, et se trouve rejeté par les habitants. Commence alors pour lui une longue errance, avec un unique objectif : améliorer sa maitrise de la lame, et devenir le meilleur samurai du Japon.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 45,
+    "tmdb_id": 28136,
+    "kitsu_id": "1216"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 45,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/vagabond/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/vagabond/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
