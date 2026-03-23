@@ -1,0 +1,37 @@
+{
+  "nom": "EVIL HEROES",
+  "type": "Scans",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "langues": [
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/evil-heroes",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/evil-heroes.jpg",
+  "noms_alt": [],
+  "synopsis": "Pour combattre le mal et maintenir la paix, les super-héros sont toujours là ! Des hommes et des femmes dotés de capacités extraordinaires et dont l'identité reste un mystère. L'humanité peut compter sur eux ! Mais... et si jamais ils venaient un jour à se retourner contre nous ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 36245,
+    "tmdb_id": null,
+    "kitsu_id": "3878"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 36245,
+        "tmdb_id": null,
+        "kitsu_id": "3878"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/evil-heroes/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/evil-heroes/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
