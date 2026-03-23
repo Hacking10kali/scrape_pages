@@ -1,0 +1,39 @@
+{
+  "nom": "ESTIO",
+  "type": "Scans",
+  "genres": [
+    "Manhwa",
+    "Webcomic",
+    "Action",
+    "Drame",
+    "Fantasy",
+    "Surnaturel"
+  ],
+  "langues": [],
+  "lien": "https://anime-sama.to/catalogue/estio",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/estio.jpg",
+  "noms_alt": [],
+  "synopsis": "Estio possède le don singulier de lire les pensées et de visiter les souvenirs des humains et des bêtes. Rejeté par sa communauté à cause de cette aptitude, le jeune homme n'a jamais pu compter que sur ses amis animaux. Le jour de ses 19 ans, il décide de quitter sa campagne natale en quête de réponses à sa différence. Fort de nouvelles expériences et des rencontres faites en chemin, Estio parviendra-t-il enfin à trouver un sens à sa vie et une place auprès des siens ?",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 6468,
+    "tmdb_id": null,
+    "kitsu_id": "4617"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Scans",
+      "titreComplet": "Scans",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 6468,
+        "tmdb_id": null,
+        "kitsu_id": "8687"
+      },
+      "langue": "vostfr",
+      "lien_vf": "https://anime-sama.to/catalogue/estio/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/estio/saison1/vostfr/",
+      "episodes": []
+    }
+  ]
+}
