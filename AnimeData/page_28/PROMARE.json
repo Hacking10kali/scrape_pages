@@ -1,0 +1,51 @@
+{
+  "nom": "PROMARE",
+  "type": "Anime, Film",
+  "genres": [
+    "Action - Science-fiction - Surnaturel - Combats - Mechas - Pompier"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/promare",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/promare.jpg",
+  "noms_alt": [],
+  "synopsis": "Il y a trente ans, une nouvelle race de mutants brandissant une flamme est soudainement apparue, détruisant une grande partie de l'humanité. Ces êtres nommés «Burnish» ont continué d'apparaître au hasard, laissant derrière eux une traînée de mort et de destruction.La république autonome de Promepolis est une nation prospère grâce aux efforts incroyables de son gouverneur, Kray Foresight. Une équipe de pompiers connue sous le nom de «Burning Rescue» est chargée d'arrêter ces horribles monstres, en utilisant la technologie la plus performante du mécanicien Lucia Fex.Galo Thymos, le héros, est un jeune homme énergique qui considère Foresight comme son héros pour lui avoir sauvé la vie.Un groupe terroriste se faisant appeler Mad Burnish a provoqué des ravages dans tout le pays. Après une rencontre avec le dirigeant de Mad Burnish, Lio Fotia, Galo se lance dans son voyage à la recherche de la vérité sur ces mutants, l'amenant finalement à remettre en question tout ce qu'il croyait auparavant.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 114,
+    "tmdb_id": null,
+    "kitsu_id": "41312"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 35848,
+        "tmdb_id": 553600,
+        "kitsu_id": "13602"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/promare/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/promare/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Promare",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-mnbv0zys2ny5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://Smoothpre.com/embed/axu921klt1u7"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
