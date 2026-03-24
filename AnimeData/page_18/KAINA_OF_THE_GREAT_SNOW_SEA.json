@@ -39,6 +39,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239179&hash=1f0df0ea878b8acc&hd=3"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5006760"
             },
@@ -235,7 +239,12 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://www.yourupload.com/embed/7uuu6tl58xq4"
+            }
+          ]
         }
       ]
     }
