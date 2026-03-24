@@ -1,8 +1,8 @@
 {
   "page": 41,
-  "scraped_at": "20260323_192704",
-  "duration_s": 5203,
-  "total": 48,
+  "scraped_at": "20260324_114753",
+  "duration_s": 559,
+  "total": 40,
   "animes": [
     {
       "nom": "VAMPIRE GARDEN",
@@ -173,11 +173,21 @@
           "episodes": [
             {
               "episode": "Episode Vampire Hunter D",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://www.yourupload.com/embed/6nDdKE6U665o"
+                }
+              ]
             },
             {
               "episode": "Episode Vampire Hunter D Bloodlust",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://www.yourupload.com/embed/38mFC82vB51k"
+                }
+              ]
             }
           ]
         }
@@ -670,66 +680,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://www.myvi.tv/embed/w9w5u74detuwbgefbb1wa79esa"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "VANTA BLACK",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Combat",
-        "Drame"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/vanta-black",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/vanta-black.jpg",
-      "noms_alt": [
-        "SINSINSEONG"
-      ],
-      "synopsis": "Lee Shinhyuk, le « Vanta black », est le chef de l’unité spéciale 55, une équipe d’élite composée des meilleurs agents secrets de la planète. Mais quand sa petite sœur Sumin, jeune rêveuse promise à devenir idole, est assassinée en Amérique du Sud, tout bascule. Alors que le monde tente d’étouffer l’affaire, Shinhyuk, abandonne tout pour découvrir la vérité. Son enquête le mène jusqu’à « Xica », un cartel international, qu’il découvre responsable de la mort de sa sœur. Prêt à tout pour se venger, Shinhyuk devient le garde du corps de Yoo Chaewon, la reine de la K-pop et véritable cible de Xica. Face à une organisation criminelle qui manipule même les gouvernements, parviendra-t-il à mener sa vengeance jusqu’au bout ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 57433,
-        "tmdb_id": null,
-        "kitsu_id": "45746"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 57433,
-            "tmdb_id": null,
-            "kitsu_id": "45746"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/vanta-black/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/vanta-black/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -2443,92 +2393,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "VILLAIN TO KILL",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Drame",
-        "Fantastique",
-        "Combats",
-        "Vengeance",
-        "Isekai"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/villain-to-kill",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/villain-to-kill.jpg",
-      "noms_alt": [],
-      "synopsis": "Il existe deux types de personnes dotées de capacités extraordinaires : les méchants, qui sont poussés par leurs désirs, et les psykers, qui poursuivent la justice et luttent contre les criminels. Cassian est l'un des meilleurs psykers avec un tempérament de feu.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 54617,
-        "tmdb_id": null,
-        "kitsu_id": "41294"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 54617,
-            "tmdb_id": null,
-            "kitsu_id": "13550"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/villain-to-kill/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/villain-to-kill/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "VILLAIN UNRIVALED",
-      "type": "Scans",
-      "genres": [
-        "Manhua",
-        "Manhwa",
-        "Shônen",
-        "Webcomic",
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Historique"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/villain-unrivaled",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/villain-unrivaled.jpg",
-      "noms_alt": [
-        "THE VILLAIN IS UNPARALLELED"
-      ],
-      "synopsis": "Quand je me suis réveillé, je me suis rendu compte que j'étais devenu un méchant dans un roman d'arts martiaux que j'ai écrit... Mais pourquoi a-t-il fallu que de tous les choix possibles, je sois devenu Hyuk Ryun Woon ? Hyuk Ryun Woon... le quatrième fils du dirigeant du culte démoniaque, un coureur de jupons notoire, un artiste martial faible et colérique, et surtout... Un méchant de bas étage, destiné à se faire tuer en un coup par le héros de cette histoire ! Je ne veux pas qu'il me tue. Je n'ai pas le choix, je vais devoir devenir fort. \"Putain. Héros ou pas, je les tuerai tous !\". Voici l'histoire d'un méchant détestable, prêt à tout pour survivre !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 54617,
-        "tmdb_id": null,
-        "kitsu_id": "3"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 54617,
-            "tmdb_id": null,
-            "kitsu_id": "3"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/villain-unrivaled/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/villain-unrivaled/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -4913,58 +4777,6 @@
       ]
     },
     {
-      "nom": "VIRUS KING",
-      "type": "Scans",
-      "genres": [
-        "Action - Horreur - Science-fiction - Surnaturel - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/virus-king",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/virus-king.jpg",
-      "noms_alt": [],
-      "synopsis": "Dans un monde ravagé par des zombies ou des monstres biologiques, le protagoniste acquiert le pouvoir de contrôler le virus ou de l'assimiler. Il devient le \"Roi des Virus\", capable de commander aux infectés et d'utiliser l'infection comme une arme.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 42205,
-        "tmdb_id": 9045,
-        "kitsu_id": "3542"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 2364,
-            "tmdb_id": null,
-            "kitsu_id": "3542"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/virus-king/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/virus-king/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "VISION D'ESCAFLOWNE",
       "type": "Anime",
       "genres": [
@@ -5021,6 +4833,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4956942"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/p3bxlw2u"
@@ -6028,7 +5844,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4835135\t"
+                }
+              ]
             }
           ]
         }
@@ -10440,6 +10261,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-cmdsjtsx00id.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/ygdzucdzb03t"
                 },
@@ -10672,6 +10497,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-2dpf3czkcni0.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/y06srnscc6xr"
                 },
@@ -10903,6 +10732,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-44qz7qaibued.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/q15gq0zhs767"
@@ -11289,6 +11122,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-wpo1yd48hl6v.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/dnyha0u6qlz6"
                 },
@@ -11672,7 +11509,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-65lo7rprwsx7.html"
+                }
+              ]
             }
           ]
         }
@@ -12345,50 +12187,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "WEBTOON CHARACTER NA KANG LIM",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Comédie",
-        "Fantasy",
-        "Harem",
-        "Romance",
-        "Slice of Life",
-        "School Life"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/webtoon-character-na-kang-lim",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/webtoon-character-na-kang-lim.jpg",
-      "noms_alt": [],
-      "synopsis": "Na Kang-Lim est un lycéen qui aime lire des webtoons. Un jour, l'héroïne du webtoon qu'il a l'habitude de lire apparaît devant lui. Les mêmes événements du webtoon se produisent en vrai et la mettent dans en situation critique. Le problème, il n'y a pas d'héroïne dans la vraie vie pour la sauver ! Na Kang-Lim prend alors ce rôle et remonte le temps pour la sauver.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 50552,
-        "tmdb_id": null,
-        "kitsu_id": "7651"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "7651"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/webtoon-character-na-kang-lim/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/webtoon-character-na-kang-lim/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -15002,92 +14800,6 @@
       ]
     },
     {
-      "nom": "WHITE BLOOD",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Fantastique",
-        "Romance",
-        "Slice of Life",
-        "Combats",
-        "Quotidien",
-        "Vampires"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/white-blood",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/white-blood.jpg",
-      "noms_alt": [
-        "UNHOLY BLOOD"
-      ],
-      "synopsis": "Park Ha Yan est une vampire de sang pur qui ne rêve que de vivre en paix avec les humains. Mais pour ces derniers, les vampires sont des monstres effrayants. Et chaque nouveau meurtre commis par un vampire renforce la haine que les humains leur vouent. Pour s'intégrer à la société et obtenir la paix qu'elle désire, Ha Yan doit mettre fin aux crimes des autres membres de son espèce.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 6165,
-        "tmdb_id": 299275,
-        "kitsu_id": "14212"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 6165,
-            "tmdb_id": null,
-            "kitsu_id": "14212"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/white-blood/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/white-blood/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "WHY I QUIT BEING THE DEMON KING",
-      "type": "Scans",
-      "genres": [
-        "Manhua",
-        "Manhwa",
-        "Shônen",
-        "Webcomic",
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Comédie",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/why-i-quit-being-the-demon-king",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/why-i-quit-being-the-demon-king.jpg",
-      "noms_alt": [],
-      "synopsis": "Une époque de chaos. Le Roi Démon a envahi le monde humain pendant des générations durant 665 siècles. Ce sont des hommes courageux qui ont mis fin à cette terrible guerre. Grâce à leur saint sacrifice, l'humanité a à peine survécu. Mais c' est l'histoire d'un nouveau seigneur démon. Roi Démon Démiurge 666 ans. Il prononça un mot et quitta soudainement le monde des démons. \"Je vais arrêter d'être un seigneur démon.\" Un seigneur démon en fuite et un héros qui est devenu son subordonné. Quelle est la vraie raison pour laquelle il a arrêté d'être le Roi Démon ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 59787,
-        "tmdb_id": null,
-        "kitsu_id": "45341"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 63537,
-            "tmdb_id": null,
-            "kitsu_id": "45341"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/why-i-quit-being-the-demon-king/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/why-i-quit-being-the-demon-king/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "WHY NOBODY REMEMBERS MY WORLD?",
       "type": "Anime",
       "genres": [
@@ -15371,58 +15083,6 @@
                 {
                   "lecteur": "Lecteur 4",
                   "url": "https://vk.com/video_ext.php?oid=790085849&id=456239107&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "WILD STRAWBERRY",
-      "type": "Scans",
-      "genres": [
-        "Action - Horreur - Science-fiction - Shônen"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/wild-strawberry",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/wild-strawberry.jpg",
-      "noms_alt": [],
-      "synopsis": "À Tokyo, d'étranges plantes mutantes ont commencé à parasiter et dévorer les humains, les transformant en monstres nommés \"Jinka\". Kingo et sa sœur adoptive Kayano tentent de survivre dans ce chaos. Mais lorsque Kayano est infectée, Kingo doit s'allier avec une force militaire spéciale pour la sauver.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 17,
-        "tmdb_id": null,
-        "kitsu_id": "7662"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 17,
-            "tmdb_id": null,
-            "kitsu_id": "7662"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/wild-strawberry/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/wild-strawberry/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
