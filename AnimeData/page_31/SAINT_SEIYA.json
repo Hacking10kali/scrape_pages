@@ -47,6 +47,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
             }
@@ -1539,6 +1543,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
@@ -3033,6 +3041,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
             }
@@ -4525,6 +4537,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
@@ -6019,6 +6035,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
             }
@@ -7510,23 +7530,48 @@
       "episodes": [
         {
           "episode": "Eris",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239275&hash=f10319214d8d9183&hd=3"
+            }
+          ]
         },
         {
           "episode": "Dorbal",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239277&hash=258b2372f089bb0a&hd=3"
+            }
+          ]
         },
         {
           "episode": "Abel",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239279&hash=c7beef07726cb5b1&hd=3"
+            }
+          ]
         },
         {
           "episode": "Lucifer",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239281&hash=cf1c6bb3ce44064f&hd=3"
+            }
+          ]
         },
         {
           "episode": "Artemis",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vk.com/video_ext.php?oid=751474887&id=456239283&hash=af0e2195e9ee572e&hd=3"
+            }
+          ]
         }
       ]
     }
