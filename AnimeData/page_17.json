@@ -1,55 +1,9 @@
 {
   "page": 17,
-  "scraped_at": "20260323_070506",
-  "duration_s": 2224,
-  "total": 48,
+  "scraped_at": "20260324_094916",
+  "duration_s": 18,
+  "total": 40,
   "animes": [
-    {
-      "nom": "ISSHOU SENKIN",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Action",
-        "Comédie",
-        "Drame",
-        "Arts martiaux",
-        "Combats",
-        "Délinquance"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/isshou-senkin",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/isshou-senkin.jpg",
-      "noms_alt": [
-        "ISSK",
-        "STRIKE IT RICH",
-        "STR"
-      ],
-      "synopsis": "Une ex-combattante de MMA, une yakuza et une policière, toutes en difficulté financière, rêvent de faire fortune et montent un cercle de combat clandestin spécialisé dans les affrontements féminins. Pour assurer le succès de leur organisation, elles y invitent et mettent en avant une jeune fille... bien plus dangereuse que son apparence mignonne ne le laisse supposer ?!",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 2579,
-        "tmdb_id": null,
-        "kitsu_id": "5553"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 2579,
-            "tmdb_id": null,
-            "kitsu_id": "5553"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/isshou-senkin/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/isshou-senkin/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
     {
       "nom": "ITAEWON CLASS",
       "type": "Autres",
@@ -1240,91 +1194,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "J'IRAI TE VOIR DANS MA PROCHAINE VIE",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Comédie",
-        "Drame",
-        "Romance",
-        "Amour"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/jirai-te-voir-dans-ma-prochaine-vie",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jirai-te-voir-dans-ma-prochaine-vie.jpg",
-      "noms_alt": [
-        "SEE YOU IN MY 19TH LIFE"
-      ],
-      "synopsis": "Le plus grand rival d'amour de ma 19ème vie est celui de ma 18ème vie ? Voici l'histoire d'amour d'une femme qui se souvient de sa vie passée.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 33095,
-        "tmdb_id": 154824,
-        "kitsu_id": "6266"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "6266"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/jirai-te-voir-dans-ma-prochaine-vie/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/jirai-te-voir-dans-ma-prochaine-vie/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "JAGAAAN",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Comédie",
-        "Drame",
-        "Horreur",
-        "Mature",
-        "Mystère",
-        "Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/jagaaan",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jagaaan.jpg",
-      "noms_alt": [
-        "JAGAAAAAAN"
-      ],
-      "synopsis": "Shintarô Jagasaki est un policier de quartier vivant une vie ennuyeuse, qui s'imagine tirer sur tous ceux qui l'énervent. Et suite à la pluie de grenouilles qui a déferlé sur la ville, certains humains commencent à perdre la raison, devenant des monstres à l'image de leurs désirs : les humains brisés. Choisi par l'étrange chouette Doku-chan, Shintarô va devenir Jagaaan, l'humain brisé à la gâchette facile !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": null,
-        "tmdb_id": null,
-        "kitsu_id": "7123"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "8687"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/jagaaan/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/jagaaan/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -4740,7 +4609,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5273998\t"
+                }
+              ]
             }
           ]
         }
@@ -9305,49 +9179,6 @@
       ]
     },
     {
-      "nom": "JUNGLE JUICE",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Fantastique",
-        "Science-fiction",
-        "Surnaturel",
-        "Apprentissage",
-        "Combats",
-        "Monstres",
-        "Super pouvoirs"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/jungle-juice",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/jungle-juice.jpg",
-      "noms_alt": [],
-      "synopsis": "Suchan Jang est un étudiant extraordinaire au sommet de la chaîne alimentaire sociale. Mais sous sa façade parfaite, il cache une paire d'ailes d'insectes qui ont soudainement poussé lorsqu'il a utilisé un mystérieux insectifuge appelé «Jungle Juice». La vie de Suchan s'effondre quand il montre ses ailes au monde pour sauver la vie de quelqu'un. Quand tout espoir semble perdu, Suchan tombe sur un monde caché d'humains insectes où chacun est accepté pour ce qu'il est. Mais la loi de la jungle régit cette société secrète et tous doivent se débrouiller seuls pour survivre.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 2569,
-        "tmdb_id": null,
-        "kitsu_id": "228"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 2569,
-            "tmdb_id": null,
-            "kitsu_id": "228"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/jungle-juice/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/jungle-juice/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "JUNJI ITO COLLECTION",
       "type": "Anime, Scans",
       "genres": [
@@ -10111,49 +9942,6 @@
       ]
     },
     {
-      "nom": "JUUJIKA NO ROKUNIN",
-      "type": "Scans",
-      "genres": [
-        "Shônen",
-        "Drame",
-        "Psychologique",
-        "Thriller",
-        "Tragique"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/juujika-no-rokunin",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/juujika-no-rokunin.jpg",
-      "noms_alt": [
-        "JUJIKA NO ROKUNIN",
-        "CROSS OF THE CROSS"
-      ],
-      "synopsis": "Dans le but de se venger de plusieurs monstres dépourvus d'humanité, ce garçon en a lui-même perdu la sienne. Uruma Shun, un élève de sixième, a été nommé \"Sujet d'expérience: A\" par 5 de ses camarades de classe l'ayant sévèrement malmené et lui ayant fait vivre un enfer. Ses seuls moments de bonheur étaient avec son petit frère qui l'aimait, et ses parents qui le protégeaient... Jusqu'au jour où les cinq monstres tuent sa famille. Lorsqu'il perd finalement tout et qu'il affronte un véritable enfer, un sombre \"souhait\" naît en Shun.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 4415,
-        "tmdb_id": null,
-        "kitsu_id": "42602"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "42602"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/juujika-no-rokunin/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/juujika-no-rokunin/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "JUUNI TAISEN",
       "type": "Anime",
       "genres": [
@@ -10396,104 +10184,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "JUVENILE DETENTION CENTER",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Seinen - Action - Arts martiaux - Drame - Mature - Psychologique"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/juvenile-detention-center",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/juvenile-detention-center.jpg",
-      "noms_alt": [
-        "CHOKBEOP BOY",
-        "DELINCUENTE JUVENIL"
-      ],
-      "synopsis": "Dans le même univers de Lookism. La Corée du Sud est remplie de lois merdiques. Le groupe de \"délinquants\" qui a fait de ma vie un enfer n'a reçu aucune punition : ces délinquants sont le résultat de ces lois merdiques. Je vais maintenant prendre ma revanche...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 59689,
-        "tmdb_id": null,
-        "kitsu_id": "11735"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "11735"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/juvenile-detention-center/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/juvenile-detention-center/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "JUVENILE LAW",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Vie Scolaire",
-        "School Life"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/juvenile-law",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/juvenile-law.jpg",
-      "noms_alt": [
-        "LAWS OF THE GOOD CHILD"
-      ],
-      "synopsis": "Dans le même univers que Lookism. En Russie, un orphelinat privé appelé « Dead Mansion » forme de jeunes enfants à devenir des agents. « Nom de Code Sean » , la légende de Dead Mansion, que l'on croyait perdue, est soudain apparue dans un collège en Corée !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 479,
-        "tmdb_id": null,
-        "kitsu_id": "5766"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "11735"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/juvenile-law/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/juvenile-law/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -12673,45 +12363,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "KAGURA BACHI",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Drame",
-        "Mystère",
-        "Surnaturel"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/kagura-bachi",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kagura-bachi.jpg",
-      "noms_alt": [
-        "KAGURABACHI"
-      ],
-      "synopsis": "Le jeune Chihiro passe ses journées à s'entraîner auprès de son célèbre père forgeron en espérant lui aussi se faire un nom dans le milieu. Soudainement, alors qu'ils pensaient que ces jours calmes seraient éternels, une tragédie les frappe. Désormais, Chihiro et sa lame ne vivent plus que pour la vengeance.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 15119,
-        "tmdb_id": null,
-        "kitsu_id": "10083"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 15119,
-            "tmdb_id": null,
-            "kitsu_id": "41373"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kagura-bachi/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kagura-bachi/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
