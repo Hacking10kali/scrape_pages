@@ -43,6 +43,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-nw4dio9glnyo.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=3236603"
             },
@@ -511,11 +515,21 @@
       "episodes": [
         {
           "episode": "Childhood's End",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5256820"
+            }
+          ]
         },
         {
           "episode": "The Lights in the Sky are Stars",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5256821"
+            }
+          ]
         }
       ]
     }
