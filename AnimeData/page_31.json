@@ -1,8 +1,8 @@
 {
   "page": 31,
-  "scraped_at": "20260323_115556",
-  "duration_s": 2933,
-  "total": 48,
+  "scraped_at": "20260324_120248",
+  "duration_s": 1501,
+  "total": 44,
   "animes": [
     {
       "nom": "SAIKYOU TANK NO MEIKYUU KOURYAKU",
@@ -5078,6 +5078,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
                 }
@@ -6570,6 +6574,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
@@ -8064,6 +8072,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
                 }
@@ -9556,6 +9568,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
@@ -11050,6 +11066,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vztnxdcitqr9.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5034521"
                 }
@@ -12541,23 +12561,48 @@
           "episodes": [
             {
               "episode": "Eris",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239275&hash=f10319214d8d9183&hd=3"
+                }
+              ]
             },
             {
               "episode": "Dorbal",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239277&hash=258b2372f089bb0a&hd=3"
+                }
+              ]
             },
             {
               "episode": "Abel",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239279&hash=c7beef07726cb5b1&hd=3"
+                }
+              ]
             },
             {
               "episode": "Lucifer",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239281&hash=cf1c6bb3ce44064f&hd=3"
+                }
+              ]
             },
             {
               "episode": "Artemis",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239283&hash=af0e2195e9ee572e&hd=3"
+                }
+              ]
             }
           ]
         }
@@ -13291,7 +13336,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4741378"
+                }
+              ]
             }
           ]
         }
@@ -15594,49 +15644,6 @@
       ]
     },
     {
-      "nom": "SANGS ET PAPILLONS",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Fantastique",
-        "Horreur",
-        "Psychologique",
-        "Surnaturel",
-        "Monstres"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/sangs-et-papillons",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/sangs-et-papillons.jpg",
-      "noms_alt": [
-        "PIWA NABI"
-      ],
-      "synopsis": "Un jour, un monstre appelé \"insecte\" est apparu soudainement sur terre. Les enfants du \"papillons\" sont les seuls espoirs de l'humanité.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62852,
-        "tmdb_id": null,
-        "kitsu_id": "11912"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62852,
-            "tmdb_id": null,
-            "kitsu_id": "11912"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/sangs-et-papillons/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/sangs-et-papillons/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "SANRIO BOYS",
       "type": "Anime",
       "genres": [
@@ -17015,47 +17022,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "SAVIOR OF DIVINE BLOOD",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Arts martiaux",
-        "Drame",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/savior-of-divine-blood",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/savior-of-divine-blood.jpg",
-      "noms_alt": [
-        "KAMI CHI NO KYUUSEISHU"
-      ],
-      "synopsis": "Un joueur capable de combattre des créatures provenant des merveilles d'un autre monde. Le protagoniste principal, Ariake Subaru, était victime de harcèlement et a été choisi en tant que joueur du rang \"Arc-en-ciel\", qui n'est ni or, ni argent, ni cuivre. Il a acquis la compétence de manipuler librement le sang, et sa vie et sa position ont totalement changé. Alors qu'il continue de se battre chaque jour, il gagne peu à peu le titre de \"Sauveur\" qui sauvera le monde.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 61931,
-        "tmdb_id": null,
-        "kitsu_id": "42079"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 61931,
-            "tmdb_id": null,
-            "kitsu_id": "42079"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/savior-of-divine-blood/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/savior-of-divine-blood/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -20516,6 +20482,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4738487"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/aob3cjwe"
                 }
@@ -20640,15 +20610,42 @@
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-eilouihbvpny.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://vidmoly.biz/embed-eilouihbvpny.html"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-6k11sbjf6zp0.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://vidmoly.biz/embed-6k11sbjf6zp0.html"
+                }
+              ]
             },
             {
               "episode": "Episode 13",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-27k0gwq4nuov.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://vidmoly.biz/embed-27k0gwq4nuov.html"
+                }
+              ]
             },
             {
               "episode": "Episode 14",
@@ -20681,6 +20678,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4738503"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://www.myvi.top/embed/rxkcjq69k7yw7yyoqfwnk3izoe"
@@ -20863,6 +20864,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4738531"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://www.myvi.top/embed/usr9twgwfncrider4mk5ukzrda"
                 },
@@ -21043,6 +21048,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5259426"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/6bmi0k4z"
@@ -21351,105 +21360,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "SEASONS OF BLOSSOM",
-      "type": "Scans",
-      "genres": [
-        "Webcomic - Manhwa - Comédie - Romance - School Life - Shôjo"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/seasons-of-blossom",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/seasons-of-blossom.jpg",
-      "noms_alt": [
-        "CHEONGCHUN BLOSSOM",
-        "YOUTH BLOSSOM"
-      ],
-      "synopsis": "Ô, être jeune et amoureux. Ô, être farouche et insouciant. Le printemps de la vie est intense, tumultueux, et parfois, ô combien déroutant. Printemps, été, automne, hiver -- l'amour fleurit en toute saison.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 32189,
-        "tmdb_id": 205454,
-        "kitsu_id": "266"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 32189,
-            "tmdb_id": null,
-            "kitsu_id": "266"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/seasons-of-blossom/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/seasons-of-blossom/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "SECOND LIFE RANKER",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantastique",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/second-life-ranker",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/second-life-ranker.jpg",
-      "noms_alt": [
-        "RANKER WHO LIVES A SECOND TIME",
-        "DU BEON SANEUN RANKER"
-      ],
-      "synopsis": "Yeon Woo avait un frère jumeau, Jeong Woo, disparu il y a cinq ans. Un jour, la montre à gousset de son frère, dont il ne se séparait jamais, refait surface. Il y découvre le journal intime de Jeong Woo narrant son ascension de l'Obélisque, une tour où plusieurs univers se croisent, mais également les circonstances de sa mort : isolé, trahi par ses propres compagnons. Après avoir appris la vérité, Yeon Woo se résout à consacrer sa vie à un unique but : gravir la tour et venger son frère.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 63431,
-        "tmdb_id": null,
-        "kitsu_id": "3954"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 63431,
-            "tmdb_id": null,
-            "kitsu_id": "3954"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/second-life-ranker/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/second-life-ranker/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
