@@ -37,55 +37,120 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/dmcrald7"
+            }
+          ]
         },
         {
           "episode": "Episode 2",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/xivcx790"
+            }
+          ]
         },
         {
           "episode": "Episode 3",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/xxbib7zb"
+            }
+          ]
         },
         {
           "episode": "Episode 4",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/8jkxpiu1"
+            }
+          ]
         },
         {
           "episode": "Episode 5",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/ers2d9j1"
+            }
+          ]
         },
         {
           "episode": "Episode 6",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/4e10idfl"
+            }
+          ]
         },
         {
           "episode": "Episode 7",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/6sgjj1yi"
+            }
+          ]
         },
         {
           "episode": "Episode 8",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/qceml2pv"
+            }
+          ]
         },
         {
           "episode": "Episode 9",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/x3whn2lt"
+            }
+          ]
         },
         {
           "episode": "Episode 10",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/hyzbepbj"
+            }
+          ]
         },
         {
           "episode": "Episode 11",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/1pegr3sm"
+            }
+          ]
         },
         {
           "episode": "Episode 12",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/i34qrhb9"
+            }
+          ]
         },
         {
           "episode": "Episode 13",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/4gamw0xe"
+            }
+          ]
         }
       ]
     },
@@ -105,6 +170,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4816500"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/9enf9y5t\t"
