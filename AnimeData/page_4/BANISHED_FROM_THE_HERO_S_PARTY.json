@@ -46,13 +46,26 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-pm2tzmtzyp28.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-pm2tzmtzyp28.html"
+            }
+          ]
         },
         {
           "episode": "Episode 2",
           "lecteurs": [
             {
               "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-f73xef4n9ksp.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
               "url": "https://vidmoly.biz/embed-f73xef4n9ksp.html"
             }
           ]
@@ -63,6 +76,10 @@
             {
               "lecteur": "Lecteur 1",
               "url": "https://vidmoly.biz/embed-o7d1moogdo6h.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-o7d1moogdo6h.html"
             }
           ]
         },
@@ -71,6 +88,10 @@
           "lecteurs": [
             {
               "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-2rf7jypyyo16.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
               "url": "https://vidmoly.biz/embed-2rf7jypyyo16.html"
             }
           ]
@@ -81,6 +102,10 @@
             {
               "lecteur": "Lecteur 1",
               "url": "https://vidmoly.biz/embed-yl2gfdxwpjk9.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-yl2gfdxwpjk9.html"
             }
           ]
         },
@@ -89,6 +114,10 @@
           "lecteurs": [
             {
               "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ox97bo9w7ssf.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
               "url": "https://vidmoly.biz/embed-ox97bo9w7ssf.html"
             }
           ]
@@ -99,6 +128,10 @@
             {
               "lecteur": "Lecteur 1",
               "url": "https://vidmoly.biz/embed-3m8ck2blbk5b.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-3m8ck2blbk5b.html"
             }
           ]
         },
@@ -107,6 +140,10 @@
           "lecteurs": [
             {
               "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-bsa9nmbn4eg2.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
               "url": "https://vidmoly.biz/embed-bsa9nmbn4eg2.html"
             }
           ]
@@ -117,6 +154,10 @@
             {
               "lecteur": "Lecteur 1",
               "url": "https://vidmoly.biz/embed-axk1ykjw65q5.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-axk1ykjw65q5.html"
             }
           ]
         },
@@ -125,6 +166,10 @@
           "lecteurs": [
             {
               "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-zjpzne5w0ahr.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
               "url": "https://vidmoly.biz/embed-zjpzne5w0ahr.html"
             }
           ]
@@ -135,6 +180,10 @@
             {
               "lecteur": "Lecteur 1",
               "url": "https://vidmoly.biz/embed-62120j1es1oc.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-62120j1es1oc.html"
             }
           ]
         },
@@ -144,6 +193,10 @@
             {
               "lecteur": "Lecteur 1",
               "url": "https://vidmoly.biz/embed-tf17jrelmag6.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-tf17jrelmag6.html"
             }
           ]
         },
@@ -152,6 +205,10 @@
           "lecteurs": [
             {
               "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-m14916nr4fai.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
               "url": "https://vidmoly.biz/embed-m14916nr4fai.html"
             }
           ]
@@ -174,6 +231,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-onb1jbrud0jr.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5390332"
@@ -363,6 +424,10 @@
             },
             {
               "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5480676"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://video.sibnet.ru/shell.php?videoid=5480676"
             }
           ]
