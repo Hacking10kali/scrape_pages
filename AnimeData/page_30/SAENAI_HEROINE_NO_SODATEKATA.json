@@ -41,6 +41,10 @@
           "episode": "Episode 0",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-df3vinuou7bz.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4996659"
             },
@@ -103,7 +107,20 @@
         },
         {
           "episode": "Episode 4",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/pyrsdyti"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/pyrsdyti"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/pyrsdyti"
+            }
+          ]
         },
         {
           "episode": "Episode 5",
@@ -259,6 +276,10 @@
         {
           "episode": "Episode 0",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-hsuxs278dkeu.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4996675"
@@ -473,7 +494,12 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5301254"
+            }
+          ]
         }
       ]
     }
