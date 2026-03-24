@@ -46,6 +46,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-74ohab4sjgyn.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=6137199"
             }
@@ -92,11 +96,29 @@
         },
         {
           "episode": "Episode 5",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-dv9hbdeh9hte.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-dv9hbdeh9hte.html"
+            }
+          ]
         },
         {
           "episode": "Episode 6",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-d6cjtptpt59y.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-d6cjtptpt59y.html"
+            }
+          ]
         },
         {
           "episode": "Episode 7",
@@ -204,11 +226,29 @@
         },
         {
           "episode": "Episode 15",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1sf84zdcjh2b.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-1sf84zdcjh2b.html"
+            }
+          ]
         },
         {
           "episode": "Episode 16",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-l0plth3toz8x.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-l0plth3toz8x.html"
+            }
+          ]
         }
       ]
     }
