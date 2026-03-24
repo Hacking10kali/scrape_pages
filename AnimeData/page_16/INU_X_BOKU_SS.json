@@ -41,6 +41,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308982"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/s7754u2t"
             }
@@ -139,7 +143,16 @@
         },
         {
           "episode": "Episode 9",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308990"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5308990"
+            }
+          ]
         },
         {
           "episode": "Episode 10",
