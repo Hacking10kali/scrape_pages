@@ -37,6 +37,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-g2tjnifb6kz2.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4862340"
             },
@@ -235,11 +239,37 @@
         },
         {
           "episode": "Episode 13",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-haqo08u6lyhv.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-haqo08u6lyhv.html"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://vidmoly.biz/embed-haqo08u6lyhv.html"
+            }
+          ]
         },
         {
           "episode": "Episode 14",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-k45pbjnwi106.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-k45pbjnwi106.html"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://vidmoly.biz/embed-k45pbjnwi106.html"
+            }
+          ]
         }
       ]
     }
