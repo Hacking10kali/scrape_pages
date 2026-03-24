@@ -1,8 +1,8 @@
 {
   "page": 15,
-  "scraped_at": "20260323_065959",
-  "duration_s": 1929,
-  "total": 48,
+  "scraped_at": "20260324_095938",
+  "duration_s": 646,
+  "total": 22,
   "animes": [
     {
       "nom": "HONEY LEMON SODA",
@@ -330,55 +330,120 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/dmcrald7"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/xivcx790"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/xxbib7zb"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/8jkxpiu1"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/ers2d9j1"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/4e10idfl"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/6sgjj1yi"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/qceml2pv"
+                }
+              ]
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/x3whn2lt"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/hyzbepbj"
+                }
+              ]
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/1pegr3sm"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/i34qrhb9"
+                }
+              ]
             },
             {
               "episode": "Episode 13",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/4gamw0xe"
+                }
+              ]
             }
           ]
         },
@@ -398,6 +463,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4816500"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/9enf9y5t\t"
@@ -1105,51 +1174,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "HORIZON",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Historique",
-        "Psychologique",
-        "Thriller",
-        "Tragique",
-        "Post-apocalyptique"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/horizon",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/horizon.jpg",
-      "noms_alt": [
-        "SUPYEONGSEON"
-      ],
-      "synopsis": "Deux enfants se rencontrent soudainement, le garçon et la fille. Leurs regards se croisent. Ils décident alors de poursuivre leur chemin ensemble, tout en tentant de survivre et aller de l'avant dans un monde soumis à la terreur et au chaos.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 23321,
-        "tmdb_id": 1966,
-        "kitsu_id": "7622"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 23321,
-            "tmdb_id": null,
-            "kitsu_id": "6187"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/horizon/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/horizon/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -3145,112 +3169,6 @@
       ]
     },
     {
-      "nom": "HOW TO GET MY HUSBAND ON MY SIDE",
-      "type": "Scans",
-      "genres": [
-        "Drame - Fantasy - Psychologique - Romance - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/how-to-get-my-husband-on-my-side",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/how-to-get-my-husband-on-my-side.jpg",
-      "noms_alt": [
-        "COMMENT METTRE MON MARI DE MON CÔTÉ"
-      ],
-      "synopsis": "Ruby, incarnée en méchante d'un roman, est mariée au paladin Izek, l'homme qui est censé tuer toute sa famille. Pour survivre, elle doit jouer le rôle de l'épouse inoffensive et gagner le cœur de son mari froid et méfiant, tout en surmontant ses propres traumatismes.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 23277,
-        "tmdb_id": null,
-        "kitsu_id": "43966"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 23277,
-            "tmdb_id": null,
-            "kitsu_id": "43966"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/how-to-get-my-husband-on-my-side/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/how-to-get-my-husband-on-my-side/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "HOW TO LIVE AS THE VAMPIRE LORD",
-      "type": "Scans",
-      "genres": [
-        "Action - Comédie - Fantasy - Isekai - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/how-to-live-as-the-vampire-lord",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/how-to-live-as-the-vampire-lord.jpg",
-      "noms_alt": [],
-      "synopsis": "Un humain ordinaire se retrouve transformé en Seigneur des Vampires, dirigeant une armée de morts-vivants. Il doit apprendre à gérer son royaume de ténèbres tout en cachant son humanité ou en essayant de coexister avec les humains.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 53434,
-        "tmdb_id": null,
-        "kitsu_id": "4697"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 53434,
-            "tmdb_id": null,
-            "kitsu_id": "4697"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/how-to-live-as-the-vampire-lord/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/how-to-live-as-the-vampire-lord/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "HUNDRED",
       "type": "Anime",
       "genres": [
@@ -3569,11 +3487,21 @@
           "episodes": [
             {
               "episode": "Phantom Rouge",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5264805"
+                }
+              ]
             },
             {
               "episode": "The Last Mission",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5264807"
+                }
+              ]
             }
           ]
         }
@@ -4255,378 +4183,6 @@
       ]
     },
     {
-      "nom": "I AM A HERO",
-      "type": "Scans",
-      "genres": [
-        "Horreur - Psychologique - Seinen - Drame"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-am-a-hero",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-am-a-hero.jpg",
-      "noms_alt": [],
-      "synopsis": "Hideo Suzuki, un assistant mangaka paranoïaque et désillusionné, voit sa vie basculer lorsqu'une épidémie transforme les gens en créatures monstrueuses appelées \"ZQN\". Armé de son fusil de chasse, il tente de survivre dans un Japon apocalyptique tout en protégeant ceux qu'il rencontre.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 58437,
-        "tmdb_id": 96243,
-        "kitsu_id": "3491"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 58437,
-            "tmdb_id": null,
-            "kitsu_id": "50180"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-am-a-hero/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-am-a-hero/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I AM THE FATED VILLAIN",
-      "type": "Scans",
-      "genres": [
-        "Manhua - Webcomic - Action - Arts martiaux - Aventure - Drame - Fantasy - Harem - Historique - Isekai - Psychologique - Romance - Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/i-am-the-fated-villain",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-am-the-fated-villain.jpg",
-      "noms_alt": [
-        "THE VILLAIN OF DESTINY",
-        "VILLAIN IS HERE"
-      ],
-      "synopsis": "Dès que Gu Changge s'est rendu compte qu'il avait transgressé un monde imaginaire, le protagoniste de ce monde, l'élu de la fortune, a juré de se venger de lui. Envié par tous, non seulement la femme principale est folle de lui, mais il est également traité comme un invité de marque partout où il va. Heureusement, le prestige et le pouvoir de Gu Changge sont supérieurs à ceux de tous les autres, alors il ne devrait pas être facile de piétiner un simple élu de la fortune ? Attendez... Il y a un système dédié à la traite et à la récolte du protagoniste ? Gu Changge a souri. « On dirait que même le destin veut que j'accomplisse ma destinée en tant que méchant de ce monde ! »",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 60154,
-        "tmdb_id": null,
-        "kitsu_id": "12006"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 60154,
-            "tmdb_id": null,
-            "kitsu_id": "12006"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-am-the-fated-villain/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-am-the-fated-villain/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I AM THE STRONGEST AWAKENERS",
-      "type": "Scans",
-      "genres": [
-        "Webcomic - Shônen - Action - Drame - Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/i-am-the-strongest-awakeners",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-am-the-strongest-awakeners.jpg",
-      "noms_alt": [
-        "I AM THE STRONGEST AWAKENERS",
-        "RECOGNIZED BY ALL OF THE WORLD'S CHEAT MASTERS",
-        "I AM THE MOST POWERFUL TRANSCENDENT BEING",
-        "ORE DAKE SAIKYOU CHOUETSUSHA - ZEN SEKAI NO CHEAT SHISHOU NI MITOMERARETA"
-      ],
-      "synopsis": "Dans un monde où existent des \"transcendants\" dotés de capacités physiques exceptionnelles et de pouvoirs spéciaux, Minato Kannagi, un transcendant marginalisé et rejeté de tous, subit une vie impitoyable jour après jour. Alors qu'il se retrouve en grande difficulté, aux portes de la mort, il s'éveille. Les \"fondateurs\", des transcendants légendaires qui ont jadis empêché l'extinction de l'humanité, lui confèrent leurs pouvoirs, changeant ainsi le cours de sa vie.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 52969,
-        "tmdb_id": null,
-        "kitsu_id": "46456"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 52969,
-            "tmdb_id": null,
-            "kitsu_id": "46456"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-am-the-strongest-awakeners/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-am-the-strongest-awakeners/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I BECAME A MUNCHKIN SKILL THIEF",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Fantasy - Système - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-became-a-munchkin-skill-thief",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-became-a-munchkin-skill-thief.jpg",
-      "noms_alt": [],
-      "synopsis": "Le protagoniste se retrouve dans un monde de donjons et de monstres avec la capacité de voler les compétences des autres ou des monstres. En accumulant des pouvoirs surpuissants (munchkin), il devient rapidement une entité hors normes, brisant l'équilibre du monde.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62617,
-        "tmdb_id": null,
-        "kitsu_id": "46370"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62617,
-            "tmdb_id": null,
-            "kitsu_id": "46370"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-became-a-munchkin-skill-thief/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-became-a-munchkin-skill-thief/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I BECAME THE FIRST PRINCE",
-      "type": "Scans",
-      "genres": [
-        "Action - Fantasy - Historique - Royauté - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-became-the-first-prince",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-became-the-first-prince.jpg",
-      "noms_alt": [
-        "I BECAME THE FIRST PRINCE: LEGEND OF SWORD'S SONG"
-      ],
-      "synopsis": "Un homme se réveille dans le corps du premier prince d'un royaume fantastique, un personnage connu pour son incompétence ou son destin tragique. Utilisant sa connaissance de l'avenir (souvent issue d'un jeu ou d'un roman), il décide de changer son destin et de renforcer sa position par l'épée et la stratégie.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 57892,
-        "tmdb_id": null,
-        "kitsu_id": "50180"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 57892,
-            "tmdb_id": null,
-            "kitsu_id": "50180"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-became-the-first-prince/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-became-the-first-prince/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I BECAME THE GENIUS BASTARD OF A NOBLE DARK CLAN",
-      "type": "Scans",
-      "genres": [
-        "Webcomic - Manhwa - Surnaturel - Aventure - Drame - Fantasy - Shônen"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/i-became-the-genius-bastard-of-a-noble-dark-clan",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-became-the-genius-bastard-of-a-noble-dark-clan.jpg",
-      "noms_alt": [],
-      "synopsis": "Après s'être cassé le dos en travaillant pour le groupe des héros, Chris s'est retrouvé confronté à une mort de chien. S'il vous plaît, faites que je naisse dans une famille riche dans ma prochaine vie... Lorsqu'il se réveilla, il était le jeune maître d'une famille immensément riche. Cependant, il n'était pas n'importe quel fils de noble, mais Chris van Baren Kazar, l'infâme bâtard bon à rien du Clan de la Magie Noire de l'Empire Magique. « Aaaagh ! Qu'est-ce que c'est que ce bordel ? ! » Il ne restait plus que deux ans avant que Chris ne connaisse une mort prématurée. Et même s'il parvenait à survivre aussi longtemps, il devait encore empêcher la fin du monde. Chris n'avait qu'une seule option s'il voulait survivre et profiter d'une vie riche et luxueuse : prendre le contrôle du Clan de la Magie Noire et devenir lui-même un Roi Démon. Même si les chances de réussite étaient minces, cela semblait faisable. Mais pourquoi ? Parce que je suis un génie !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 57892,
-        "tmdb_id": null,
-        "kitsu_id": "10235"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 57892,
-            "tmdb_id": null,
-            "kitsu_id": "10235"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-became-the-genius-bastard-of-a-noble-dark-clan/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-became-the-genius-bastard-of-a-noble-dark-clan/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I BECAME THE KING BY SCAVENGING",
-      "type": "Scans",
-      "genres": [
-        "Manhua",
-        "Manhwa",
-        "Shônen",
-        "Webcomic",
-        "Action",
-        "Art-martiaux",
-        "Aventure",
-        "Mystère",
-        "Surnaturel"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-became-the-king-by-scavenging",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-became-the-king-by-scavenging.jpg",
-      "noms_alt": [
-        "I BECAME A KING BY PICKING UP TRASH"
-      ],
-      "synopsis": "Bonne nouvelle, votre profession a été détectée comme une profession cachée. La mauvaise nouvelle, c'est que votre profession cachée est la « poubelle », qui n'existe qu'une fois sur un million. Vous êtes sur le point de passer à... « Charognard ». Ye Qing regarda le résultat devant lui et ressentit un vide soudain. Toutes ses années d'efforts avaient été réduites à néant. Emprunter des prêts à fort taux d'intérêt pour spéculer sur les actions, tout perdre, puis être jeté dans un groupe de chasseurs privés pour éponger ses dettes. Après avoir vaincu des monstres qui semblaient impossibles à tuer, les points d'expérience ont augmenté, permettant à Ye Qing de passer de 0 à 1. Il a déclenché la seule opportunité de sa vie de se reconvertir... Mais de façon inattendue, la profession à laquelle il s'est éveillé était une profession cachée unique en son genre : « Charognard ». Tous les arbres de talents tournent autour du « ramassage d'ordures », une profession bizarre.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 57892,
-        "tmdb_id": null,
-        "kitsu_id": "7725"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 57892,
-            "tmdb_id": null,
-            "kitsu_id": "7725"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-became-the-king-by-scavenging/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-became-the-king-by-scavenging/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "I CAN'T UNDERSTAND WHAT MY HUSBAND IS SAYING",
       "type": "Anime",
       "genres": [
@@ -5014,107 +4570,6 @@
       ]
     },
     {
-      "nom": "I CONTRACTED MYSELF",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/i-contracted-myself",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-contracted-myself.jpg",
-      "noms_alt": [
-        "I MADE A CONTRACT WITH MYSELF",
-        "THE PLAYER BECOME A MONSTER"
-      ],
-      "synopsis": "C'était un monde où les Éveillés et les bêtes aliénées coexistaient. Zhang Ping a eu la chance de devenir un Éveillé, mais sa capacité a été classée comme inutile. Ne voulant pas être médiocre pour le reste de sa vie, il a résolument avalé le joyau de contrat, que les gens ordinaires évitaient comme la peste, et s'est contracté lui-même pour devenir sa propre invocation ! Dès lors, le monde entier s'ouvrit à lui. Mille variations de superpouvoirs, des bêtes aliénées à l'infini, des mondes parallèles dangereux, tout est possible.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1249,
-        "tmdb_id": null,
-        "kitsu_id": "44218"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1249,
-            "tmdb_id": null,
-            "kitsu_id": "44218"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-contracted-myself/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-contracted-myself/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I GROW STRONGER BY EATING!",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-grow-stronger-by-eating",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-grow-stronger-by-eating.jpg",
-      "noms_alt": [
-        "APPÉTIT FÉROCE",
-        "GEWALTIGER HUNGER"
-      ],
-      "synopsis": "Chacun a un talent qui lui est propre. Et le talent que j'ai, c'est de \"manger\". Un talent qui brille beaucoup plus dans ce monde où vivent d'innombrables organismes puissants. Festoyer, Dévorer. Consommer le sang et la chair des forts et les faire vôtres. Même si c'est un dragon, un roi démon ou un dieu !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1249,
-        "tmdb_id": null,
-        "kitsu_id": "50194"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1249,
-            "tmdb_id": null,
-            "kitsu_id": "50194"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-grow-stronger-by-eating/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-grow-stronger-by-eating/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "I HAVE A CRUSH AT WORK",
       "type": "Anime",
       "genres": [
@@ -5352,160 +4807,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "I KILLED AN ACADEMY PLAYER",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Comédie",
-        "Drame",
-        "Fantasy",
-        "Harem",
-        "Isekai",
-        "Psychologique",
-        "Romance",
-        "School Life"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-killed-an-academy-player",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-killed-an-academy-player.jpg",
-      "noms_alt": [],
-      "synopsis": "'J'ai tué le joueur.', 'C'était un vrai fils de pute...', 'Il m'aimait trop et était un sociopathe.', 'Désormais de retour dans le passé, je m'apprête à l'éliminer avant d'être une nouvelle fois manipulé, et ainsi sauver les jeunes femmes du harem qui seront mes alliées pour remporter le scénario du jeu vidéo !'",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1249,
-        "tmdb_id": null,
-        "kitsu_id": "1124"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1249,
-            "tmdb_id": null,
-            "kitsu_id": "1124"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-killed-an-academy-player/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-killed-an-academy-player/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "I LEVEL UP BY ABSORBING EVERYTHING",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Drame",
-        "Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/i-level-up-by-absorbing-everything",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-level-up-by-absorbing-everything.jpg",
-      "noms_alt": [
-        "UPGRADE BY COLLECTING EVERYTHING",
-        "LEVELING UP BY HOARDING",
-        "TALENT REAPER"
-      ],
-      "synopsis": "L'aura de l'âme s'éveille, des bêtes féroces parcourent la terre. Chi Mo transmigre et éveille la technique de la collecte. Collecter le talent de haut niveau du temps, peut accélérer ou ralentir le temps ! Recueillir la lignée du phénix du grand soleil d'or peut permettre au corps de se transformer en soleil et de brûler la terre ! Recueillir le talent de l'épée peut permettre de comprendre le concept de l'épée et de tout trancher !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 52299,
-        "tmdb_id": null,
-        "kitsu_id": "46370"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 52299,
-            "tmdb_id": null,
-            "kitsu_id": "46370"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-level-up-by-absorbing-everything/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-level-up-by-absorbing-everything/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I LOVE YOU, SO I KILL YOU",
-      "type": "Scans",
-      "genres": [
-        "Drame",
-        "Horreur",
-        "Romance",
-        "School Life",
-        "Surnaturel",
-        "Crime",
-        "Ecole"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/i-love-you-so-i-kill-you",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-love-you-so-i-kill-you.jpg",
-      "noms_alt": [
-        "KONYA WA TSUKI GA KIREI DESU GA",
-        "TORIAEZU SHI NE",
-        "I LOVE YOU SO I KILL YOU"
-      ],
-      "synopsis": "Taku Kamishiro est un lycéen en apparence banal qui aime venir en aide aux autres. Il est également amoureux de la jolie Mika Hanasono, qui a le même âge que lui. Il lui donne rendez-vous le lendemain d'une journée d'école pour lui avouer ses sentiments. Le soir, alors qu'il réfléchissait à quoi lui dire exactement, il aperçoit à la fenêtre un homme qui tente de violenter une femme. Faisant mine de ne rien voir, il finit tout de même par prendre son courage à deux mains afin d'aller l'aider. Mais il se fait attaquer par un homme complètement défiguré qui lui crie qu'il est contaminé qu'il va être également infecté par \"ses émotions\" s'il ne s'enfuit pas. Mais en se réveillant le matin, alors qu'il allait en cours accompagné de son amie Mika, il lui prend l'envie soudaine de la tuer...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 102,
-        "tmdb_id": null,
-        "kitsu_id": "49984"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 102,
-            "tmdb_id": null,
-            "kitsu_id": "49984"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-love-you-so-i-kill-you/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-love-you-so-i-kill-you/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -5787,291 +5088,6 @@
                 {
                   "lecteur": "Lecteur 4",
                   "url": "https://sendvid.com/embed/3t0enn68"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I OBTAINED A MYTHIC ITEM",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Surnaturel",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/i-obtained-a-mythic-item",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-obtained-a-mythic-item.jpg",
-      "noms_alt": [
-        "À MOI L'ITEM LÉGENDAIRE",
-        "MYTHIC ITEM OBTAINED"
-      ],
-      "synopsis": "Yggdrasil, l'arbre-monde de la mythologie nordique, est soudainement apparu sur Terre. Et avec lui sont apparues des créatures démoniaques qui ont ravagé des villes entières. Mais tout espoir n'est pas perdu, grâce au système que quelques humains spéciaux ont acquis. Dans ce nouveau monde où seuls les plus forts ont survécu, Min JaeHyun se débrouille tant bien que mal en regrettant les mauvais choix qu'il a faits dans le passé... quand un jour, il obtient le seul objet mythique du monde. Comment cet objet va-t-il l'aider ? Et pourra-t-il changer son funeste destin ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1249,
-        "tmdb_id": null,
-        "kitsu_id": "48973"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1249,
-            "tmdb_id": null,
-            "kitsu_id": "48973"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-obtained-a-mythic-item/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-obtained-a-mythic-item/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "I REALLY DON'T WANT TO LEARN FORBIDDEN SPELLS",
-      "type": "Scans",
-      "genres": [
-        "Action - Comédie - Fantasy - Magie - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-really-dont-want-to-learn-forbidden-spells",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-really-dont-want-to-learn-forbidden-spells.jpg",
-      "noms_alt": [],
-      "synopsis": "Le protagoniste, souvent un mage talentueux mais prudent, se retrouve forcé d'apprendre des sorts interdits ou de la magie noire, soit par un grimoire maudit, soit par un maître excentrique. Il tente de cacher ses pouvoirs terrifiants tout en résolvant des crises majeures.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 31555,
-        "tmdb_id": null,
-        "kitsu_id": "49372"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 31555,
-            "tmdb_id": null,
-            "kitsu_id": "49372"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-really-dont-want-to-learn-forbidden-spells/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-really-dont-want-to-learn-forbidden-spells/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I REINCARNATED AS AN SSS-RANKED GOBLIN",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Shônen",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Isekai"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-reincarnated-as-an-sssranked-goblin",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-reincarnated-as-an-sssranked-goblin.jpg",
-      "noms_alt": [
-        "TENSEI SHITARA SSS-KYUU GOBLIN NI NARIMASHITA"
-      ],
-      "synopsis": "Quand je suis revenu à moi, j'étais un gobelin. J'ai été réincarné en monstre de rang inférieur dans un jeu VRMMO de pointe. Au bord de la mort, j'ai été ramené à la vie par la Déesse des gobelins. Elle m'a ramené à la vie parce qu'elle m'avait choisi pour être le « Gobelin le plus fort et le plus inégalé ». J'ai le pouvoir de détruire tous les démons de haut rang qui m'ont discriminé et tous les monstres qui m'ont traité comme un déchet. Je vais devenir le Messie gobelin !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38555,
-        "tmdb_id": null,
-        "kitsu_id": "50355"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38555,
-            "tmdb_id": null,
-            "kitsu_id": "50355"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-reincarnated-as-an-sssranked-goblin/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-reincarnated-as-an-sssranked-goblin/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I RETURNED AS AN FFF-CLASS WITCH DOCTOR",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Drame",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-returned-as-an-fff-class-witch-doctor",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-returned-as-an-fff-class-witch-doctor.jpg",
-      "noms_alt": [
-        "THE VOODOOIST'S WRATHFUL RETURN"
-      ],
-      "synopsis": "Le protagoniste, Ma Jinsung, était sur le point de terminer une quête dans le jeu [Demon King Raid] lorsqu'il a été trahi et abandonné par son équipier d'expédition. Alors qu'il pensait que tout était fini, il a entendu une voix étrange et il a régressé... « Notification : vous obtenez une classe différente en fonction des conditions de l'objectif final » [Sorcier]. [Il entre à nouveau dans le jeu sous les traits d'un personnage qu'il n'avait jamais envisagé auparavant. Une aventure passionnante du Sorcier, Ma Jinsung !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1249,
-        "tmdb_id": null,
-        "kitsu_id": "81"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1249,
-            "tmdb_id": null,
-            "kitsu_id": "81"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-returned-as-an-fff-class-witch-doctor/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-returned-as-an-fff-class-witch-doctor/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "I SHALL SEAL THE HEAVENS",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Arts Martiaux - Fantasy - Xuanhuan - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-shall-seal-the-heavens.jpg",
-      "noms_alt": [
-        "WO YU FENG TIAN"
-      ],
-      "synopsis": "Meng Hao, un jeune érudit, est recruté de force dans une secte de cultivateurs immortels. Dans un monde vaste et dangereux, il gravit les échelons de la cultivation, défiant le destin et les cieux eux-mêmes pour protéger ceux qu'il aime et atteindre le sommet.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 54616,
-        "tmdb_id": null,
-        "kitsu_id": "47154"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 54616,
-            "tmdb_id": null,
-            "kitsu_id": "47154"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "titreVignette": "Remake",
-          "titreComplet": "Remake",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 54616,
-            "tmdb_id": null,
-            "kitsu_id": "47154"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-shall-seal-the-heavens/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -6367,62 +5383,6 @@
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4004955"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I WAS MISTAKEN AS A MONSTROUS GENIUS",
-      "type": "Scans",
-      "genres": [
-        "Action - Comédie - Drame - Fantaisie - Surnaturel - Webcomic - Manhwa"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/i-was-mistaken-as-a-monstrous-genius",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/i-was-mistaken-as-a-monstrous-genius.jpg",
-      "noms_alt": [
-        "ACTEUR DE GÉNIE PAR ACCIDENT",
-        "I WAS IMMEDIATELY MISTAKEN FOR A MONSTER GENIUS ACTOR",
-        "I WAS MISTAKEN AS A MONSTROUS GENIUS"
-      ],
-      "synopsis": "Kang Woo-jin menait une vie tout ce qu'il y a de plus normale... jusqu'au jour où il découvre qu'en lisant un script, il est capable de plonger dans l'histoire, et vivre chaque scène comme s'il y était. Alors qu'il accompagne un ami à une audition et qu'il y improvise un rôle, tout le monde le prend pour un véritable prodige du cinéma. Mais de son point de vue ? Il n'a rien fait d'extraordinaire.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62512,
-        "tmdb_id": null,
-        "kitsu_id": "47154"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62512,
-            "tmdb_id": null,
-            "kitsu_id": "47154"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/i-was-mistaken-as-a-monstrous-genius/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/i-was-mistaken-as-a-monstrous-genius/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -7232,55 +6192,6 @@
       ]
     },
     {
-      "nom": "I'LL BE THE MATRIARCH IN THIS LIFE",
-      "type": "Scans",
-      "genres": [
-        "Shôjo",
-        "Drame",
-        "Fantaisie",
-        "Historique",
-        "Isekai",
-        "Psychologique",
-        "Romance",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/ill-be-the-matriarch-in-this-life",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ill-be-the-matriarch-in-this-life.jpg",
-      "noms_alt": [
-        "EN CETTE VIE",
-        "JE DEVIENDRAI LA CHEFFE DE FAMILLE",
-        "I SHALL MASTER THIS FAMILY",
-        "I WILL BECOME THE MISTRESS OF THIS LIFE",
-        "ILL BE THE MATRIARCH IN THIS LIFE"
-      ],
-      "synopsis": "Florentia a été réincarnée comme l'enfant illégitime de la famille la plus riche de l'empire. Elle pensait que tout irait bien à l'avenir. Mais son père est décédé, ses proches l'ont laissée sur le pas de la porte et l'honorable famille dont elle était si fière était complètement ruinée... Mais est-ce bien réel ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62922,
-        "tmdb_id": null,
-        "kitsu_id": "8262"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62922,
-            "tmdb_id": null,
-            "kitsu_id": "8262"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/ill-be-the-matriarch-in-this-life/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/ill-be-the-matriarch-in-this-life/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "I'LL BECOME A VILLAINESS THAT WILL GO DOWN IN HISTORY",
       "type": "Anime",
       "genres": [
@@ -7640,176 +6551,6 @@
                 {
                   "lecteur": "Lecteur 5",
                   "url": "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241198&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I'LL RETIRE AFTER SAVING THE WORLD",
-      "type": "Scans",
-      "genres": [
-        "Action - Arts martiaux - Aventure - Fantaisie - Tragédie - Webcomic - Manhwa"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/ill-retire-after-saving-the-world",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ill-retire-after-saving-the-world.jpg",
-      "noms_alt": [
-        "FOR MY OWN GOOD",
-        "I WILL SAVE THE WORLD AND THEN RETIRE",
-        "JE PRENDRAIS MA RETRAITE APRÈS AVOIR SAUVÉ LE MONDE",
-        "SESANGMAN GUHAGO EUNTOEHAGETSEUMNIDA"
-      ],
-      "synopsis": "An 2044, les donjons du monde entier s'effondrent soudainement, provoquant une déferlante de monstres et annonçant la très prochaine apocalypse. Woo Hee-jae assiste, impuissant à cette terrible destruction, quand tout à coup, un petit objet étrange, qui semble totalement déréglé, déclenche un événement imprévu. Il se réveille alors 20 ans avant la catastrophe et décide de tout faire pour empêcher la fin du monde... et profiter d'une paisible retraite.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38790,
-        "tmdb_id": null,
-        "kitsu_id": "42043"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38790,
-            "tmdb_id": null,
-            "kitsu_id": "42043"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/ill-retire-after-saving-the-world/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/ill-retire-after-saving-the-world/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I'M A HERO, BUT THE HEROINES ARE TRYING TO KILL ME",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Drame - Fantaisie - Harem - Psychologique - Romance - Tragédie - Vie Scolaire"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/im-a-hero-but-the-heroines-are-trying-to-kill-me",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/im-a-hero-but-the-heroines-are-trying-to-kill-me.jpg",
-      "noms_alt": [
-        "I'M A HERO BUT THE HEROINES ARE TRYING TO KILL ME",
-        "I'M A HERO",
-        "BUT THE HEROINES ARE TRYING TO KILL ME"
-      ],
-      "synopsis": "Frey Raon Starlight est un héros qui a tué sa famille et ses amis de ses propres mains et détruit le monde. L'objectif était de retourner dans le passé et d'ouvrir une « route cachée » pour véritablement sauver le monde et instaurer la paix. Il retourne dans le passé comme prévu et réussit à emprunter la route cachée. Cependant, son soulagement est de courte durée lorsqu'il se trouve confronté à une vérité inattendue. Il s'avère que les cinq héroïnes décédées dans leurs vies antérieures ont encore des souvenirs de cette époque, et tentent de tuer Frey... ! Frey sera-t-il capable de sauver le monde cette fois dans un contexte extrêmement difficile ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 60303,
-        "tmdb_id": null,
-        "kitsu_id": "44393"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "44393"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/im-a-hero-but-the-heroines-are-trying-to-kill-me/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/im-a-hero-but-the-heroines-are-trying-to-kill-me/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "I'M AN EX-CLASS HUNTER",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Aventure - Comédie - Drame - Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/im-an-ex-class-hunter",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/im-an-ex-class-hunter.jpg",
-      "noms_alt": [
-        "I'M AN EX-RANK HUNTER",
-        "ORE WA EX-KYUU HUNTER DA"
-      ],
-      "synopsis": "Au terme d'un affrontement dantesque qui coûte la vie à ses compagnons, Arden puise dans ses dernières forces pour porter un coup fatal à son ennemie mortelle, Queen, avant de s'éteindre. Mais au lieu de rejoindre ses défunts camarades, il renaît dans un autre monde sous l'identité de Shô Kiritani. Ici, les hunters, des combattants aux capacités surhumaines, règnent en maître. Qu'à cela ne tienne, grâce aux souvenirs de sa vie antérieure, Shô s'imposera en hunter d'EXception !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 11061,
-        "tmdb_id": null,
-        "kitsu_id": "41463"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "41463"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/im-an-ex-class-hunter/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/im-an-ex-class-hunter/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -8430,47 +7171,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "I'M NOT THAT KIND OF TALENT",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/im-not-that-kind-of-talent",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/im-not-that-kind-of-talent.jpg",
-      "noms_alt": [
-        "JE NE SUIS PAS CE GENRE DE PERSONNE"
-      ],
-      "synopsis": "Moi, Dion Hart, suis une personne malade, vomissant du sang quand je suis stressé. Cependant, je suis aussi le Comte Hart, qui a été étrangement incompris et considéré comme une personne forte, et par conséquent craint de tous.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 63508,
-        "tmdb_id": null,
-        "kitsu_id": "7504"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "7504"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/im-not-that-kind-of-talent/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/im-not-that-kind-of-talent/saison1/vostfr/",
-          "episodes": []
         }
       ]
     }
