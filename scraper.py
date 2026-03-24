@@ -99,11 +99,31 @@ def save_page_summary(animes, page_num, elapsed):
         json.dump(data, f, ensure_ascii=False, indent=2)
     log(f"saved {path} ({len(animes)} animes, {elapsed//60}m{elapsed%60:02d}s)")
 
+def has_empty_lecteurs(anime_data):
+    """Retourne True si au moins un épisode a des lecteurs vides."""
+    for saison in anime_data.get("saisons", []):
+        for ep in saison.get("episodes", []):
+            if not ep.get("lecteurs"):
+                return True
+    return False
+
 def already_done(nom, page_num):
-    """Vérifie si un animé a déjà été scraped (reprise après timeout)."""
+    """
+    Vérifie si un animé a déjà été scraped ET que tous les lecteurs sont remplis.
+    Si le fichier existe mais a des lecteurs vides → retourne False pour re-scraper.
+    """
     safe = re.sub(r'[^\w\-]', '_', nom)[:80]
     path = os.path.join(OUTPUT_DIR, f"page_{page_num}", f"{safe}.json")
-    return os.path.exists(path)
+    if not os.path.exists(path):
+        return False
+    # Charger et vérifier les lecteurs
+    data = load_done_anime(nom, page_num)
+    if data is None:
+        return False
+    if has_empty_lecteurs(data):
+        log(f"  re-scrape {nom} (lecteurs vides détectés)")
+        return False
+    return True
 
 def load_done_anime(nom, page_num):
     """Charge un animé déjà scraped depuis le disque."""
@@ -426,10 +446,10 @@ async def scrape_catalogue(browser, page_num):
     for r in raw:
         info = parse_info_rows(r["infoRows"])
         if ANIME_ONLY and info["type"]:
-            # Exclure uniquement les entrées qui sont EXCLUSIVEMENT "Scan"
-            # Garder : "Anime", "Anime, Scan", "Scan, Anime", "Film", "", None, et tout autre type
-            t = info["type"].lower().strip()
-            if t == "scan":
+            # Exclure uniquement "Scans" (avec S majuscule, seul, sans autre type)
+            # Garder : "Anime", "Anime, Scans", "Film", "", None, tout autre type
+            t = info["type"].strip()
+            if t == "Scans":
                 continue
         animes.append({
             "nom":           r["name"],
@@ -501,10 +521,14 @@ async def scrape_detail(browser, url):
 #  SCRAPING — Tous les épisodes d'une saison (1 page = tous les épisodes)
 # ══════════════════════════════════════════════════════════════
 async def collect_lecteurs(page):
+    """
+    Lit le src de #playerDF pour chaque lecteur.
+    Stratégie : sélectionner + attendre que src soit non-vide et non-blank.
+    On ne compare pas avec l'ancien src car le JS peut recycler la même iframe.
+    """
     lecteurs = []
     opts = await get_options(page, "#selectLecteurs")
     for lect in opts:
-        old      = await read_player(page) or ""
         selected = False
         try:
             await page.select_option("#selectLecteurs", value=lect["value"])
@@ -512,13 +536,41 @@ async def collect_lecteurs(page):
             selected = True
         except Exception:
             selected = False
-        if selected:
-            src = await wait_player(page, old_src=old, timeout=6000)
-            if not src:
-                await page.wait_for_timeout(1500)
-                src = await read_player(page)
-            if src and src != old:
-                lecteurs.append({"lecteur": lect["label"], "url": src})
+
+        if not selected:
+            continue
+
+        # Attendre que #playerDF ait un src valide
+        src = None
+        for wait_ms in [500, 800, 1200, 2000, 3000]:
+            await page.wait_for_timeout(wait_ms)
+            src = await page.evaluate("""
+                () => {
+                    const f = document.querySelector("#playerDF");
+                    if (!f) return null;
+                    // Lire src directement sur l'attribut HTML (pas la prop JS)
+                    const s = f.getAttribute("src") || f.getAttribute("data-src") || "";
+                    if (s && s.length > 10 && !s.includes("about:blank")) return s;
+                    // Chercher dans les enfants
+                    for (const el of f.querySelectorAll("iframe,[src],[data-src]")) {
+                        const v = el.getAttribute("src") || el.getAttribute("data-src") || "";
+                        if (v.length > 10 && !v.includes("about:blank")) return v;
+                    }
+                    return null;
+                }
+            """)
+            if src:
+                break
+
+        if src:
+            lecteurs.append({"lecteur": lect["label"], "url": src})
+        else:
+            # Dernier recours : lire le outerHTML pour debug
+            html = await page.evaluate(
+                "() => document.querySelector('#playerDF')?.outerHTML?.substring(0, 200) || 'absent'"
+            )
+            log(f"      lecteur {lect['label']} vide — playerDF: {html}")
+
     return lecteurs
 
 
