@@ -72,11 +72,21 @@
       "episodes": [
         {
           "episode": "Phantom Rouge",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5264805"
+            }
+          ]
         },
         {
           "episode": "The Last Mission",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5264807"
+            }
+          ]
         }
       ]
     }
