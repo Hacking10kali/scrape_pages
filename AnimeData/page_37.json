@@ -1,51 +1,9 @@
 {
   "page": 37,
-  "scraped_at": "20260323_193342",
-  "duration_s": 5607,
-  "total": 48,
+  "scraped_at": "20260324_114045",
+  "duration_s": 131,
+  "total": 24,
   "animes": [
-    {
-      "nom": "THE HERO RETURNS",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Isekai",
-        "Surnaturel",
-        "Fantasy",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-hero-returns",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-hero-returns.jpg",
-      "noms_alt": [],
-      "synopsis": "Le plus fort héros de l'humanité, Kim Sung In. Il a tout risqué et s'est démené mais... il n'a pas pu empêcher la destruction du monde. Mais sa légende ne fait que commencer puisqu'il revient 20 ans dans le passé.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38659,
-        "tmdb_id": 32152,
-        "kitsu_id": "7725"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38659,
-            "tmdb_id": null,
-            "kitsu_id": "7725"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-hero-returns/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-hero-returns/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
     {
       "nom": "THE HEROIC LEGEND OF ARSLAN",
       "type": "Anime, Scans",
@@ -905,45 +863,6 @@
       ]
     },
     {
-      "nom": "THE HOUSE WITHOUT TIME",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-house-without-time",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-house-without-time.jpg",
-      "noms_alt": [
-        "SIGAN-I MEOMUN JIB"
-      ],
-      "synopsis": "Une petite fille maltraitée sans rien pour vivre rencontre un vieil homme avec une horrible personnalité.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38923,
-        "tmdb_id": null,
-        "kitsu_id": "565"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38923,
-            "tmdb_id": null,
-            "kitsu_id": "565"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-house-without-time/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-house-without-time/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "THE ICE GUY & THE COOL GIRL",
       "type": "Anime",
       "genres": [
@@ -1746,60 +1665,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://www.myvi.top/embed/z4gcmyd1of9rjxx8cqfhm8k3bc"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE INDOMITABLE MARTIAL KING",
-      "type": "Scans",
-      "genres": [
-        "Action - Arts martiaux - Aventure - Comédie - Drame - Fantaisie"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-indomitable-martial-king",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-indomitable-martial-king.jpg",
-      "noms_alt": [
-        "TIME SLIP OF THE FIST KING"
-      ],
-      "synopsis": "Un monde où les humains vendent et achètent des espèces mystiques comme des esclaves. À aider les espèces mystiques, Le Grand Mage Rifenhardt est vu comme le roi démon. Un groupe de héros arrive pour défaire le roi démon ! Rifenhardt parvient à grandement blesser les héros, mais il meurt des mains du ROI MARTIAL ??? Tesslon... “Sort de régression”. Cependant, il parvient miraculeusement à lancer son sort de dernier secours et retourne dans le passé. Mais... “Je suis devenu le ROI MARTIAL ??? Tesslon, un des héros qui a tenté de me tuer et le plus puissant du continent ?!” Commencent alors les aventures de Rifenhardt, en tant que Grand Mage et qu'homme le plus fort, pour changer le monde !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8074,
-        "tmdb_id": null,
-        "kitsu_id": "8144"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 8074,
-            "tmdb_id": null,
-            "kitsu_id": "8144"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-indomitable-martial-king/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-indomitable-martial-king/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -3481,49 +3346,6 @@
       ]
     },
     {
-      "nom": "THE KILLER INSIDE",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Drame",
-        "Horreur",
-        "Mystère",
-        "Psychologique",
-        "Assassinat",
-        "Crime",
-        "Police"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-killer-inside",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-killer-inside.jpg",
-      "noms_alt": [
-        "MY DEAREST SELF WITH MALICE AFORETHOUGHT"
-      ],
-      "synopsis": "À première vue, Eiji, discret et maladroit, ne se démarque pas de la foule des étudiants de sa fac... Pourtant, il tente depuis longtemps de faire oublier au monde que son défunt père n'était autre que le tueur en série LL, tristement célèbre pour les horribles tortures infligées aux jeunes femmes qu'il a assassinées. Après des années passées à fuir la presse, Eiji a enfin réussi à trouver sa place. Mieux, il se réveille un matin avec une des plus belles filles du campus à ses côtés ! Elle lui avoue être tombée amoureuse de lui lorsqu'il l'a sauvée des griffes d'une brute épaisse. Un vrai conte de fées... dont le jeune homme n'a aucun souvenir ! Les trois derniers jours sont un trou noir dans sa mémoire, comme si quelqu'un d'autre avait vécu dans son corps à son insu... Et, pendant son amnésie, un cadavre de femme mutilé a été retrouvé dans le quartier. Pour la police, ça ne fait aucun doute : c'est du LL tout craché...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8074,
-        "tmdb_id": 210085,
-        "kitsu_id": "8174"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 8074,
-            "tmdb_id": null,
-            "kitsu_id": "8174"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-killer-inside/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-killer-inside/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "THE KING'S AVATAR",
       "type": "Anime",
       "genres": [
@@ -4446,164 +4268,6 @@
       ]
     },
     {
-      "nom": "THE KNIGHT KING WHO RETURNED WITH A GOD",
-      "type": "Scans",
-      "genres": [
-        "Webcomic - Manhwa - Action - Aventure - Drame - Fantasy - Isekai - Romance - Shônen"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-knight-king-who-returned-with-a-god",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-knight-king-who-returned-with-a-god.jpg",
-      "noms_alt": [],
-      "synopsis": "Je suis revenu sur Terre après avoir chassé des démons dans l'autre monde pendant trois cents ans. Mais je ne suis pas revenu seul...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 4199,
-        "tmdb_id": null,
-        "kitsu_id": "7258"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 4199,
-            "tmdb_id": null,
-            "kitsu_id": "7258"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-knight-king-who-returned-with-a-god/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-knight-king-who-returned-with-a-god/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE KNIGHT OF EMBERS",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Fantastique"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-knight-of-embers",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-knight-of-embers.jpg",
-      "noms_alt": [
-        "THE EMBER KNIGHT",
-        "JANBURUI GISA"
-      ],
-      "synopsis": "Il y a quelque chose dont tout le monde est au courant. La semaine dernière, ma maison est partie en fumée et mon seul frère est devenu cendre. Mais, il y a une chose qu'aucune âme ne sait. Le fait que... j'ai tué mon propre frère. Après la mort de son frère jumeau, Na Gyun assume l'identité de celui-ci. Cependant, bien que les deux puissent se ressembler, quand il s'agit de se battre, Na Gyun n'a ni le talent, ni l'habileté que possédait le défunt. Afin d'exécuter avec succès sa vengeance, Na Gyun décide de s'entraîner pour devenir le prodigieux chevalier que son frère aurait dû devenir. Pourra-t-il garder son identité secrète suffisamment longtemps avant que les autres ne voient au travers de son acte ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1840,
-        "tmdb_id": null,
-        "kitsu_id": "7258"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1840,
-            "tmdb_id": null,
-            "kitsu_id": "7258"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-knight-of-embers/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-knight-of-embers/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "THE LAST ADVENTURER",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-last-adventurer",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-last-adventurer.jpg",
-      "noms_alt": [
-        "CHOEHU-UI MOHEOMGA"
-      ],
-      "synopsis": "Elpam, un ancien esclave qui servait d'appât pour les aventuriers, trouve la mort en affrontant Horntail, le roi des dragons. Le destin lui octroie une seconde chance et le renvoie dans son passé. Il va tenter de tout faire pour éviter l'effondrement du Maple World et déjouer les plans du magicien noir.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 32313,
-        "tmdb_id": null,
-        "kitsu_id": "13729"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 32313,
-            "tmdb_id": null,
-            "kitsu_id": "13729"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-last-adventurer/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-last-adventurer/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "THE LAST SUMMONER",
       "type": "Anime",
       "genres": [
@@ -4888,7 +4552,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-zgairdkm7oeu.html"
+                }
+              ]
             }
           ]
         }
@@ -5187,62 +4856,6 @@
       ]
     },
     {
-      "nom": "THE LEGENDARY HERO IS AN ACADEMY HONORS STUDENT",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Aventure - Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-legendary-hero-is-an-academy-honors-student",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-legendary-hero-is-an-academy-honors-student.jpg",
-      "noms_alt": [
-        "LEGENDARY HERO IS AN ACADEMY HONORS STUDENT"
-      ],
-      "synopsis": "Cinq héros se sont opposés à Erebos, le mal primordial qui a mené le monde au bord de la destruction. Le guerrier Arron. Le forgeron divin, Dweno. La poète des étoiles, Luna. Le roi sage, Lysinas. Et enfin, le héros du début, Kyle-Moi. Cependant, lorsque je me suis réincarné, j'ai découvert que nous étions tous considérés comme de grands héros... Tout le monde, sauf moi. Une académie de héros abrite les Archives des héros, un cadeau du ciel qui enregistre les exploits des héros. Je vais m'y inscrire et découvrir pourquoi j'ai été rayé de l'histoire. « Pourquoi ne pas aller de l'avant et devenir un étudiant d'honneur ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 51706,
-        "tmdb_id": null,
-        "kitsu_id": "50609"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 51706,
-            "tmdb_id": null,
-            "kitsu_id": "50609"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-legendary-hero-is-an-academy-honors-student/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-legendary-hero-is-an-academy-honors-student/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "THE LIGHT OF A FIREFLY FOREST",
       "type": "Anime, Film",
       "genres": [
@@ -5512,229 +5125,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://www.myvi.tv/embed/ojeqzsywa51rj81z1wfnb5mk8h"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE LORD OF THE WHEEL OF DESTINY",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Fantasy - Science-fiction - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-lord-of-the-wheel-of-destiny",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-lord-of-the-wheel-of-destiny.jpg",
-      "noms_alt": [
-        "LORD OF DESTINY WHEEL",
-        "LE SEIGNEUR DE LA ROUE DU DESTIN"
-      ],
-      "synopsis": "Une planète nommée \"Étoile du Diable\" apparaît soudainement, transformant la faune et la flore terrestre en monstres. Au bord de l'extinction, les humains découvrent un moyen de se connecter à cette étoile fantôme pour acquérir des pouvoirs et combattre les monstres, débutant l'ère de l'exploration stellaire.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 54853,
-        "tmdb_id": null,
-        "kitsu_id": "5766"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 54853,
-            "tmdb_id": null,
-            "kitsu_id": "5766"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-lord-of-the-wheel-of-destiny/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-lord-of-the-wheel-of-destiny/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE MAD DOG OF THE DUKE'S ESTATE",
-      "type": "Scans",
-      "genres": [
-        "Action - Drame - Fantasy - Noblesse - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-mad-dog-of-the-dukes-estate",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-mad-dog-of-the-dukes-estate.jpg",
-      "noms_alt": [],
-      "synopsis": "Un homme est réincarné ou transmigré dans le corps d'un personnage surnommé \"le chien fou\" d'une famille ducale, souvent un garde ou un enfant illégitime violent. Il doit utiliser sa réputation féroce pour protéger ceux qui lui sont chers ou pour survivre aux intrigues de la noblesse.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8074,
-        "tmdb_id": null,
-        "kitsu_id": "297"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 8074,
-            "tmdb_id": null,
-            "kitsu_id": "297"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-mad-dog-of-the-dukes-estate/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-mad-dog-of-the-dukes-estate/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE MAFIA NANNY",
-      "type": "Scans",
-      "genres": [
-        "Romance",
-        "Action",
-        "Comédie",
-        "Crime",
-        "Webcomic",
-        "Manhwa"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-mafia-nanny",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-mafia-nanny.jpg",
-      "noms_alt": [],
-      "synopsis": "Être une nounou d'élite, c'est simple : protéger l'enfant à charge, obéir aux ordres du client principal et ne pas s'attacher émotionnellement. Plus facile à dire qu'à faire lorsque le premier client de Davina est un sous-chef de la mafia vénitienne dangereusement irrésistible qui est déterminé à la déstabiliser. Ce qu'il attend d'elle, elle ne peut l'imaginer, mais Gabriel Angelini l'entraîne à nouveau dans le monde étincelant du crime organisé qu'elle pensait avoir laissé derrière elle pour toujours. Elle pourrait obtenir des réponses sur son passé si elle creuse assez profondément, mais peut-elle protéger Mikey des ambitions de son père et empêcher son cœur de s'emmêler dans leur toile perfide ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 26441,
-        "tmdb_id": null,
-        "kitsu_id": "11957"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 26441,
-            "tmdb_id": null,
-            "kitsu_id": "11957"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-mafia-nanny/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-mafia-nanny/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE MAGIC TOWER PROBLEMATIC CHILD",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Aventure - Drame - Fantasy - Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-magic-tower-problematic-child",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-magic-tower-problematic-child.jpg",
-      "noms_alt": [
-        "THE MAGIC TOWER'S PROBLEM CHILD",
-        "THE TROUBLEMAKERS OF THE MAGE TOWER"
-      ],
-      "synopsis": "Le maître de la tour de magie blanche, Oscar Sage, et ses mages ont tout sacrifié, y compris leur vie, pour l'avenir de l'humanité. 20 ans ont passé, et Oscar Sage a ouvert les yeux sur son reflet dans le miroir : un mage de niveau 1 qui ne pouvait utiliser que des sorts de base, et une Tour de magie blanche qui risquait d'être exclue de la Ligue des quatre tours. En se jurant de redonner à la Tour de Magie Blanche sa gloire d'antan, Oscar, le maître de la tour, entame sa seconde vie.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 42826,
-        "tmdb_id": null,
-        "kitsu_id": "907"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 42826,
-            "tmdb_id": null,
-            "kitsu_id": "907"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-magic-tower-problematic-child/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-magic-tower-problematic-child/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -6260,245 +5650,6 @@
       ]
     },
     {
-      "nom": "THE MARSHAL KING",
-      "type": "Scans",
-      "genres": [
-        "Shônen - Action - Drame - Historique - Western"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-marshal-king",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-marshal-king.jpg",
-      "noms_alt": [
-        "THE MARSHALL KING"
-      ],
-      "synopsis": "L'histoire se concentre sur un jeune homme, Jim Godspeed, qui prétend être le fils d'un légendaire hors-la-loi et prétend l'avoir tué et traîné son cadavre dans le désert pour preuve. Cependant, les vérités sur son passé restent floues, ce qui laisse entrevoir un récit oscillant entre mythe et réalité.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38119,
-        "tmdb_id": null,
-        "kitsu_id": "2994"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38119,
-            "tmdb_id": null,
-            "kitsu_id": "2994"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-marshal-king/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-marshal-king/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE MARTIAL GOD WHO REGRESSED TO LEVEL 2",
-      "type": "Scans",
-      "genres": [
-        "Action - Fantasy - Système - Retour dans le passé - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-martial-god-who-regressed-to-level-2",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-martial-god-who-regressed-to-level-2.jpg",
-      "noms_alt": [
-        "MARTIAL GOD REGRESSED TO LEVEL 2"
-      ],
-      "synopsis": "L'humanité a échoué dans le \"Match de Démotion\" et la Terre est sur le point d'être effacée. Le Saint Martial Sung Jihan résiste à la suppression et obtient une chance de revenir au moment de son entrée initiale dans la Ligue. De retour au niveau 2, il jure d'empêcher la chute de l'humanité et de devenir le Dieu Martial.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38119,
-        "tmdb_id": null,
-        "kitsu_id": "2530"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38119,
-            "tmdb_id": null,
-            "kitsu_id": "2530"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-martial-god-who-regressed-to-level-2/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-martial-god-who-regressed-to-level-2/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE MAX LEVEL HERO HAS RETURNED",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Fantaisie",
-        "Isekai",
-        "Aventure",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-max-level-hero-has-returned",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-max-level-hero-has-returned.jpg",
-      "noms_alt": [],
-      "synopsis": "Le faible prince d’un pays insignifiant, Davey. Après être devenu comateux, son âme s’échappa dans un temple où se rassemblaient les âmes des héros. Il s’est entraîné pendant mille ans et est maintenant revenu comme un héros de niveau max! « Attendez, je vais vous faire face! » L’histoire rafraîchissante de la vie royale et de la vengeance de Davey vient de commencer.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62753,
-        "tmdb_id": null,
-        "kitsu_id": "42079"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62753,
-            "tmdb_id": null,
-            "kitsu_id": "42079"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-max-level-hero-has-returned/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-max-level-hero-has-returned/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "THE MAX LEVEL RETURNER",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Surnaturel",
-        "Tragédie"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-max-level-returner",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-max-level-returner.jpg",
-      "noms_alt": [
-        "HIGHEST LEVEL RETURNER",
-        "NA HONJA MALLEB GWIHWANJA"
-      ],
-      "synopsis": "Au total, 120 millions de personnes ont disparu dans le monde entier. (Vous avez réussi la quête finale et avez reçu la récompense : \"Retour\"). En 22 ans, Yoon Sang-Hyuk, a finalement réussi à battre le jeu de survie le plus atroce. L'homme qui est devenu \"l'Armée d'un seul homme\", et le plus fort de tous les autres joueurs, est finalement revenu à la réalité. Et ce n'est pas tout, il est revenu avec une récompense que personne n'avait jamais reçue auparavant. C'est le début du Max Level Returner !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62753,
-        "tmdb_id": null,
-        "kitsu_id": "42079"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62753,
-            "tmdb_id": null,
-            "kitsu_id": "42079"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-max-level-returner/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-max-level-returner/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "THE MAX-LEVEL PLAYER'S 100TH REGRESSION",
-      "type": "Scans",
-      "genres": [
-        "Manhua",
-        "Manhwa",
-        "Shônen",
-        "Webcomic",
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Drame",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-max-level-players-100th-regression",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-max-level-players-100th-regression.jpg",
-      "noms_alt": [
-        "THE MAX-LEVEL PLAYER’S 100TH REGRESSION"
-      ],
-      "synopsis": "La Terre se retrouve dans un jeu de mort mondial auquel toute personne âgée de 15 à 29 ans doit participer. Dans ce jeu à mort en 20 rounds, Ryu Min se retrouve seul à l'entrée du dernier round. Cependant, le jeu le nargue, le tuant pour ne pas avoir satisfait aux conditions d'entrée d'un groupe minimum de 5 hommes. Aujourd'hui, à sa 100e et dernière tentative, il utilise les informations qu'il a apprises lors de ses 99 tentatives précédentes pour aider à réunir les compagnons nécessaires pour atteindre la fin. Ryu Min pourra-t-il enfin battre le jeu, ou périra-t-il dans sa tentative ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62753,
-        "tmdb_id": null,
-        "kitsu_id": "42079"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62753,
-            "tmdb_id": null,
-            "kitsu_id": "42079"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-max-level-players-100th-regression/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-max-level-players-100th-regression/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "THE MIGHTY NEIN",
       "type": "Autres",
       "genres": [
@@ -6538,35 +5689,75 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-8sh78do4b8e0.html"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-3bbjw29t3s6d.html"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-2y2z57smmqcc.html"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-50j3115hnzqu.html"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ziy9vip4mdyd.html"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-49md238so90j.html"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-wsaur1ygke70.html"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-rru2hfa2jheq.html"
+                }
+              ]
             }
           ]
         }
@@ -8002,122 +7193,6 @@
       ]
     },
     {
-      "nom": "THE NEBULA'S CIVILIZATION",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Action - Aventure - Drame - Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-nebulas-civilization",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-nebulas-civilization.jpg",
-      "noms_alt": [],
-      "synopsis": "Choi Sungwoon a réussi tous les exploits du jeu « Perished World » et est devenu le premier joueur du jeu. Après un bref moment de joie, Sungwoon reçoit un e-mail suspect et est convoqué dans une version réelle de « Perished World », entamant ainsi sa course pour devenir un « dieu ».",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8074,
-        "tmdb_id": null,
-        "kitsu_id": "824"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 8074,
-            "tmdb_id": null,
-            "kitsu_id": "824"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-nebulas-civilization/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-nebulas-civilization/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE NECROMANCER FAMILY’S YOUNG HEIR",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Shônen",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Mystère",
-        "Tragédie",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-necromancer-familys-young-heir",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-necromancer-familys-young-heir.jpg",
-      "noms_alt": [],
-      "synopsis": "À seulement quatorze ans, Leon est contraint d'exécuter son propre père et d'assumer la tête d'une famille en ruine. Autrefois redoutée pour sa maîtrise de la nécromancie, la lignée des Marbas n'est plus que l'ombre d'elle-même, incapable de produire un seul mage nécromant. Méprisé et sous-estimé, Leon nourrit pourtant une détermination sans faille : anéantir les Sylvester pour venger son père et restaurer le blason de sa famille. Pour y parvenir, il scelle un pacte avec Marbas, le démon qui a appris la nécromancie à son ancêtre, et entreprent de devenir aussi puissant que le fondateur des Marbas.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8074,
-        "tmdb_id": null,
-        "kitsu_id": "6347"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 8074,
-            "tmdb_id": null,
-            "kitsu_id": "6347"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-necromancer-familys-young-heir/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-necromancer-familys-young-heir/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "THE NEW GATE",
       "type": "Anime, Scans",
       "genres": [
@@ -8370,91 +7445,6 @@
       ]
     },
     {
-      "nom": "THE NEWBIE IS TOO STRONG",
-      "type": "Scans",
-      "genres": [
-        "Shônen",
-        "Action",
-        "Aventure",
-        "Comédie",
-        "Fantaisie",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-newbie-is-too-strong",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-newbie-is-too-strong.jpg",
-      "noms_alt": [],
-      "synopsis": "JaeJu (qui signifie « compétence » en coréen) a grandi sans parents dans un orphelinat avec compétence, comme son nom l'indique. Un jour, il a entendu dire que l'orphelinat avait des difficultés et qu'il devrait fermer dans trois ans. Alors qu'il essayait de collecter des fonds pour l'orphelinat, JaeJu a reçu une alerte sur son téléphone. Il y voit une vidéo de lui en train d'escalader la tour en tant que BJ (broadcasting jockey ou streamer). Il y a sept ans, une tour est soudainement apparue et a accueilli des gens au hasard. Si vous réussissez à franchir la tour et à devenir un « Eveillé », ce n'est qu'une question de temps avant que vous ne deveniez riche !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 54913,
-        "tmdb_id": null,
-        "kitsu_id": "43167"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 54913,
-            "tmdb_id": null,
-            "kitsu_id": "43167"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-newbie-is-too-strong/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-newbie-is-too-strong/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "THE NOVEL'S EXTRA",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Aventure",
-        "Comédie",
-        "Drame",
-        "Fantasy",
-        "Science-Fiction",
-        "School Life"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-novels-extra",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-novels-extra.jpg",
-      "noms_alt": [
-        "THE GHOST WRITING HERO"
-      ],
-      "synopsis": "Le jour où un fan le contacte pour lui proposer de faire un remake de son roman, Kim Hajin, auteur anonyme sur la toile, accepte avec joie... et se réveille le lendemain dans sa propre histoire ! Il connaît chaque intrigue, chaque rebondissement... sauf qu'il n'est qu'un figurant anonyme de son récit ! Il n'a plus qu'une chose à faire : utiliser ses connaissances et ses nouveaux pouvoirs pour modifier le scénario, et devenir à son tour l'un des protagonistes de sa propre histoire !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8074,
-        "tmdb_id": null,
-        "kitsu_id": "8521"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 8074,
-            "tmdb_id": null,
-            "kitsu_id": "8521"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-novels-extra/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-novels-extra/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "THE OWL HOUSE",
       "type": "Autres",
       "genres": [
@@ -8494,79 +7484,174 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966901\t"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966902"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966904"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966905"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966906"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966907"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966908"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966909"
+                }
+              ]
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966910"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966911"
+                }
+              ]
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966912"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966913"
+                }
+              ]
             },
             {
               "episode": "Episode 13",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966984"
+                }
+              ]
             },
             {
               "episode": "Episode 14",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966919"
+                }
+              ]
             },
             {
               "episode": "Episode 15",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966921"
+                }
+              ]
             },
             {
               "episode": "Episode 16",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966922"
+                }
+              ]
             },
             {
               "episode": "Episode 17",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966923"
+                }
+              ]
             },
             {
               "episode": "Episode 18",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966925"
+                }
+              ]
             },
             {
               "episode": "Episode 19",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966926"
+                }
+              ]
             }
           ]
         },
@@ -8585,87 +7670,192 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966927"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966928"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966931"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966932"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966934"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966935"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966937"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966940"
+                }
+              ]
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966942"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966943"
+                }
+              ]
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966944"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966945"
+                }
+              ]
             },
             {
               "episode": "Episode 13",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966946"
+                }
+              ]
             },
             {
               "episode": "Episode 14",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966947"
+                }
+              ]
             },
             {
               "episode": "Episode 15",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966948"
+                }
+              ]
             },
             {
               "episode": "Episode 16",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966950"
+                }
+              ]
             },
             {
               "episode": "Episode 17",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966953"
+                }
+              ]
             },
             {
               "episode": "Episode 18",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966954"
+                }
+              ]
             },
             {
               "episode": "Episode 19",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966956"
+                }
+              ]
             },
             {
               "episode": "Episode 20",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966957"
+                }
+              ]
             },
             {
               "episode": "Episode 21",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4966959"
+                }
+              ]
             }
           ]
         },
@@ -8685,6 +7875,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5287206"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/llz9dm66"
@@ -8899,158 +8093,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "THE PLAYER HIDES HIS PAST",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Aventure - Comédie - Drame - Fantasy - Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-player-hides-his-past",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-player-hides-his-past.jpg",
-      "noms_alt": [
-        "LE PLAYER CACHE SON PASSÉ",
-        "THE PLAYER HIDING HIS PAST",
-        "THE PLAYER WITH A HIDDEN PAST"
-      ],
-      "synopsis": "Quand le jeu légendaire \"L'histoire du continent d'Arcana\" devient réalité, l'humanité est menacée par l'apparition de monstres issus des fissures aux quatre coins de la planète. Seuls les \"Players\", les êtres humains qui se sont assimilés à leur personnage dans le jeu, peuvent protéger le monde des monstres. Malheureusement pour Ho-Yeol, il a subi l'assimilation avec un personnage qu'il avait créé il y a 10 ans quand il était en pleine crise d'adolescence. Comment pourra-t-il devenir le héros dont l'humanité a tant besoin ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 5420,
-        "tmdb_id": null,
-        "kitsu_id": "6"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 5420,
-            "tmdb_id": null,
-            "kitsu_id": "6"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-player-hides-his-past/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-player-hides-his-past/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE PLAYER OF THE FALLEN FAMILY",
-      "type": "Scans",
-      "genres": [
-        "Action - Fantasy - Moderne - Vengeance - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-player-of-the-fallen-family",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-player-of-the-fallen-family.jpg",
-      "noms_alt": [],
-      "synopsis": "Le dernier survivant d'une famille noble déchue devient un \"Joueur\" dans un monde moderne transformé par des donjons. Il utilise ses privilèges de joueur pour restaurer l'honneur et la fortune de sa famille, écrasant ceux qui ont profité de leur chute.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 5420,
-        "tmdb_id": null,
-        "kitsu_id": "12322"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 5420,
-            "tmdb_id": null,
-            "kitsu_id": "12322"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-player-of-the-fallen-family/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-player-of-the-fallen-family/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE PLAYER THAT CAN'T LEVEL UP",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/the-player-that-cant-level-up",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-player-that-cant-level-up.jpg",
-      "noms_alt": [
-        "PLAYER MOSHANEUN LEVELUP",
-        "THE PLAYER WHO CAN'T LEVEL UP"
-      ],
-      "synopsis": "Après une série d'échecs, Kim Gi Gyu est enfin devenu un player à l'âge de 18 ans. Il pensait ainsi pouvoir changer sa vie et mettre sa famille à l'abri du besoin... Mais même en étant détenteur d'une compétence unique, le jeune homme s'avère absolument incapable de dépasser le niveau 1 ! D'ailleurs, la seule position qui lui est accordée est celle de guide du tutoriel... Qui aurait cru qu'un player puisse devenir légendaire par son incapacité à monter le moindre niveau ?!",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 56735,
-        "tmdb_id": null,
-        "kitsu_id": "6501"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 56735,
-            "tmdb_id": null,
-            "kitsu_id": "6501"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-player-that-cant-level-up/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-player-that-cant-level-up/saison1/vostfr/",
-          "episodes": []
         }
       ]
     }
