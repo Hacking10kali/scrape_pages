@@ -44,6 +44,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-is5n4buosuvr.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4696159"
             }
@@ -4798,15 +4802,30 @@
       "episodes": [
         {
           "episode": "Semi Final 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5299933"
+            }
+          ]
         },
         {
           "episode": "Semi Final 2",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-pd7lslcp2af8.html"
+            }
+          ]
         },
         {
           "episode": "The Final",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4778178"
+            }
+          ]
         }
       ]
     },
