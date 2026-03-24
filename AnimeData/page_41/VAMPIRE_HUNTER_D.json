@@ -44,11 +44,21 @@
       "episodes": [
         {
           "episode": "Episode Vampire Hunter D",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://www.yourupload.com/embed/6nDdKE6U665o"
+            }
+          ]
         },
         {
           "episode": "Episode Vampire Hunter D Bloodlust",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://www.yourupload.com/embed/38mFC82vB51k"
+            }
+          ]
         }
       ]
     }
