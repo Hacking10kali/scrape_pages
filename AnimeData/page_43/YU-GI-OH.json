@@ -45,6 +45,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5248709"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/e07rizmr"
             }
@@ -2967,6 +2971,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5248709"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/e07rizmr"
@@ -5891,6 +5899,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5248709"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/e07rizmr"
             }
@@ -8814,6 +8826,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5249037"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/wvf7g0de"
             }
@@ -8980,6 +8996,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5250768"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/q1us0g5s"
@@ -9668,6 +9688,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5250835"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/oyeq9srz"
             }
@@ -10312,7 +10336,16 @@
         },
         {
           "episode": "Episode 51",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/mhhcccxh"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/mhhcccxh"
+            }
+          ]
         },
         {
           "episode": "Episode 52",
@@ -10345,6 +10378,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5248709"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/e07rizmr"
@@ -13269,6 +13306,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5249037"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/wvf7g0de"
             }
@@ -13435,6 +13476,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5250768"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/q1us0g5s"
@@ -14121,7 +14166,12 @@
       "episodes": [
         {
           "episode": "Dark Side of Dimension",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-wyg0jpby9cke.html"
+            }
+          ]
         }
       ]
     }
