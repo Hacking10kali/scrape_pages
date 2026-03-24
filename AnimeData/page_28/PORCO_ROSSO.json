@@ -1,0 +1,52 @@
+{
+  "nom": "PORCO ROSSO",
+  "type": "Anime, Film",
+  "genres": [
+    "Aventure",
+    "Comédie",
+    "Ghibli",
+    "Historique"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/porco-rosso",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/porco-rosso.jpg",
+  "noms_alt": [
+    "KURENAI NO BUTA"
+  ],
+  "synopsis": "Dans l'entre-deux-guerres, un pilote très talentueux nommé Marco va se retrouver transformé. Il est mi humain mi-cochon. Il est alors appelé par ses ennemis Porco Rosso. Il est désormais chasseur de prime à bord d'un bel hydravion rouge que l'on reconnait facilement. Ayant beaucoup d'ennemis (les pirates de l'air, les brigands, etc.), son repère se trouve sur une île déserte de l'Adriatique. Mais un jour, son ennemi juré vient le défier, alors que son bel hydravion rouge est déjà dans un sale état, il doit alors aller le faire réparer chez Picollo, un vieil ami. Il y rencontrera Fio, une jeune mécanicienne de 17 ans, qui le suivra partout et lui sauvera la vie bien des fois ! Rire et aventure sont au rendez-vous !",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 32673,
+    "tmdb_id": null,
+    "kitsu_id": "5799"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Film",
+      "titreComplet": "Film",
+      "isFilm": true,
+      "ids": {
+        "jikan_id": 416,
+        "tmdb_id": 11621,
+        "kitsu_id": "380"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/porco-rosso/film/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/porco-rosso/film/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4960862"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
