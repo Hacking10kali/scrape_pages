@@ -1,8 +1,8 @@
 {
   "page": 18,
-  "scraped_at": "20260323_071741",
-  "duration_s": 2994,
-  "total": 48,
+  "scraped_at": "20260324_095718",
+  "duration_s": 498,
+  "total": 38,
   "animes": [
     {
       "nom": "KAINA OF THE GREAT SNOW SEA",
@@ -44,6 +44,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239179&hash=1f0df0ea878b8acc&hd=3"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5006760"
@@ -241,7 +245,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://www.yourupload.com/embed/7uuu6tl58xq4"
+                }
+              ]
             }
           ]
         }
@@ -509,111 +518,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "KALLI THE CHAMPION",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Arts martiaux - Drame - Fantasy - Sports"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kalli-the-champion",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kalli-the-champion.jpg",
-      "noms_alt": [
-        "BOXER CARLY",
-        "BOXER KALI",
-        "BOXER KALLI",
-        "GWONTUSA KALLI",
-        "PRIZEFIGHTER KALRI",
-        "RETURN OF THE BOXER"
-      ],
-      "synopsis": "Park Kang-tae est un ancien boxeur qui a fait un mauvais choix et est devenu le poing de la pègre. Abandonné par son organisation, il se retrouve au bord de la mort et, alors qu'il pense en avoir fini avec les regrets, un autre monde de la boxe apparaît devant ses yeux.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8786,
-        "tmdb_id": null,
-        "kitsu_id": "13949"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "42720"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kalli-the-champion/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kalli-the-champion/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "KAMEN BYOUTOU",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Action",
-        "Horreur",
-        "Mystère",
-        "Assassinat",
-        "Médecine",
-        "Secrets"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kamen-byoutou",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kamen-byoutou.jpg",
-      "noms_alt": [
-        "MASK WARD"
-      ],
-      "synopsis": "Alors qu'il est de garde dans un hôpital de repos, Hayami Shuugo est confronté à un criminel masqué et sa victime, blessée par balle. Le docteur Hayami va se voir contraint de sauver la jeune femme sur-le-champ, après quoi le criminel décide de prendre tout l'hôpital en otage ! La nuit risque d'être mouvementée...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 4332,
-        "tmdb_id": null,
-        "kitsu_id": "3143"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 4332,
-            "tmdb_id": null,
-            "kitsu_id": "3143"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kamen-byoutou/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kamen-byoutou/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -2127,47 +2031,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "KAMISAMA NO INAI NICHIYOUBI",
-      "type": "Scans",
-      "genres": [
-        "Drame",
-        "Mystère",
-        "Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kamisama-no-inai-nichiyoubi",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kamisama-no-inai-nichiyoubi.jpg",
-      "noms_alt": [
-        "SUNDAY WITHOUT GOD",
-        "UN DIMANCHE SANS DIEU"
-      ],
-      "synopsis": "Ai, 12 ans, est une jeune Fossoyeuse officiant dans un petit village. Elle y attend le retour d'un certain Hampnie Hambart qui, selon sa mère, peut l'aider à retrouver son père. Mais le jour où Hampnie arrive au village, il massacre tous les habitants à la grande surprise de la jeune fille.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 16009,
-        "tmdb_id": 49473,
-        "kitsu_id": "7358"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 16009,
-            "tmdb_id": null,
-            "kitsu_id": "7358"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kamisama-no-inai-nichiyoubi/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kamisama-no-inai-nichiyoubi/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -4680,48 +4543,6 @@
       ]
     },
     {
-      "nom": "KARA NO KIOKU",
-      "type": "Scans",
-      "genres": [
-        "Shojo",
-        "School Life",
-        "Slice of Life",
-        "Surnaturel",
-        "Amitié",
-        "Démons",
-        "Ecole",
-        "Paranormal",
-        "Société"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/kara-no-kioku",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kara-no-kioku.jpg",
-      "noms_alt": [],
-      "synopsis": "Tout comme nos cœurs peuvent montrer de la douceur et de la gentillesse, tout comme nos cœurs peuvent présenter les sentiments que nous voulons exprimer, ils sont plus susceptibles d'avoir une forme. Mais si cette forme et apparence finissaient par grandir, nous n'arriverions plus à les contrôler. Et si notre alter ego devenait conscient de lui-même, qu'arriverait-il à un cœur qui s'est brisé? Rei Tsukumo, un garçon solitaire, est frappé par une soudaine paranoïa dans sa classe le jour de la cérémonie d'ouverture. Détruit par ces sentiments, il se met à voir d'étranges créatures.. Dans une zone où les phénomènes surnaturels se multiplient, un groupe de jeunes solitaires sont ramenés ensemble par le fruit du destin...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 58437,
-        "tmdb_id": null,
-        "kitsu_id": "48620"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 58437,
-            "tmdb_id": null,
-            "kitsu_id": "48620"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kara-no-kioku/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kara-no-kioku/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "KARAKAI JOUZU NO TAKAGI-SAN",
       "type": "Anime, Scans",
       "genres": [
@@ -6556,109 +6377,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "KARYUUDO NO KAKUSEI",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Shônen - Manhwa - Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/karyuudo-no-kakusei",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/karyuudo-no-kakusei.jpg",
-      "noms_alt": [],
-      "synopsis": "Dans un monde où les calamités règnent sur l'humanité, un jeune homme nommé Takeshi nourrit l'espoir d'accomplir une vengeance, en exterminant toutes les calamités de ce monde.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 20267,
-        "tmdb_id": null,
-        "kitsu_id": "7979"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "44381"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/karyuudo-no-kakusei/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/karyuudo-no-kakusei/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "KASANE, LA VOLEUSE DE VISAGE",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Drame",
-        "Mature",
-        "Mystère",
-        "Psychologique",
-        "Romance",
-        "Surnaturel",
-        "Tragique",
-        "Harcèlement",
-        "Mensonges",
-        "Philosophie",
-        "Secrets",
-        "Société",
-        "Suicide",
-        "Vengeance",
-        "Viol"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/kasane-la-voleuse-de-visage",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kasane-la-voleuse-de-visage.jpg",
-      "noms_alt": [],
-      "synopsis": "Kasane Fuchi est la fille de l'actrice Sukeyo Fuchi, connue pour son talent et sa beauté. Pourtant Kasane est loin de ressembler à sa mère, on pourrait même dire qu'elle est laide et se fait d'ailleurs beaucoup embêter à l'école à cause de son physique. Un jour, sa mère décède, mais avant que celle-ci ne meurt, elle dit un jour à Kasane que si elle trouvait que les temps étaient durs pour elle, elle pourrait mettre son rouge à lèvre et embrasser ce qu'elle voulait. Ce rouge à lèvre permet en réalité de prendre l'apparence de la personne qu'elle embrasse...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 58640,
-        "tmdb_id": null,
-        "kitsu_id": "44195"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "44195"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kasane-la-voleuse-de-visage/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kasane-la-voleuse-de-visage/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -12322,51 +12040,111 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-zfik9y6r2xj4.html"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-v3s9zckzl6gj.html"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-73e0on8km9hk.html"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-e9w1vnlm9yle.html"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-9jrzhoh6z0gw.html"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-q57j52lx4ec4.html"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-uvpw9ju04sa1.html"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-i401rbqlxewz.html"
+                }
+              ]
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-4l229icnrvdi.html"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-2vw9q63993to.html"
+                }
+              ]
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-u30gwvpkr9o8.html"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-wgti0aog2xz5.html"
+                }
+              ]
             }
           ]
         }
@@ -14636,50 +14414,6 @@
           "langue": "vf",
           "lien_vf": "https://anime-sama.to/catalogue/kengan-ashura/saison2-partie2/vf/",
           "lien_vostfr": "https://anime-sama.to/catalogue/kengan-ashura/saison2-partie2/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "KENGAN OMEGA",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Comédie",
-        "Arts martiaux",
-        "Tragique",
-        "Combats",
-        "Tournois"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kengan-omega",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kengan-omega.jpg",
-      "noms_alt": [
-        "KENGAN ASURA 2",
-        "KENGAN ASHURA 2"
-      ],
-      "synopsis": "L'histoire se situe deux ans après le dernier tournoi Kengan. L'histoire suit le parcours de Koga Narushima un pratiquant d'arts martiaux talentueux. Il a envie de tester ses capacités en participant à un tournoi Kengan pour voir jusqu'où il pourra aller.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 12929,
-        "tmdb_id": null,
-        "kitsu_id": "971"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1086,
-            "tmdb_id": null,
-            "kitsu_id": "971"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kengan-omega/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kengan-omega/saison1/vostfr/",
           "episodes": []
         }
       ]
@@ -19253,60 +18987,6 @@
       ]
     },
     {
-      "nom": "KI ET HI",
-      "type": "Scans",
-      "genres": [
-        "Comédie - Slice of Life - Shônen"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/ki-et-hi",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ki-et-hi.jpg",
-      "noms_alt": [
-        "KI & HI"
-      ],
-      "synopsis": "Les aventures loufoques de deux frères, Ki, le grand frère calme et raisonnable, et Hi, le petit frère turbulent et énergique. À travers des situations du quotidien qui dégénèrent souvent, ils explorent leur relation fraternelle dans un univers coloré et humoristique.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 34292,
-        "tmdb_id": null,
-        "kitsu_id": "5949"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 34292,
-            "tmdb_id": null,
-            "kitsu_id": "5949"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/ki-et-hi/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/ki-et-hi/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "KIDS ON THE SLOPE",
       "type": "Anime",
       "genres": [
@@ -20607,6 +20287,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-wale9yyp8knk.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://movearnpre.com/embed/8qalgtpo35vk"
                 }
@@ -21043,7 +20727,16 @@
             },
             {
               "episode": "Episode 35",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-bg5ewm3w6f6g.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://vidmoly.biz/embed-bg5ewm3w6f6g.html"
+                }
+              ]
             },
             {
               "episode": "Episode 36",
@@ -21271,6 +20964,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-dtjq925cocqz.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://movearnpre.com/embed/chpp2d3vf2uf"
@@ -21825,7 +21522,16 @@
             },
             {
               "episode": "Episode 44",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-77rx80p0pt5r.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://vidmoly.biz/embed-77rx80p0pt5r.html"
+                }
+              ]
             },
             {
               "episode": "Episode 45",
@@ -21936,6 +21642,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-xaxdst3yhr27.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://movearnpre.com/embed/n2qntlarlt5r"
@@ -22581,7 +22291,16 @@
             },
             {
               "episode": "Episode 51",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-yyjnu5x9l0ez.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://vidmoly.biz/embed-yyjnu5x9l0ez.html"
+                }
+              ]
             }
           ]
         }
@@ -22632,212 +22351,230 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046002"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046003"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046006"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3542434"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046012"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046015"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046017"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046022"
+                }
+              ]
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3542436"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046029"
+                }
+              ]
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046031"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046035"
+                }
+              ]
             },
             {
               "episode": "Episode 13",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046036"
+                }
+              ]
             },
             {
               "episode": "Episode 14",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046038"
+                }
+              ]
             },
             {
               "episode": "Episode 15",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046039"
+                }
+              ]
             },
             {
               "episode": "Episode 16",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046042"
+                }
+              ]
             },
             {
               "episode": "Episode 17",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046044"
+                }
+              ]
             },
             {
               "episode": "Episode 18",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046048"
+                }
+              ]
             },
             {
               "episode": "Episode 19",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046049"
+                }
+              ]
             },
             {
               "episode": "Episode 20",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046053"
+                }
+              ]
             },
             {
               "episode": "Episode 21",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3542437"
+                }
+              ]
             },
             {
               "episode": "Episode 22",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046057"
+                }
+              ]
             },
             {
               "episode": "Episode 23",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046059"
+                }
+              ]
             },
             {
               "episode": "Episode 24",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046067"
+                }
+              ]
             },
             {
               "episode": "Episode 25",
-              "lecteurs": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "KILL THE DRAGON",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Shônen",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Mecha",
-        "Surnaturel",
-        "School Life",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kill-the-dragon",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kill-the-dragon.jpg",
-      "noms_alt": [
-        "SLAY THE DRAGON"
-      ],
-      "synopsis": "La race humaine est en guerre contre les dragons qui ont envahi la Terre. En même temps, des personnes dotées de pouvoirs surnaturels, appelées Psykers, sont apparues parmi les êtres humains. Lee Han, un orphelin de guerre entre dans l'Ark, un centre de formation spécial après s'être éveillé en tant que Psyker. Pourra-t-il vaincre les dragons dans la bataille finale qui sera déclenchée dans trois ans et sera-t-il en mesure de protéger l'humanité dans le monde au bord de l'effondrement ?» !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 41834,
-        "tmdb_id": null,
-        "kitsu_id": "2445"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 41834,
-            "tmdb_id": null,
-            "kitsu_id": "2445"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kill-the-dragon/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kill-the-dragon/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3046070"
                 }
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "KILL THE HERO",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantastique",
-        "Tragique",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kill-the-hero",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kill-the-hero.jpg",
-      "noms_alt": [
-        "KTH"
-      ],
-      "synopsis": "Un jour, le monde s'est transformé en jeu. Donjons et monstres apparurent au milieu des villes et des joueurs ayant reçu l'autorité des dieux apparurent. Moi seul connaît le secret de celui qu'on appelle le Messie, le héro trompeur dont l'ambition secrète est de gouverner le monde. Moi qui fut trahi et tué de ses propres mains, suis retourné dans le passé. Et cette fois-ci, c'est mon tour de le chasser.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 41834,
-        "tmdb_id": null,
-        "kitsu_id": "42900"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 41834,
-            "tmdb_id": null,
-            "kitsu_id": "42900"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kill-the-hero/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kill-the-hero/saison1/vostfr/",
-          "episodes": []
         }
       ]
     }
