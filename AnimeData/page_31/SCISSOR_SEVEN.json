@@ -45,6 +45,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4738487"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/aob3cjwe"
             }
@@ -169,15 +173,42 @@
         },
         {
           "episode": "Episode 11",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-eilouihbvpny.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-eilouihbvpny.html"
+            }
+          ]
         },
         {
           "episode": "Episode 12",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-6k11sbjf6zp0.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-6k11sbjf6zp0.html"
+            }
+          ]
         },
         {
           "episode": "Episode 13",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-27k0gwq4nuov.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-27k0gwq4nuov.html"
+            }
+          ]
         },
         {
           "episode": "Episode 14",
@@ -210,6 +241,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4738503"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://www.myvi.top/embed/rxkcjq69k7yw7yyoqfwnk3izoe"
@@ -392,6 +427,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4738531"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://www.myvi.top/embed/usr9twgwfncrider4mk5ukzrda"
             },
@@ -572,6 +611,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5259426"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/6bmi0k4z"
