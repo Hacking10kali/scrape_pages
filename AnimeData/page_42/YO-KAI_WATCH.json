@@ -42,6 +42,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5474049"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/8oxfyg49"
             }
@@ -390,6 +394,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5474085"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/wjhnjjbh"
@@ -1039,6 +1047,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5474143"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/1db527rm"
             }
@@ -1321,7 +1333,12 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-h315kdnvydxs.html\t"
+            }
+          ]
         }
       ]
     }
