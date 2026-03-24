@@ -51,6 +51,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-08aqgb2kx9qy.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5306615"
             },
@@ -503,6 +507,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-08aqgb2kx9qy.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5306615"
@@ -957,6 +965,10 @@
           "episode": "Memory Snow",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-s7d3lqpp6p9x.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4956259"
             },
@@ -1002,6 +1014,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-qrtjcaq7le0j.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5818882"
             }
@@ -1035,7 +1051,16 @@
         },
         {
           "episode": "Episode 4",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ghaeff3n3zbj.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-ghaeff3n3zbj.html"
+            }
+          ]
         },
         {
           "episode": "Episode 5",
@@ -1329,6 +1354,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-h5n2l92uhkk8.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/zp2uq0a5"
             },
@@ -1429,6 +1458,10 @@
         {
           "episode": "Episode 6",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-yk8u41ht12es.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5768598"
@@ -1572,6 +1605,10 @@
         {
           "episode": "Episode 13",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-4jf6iexpyfo0.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5862379"
