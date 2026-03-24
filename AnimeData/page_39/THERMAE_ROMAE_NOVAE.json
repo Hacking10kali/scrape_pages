@@ -42,7 +42,16 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/8srtnsz4"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/8srtnsz4"
+            }
+          ]
         },
         {
           "episode": "Episode 2",
