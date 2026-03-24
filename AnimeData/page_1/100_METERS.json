@@ -38,7 +38,12 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-fvhqhex7wj2r.html"
+            }
+          ]
         }
       ]
     }
