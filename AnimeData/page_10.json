@@ -1,55 +1,9 @@
 {
   "page": 10,
-  "scraped_at": "20260323_065446",
-  "duration_s": 1610,
-  "total": 48,
+  "scraped_at": "20260324_095253",
+  "duration_s": 243,
+  "total": 27,
   "animes": [
-    {
-      "nom": "DREAMING FREEDOM",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Drame",
-        "Mature",
-        "Psychologique",
-        "School Life",
-        "Surnaturel",
-        "Amitié",
-        "Harcèlement",
-        "Rêves",
-        "Vengeance"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/dreaming-freedom",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dreaming-freedom.jpg",
-      "noms_alt": [
-        "KKUMESEO JAYURO"
-      ],
-      "synopsis": "La vie de Jung Min est un enfer en raison du harcèlement qu'elle subit de la part de ses camarades de classe, sous l'influence de Joo Hyun, avec qui elle était amie en école primaire. C'est dans ses rêves lucides qu'elle trouve du réconfort, car ils lui permettent de se venger de sa tortionnaire en lui rendant la monnaie de sa pièce. Un jour, un mystérieux jeune homme apparaît dans son monde onirique et lui demande si elle veut qu'il la débarrasse de celles qui la font souffrir. Jung Min acceptera-t-elle cette proposition troublante afin de se libérer de la prison qu'est sa vie ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 37105,
-        "tmdb_id": null,
-        "kitsu_id": "4863"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 37105,
-            "tmdb_id": null,
-            "kitsu_id": "4863"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dreaming-freedom/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dreaming-freedom/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
     {
       "nom": "DRIFTERS",
       "type": "Anime",
@@ -92,6 +46,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=2737129"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/evivtoxs"
                 }
@@ -125,7 +83,16 @@
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/30h1zjkq"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://sendvid.com/embed/30h1zjkq"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
@@ -181,7 +148,16 @@
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://sendvid.com/embed/s152x0gq"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://sendvid.com/embed/s152x0gq"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
@@ -473,187 +449,6 @@
       ]
     },
     {
-      "nom": "DRUG-EATING GENIUS MAGE",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/drug-eating-genius-mage",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/drug-eating-genius-mage.jpg",
-      "noms_alt": [
-        "MEDICINE GENIUS WIZARD",
-        "TALENT DRUG DEVOURING MAGICIAN",
-        "THE GENIUS MEDICINAL MAGE",
-        "TOXICO-MAGE"
-      ],
-      "synopsis": "Dans World 1.0, il jouait un combattant, dans World 2.0 un mousquetaire, un mage semblait évident pour World 3.0. La méthode pour créer un personnage puissant ? On mise tout sur certaines compétences, mais en créant des points faibles, comme insomniaque, ou drogué ! Ça semblait une bonne idée... jusqu'à ce que Lénok se réveille dans le corps de ce mage toxicomane exploité dans une usine par des hommes sans scrupules. Pris à son propre jeu, il doit survivre entre drogue et magie !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 40960,
-        "tmdb_id": null,
-        "kitsu_id": "41075"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 40960,
-            "tmdb_id": null,
-            "kitsu_id": "41075"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/drug-eating-genius-mage/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/drug-eating-genius-mage/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "DUKE PENDRAGON",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Romance"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/duke-pendragon",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/duke-pendragon.jpg",
-      "noms_alt": [
-        "BAEKRYONGGONGJAK PENDRAGON",
-        "HAKURYUU KOUSHAKU PENDRAGON"
-      ],
-      "synopsis": "Raven Balt, qu'on surnomme le corbeau immortel de la légion démoniaque, cache un lourd passé ! Ce guerrier est en fait issu d'une noble famille déchue... et injustement condamnée ! Il apprendra cependant cette triste vérité qu'une seconde avant de se faire couper la tête par son commandant... et de se réveiller dans le corps d'Ellen Pendragon. Il ne reste plus qu'à Raven, devenu Ellen, une dernière chance de réaliser sa vengeance. Avec le dragon blanc à ses côtés, ça serait peut-être plus simple...!",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 47257,
-        "tmdb_id": null,
-        "kitsu_id": "44035"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 47257,
-            "tmdb_id": null,
-            "kitsu_id": "44035"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/duke-pendragon/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/duke-pendragon/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "DUKEDOM'S LEGENDARY PRODIGY",
-      "type": "Scans",
-      "genres": [
-        "Action - Fantasy - Magie - Noblesse - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/dukedoms-legendary-prodigy",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dukedoms-legendary-prodigy.jpg",
-      "noms_alt": [
-        "LEGENDARY YOUNGEST SON OF THE MARQUIS HOUSE"
-      ],
-      "synopsis": "Un individu talentueux se réincarne en tant que plus jeune fils d'une famille ducale prestigieuse. Grâce à ses connaissances de sa vie antérieure et à son talent inné, il surmonte les obstacles politiques et magiques pour devenir une légende au sein de l'empire.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 39523,
-        "tmdb_id": null,
-        "kitsu_id": "8850"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "8850"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dukedoms-legendary-prodigy/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dukedoms-legendary-prodigy/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "DUMBBELL NAN-KILO MOTERU?",
       "type": "Anime",
       "genres": [
@@ -893,145 +688,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "DUNGEON ARCHITECT",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Aventure - Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/dungeon-architect",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-architect.jpg",
-      "noms_alt": [],
-      "synopsis": "Kang Chiwoo a perdu la vie dans un accident et s'est réincarné en fils d'un grand seigneur démon dans un autre monde. Contrairement à son ancienne vie de concepteur de cartes, il est maintenant un loser nommé Kella. Cependant, dans un monde où la magie existe et ayant le pouvoir dormant de Kella, Chiwoo entreprend d'atteindre son objectif de créer la carte de ses rêves qu'il n'a pas pu réaliser dans sa vie passée... Kella sera-t-il capable de créer sa propre carte tout en luttant contre ses frères qui essaient constamment de le tuer, les innombrables menaces qui pèsent sur sa vie et la pression de ceux qui veulent qu'il succède au trône ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 28121,
-        "tmdb_id": null,
-        "kitsu_id": "9962"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 28121,
-            "tmdb_id": null,
-            "kitsu_id": "9962"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dungeon-architect/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-architect/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "DUNGEON DEFENSE",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Comédie",
-        "Psychologique",
-        "Tragédie"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/dungeon-defense",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-defense.jpg",
-      "noms_alt": [],
-      "synopsis": "Lorsque ses salauds de parents meurent, il se retrouve avec un mystérieux héritage de 500 millions de yens. Décidant de faire ce qu'il veut à partir de ce moment-là, le garçon entre dans le jeu en ligne le plus difficile, « Dungeon Attack », où il devient le premier à débloquer le succès consistant à vaincre tous les Seigneurs-Démons. Cependant, lorsqu'il répond à une question mystérieuse qui apparaît après avoir terminé le jeu, il se retrouve soudainement envoyé dans le monde du jeu. Il s'était réincarné en « Dantalian », le Seigneur-Démon le plus bas et le plus faible, classé 71ᵉ dans le monde du jeu ! Avec rien d'autre que son souvenir d'avoir vaincu le Seigneur-Démon le plus puissant et son éloquence sur laquelle s'appuyer, il se bat pour survivre dans ce monde brutal – c'est une histoire de retour et de vengeance !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 28121,
-        "tmdb_id": null,
-        "kitsu_id": "9962"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 28121,
-            "tmdb_id": null,
-            "kitsu_id": "9962"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dungeon-defense/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-defense/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "DUNGEON HOUSE",
-      "type": "Scans",
-      "genres": [
-        "Shônen",
-        "Action",
-        "Aventure",
-        "Fantaisie",
-        "Surnaturel",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/dungeon-house",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-house.jpg",
-      "noms_alt": [
-        "TOO MUCH DANGEROUS OUTSIDE THE HOUSE"
-      ],
-      "synopsis": "Un jour, ma maison s'est retrouvée, sans raison apparente, connectée à un donjon. C'est dangereux dehors, mais il me faut le terminer avant que le temps soit écoulé pour rester en vie. “Je ne veux pas mourir. Je survivrai quoi qu'il arrive”. Le jeune Kim Hyun-Bok doit maintenant terminer un donjon alors que tout le monde est mort. Il commence par apprivoiser les monstres avec ses compétences... Et débute une aventure dans les donjons en risquant sa propre vie, accompagné des squelettes Chris, Kai et Castle qui ont retrouvé leur mémoire.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 28121,
-        "tmdb_id": null,
-        "kitsu_id": "9962"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 28121,
-            "tmdb_id": null,
-            "kitsu_id": "9962"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dungeon-house/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-house/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -1486,47 +1142,6 @@
       ]
     },
     {
-      "nom": "DUNGEON ODYSSEY",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/dungeon-odyssey",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-odyssey.jpg",
-      "noms_alt": [
-        "CHRONIQUES DU DONJON"
-      ],
-      "synopsis": "Les descendants de l'humanité, nés dans les labyrinthes et élevés au lait des monstres, possédaient une force spéciale et un corps robuste. Quand ils sont revenus sur Terre, l'humanité les appelait les enfants du donjon. Parmi eux, Kim Jinwoo est né dans le plus profond des labyrinthes. \"Je n'ai jamais essayé de devenir fort, je voulais juste vivre.\" D'un petit mineur, au roi du labyrinthe, l'histoire de sa vie se déroule maintenant.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 28121,
-        "tmdb_id": null,
-        "kitsu_id": "9962"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 28121,
-            "tmdb_id": null,
-            "kitsu_id": "9962"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dungeon-odyssey/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-odyssey/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "DUNGEON PEOPLE",
       "type": "Anime",
       "genres": [
@@ -1771,88 +1386,6 @@
       ]
     },
     {
-      "nom": "DUNGEON RESET",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Isekai",
-        "Autre monde",
-        "Combats",
-        "Magie"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/dungeon-reset",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeon-reset.jpg",
-      "noms_alt": [],
-      "synopsis": "Une fois un donjon exploré et ses pièges activés, il se réinitialise pour les prochains «utilisateurs». Mais ces réinitialisations ne s'appliquent pas à moi ?! Jeong Da Woon, surnommé \"the Bug\", commence son exploration de donjon !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 28121,
-        "tmdb_id": null,
-        "kitsu_id": "44031"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 28121,
-            "tmdb_id": null,
-            "kitsu_id": "44031"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dungeon-reset/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dungeon-reset/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "DUNGEONS AND ARTIFACTS",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/dungeons-artifacts",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/dungeons-artifcats.jpg",
-      "noms_alt": [
-        "L'ARTÉFACT DÉVOREUR"
-      ],
-      "synopsis": "Dès que je mettrai la main sur ces artefacts, ce sera la fin pour vous !» Le début de la vengeance pour un explorateur de donjon tué à tort et ses artefacts ! Les donjons attirent l'esprit humain, se renforcent avec les morts et utilisent des appâts et des artefacts pour attirer plus de victimes. Celui qui a été tué par une ruse dans un donjon, Stetch Atelier. Au-delà du seuil de la mort, il a eu une seconde chance! Il commence son long voyage pour se venger.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 60253,
-        "tmdb_id": null,
-        "kitsu_id": "49179"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 60253,
-            "tmdb_id": null,
-            "kitsu_id": "49179"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/dungeons-artifacts/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/dungeons-artifacts/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "DURARARA!!",
       "type": "Anime",
       "genres": [
@@ -1896,6 +1429,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-tmk9uxwttri8.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=3066566"
@@ -2299,7 +1836,20 @@
             },
             {
               "episode": "Episode 25",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-o0ij1kfclohp.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://vidmoly.biz/embed-o0ij1kfclohp.html"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://vidmoly.biz/embed-o0ij1kfclohp.html"
+                }
+              ]
             }
           ]
         },
@@ -2319,6 +1869,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-goft8ljsjdn3.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=3066837"
@@ -2487,6 +2041,10 @@
               "lecteurs": [
                 {
                   "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=3067220"
+                },
+                {
+                  "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=3067220"
                 },
                 {
@@ -4549,95 +4107,6 @@
       ]
     },
     {
-      "nom": "EISEN NO LOVELOCK",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Drame",
-        "Fantasy",
-        "Mature",
-        "Science-fiction",
-        "Surnaturel",
-        "Tragique",
-        "Famille",
-        "Gore",
-        "Super pouvoirs"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/eisen-no-lovelock",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/eisen-no-lovelock.jpg",
-      "noms_alt": [
-        "LOVELOCK OF MAJESTIC WAR"
-      ],
-      "synopsis": "On suit l'histoire de jumeaux qui aspiraient à un grand pouvoir et se sont jurés de devenir des \"héros\". Cependant, des années plus tard, le jeune frère Hiiro abandonne son rêve et devient nettoyeur, l'un de ceux qui nettoient après le passage des héros, tandis que son frère en est lui devenu un. Hiiro s'était alors résolu à son sort... jusqu'à ce qu'il assiste au désespoir de son amie d'enfance Iruka, chassée par l'un de ces fameux héros. Fou de rage, il décide de défier son destin pour la première et dernière fois !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 2717,
-        "tmdb_id": null,
-        "kitsu_id": "11414"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 2717,
-            "tmdb_id": null,
-            "kitsu_id": "11414"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/eisen-no-lovelock/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/eisen-no-lovelock/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "ELECEED",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Comédie",
-        "Fantasy",
-        "Surnaturel",
-        "Pouvoirs psychiques"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/eleceed",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/eleceed.jpg",
-      "noms_alt": [
-        "ILLEK SIDEU"
-      ],
-      "synopsis": "Ji Woo est un jeune homme au bon cœur qui utilise son pouvoir pour faire secrètement du monde un meilleur endroit et qui adore s'occuper des chats errants de son quartier. Kayden est un agent secret en fuite, qui se retrouve coincé dans le corps d'un ... vieux chat potelé. Ensemble, armés des super pouvoirs de Ji Woo et des conseils de Kayden, ils feront face à plusieurs épreuves.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 61944,
-        "tmdb_id": 295082,
-        "kitsu_id": "50009"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 61944,
-            "tmdb_id": null,
-            "kitsu_id": "50009"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/eleceed/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/eleceed/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "ELFEN LIED",
       "type": "Anime, Scans",
       "genres": [
@@ -4893,60 +4362,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://sendvid.com/embed/ygltc10a"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "EMBERS",
-      "type": "Scans",
-      "genres": [
-        "Shônen - Action - School Life - Délinquance - Ecole - Football - Sport - Tournois"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/embers",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/embers.jpg",
-      "noms_alt": [],
-      "synopsis": "Noboru Haitani, un collégien, passe son temps à se battre. Lui qui ne perd jamais un combat, il subit un jour une cuisante défaite lors d'un duel au football. Par frustration, Haitani se passionne de plus en plus pour ce sport, jusqu'au jour où il est contraint de jouer un match contre l'équipe de Takami, le prodige du collège ! Un hors-la-loi fait son entrée dans le monde du football !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 58749,
-        "tmdb_id": 24777,
-        "kitsu_id": "44511"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 58749,
-            "tmdb_id": null,
-            "kitsu_id": "44511"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/embers/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/embers/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -6932,156 +6347,6 @@
       ]
     },
     {
-      "nom": "ESCAPE ROOM",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Drame",
-        "Thriller",
-        "Mort",
-        "Survie",
-        "Psychologique",
-        "Mystère"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/escape-room",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/escape-room.jpg",
-      "noms_alt": [
-        "BANGTALCHUL"
-      ],
-      "synopsis": "Réfléchissez et prenez la bonne décision pour sortir de l'escape room. Une petite faute peut vous guider directement vers la mort.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 34393,
-        "tmdb_id": 300221,
-        "kitsu_id": "50337"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 50862,
-            "tmdb_id": null,
-            "kitsu_id": "6686"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/escape-room/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/escape-room/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "ESTIO",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Drame",
-        "Fantasy",
-        "Surnaturel"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/estio",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/estio.jpg",
-      "noms_alt": [],
-      "synopsis": "Estio possède le don singulier de lire les pensées et de visiter les souvenirs des humains et des bêtes. Rejeté par sa communauté à cause de cette aptitude, le jeune homme n'a jamais pu compter que sur ses amis animaux. Le jour de ses 19 ans, il décide de quitter sa campagne natale en quête de réponses à sa différence. Fort de nouvelles expériences et des rencontres faites en chemin, Estio parviendra-t-il enfin à trouver un sens à sa vie et une place auprès des siens ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 6468,
-        "tmdb_id": null,
-        "kitsu_id": "4617"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 6468,
-            "tmdb_id": null,
-            "kitsu_id": "8687"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/estio/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/estio/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "ETERNALLY REGRESSING KNIGHT",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Psychologique",
-        "Comédie"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/eternally-regressing-knight",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/eternally-regressing-knight.jpg",
-      "noms_alt": [
-        "A KNIGHT WHO ETERNALLY REGRESSES",
-        "THE KNIGHT ONLY LIVES TODAY",
-        "THE KNIGHT WHO ONLY LIVES TODAY"
-      ],
-      "synopsis": "Rêvant de devenir chevalier, Enclide, s'acharne pendant des années et devient chef d'escouade. Cependant, il est loin d'atteindre son but par son manque de talent. Un jour, il rencontre un adversaire particulier qui le tue \"sans effort\". Or, au lieu de mourir, Enclide répète le même jour. Ce jour sans fin, qui aurait dû être le début d'un enfer, devient une opportunité toute particulière pour lui afin de devenir un vrai chevalier talentueux. Arrivera-t-il à atteindre \"l'avenir\" ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 51293,
-        "tmdb_id": null,
-        "kitsu_id": "5782"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 51293,
-            "tmdb_id": null,
-            "kitsu_id": "5782"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/eternally-regressing-knight/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/eternally-regressing-knight/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "EVANGELION",
       "type": "Anime, Scans",
       "genres": [
@@ -7654,149 +6919,6 @@
       ]
     },
     {
-      "nom": "EVERYONE LOVES HER",
-      "type": "Scans",
-      "genres": [
-        "Action - Drame - Mystère - Surnaturel - Webcomic - Manhwa"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/everyone-loves-her",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/everyone-loves-her.jpg",
-      "noms_alt": [
-        "TOUT LE MONDE L'AIME"
-      ],
-      "synopsis": "Du jour au lendemain, la vie de Kang Min-ah bascule lorsqu'elle acquiert le pouvoir de téléportation. Mais ce don devient vite un fardeau : à chaque choix, les conséquences sont irréversibles. Tiraillée entre colère, confusion et un sens aigu de la justice, Min-ah s'interroge : jusqu'où utiliser son pouvoir ? Un nouveau chapitre s'ouvre, fait de décisions critiques... et de non-retours. Quel chemin choisira-t-elle, et où son pouvoir la mènera-t-il ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 53434,
-        "tmdb_id": null,
-        "kitsu_id": "50067"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 21427,
-            "tmdb_id": null,
-            "kitsu_id": "50067"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/everyone-loves-her/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/everyone-loves-her/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "EVIL HEROES",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/evil-heroes",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/evil-heroes.jpg",
-      "noms_alt": [],
-      "synopsis": "Pour combattre le mal et maintenir la paix, les super-héros sont toujours là ! Des hommes et des femmes dotés de capacités extraordinaires et dont l'identité reste un mystère. L'humanité peut compter sur eux ! Mais... et si jamais ils venaient un jour à se retourner contre nous ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 36245,
-        "tmdb_id": null,
-        "kitsu_id": "3878"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 36245,
-            "tmdb_id": null,
-            "kitsu_id": "3878"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/evil-heroes/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/evil-heroes/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "EX-LOVE REVIEW",
-      "type": "Scans",
-      "genres": [
-        "Comédie - Romance - Surnaturel - Josei - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/ex-love-review",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ex-love-review.jpg",
-      "noms_alt": [],
-      "synopsis": "Giju est une femme compétente mais malchanceuse en amour. Après un accident, elle acquiert la capacité de voir des \"avis\" laissés par les ex-partenaires au-dessus de la tête des hommes. Elle utilise ce pouvoir pour naviguer dans sa vie amoureuse et éviter les relations toxiques.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 59421,
-        "tmdb_id": null,
-        "kitsu_id": "6266"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 59421,
-            "tmdb_id": null,
-            "kitsu_id": "6266"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/ex-love-review/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/ex-love-review/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "EXCEL SAGA",
       "type": "Anime",
       "genres": [
@@ -8269,45 +7391,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "EXISTENCE",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantaisie",
-        "Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/existence",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/existence.jpg",
-      "noms_alt": [],
-      "synopsis": "C'était la dernière réincarnation d'un être qui avait connu des dizaines de milliers de réincarnations et de vies. Il était né en tant qu'humain avec le pouvoir de chaque forme de vie qu'il avait été. Pourquoi a-t-il une telle capacité ? Lee Jain a finalement compris. « J'existe pour éradiquer l'humanité. »",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 54455,
-        "tmdb_id": 139294,
-        "kitsu_id": "4697"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "322"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/existence/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/existence/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -11295,58 +10378,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://sendvid.com/embed/9rngkg98"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "F-CLASS DESTINY HUNTER",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Fantasy - Surnaturel - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/f-class-destiny-hunter",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/f-class-destiny-hunter.jpg",
-      "noms_alt": [],
-      "synopsis": "Un chasseur de rang F acquiert la capacité de voler ou de manipuler le \"Destin\" ou la \"Chance\" de ses cibles. En volant la bonne fortune de ses ennemis et en leur donnant sa malchance, il grimpe les échelons du monde des chasseurs.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 6055,
-        "tmdb_id": null,
-        "kitsu_id": "5367"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 6055,
-            "tmdb_id": null,
-            "kitsu_id": "5367"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/f-class-destiny-hunter/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/f-class-destiny-hunter/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
