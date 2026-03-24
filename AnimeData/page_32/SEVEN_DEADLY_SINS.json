@@ -47,6 +47,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-pfckin2b3rai.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=3057374"
             },
@@ -534,6 +538,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-v6r1jr9189ob.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=3493738"
             },
@@ -952,6 +960,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-fp8j6ovjm8fq.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4041878"
@@ -1372,7 +1384,15 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-xoq3kn5supn9.html"
+            },
+            {
               "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/33zl2xz4"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://sendvid.com/embed/33zl2xz4"
             }
           ]
@@ -1387,6 +1407,10 @@
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/w6c4qsti"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/w6c4qsti"
             }
           ]
         },
@@ -1399,6 +1423,10 @@
             },
             {
               "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/2czqxt52"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://sendvid.com/embed/2czqxt52"
             }
           ]
@@ -1413,6 +1441,10 @@
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/9ag5xti7"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/9ag5xti7"
             }
           ]
         },
@@ -1425,6 +1457,10 @@
             },
             {
               "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/avdaybi3"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://sendvid.com/embed/avdaybi3"
             }
           ]
@@ -1439,6 +1475,10 @@
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/9aizpn9b"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/9aizpn9b"
             }
           ]
         },
@@ -1451,6 +1491,10 @@
             },
             {
               "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/vh1qmiju"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://sendvid.com/embed/vh1qmiju"
             }
           ]
@@ -1465,6 +1509,10 @@
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/psgkdjd5"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/psgkdjd5"
             }
           ]
         },
@@ -1477,6 +1525,10 @@
             },
             {
               "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/uy4qbawp"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://sendvid.com/embed/uy4qbawp"
             }
           ]
@@ -1491,6 +1543,10 @@
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/ziex8rp0"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/ziex8rp0"
             }
           ]
         },
@@ -1504,6 +1560,10 @@
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/0x039q56"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://sendvid.com/embed/0x039q56"
             }
           ]
         },
@@ -1516,6 +1576,10 @@
             },
             {
               "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/5vrx8nnj"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://sendvid.com/embed/5vrx8nnj"
             }
           ]
@@ -1741,19 +1805,39 @@
       "episodes": [
         {
           "episode": "Prisoners of the Sky",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5310319"
+            }
+          ]
         },
         {
           "episode": "Cursed by Light",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4971673"
+            }
+          ]
         },
         {
           "episode": "Grudge of Edinburgh partie 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "http://vidmoly.biz/embed-j79qynazauli.html"
+            }
+          ]
         },
         {
           "episode": "Grudge of Edinburgh partie 2",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "http://vidmoly.biz/embed-xyaylt87fcx0.html"
+            }
+          ]
         }
       ]
     },
@@ -1773,6 +1857,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-pfckin2b3rai.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=3057374"
