@@ -48,6 +48,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5257398"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/4eocaup1"
             }
@@ -514,6 +518,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5257477"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/9xx54r28"
             }
@@ -667,6 +675,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5257498"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/6s0vrmld"
@@ -990,6 +1002,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5256327"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/6mrqg3u3"
@@ -1375,6 +1391,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5257398"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/4eocaup1"
@@ -1840,11 +1860,21 @@
       "episodes": [
         {
           "episode": "Le Voyage à Hong Kong",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ugfyh3ulmfcz.html"
+            }
+          ]
         },
         {
           "episode": "La Carte Scellée",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-n4nokxjajgm1.html"
+            }
+          ]
         }
       ]
     }
