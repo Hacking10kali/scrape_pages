@@ -1,8 +1,8 @@
 {
   "page": 35,
-  "scraped_at": "20260323_112456",
-  "duration_s": 1072,
-  "total": 48,
+  "scraped_at": "20260324_113902",
+  "duration_s": 74,
+  "total": 40,
   "animes": [
     {
       "nom": "TADAIMA, OKAERI",
@@ -1153,60 +1153,6 @@
       ]
     },
     {
-      "nom": "TALENT-SWALLOWING MAGICIAN",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Fantasy - Shônen - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/talent-swallowing-magician",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/talent-swallowing-magician.jpg",
-      "noms_alt": [
-        "LE MAGICIEN DÉVOREUR DE TALENTS / TALENT SWALLOWING MAGICIAN"
-      ],
-      "synopsis": "Elric Meldinger, issu d'une prestigieuse famille de magiciens, souffre d'une maladie qui l'empêche d'accumuler du mana. Il découvre qu'il peut \"avaler\" les démons et leurs talents. Il commence à chasser des monstres pour guérir et devenir le plus grand magicien.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 37744,
-        "tmdb_id": null,
-        "kitsu_id": "11748"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "11748"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/talent-swallowing-magician/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/talent-swallowing-magician/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "TALENTLESS NANA",
       "type": "Anime",
       "genres": [
@@ -1467,55 +1413,6 @@
       ]
     },
     {
-      "nom": "TALES OF DEMONS AND GODS",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Comédie",
-        "Drame",
-        "Fantasy",
-        "Romance",
-        "Webcomic",
-        "Arts martiaux",
-        "Harem",
-        "Magie",
-        "Super pouvoirs",
-        "Voyage temporel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/tales-of-demons-and-gods",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/tales-of-demons-and-gods.jpg",
-      "noms_alt": [
-        "TODAG"
-      ],
-      "synopsis": "Le monde qui entourait les Montagnes Ancestrales était occupé par de dangereuses créatures et ceux qui y vivaient étaient isolés de l'extérieur depuis des centaines d'années. On raconte que, lorsque l'humanité était à son apogée, elle était composée de puissants empires qui s'étaient depuis effondrés. Cependant, grâce à son emplacement bien dissimulé, une ville fut préservée de « l'Âge Sombre » si bien que malgré les assauts incessants des créatures, elle survécut aux guerres dévastatrices et fut reconstruite encore et encore. Ses murs cent fois rebâtis s'élevaient tel un invincible monument ! Cette ville représentait l'espoir de l'humanité, on la nommait... Illustria ! C'est là que va renaître Nie Li, après avoir succombé en affrontant 6 créatures divines et leur maître. Mais cette seconde chance que la providence lui a accordée, si elle l'a renvoyé dans le passé de plusieurs années avant la chute d'Illustria, lui a également rendu son corps d'adolescent pas très doué... Son seul atout, le vaste savoir acquis au cours de sa précédente vie d'errance et d'aventures, n'a été conservé qu'en perdant son trésor le plus précieux, le Livre du Démon du Temps. Notre héros parviendra-t-il à devenir assez fort pour changer son destin et celui de ses compagnons avec le peu de temps dont il dispose avant la destruction d'Illustria ? Telle est l'histoire de Tales of Demons and Gods !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 30911,
-        "tmdb_id": 76806,
-        "kitsu_id": "3919"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 30911,
-            "tmdb_id": null,
-            "kitsu_id": "3919"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/tales-of-demons-and-gods/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/tales-of-demons-and-gods/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "TALES OF WEDDING RINGS",
       "type": "Anime",
       "genres": [
@@ -1567,6 +1464,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-prmslzr9p4q7.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5389212"
@@ -1751,6 +1652,10 @@
               "episode": "Episode 12",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vjwnmkerp83k.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5479071"
                 },
@@ -1777,55 +1682,120 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-vvqguubvdord.html"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-k5nm2juzb4d8.html"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-n614r0sg4skz.html"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-d89s3oa7551j.html"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-v5ay4awpzvro.html"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-bv3gick5r2yj.html"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-u5adq97grces.html"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-07v4rwivwyep.html"
+                }
+              ]
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-it26c7i92w9f.html"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-luhhkxg4686o.html"
+                }
+              ]
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-mojd1rp7pl2q.html"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-giza8oyqipy3.html"
+                }
+              ]
             },
             {
               "episode": "Episode 13",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-jhe9jpj0g6vq.html"
+                }
+              ]
             }
           ]
         }
@@ -10073,73 +10043,6 @@
       ]
     },
     {
-      "nom": "TERMINALLY-ILL GENIUS DARK KNIGHT",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Shônen",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Harem",
-        "Psychologique"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/terminally-ill-genius-dark-knight",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/terminally-ill-genius-dark-knight.jpg",
-      "noms_alt": [
-        "CHEVALIER NOIR GÉNIAL EN PHASE TERMINALE",
-        "TERMINALLY ILL DARK KNIGHT",
-        "TIME LIMITED GENIUS DARK KNIGHT",
-        "TIME-LIMITED GENIUS DARK KNIGHT"
-      ],
-      "synopsis": "\"Inner Lunatic\" est un RPG réputé pour sa difficulté auquel Yoo Chan est accro. Malade en phase terminale, il se réveille dans le jeu qui devient une cruelle réalité. Il doit à présent survivre dans la peau de Nox, le boss du premier acte. Malgré des talents de génie, il se retrouve de nouveau avec une maladie mortelle. Parviendra-t-il à survivre en suivant l'histoire du jeu et retrouvera-t-il ses souvenirs perdus ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 36510,
-        "tmdb_id": null,
-        "kitsu_id": "111"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "111"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/terminally-ill-genius-dark-knight/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/terminally-ill-genius-dark-knight/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "TERMINATOR ZERO",
       "type": "Anime",
       "genres": [
@@ -10843,46 +10746,6 @@
           "langue": "vf",
           "lien_vf": "https://anime-sama.to/catalogue/terror-in-resonance/saison1/vf/",
           "lien_vostfr": "https://anime-sama.to/catalogue/terror-in-resonance/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "TERROR MAN",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Action",
-        "Fantastique",
-        "Psychologique",
-        "Combats"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/terror-man",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/terror-man.jpg",
-      "noms_alt": [
-        "TEREO MAEN"
-      ],
-      "synopsis": "Depuis sa naissance, Min Jung Woo a un pouvoir qui lui indique par une couleur violette les zones de son champ de vision où le futur y est néfaste, lui permettant de faire le meilleur choix en conséquence. Mais alors qu'une vague d'attentats frappe la ville, il se retrouve au beau milieu d'un immeuble sur le point de s'effondrer. Avec sa majordome Lilia, il va ainsi débuter sa vie de terroriste et tenter de sauver les civils de ces zones néfastes dont lui seul a la connaissance.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 2161,
-        "tmdb_id": 308005,
-        "kitsu_id": "43222"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 23283,
-            "tmdb_id": null,
-            "kitsu_id": "6274"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/terror-man/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/terror-man/saison1/vostfr/",
           "episodes": []
         }
       ]
@@ -12152,159 +12015,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "THE 3RD PRINCE OF THE FALLEN KINGDOM RETURNS",
-      "type": "Scans",
-      "genres": [
-        "Action - Aventure - Fantasy - Historique - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-3rd-prince-of-the-fallen-kingdom-returns",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-3rd-prince-of-the-fallen-kingdom-returns.jpg",
-      "noms_alt": [
-        "THE THIRD PRINCE OF THE FALLEN KINGDOM HAS REGRESSED",
-        "RISE OF THE FALLEN KINGDOM'S THIRD PRINCE"
-      ],
-      "synopsis": "Yuri, le troisième prince turbulent du royaume déchu de Briol, a vécu dans la culpabilité après la chute de son pays. Après sa mort, il régresse au printemps de ses 13 ans, avant l'invasion de l'Empire. Cette fois, il jure de ne pas abandonner son honneur et de sauver son royaume de la ruine.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 27947,
-        "tmdb_id": null,
-        "kitsu_id": "43037"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 27947,
-            "tmdb_id": null,
-            "kitsu_id": "43037"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-3rd-prince-of-the-fallen-kingdom-returns/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-3rd-prince-of-the-fallen-kingdom-returns/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE ACADEMY VISIONARY",
-      "type": "Scans",
-      "genres": [
-        "Action - Fantasy - School Life - Shônen - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-academy-visionary",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-academy-visionary.jpg",
-      "noms_alt": [],
-      "synopsis": "Un étudiant à l'académie de magie ou de chevalerie possède une vision unique ou la capacité de voir le potentiel des autres. Il rassemble une équipe de futurs héros (souvent des \"ratés\" actuels) pour former la guilde ou le groupe le plus puissant de l'histoire.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 24133,
-        "tmdb_id": null,
-        "kitsu_id": "7712"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 24133,
-            "tmdb_id": null,
-            "kitsu_id": "7712"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-academy-visionary/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-academy-visionary/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE ACADEMY'S UNDERCOVER PROFESSOR",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Ecole",
-        "Magie",
-        "Organisations secrètes",
-        "Secrets"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-academys-undercover-professor",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-academys-undercover-professor.jpg",
-      "noms_alt": [
-        "ACADEMY WIJANGCHWIEOPDANGHAESSDA",
-        "ACADEMY'S UNDERCOVER PROFESSOR",
-        "I GOT A FAKE JOB AT THE ACADEMY"
-      ],
-      "synopsis": "Un concours de circonstances amène notre héros à endosser l'identité d'un nouveau professeur de l'illustre Académie de Céorun. Deux ans. C'est le temps qu'il devra tenir en tant que Ludger Cherish. Mais ce qui ne devait être qu'un simple jeu de rôle s'avère être un véritable exercice de funambulisme, où se mêlent complots, société secrète, magie et retournements de situation.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 24133,
-        "tmdb_id": null,
-        "kitsu_id": "45240"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 24133,
-            "tmdb_id": null,
-            "kitsu_id": "45240"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-academys-undercover-professor/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-academys-undercover-professor/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -14612,58 +14322,6 @@
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://www.myvi.top/embed/3fruccit9hkwpmxgh4gwzq437c"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "THE ARCHMAGE'S RESTAURANT",
-      "type": "Scans",
-      "genres": [
-        "Comédie - Cuisine - Fantasy - Slice of Life - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/the-archmages-restaurant",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/the-archmages-restaurant.jpg",
-      "noms_alt": [],
-      "synopsis": "Un archimage surpuissant prend sa retraite pour ouvrir un restaurant. Il utilise sa magie de haut niveau pour cuisiner des plats incroyables (et parfois dangereux), attirant des clients allant des dragons aux rois, tout en réglant les problèmes locaux à coup de louche magique.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 8074,
-        "tmdb_id": null,
-        "kitsu_id": "48058"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 8074,
-            "tmdb_id": null,
-            "kitsu_id": "48058"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/the-archmages-restaurant/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/the-archmages-restaurant/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
