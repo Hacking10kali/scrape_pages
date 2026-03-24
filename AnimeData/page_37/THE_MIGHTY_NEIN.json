@@ -38,35 +38,75 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-8sh78do4b8e0.html"
+            }
+          ]
         },
         {
           "episode": "Episode 2",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3bbjw29t3s6d.html"
+            }
+          ]
         },
         {
           "episode": "Episode 3",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-2y2z57smmqcc.html"
+            }
+          ]
         },
         {
           "episode": "Episode 4",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-50j3115hnzqu.html"
+            }
+          ]
         },
         {
           "episode": "Episode 5",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ziy9vip4mdyd.html"
+            }
+          ]
         },
         {
           "episode": "Episode 6",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-49md238so90j.html"
+            }
+          ]
         },
         {
           "episode": "Episode 7",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-wsaur1ygke70.html"
+            }
+          ]
         },
         {
           "episode": "Episode 8",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-rru2hfa2jheq.html"
+            }
+          ]
         }
       ]
     }
