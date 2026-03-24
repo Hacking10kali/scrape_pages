@@ -40,6 +40,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-04wbnarg9tsr.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://oneupload.to/embed-q2u6ppksjqj6.html"
             }
@@ -203,7 +207,16 @@
         },
         {
           "episode": "Episode 14",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ztci846jovtn.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-ztci846jovtn.html"
+            }
+          ]
         },
         {
           "episode": "Episode 15",
@@ -352,7 +365,12 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-efxxg06doq5i.html"
+            }
+          ]
         }
       ]
     }
