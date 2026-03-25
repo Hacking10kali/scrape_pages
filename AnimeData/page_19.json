@@ -1,137 +1,9 @@
 {
   "page": 19,
-  "scraped_at": "20260322_210935",
-  "duration_s": 2529,
-  "total": 48,
+  "scraped_at": "20260325_000950",
+  "duration_s": 328,
+  "total": 41,
   "animes": [
-    {
-      "nom": "KILLER PETER",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Drame",
-        "Mystère",
-        "Thriller",
-        "Arts martiaux",
-        "Assassinat",
-        "Combats",
-        "Vengeance"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/killer-peter",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/killer-peter.jpg",
-      "noms_alt": [
-        "KILLER BADRO",
-        "KILLER PEDRO"
-      ],
-      "synopsis": "Le tueur à gages légendaire Peter a tout perdu. Il est maintenant vieux, malade et démuni. L'association Gloire, pour qui il a dévoué sa vie, lui a pris tout ce qu'il possédait et a même mis sa tête à prix. Aux portes de la mort, il retrouve tout à coup sa jeunesse et la force qu'il avait quand il était au sommet. Alors que l'association Gloire lance tous ses tueurs à la poursuite du vieux Peter, il va s'infiltrer et redevenir un tueur dans un seul but, la vengeance.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 40436,
-        "tmdb_id": 202613,
-        "kitsu_id": "27"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62964,
-            "tmdb_id": null,
-            "kitsu_id": "7712"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/killer-peter/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/killer-peter/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "KILLING KILLER",
-      "type": "Scans",
-      "genres": [
-        "Shônen",
-        "Action",
-        "Drame",
-        "Mystère",
-        "Psychologique",
-        "Tragédie",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/killing-killer",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/killing-killer.jpg",
-      "noms_alt": [],
-      "synopsis": "Le personnage principal, Siwoo Lee, a perdu ses parents à cause d'un meurtrier il y a 10 ans. Finalement, il rencontre Jack, le tueur qui a tué ses parents, et le décapite. Ce n'est pas moi qui ai tué tes parents. Après avoir appris que le véritable coupable est un entrepreneur appartenant à un groupe de tueurs utilisant des superpouvoirs, Si-woo Lee décide de traquer les inscrits avec l'aide de Jack.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 34964,
-        "tmdb_id": 32368,
-        "kitsu_id": "44226"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 34964,
-            "tmdb_id": null,
-            "kitsu_id": "8174"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/killing-killer/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/killing-killer/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "KILLSTAGRAM",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Thriller",
-        "Harcèlement"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/killstagram",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/killstagram.jpg",
-      "noms_alt": [
-        "SALSSTAGRAM"
-      ],
-      "synopsis": "Remi Do a tout pour elle. Elle a la beauté qui lui permet d'avoir les sponsors des meilleures marques sur les réseaux sociaux et d'obtenir 10 000 likes en quelques secondes à chaque fois qu'elle publie un selfie. Et comme toute beauté qui se respecte, elle a évidemment un dangereux harceleur qui veut la tuer !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": null,
-        "tmdb_id": null,
-        "kitsu_id": null
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "8687"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/killstagram/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/killstagram/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
     {
       "nom": "KIM POSSIBLE",
       "type": "Autre",
@@ -170,6 +42,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-8w2ls743y28n.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/2fflm264fe7o"
@@ -539,6 +415,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-cvcr1kxhkllc.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/fpsc917rp3b4"
                 },
@@ -654,6 +534,10 @@
               "episode": "Episode 8",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-0p76gjyet5be.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/2j67jj3sze3c"
                 },
@@ -718,6 +602,10 @@
               "episode": "Episode 12",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ppgmog0g98gk.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/2l0ehoigmsdy"
                 },
@@ -764,6 +652,10 @@
             {
               "episode": "Episode 15",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-dvcyae6xhmyx.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/kap7s7krz7nk"
@@ -1048,6 +940,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-he5urzdsld38.html"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/elwg5o79r3d1"
                 },
@@ -1145,6 +1041,10 @@
             {
               "episode": "Episode 7",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-gqed8rizvsjo.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/5x89n35lzfiu"
@@ -1258,6 +1158,10 @@
             {
               "episode": "Episode 1",
               "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-8lxmo5wpxiac.html"
+                },
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://mivalyo.com/embed/f3oucqyeexin"
@@ -1642,11 +1546,21 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-czbb7cwrl3wl.html"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-zlx9bfozi4kp.html"
+                }
+              ]
             }
           ]
         }
@@ -3741,115 +3655,6 @@
                 {
                   "lecteur": "Lecteur 4",
                   "url": "https://sendvid.com/embed/jgnaf4ix"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "KINDERGARTEN WARS",
-      "type": "Scans",
-      "genres": [
-        "Action - Comédie - Romance - Slice of Life - Assassinat - Famille - Quotidien - Webcomic - Manhwa"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/kindergarten-wars",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kindergarten-wars.jpg",
-      "noms_alt": [
-        "YOUCHIEN WARS"
-      ],
-      "synopsis": "Rita est la dernière recrue du \"Kindergarten Black\", surnommé \"la maternelle la plus sûre du monde\", qui accueille les rejetons de l'élite du pays. La réputation de l'établissement n'est pas usurpée : ses employés sont des criminels aguerris chargés de repousser toute attaque ! Rita elle-même est une tueuse légendaire qui, en échange d'une remise de peine, a accepté ce poste hors du commun... Mais cette experte du combat ne rêve que d'amour ! Pour elle, tout assaillant est un potentiel futur copain, à condition d'être beau et, surtout, de partager ses goûts bien tranchés. Cuisine, cinéma, personnalité... chaque adversaire est mis à l'épreuve avec un quiz sans concession, où la moindre erreur est punie de mort ! Trouvera-t-elle l'âme sœur sur le champ de bataille de cette maternelle ultra déjantée ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62613,
-        "tmdb_id": 308720,
-        "kitsu_id": "50220"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62613,
-            "tmdb_id": null,
-            "kitsu_id": "50220"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kindergarten-wars/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kindergarten-wars/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "KING OF VIOLENCE",
-      "type": "Scans",
-      "genres": [
-        "Action - Arts martiaux - Drame - Fantaisie - Webcomic - Manhwa"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/king-of-violence",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/king-of-violence.jpg",
-      "noms_alt": [
-        "KING OF THE ARENA",
-        "POKRYEOGUI WANG"
-      ],
-      "synopsis": "Lee Gil-su est un élève de seconde qui change de lycée après avoir été harcelé dans son ancienne école. Alors que l'ambiance à son arrivée à Yukmunkwan lui semble être un bon présage pour sa nouvelle vie, il découvre qu'ici, les élèves ne se battent qu'à un seul endroit, là où tous sont égaux face à la violence, l'arène du lycée. Gil-su arrivera-t-il à s'adapter à cette école ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 39699,
-        "tmdb_id": null,
-        "kitsu_id": "3139"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 39699,
-            "tmdb_id": null,
-            "kitsu_id": "3139"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/king-of-violence/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/king-of-violence/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -7118,48 +6923,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "KIRURU KILL ME",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Comédie",
-        "Ecchi",
-        "Romance",
-        "Shônen",
-        "Amour",
-        "Assassinat"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kiruru-kill-me",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kiruru-kill-me.jpg",
-      "noms_alt": [],
-      "synopsis": "Nemo Aoi est le jeune directeur d'un des plus grands groupes pharmaceutiques du Japon. Il tombe amoureux d'une jeune fille du nom de Kiruru Akaumi. Seulement, celle-ci travaille pour une société secrète en tant qu'assassin... Nemo va alors tout faire pour essayer de la retrouver et la contacter. Tel est le point de départ d'un dangereux jeu amoureux entre un contrat (H) et son exécutrice (F)...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 11079,
-        "tmdb_id": null,
-        "kitsu_id": "45961"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "45961"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kiruru-kill-me/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kiruru-kill-me/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -17394,50 +17157,6 @@
       ]
     },
     {
-      "nom": "KUCHI GA SAKETEMO KIMI NI WA",
-      "type": "Scans",
-      "genres": [
-        "Shônen",
-        "Comédie",
-        "Horreur",
-        "Romance",
-        "Amour",
-        "Contes et légendes",
-        "Paranormal"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/kuchi-ga-saketemo-kimi-ni-wa",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/kuchi-ga-saketemo-kimi-ni-wa.jpg",
-      "noms_alt": [
-        "EVEN IF YOU SLIT MY MOUTH"
-      ],
-      "synopsis": "Miruko, la femme à la bouche fendue a rencontré Sano Kouichi, un jeune garçon de 17 ans des plus étranges et la première personne qu'elle n'arrive pas à effrayer. Ils passent alors un contrat stipulant qu'elle doit l'épouser si elle ne réussit pas à lui faire peur d'ici un an.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 327,
-        "tmdb_id": null,
-        "kitsu_id": "44954"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 327,
-            "tmdb_id": null,
-            "kitsu_id": "44954"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/kuchi-ga-saketemo-kimi-ni-wa/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/kuchi-ga-saketemo-kimi-ni-wa/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "KUMA KUMA KUMA BEAR",
       "type": "Anime",
       "genres": [
@@ -18387,19 +18106,39 @@
           "episodes": [
             {
               "episode": "Kung Fu Panda 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://www.yourupload.com/embed/sehrdP1p6ocu"
+                }
+              ]
             },
             {
               "episode": "Kung Fu Panda 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://www.yourupload.com/embed/gPEDO506n1Hu"
+                }
+              ]
             },
             {
               "episode": "Kung Fu Panda 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://www.yourupload.com/embed/5y3HS1MmSc3X"
+                }
+              ]
             },
             {
               "episode": "Kung Fu Panda 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-soc8ffcc2u4v.html"
+                }
+              ]
             }
           ]
         }
