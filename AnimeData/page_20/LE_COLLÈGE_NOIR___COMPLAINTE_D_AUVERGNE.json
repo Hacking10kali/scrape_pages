@@ -23,7 +23,7 @@
   "ids": {
     "jikan_id": 714,
     "tmdb_id": 238438,
-    "kitsu_id": "7982"
+    "kitsu_id": "50614"
   },
   "saisons": [
     {
@@ -33,7 +33,7 @@
       "ids": {
         "jikan_id": 714,
         "tmdb_id": 238438,
-        "kitsu_id": "7982"
+        "kitsu_id": "50614"
       },
       "langue": "vf",
       "lien_vf": "https://anime-sama.to/catalogue/le-college-noir/saison1/vf/",
@@ -41,27 +41,57 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://www.youtube.com/embed/VM5LNI7VfSI?si=6rWWD7FztJjZVARm"
+            }
+          ]
         },
         {
           "episode": "Episode 2",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://www.youtube.com/embed/SPax8O006io?si=dvP8zpznBvQBMePx"
+            }
+          ]
         },
         {
           "episode": "Episode 3",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23640-episode-3"
+            }
+          ]
         },
         {
           "episode": "Episode 4",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23641-episode-4"
+            }
+          ]
         },
         {
           "episode": "Episode 5",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23642-episode-5"
+            }
+          ]
         },
         {
           "episode": "Episode 6",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23643-episode-6"
+            }
+          ]
         }
       ]
     },
@@ -72,7 +102,7 @@
       "ids": {
         "jikan_id": 714,
         "tmdb_id": null,
-        "kitsu_id": "41053"
+        "kitsu_id": "50614"
       },
       "langue": "vf",
       "lien_vf": "https://anime-sama.to/catalogue/le-college-noir/saison1/vf/",
@@ -80,27 +110,57 @@
       "episodes": [
         {
           "episode": "Episode 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://www.youtube.com/embed/VM5LNI7VfSI?si=6rWWD7FztJjZVARm"
+            }
+          ]
         },
         {
           "episode": "Episode 2",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://www.youtube.com/embed/SPax8O006io?si=dvP8zpznBvQBMePx"
+            }
+          ]
         },
         {
           "episode": "Episode 3",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23640-episode-3"
+            }
+          ]
         },
         {
           "episode": "Episode 4",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23641-episode-4"
+            }
+          ]
         },
         {
           "episode": "Episode 5",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23642-episode-5"
+            }
+          ]
         },
         {
           "episode": "Episode 6",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://animationdigitalnetwork.fr/video/le-college-noir/23643-episode-6"
+            }
+          ]
         }
       ]
     }
