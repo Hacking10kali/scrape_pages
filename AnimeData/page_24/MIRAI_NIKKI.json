@@ -44,6 +44,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4783184"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/u2ujsgpy"
             }
@@ -311,7 +315,16 @@
         },
         {
           "episode": "Episode 22",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/05wjvd1a"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/05wjvd1a"
+            }
+          ]
         },
         {
           "episode": "Episode 23",
@@ -384,6 +397,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4783184"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://sendvid.com/embed/u2ujsgpy"
             }
@@ -651,7 +668,16 @@
         },
         {
           "episode": "Episode 22",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/05wjvd1a"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://sendvid.com/embed/05wjvd1a"
+            }
+          ]
         },
         {
           "episode": "Episode 23",
