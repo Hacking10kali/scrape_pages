@@ -1,8 +1,8 @@
 {
   "page": 22,
-  "scraped_at": "20260322_204753",
-  "duration_s": 1228,
-  "total": 48,
+  "scraped_at": "20260325_000500",
+  "duration_s": 19,
+  "total": 38,
   "animes": [
     {
       "nom": "LIAR LIAR",
@@ -280,199 +280,6 @@
                 {
                   "lecteur": "Lecteur 4",
                   "url": "https://www.myvi.tv/embed/rkgt66ftkw9w7yhyqbmtu5k3th"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "LIGHTNING DEGREE",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Comédie",
-        "Fantasy",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/lightning-degree",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lightning-degree.jpg",
-      "noms_alt": [
-        "BIROEDO",
-        "HIRAITOU"
-      ],
-      "synopsis": "Ryu-Yeon a perdu son père à cause d'une maladie alors qu'il n'avait que 10 ans. Avec l'habileté qu'il a apprise de son père, il peut sculpter le bois en des sculptures merveilleusement complexes. Un jour, après avoir terminé les sculptures de ses parents, Ryu-Yeon est interpellé par un homme âgé. Cet homme fut impressionné par ses sculptures. Le vieil homme fit une promesse dans Ryu-Yeon et lui demanda s'il voulait devenir son disciple. Comme Ryu-Yeon n'avait nulle part où aller et voulait profiter au maximum de sa vie, il accepta l'offre du vieil homme.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 32828,
-        "tmdb_id": null,
-        "kitsu_id": "11870"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 32828,
-            "tmdb_id": null,
-            "kitsu_id": "11870"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/lightning-degree/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/lightning-degree/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "LILI-MEN",
-      "type": "Scans",
-      "genres": [
-        "Seinen - Action - Drame - Surnaturel - Combats - Monstres"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/lili-men",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lili-men.jpg",
-      "noms_alt": [],
-      "synopsis": "Nito a vécu en laboratoire toute sa vie. Comme des dizaines de ses congénères, il est soumis à de terribles tests qui finissent dans le sang et la douleur, voire la mort. Il dort dans un hangar, est nourri grâce à un tube et ses journées sont organisées par des soi-disant docteurs qui promettent la liberté aux sujets répondant à leurs exigences. Face à la dureté de son quotidien, Nito rêve de la vie décrite dans les livres : manger un repas en famille, caresser un chat, tomber amoureux... Il partage ses espoirs avec ses camarades, toujours moins nombreux. Quand certains survivants développent des capacités surhumaines, ils l'invitent à s'enfuir ensemble... mais ils sont transférés avant d'y parvenir, et Nito les retrouve dans un énorme cocon, réduits à la condition de nutriments pour des enfants de succubes ! Ces créatures surpuissantes contrôlent le laboratoire et se servent des humains comme hôtes pour se reproduire. Repéré, Nito est sur le point de se faire dévorer lui aussi, mais ses amis utilisent leurs dernières forces pour le sauver. Loin de succomber, il aspire les pouvoirs des monstres en gestation ! Même transformé, il n'a qu'une obsession : réaliser le rêve qu'il partageait avec ses compagnons sacrifiés. Seulement, comment mener une vie normale quand on est mi-homme mi-succube, craint et détesté des deux camps ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 44167,
-        "tmdb_id": null,
-        "kitsu_id": "11584"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 2230,
-            "tmdb_id": null,
-            "kitsu_id": "11584"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/lili-men/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/lili-men/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "LIMIT BREAKER",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Fantastique",
-        "Combats",
-        "Monstres"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/limit-breaker",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/limit-breaker.jpg",
-      "noms_alt": [
-        "MANREPDOLPA"
-      ],
-      "synopsis": "Ki Bong était coincé dans le « test de l'éveil » pendant 3000 ans à cause d'un bug. Enfin libéré du test, le joueur découvre que seulement 10 ans se sont écoulés dans la réalité, et que le monde est devenu un enfer total envahi par les monstres. Avec toutes ses capacités au niveau max, Ki Bong parviendra-t-il à sauver l'humanité de ces affreuses créatures ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 50552,
-        "tmdb_id": null,
-        "kitsu_id": "45562"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 50552,
-            "tmdb_id": null,
-            "kitsu_id": "45562"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/limit-breaker/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/limit-breaker/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "LIMIT-BREAKING GENIUS MAGE",
-      "type": "Scans",
-      "genres": [
-        "Webcomic - Manhwa - Action - Aventure - Drame - Fantasy - Shônen"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/limit-breaking-genius-mage",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/limit-breaking-genius-mage.jpg",
-      "noms_alt": [
-        "A GENIUS WIZARD WHO BREAKS BOUNDARIES"
-      ],
-      "synopsis": "Limite de croissance, Rang 1. Verdan, un chercheur qui n'avait aucun talent de mage, voulait atteindre le sommet de la Tour de Magie grâce à son intelligence. Cependant, après avoir attiré l'attention du Maître de la Tour, il devint l'un des sujets de test de la Tour. Après avoir enduré sept longues années d'humiliation et de désespoir, Verdan commence enfin à agir, déterminé à dépasser ses propres limites grâce aux théories qu'il a développées et à la source d'énergie de la Tour magique !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 50552,
-        "tmdb_id": null,
-        "kitsu_id": "45562"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 50552,
-            "tmdb_id": null,
-            "kitsu_id": "45562"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/limit-breaking-genius-mage/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/limit-breaking-genius-mage/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -1358,46 +1165,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "LITTLE HANDS",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "School Life",
-        "Slice of Life",
-        "Tournois",
-        "Sport"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/little-hands",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/little-hands.jpg",
-      "noms_alt": [],
-      "synopsis": "Ishino Mikage décide d'intégrer le club de handball de son lycée, ce sports où la taille est un avantage implacable. Ce dernier est de petite taille, mais c'était sans compter sur son père, lui même star du handball.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 33489,
-        "tmdb_id": 29420,
-        "kitsu_id": "4000"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 33489,
-            "tmdb_id": null,
-            "kitsu_id": "4000"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/little-hands/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/little-hands/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -3352,50 +3119,6 @@
       ]
     },
     {
-      "nom": "LOGGING 10000 YEARS INTO THE FUTURE",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhua",
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Arts martiaux",
-        "Shônen"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/logging-10000-years-into-the-future",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/logging-10000-years-into-the-future.jpg",
-      "noms_alt": [
-        "LOGGING 10",
-        "000 YEARS INTO THE FUTURE",
-        "LOGGING 10 000 YEARS INTO THE FUTURE"
-      ],
-      "synopsis": "À l’aube d’une révolution à l’ère des arts martiaux, des hordes de monstres terrifiants commencent à envahir le monde, battant les guerriers de l’humanité les uns après les autres. Un jour, Lu Sheng se retrouve à rêver du monde dans dix mille ans du futur, où même les techniques d’entraînement physique de base ont été modifiées et sont devenues plusieurs milliers de fois plus efficaces ! Techniques de respiration, remèdes de renforcement corporel, écritures d’arts martiaux, etc. Mais avec l’extinction de l’humanité dans le monde futur, ces arts martiaux autrefois géniaux n’ont plus personne pour perpétuer leur héritage. Personne, sauf Lu Sheng !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38851,
-        "tmdb_id": null,
-        "kitsu_id": "4397"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38851,
-            "tmdb_id": null,
-            "kitsu_id": "4397"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/logging-10000-years-into-the-future/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/logging-10000-years-into-the-future/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "LOIN DE MOI, PRÈS DE TOI",
       "type": "Anime",
       "genres": [
@@ -3441,7 +3164,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4018264"
+                }
+              ]
             }
           ]
         }
@@ -5750,51 +5478,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "LOVE FRAGRANCE",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Comédie",
-        "Mature",
-        "Romance",
-        "Slice of Life",
-        "Amour",
-        "Quotidien",
-        "Travail"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/love-fragrance",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/love-fragrance.jpg",
-      "noms_alt": [
-        "SWEET AND SOAP"
-      ],
-      "synopsis": "Asako, une jeune femme complexée par son hyperhidrose – le fait d'avoir une transpiration excessive – est un jour interpellée par Kôtarô Natori. C'est le concepteur star des nouveaux produits de soins corporels de la société où elle travaille. Ce dernier lui déclare de but en blanc : « Votre odeur est magnifique, laissez moi la sentir pour développer notre nouveau produit ! ». D'abord terrorisée par cette approche, ce sera pourtant le début d'une grande histoire d'amour...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 27727,
-        "tmdb_id": 312643,
-        "kitsu_id": "7716"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 27727,
-            "tmdb_id": null,
-            "kitsu_id": "7716"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/love-fragrance/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/love-fragrance/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -11255,42 +10938,6 @@
       ]
     },
     {
-      "nom": "LUMINE",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Fantastique"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/lumine",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lumine.jpg",
-      "noms_alt": [],
-      "synopsis": "Un loup-garou, Lumine, rencontre un sorcier nommé Kody et est embauché comme son garde du corps. Lumine tente tout pour gagner la confiance de Kody afin de devenir son ami tandis que le protégé essaie de le repousser. Leur vie se complique davantage après un événement regrettable qui les laisse survivre seuls.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38006,
-        "tmdb_id": 93655,
-        "kitsu_id": "44192"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "8687"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/lumine/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/lumine/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "LUPIN",
       "type": "Autres",
       "genres": [
@@ -11503,53 +11150,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "LYCÉE POST-MORTEM",
-      "type": "Scans",
-      "genres": [
-        "Manhua",
-        "Manhwa",
-        "Shônen",
-        "Webcomic",
-        "Fantastique",
-        "Romance",
-        "School Life",
-        "Amnésie",
-        "Amour",
-        "Démons",
-        "Ecole",
-        "Réincarnation / Transmigration"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/lycee-post-mortem",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lycee-post-mortem.jpg",
-      "noms_alt": [
-        "REFUND HIGH SCHOOL"
-      ],
-      "synopsis": "« Je n'ai jamais eu de petit ami. Je ne peux pas mourir comme ça ! » Une histoire d'amour qui se déroule dans l'au-delà !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 31971,
-        "tmdb_id": null,
-        "kitsu_id": "7202"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "7202"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/lycee-post-mortem/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/lycee-post-mortem/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -14932,71 +14532,6 @@
                 {
                   "lecteur": "Lecteur 4",
                   "url": "https://sendvid.com/embed/7jjjug2s"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "MAGIC ACADEMY’S GENIUS BLINKER",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Shônen",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Surnaturel",
-        "School Life",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/magic-academys-genius-blinker",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/magic-academys-genius-blinker.jpg",
-      "noms_alt": [
-        "MAGIC ACADEMY’S GENIUS BLINKER",
-        "QUICK TELEPORTING GENIUS FROM MAGIC SCHOOL"
-      ],
-      "synopsis": "Le personnage le plus difficile et le moins performant, Baek Yuseol, était considéré comme une ordure dans le jeu parce qu'il ne pouvait pas utiliser la magie dans un environnement fantastique où tout le monde pouvait le faire. Cependant... [Parce que la mauvaise fin a été atteinte, 90% du Monde d'Ether a été détruit]. [Veuillez atteindre la « Vraie fin »] Soudain, ces mots ont résonné dans mon esprit avant que je ne sois transmigré vers le Monde d'Ether. [Vous pouvez utiliser la compétence « Blink ».] Pourquoi ai-je ce personnage ? Blink était la seule compétence magique que je possédais. En survivant à l'Académie Stella parmi les mages de génie, je suis devenu le célèbre Mage Blink.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 18115,
-        "tmdb_id": null,
-        "kitsu_id": "44511"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 18115,
-            "tmdb_id": null,
-            "kitsu_id": "44511"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/magic-academys-genius-blinker/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/magic-academys-genius-blinker/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
