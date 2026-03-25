@@ -1,52 +1,9 @@
 {
   "page": 23,
-  "scraped_at": "20260322_204310",
-  "duration_s": 951,
-  "total": 48,
+  "scraped_at": "20260325_000529",
+  "duration_s": 52,
+  "total": 34,
   "animes": [
-    {
-      "nom": "MAGIC EMPEROR",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Arts martiaux",
-        "Aventure",
-        "Fantaisie",
-        "Surnaturel",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/magic-emperor/",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/magic-emperor.jpg",
-      "noms_alt": [
-        "DEMONIC EMPEROR"
-      ],
-      "synopsis": "L'histoire raconte la vie de l'empereur magique, l'homme le plus fort du monde et son périple après sa mort et sa réincarnation en un garçon sans culture.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 18115,
-        "tmdb_id": 251361,
-        "kitsu_id": "993"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 18115,
-            "tmdb_id": null,
-            "kitsu_id": "993"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/magic-emperor/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/magic-emperor/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
     {
       "nom": "MAGIC MAKER",
       "type": "Anime",
@@ -838,50 +795,6 @@
       ]
     },
     {
-      "nom": "MAGICAL GIRL HOLY SHIT",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Comédie",
-        "Drame",
-        "Ecchi",
-        "Surnaturel",
-        "Seinen"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/magical-girl-holy-shit",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/magical-girl-holy-shit.jpg",
-      "noms_alt": [
-        "MISTAKEN CHILD ATTEMPTS TO BECOME A MAGICAL GIRL",
-        "MACHIGATTA KO WO MAH? SH?JO NI SHITE SHIMATTA"
-      ],
-      "synopsis": "Quand l'humanité est en danger, elles sont le dernier rempart pour nous sauver... Les adorables et pures magical girls, de tout temps, ont veillé avec foi et amour sur leurs semblables. Cette fois encore, tandis que se lèvent les terribles stremons, une belle et valeureuse justicière au cœur sincère va leur faire face... Ou pas !!! Parce que Kayo, elle n'en a pas grand-chose à foutre, du sort de l'humanité. Tout ce qu'elle souhaite, c'est qu'on la laisse tranquille. Mais une chose est sûre : ne venez pas lui chercher des noises quand elle est en manque de nicotine, au risque de vous prendre une belle rouste !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 48981,
-        "tmdb_id": null,
-        "kitsu_id": "45350"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 48981,
-            "tmdb_id": null,
-            "kitsu_id": "45350"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/magical-girl-holy-shit/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/magical-girl-holy-shit/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "MAGICAL GIRL SITE",
       "type": "Anime",
       "genres": [
@@ -1658,6 +1571,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5295781"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/k4vbua38"
                 }
@@ -1823,15 +1740,30 @@
           "episodes": [
             {
               "episode": "Au Commencement",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-dr0xkomuomn8.html"
+                }
+              ]
             },
             {
               "episode": "Une histoire infinie",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-fulac8e5kxdl.html"
+                }
+              ]
             },
             {
               "episode": "Rebellion",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-hdqj8nge0bro.html"
+                }
+              ]
             }
           ]
         }
@@ -5813,99 +5745,6 @@
       ]
     },
     {
-      "nom": "MANAGER KIM",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Drame",
-        "Fantasy",
-        "Mystère",
-        "Science-fiction",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/manager-kim",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/manager-kim.jpg",
-      "noms_alt": [
-        "DIRECTEUR KIM"
-      ],
-      "synopsis": "« S'il vous plaît ne touchez pas le mec qui porte des lunettes... ». Le directeur du département Kim, a quitté son travail d'agent secret pour élever sa fille Minji et a choisi de vivre une vie ‘normale'. Mais un jour, Minji disparaît sans dire un mot, le Manager Kim se met alors à la recherche de sa fille, faisant du pays entier son ennemi.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 37338,
-        "tmdb_id": 296206,
-        "kitsu_id": "13719"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 37338,
-            "tmdb_id": null,
-            "kitsu_id": "13719"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/manager-kim/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/manager-kim/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "MANCHURIA OPIUM SQUAD",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Historique",
-        "Mature",
-        "Psychologique",
-        "Tragique",
-        "Culture",
-        "Drogue",
-        "Mafia",
-        "Société",
-        "Yakuza"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/manchuria-opium-squad",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/manchuria-opium-squad.jpg",
-      "noms_alt": [
-        "MANSHUU AHEN SQUAD"
-      ],
-      "synopsis": "Jeune agriculteur en Manchourie, Isamu Higata voit son quotidien bouleversé lorsque la peste finit par toucher sa mère... Pour gagner l'argent nécessaire à son traitement, il se lance dans la culture du pavot et réussit à purifier de l'opium. Mais ce faisant, il tombe dans le monde des mafias ce qui va le plonger en enfer.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 55848,
-        "tmdb_id": null,
-        "kitsu_id": "145"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "145"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/manchuria-opium-squad/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/manchuria-opium-squad/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "MAOU 2099",
       "type": "Anime",
       "genres": [
@@ -8182,245 +8021,6 @@
       ]
     },
     {
-      "nom": "MARCHEN CROWN",
-      "type": "Scans",
-      "genres": [
-        "Seinen - Drame - Fantasy - Horreur - Romance - Contes et légendes - Gore"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/marchen-crown",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/marchen-crown.jpg",
-      "noms_alt": [
-        "MÄRCHEN CROWN"
-      ],
-      "synopsis": "L'histoire est inspirée du conte de fée Rapunzel (Raiponce en français). La vie de la naïve et innocente Rapunzel, dont le monde se limite à sa tour, bascule le jour où Mikel escalade l'édifice et fait sa connaissance. Ensemble, ils sont promis à une destiné qui pourrait changer le monde.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 35997,
-        "tmdb_id": null,
-        "kitsu_id": "13700"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 35997,
-            "tmdb_id": null,
-            "kitsu_id": "13700"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/marchen-crown/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/marchen-crown/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "MARIA NO DANZAI",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Seinen",
-        "Drame",
-        "Mature",
-        "Psychologique",
-        "School Life",
-        "Harcèlement",
-        "Vengeance"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/maria-no-danzai",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/maria-no-danzai.jpg",
-      "noms_alt": [
-        "SEIBO NO DANZAI"
-      ],
-      "synopsis": "La famille Nagare est une famille à trois d'apparence heureuse. Cependant, le fils Kiritaka cache à ses parents qu'il est cruellement harcelé à l'école. A la suite d'un tragique accident, l'amour bienveillant de sa mère, Mari, va se transformer en une force complétement incontrôlable.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 26441,
-        "tmdb_id": null,
-        "kitsu_id": "8951"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 26441,
-            "tmdb_id": null,
-            "kitsu_id": "8951"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/maria-no-danzai/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/maria-no-danzai/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "MARRIAGE OF CONVENIENCE",
-      "type": "Scans",
-      "genres": [
-        "Drame - Fantasy - Historique - Romance - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/marriage-of-convenience",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/marriage-of-convenience.jpg",
-      "noms_alt": [
-        "THE MARRIAGE BUSINESS"
-      ],
-      "synopsis": "Bianca de Arno, une comtesse égoïste, meurt seule et regrettée. Elle se réveille avant sa mort avec une seconde chance. Elle décide cette fois de faire de son \"mariage de convenance\" avec le comte Zachary une véritable alliance, pour sauver sa vie et son domaine.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1103,
-        "tmdb_id": null,
-        "kitsu_id": "8891"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1103,
-            "tmdb_id": null,
-            "kitsu_id": "8891"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/marriage-of-convenience/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/marriage-of-convenience/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "MARRIAGE TOXIN",
-      "type": "Scans",
-      "genres": [
-        "Shônen",
-        "Action",
-        "Comédie",
-        "Romance",
-        "Thriller",
-        "Assassinat",
-        "Crossdressing",
-        "Famille",
-        "Homosexualité",
-        "LGBT+",
-        "Mariage"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/marriage-toxin",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/marriage-toxin.jpg",
-      "noms_alt": [],
-      "synopsis": "Gero est l'aîné d'un clan de tueurs à gages spécialisé dans les poisons. Criminel de naissance, malgré son bon fond, il a grandi en marge de la société et s'imagine n'avoir aucune chance de trouver l'amour. Jusqu'au jour où son clan lui lance un ultimatum : s'il ne se marie pas pour donner naissance à un héritier, ils forceront sa petite sœur à le faire ! Or, sa prochaine cible est une arnaqueuse, spécialisée dans les mariages arrangés... Acculé, Gero la supplie alors de l'aider.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62601,
-        "tmdb_id": 301944,
-        "kitsu_id": "50218"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62601,
-            "tmdb_id": null,
-            "kitsu_id": "50218"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/marriage-toxin/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/marriage-toxin/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "MARRY MY HUSBAND",
-      "type": "Scans",
-      "genres": [
-        "Drame",
-        "Romance",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/marry-my-husband",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/marry-my-husband.jpg",
-      "noms_alt": [
-        "NAE NAMPYEONGWA GYEOLHONHAEJWO"
-      ],
-      "synopsis": "Ji Won meurt d'une façon terriblement injuste sous les coups de son mari qui la trompait avec sa meilleure amie. Mais un miracle a lieu et elle se réveille 10 ans dans le passé, alors qu'elle n'était pas encore mariée. Sa vengeance se met en place, elle va faire en sorte que celui qui aurait dû devenir son mari... épouse sa meilleure amie ! Pas sûr qu'ils soient satisfaits du voyage...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62081,
-        "tmdb_id": 244951,
-        "kitsu_id": "10069"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62081,
-            "tmdb_id": null,
-            "kitsu_id": "10069"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/marry-my-husband/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/marry-my-husband/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "MARS RED",
       "type": "Anime",
       "genres": [
@@ -8619,103 +8219,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "MARTIAL EVOLUTION: START BY AWAKENING THE KING OF MONSTERS",
-      "type": "Scans",
-      "genres": [
-        "Action - Arts Martiaux - Fantasy - Shônen - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/martial-evolution-start-by-awakening-the-king-of-monsters",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/martial-evolution-start-by-awakening-the-king-of-monsters.jpg",
-      "noms_alt": [
-        "GAO WU JINHUA: CONG JUEXING GUAISHOU ZHI WANG KAISHI"
-      ],
-      "synopsis": "Un jeune homme nommé Yi He renaît dans un monde où les arts martiaux règnent en maîtres. Il éveille le sang du \"Roi des Monstres\", une lignée puissante qui lui confère des capacités redoutables et le place sur la voie de l'évolution ultime.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38119,
-        "tmdb_id": null,
-        "kitsu_id": "935"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38119,
-            "tmdb_id": null,
-            "kitsu_id": "935"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/martial-evolution-start-by-awakening-the-king-of-monsters/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/martial-evolution-start-by-awakening-the-king-of-monsters/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "MARTIAL PEAK",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Mature",
-        "Combats",
-        "Harem"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/martial-peak",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/martial-peak.jpg",
-      "noms_alt": [
-        "WU LIAN DIAN FENG"
-      ],
-      "synopsis": "Le voyage vers le pic martial est solitaire et long. Face à l'adversité, vous devez survivre et rester inflexible. Ce n'est qu'alors que vous pourrez percer et continuer votre chemin pour devenir le plus fort. Le Haut Pavillon Céleste teste ses disciples de la manière la plus dure pour les préparer à ce voyage. Un jour, l'humble balayeur Yang Kai a réussi à obtenir un livre noir, le mettant sur la route du sommet du monde martial.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 38119,
-        "tmdb_id": 154080,
-        "kitsu_id": "13951"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 38119,
-            "tmdb_id": null,
-            "kitsu_id": "47934"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/martial-peak/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/martial-peak/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -9839,135 +9342,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://sendvid.com/embed/n5d0yh8m"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "MASKED NOISE",
-      "type": "Scans",
-      "genres": [
-        "Shôjo",
-        "Drame",
-        "Romance",
-        "School Life",
-        "Chant",
-        "Ecole",
-        "Musique",
-        "Quotidien"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/masked-noise",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/masked-noise.jpg",
-      "noms_alt": [
-        "ANONYMOUS NOISE"
-      ],
-      "synopsis": "Nino Arisugawa est passionnée par le chant. Elle et son meilleur ami d'enfance, Momo, n'arrêtent pas de chanter. Mais un jour, Momo déménage. Nino, qui vit très mal cette séparation, refuse de chanter de nouveau et porte un masque pour s'empêcher de crier. C'est à ce moment-là qu'elle rencontre Yuzu. Il est le seul qui parvient à la faire chanter et décide d'en apprendre plus sur elle afin de l'aider, jusqu'à ce qu'il disparaisse à son tour. Quelques années plus tard, Nino est au lycée et est peut être sur le point de revoir ses deux amis.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 33203,
-        "tmdb_id": null,
-        "kitsu_id": "6557"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 61159,
-            "tmdb_id": null,
-            "kitsu_id": "6557"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/masked-noise/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/masked-noise/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "MASTER KEATON",
-      "type": "Scans",
-      "genres": [
-        "Seinen - Aventure - Drame - Historique - Mystère - Détective - Militaire - Police"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/master-keaton",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/master-keaton.jpg",
-      "noms_alt": [],
-      "synopsis": "Taichi Hiraga-Keaton est un inspecteur en assurance très réputé. Diplômé d'Oxford, cet archéologue et ancien membre du SAS accumule les connaissances. Mais c'est avant tout un homme doué d'un sens logique et d'un esprit de déduction hors du commun. Il a choisi de mettre ses qualités au service de la Lloyd's, la célèbre compagnie d'assurances londonienne. C'est ainsi que Master Keaton parcourt le monde pour résoudre des enquêtes toutes plus troubles les unes que les autres.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1483,
-        "tmdb_id": 34674,
-        "kitsu_id": "1329"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1483,
-            "tmdb_id": null,
-            "kitsu_id": "1329"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/master-keaton/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/master-keaton/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "titreVignette": "Remaster",
-          "titreComplet": "Remaster",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1483,
-            "tmdb_id": null,
-            "kitsu_id": "1329"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/master-keaton/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/master-keaton/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -11118,46 +10492,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "MAYBE MEANT TO BE",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Romance",
-        "Amour",
-        "Mariage"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/maybe-meant-to-be",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/maybe-meant-to-be.jpg",
-      "noms_alt": [
-        "EOJJEODABONI CHEONSAENGYEONBUN"
-      ],
-      "synopsis": "Jia, 32 ans, sans-emploi, vit toujours avec ses parents. En ayant marre de la pression de sa famille, par un coup de tête, elle fait une demande en mariage à son ami d'enfance, Min Cheol, qu'elle vient tout juste de recroiser après des années. À sa grande surprise, celui-ci accepte directement sa proposition et d'un jour à l'autre elle se trouve mariée à Min Cheol. Cette union improvisée perturbe Jia, mais, petit à petit elle découvre qu'ils sont en fait... parfaits l'un pour l'autre ?!",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 57217,
-        "tmdb_id": null,
-        "kitsu_id": "48620"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "213"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/maybe-meant-to-be/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/maybe-meant-to-be/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
