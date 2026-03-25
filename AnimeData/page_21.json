@@ -1,8 +1,8 @@
 {
   "page": 21,
-  "scraped_at": "20260322_214723",
-  "duration_s": 4801,
-  "total": 48,
+  "scraped_at": "20260325_000536",
+  "duration_s": 63,
+  "total": 34,
   "animes": [
     {
       "nom": "LE GARÇON ET LE HÉRON",
@@ -493,15 +493,30 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4757692"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4757696"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4757705\t"
+                }
+              ]
             }
           ]
         }
@@ -4689,47 +4704,6 @@
       ]
     },
     {
-      "nom": "LE PRIX DU RESTE DE MA VIE",
-      "type": "Scans",
-      "genres": [
-        "Shônen",
-        "Drame",
-        "Psychologique",
-        "Romance",
-        "Amitié"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/le-prix-du-reste-de-ma-vie",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/le-prix-du-reste-de-ma-vie.jpg",
-      "noms_alt": [
-        "I SOLD MY LIFE FOR TEN THOUSAND YEN PER YEAR. / JUMYOU WO KAITOTTE MORATTA. ICHINEN NI TSUKI",
-        "ICHIMANEN DE."
-      ],
-      "synopsis": "Kusunoki était un enfant plein de rêves et d'ambitions. Désormais jeune adulte désargenté, il entend alors parler d'une boutique dans laquelle il était possible de revendre son espérance de vie. Après estimation, son existence n'est évaluée qu'à quelques milliers de yens... Il décide toutefois de la vendre, à l'exception de ses trois derniers mois. Le compte à rebours est désormais lancé. Avec cette épée de Damoclès au-dessus de la tête, il va alors envisager son avenir autrement et, peut-être, apprendre à connaître la vraie valeur de la vie...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1013,
-        "tmdb_id": null,
-        "kitsu_id": "7982"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1013,
-            "tmdb_id": null,
-            "kitsu_id": "7982"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/le-prix-du-reste-de-ma-vie/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/le-prix-du-reste-de-ma-vie/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "LE PUISSANT DRAGON VEGAN",
       "type": "Anime",
       "genres": [
@@ -5175,6 +5149,10 @@
               "episode": "Episode 1",
               "lecteurs": [
                 {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4761917"
+                },
+                {
                   "lecteur": "Lecteur 2",
                   "url": "https://sendvid.com/embed/u0b0km4d"
                 }
@@ -5208,7 +5186,16 @@
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4762863\t"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4762863\t"
+                }
+              ]
             }
           ]
         }
@@ -5695,50 +5682,6 @@
       ]
     },
     {
-      "nom": "LECTEUR OMNISCIENT",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantastique",
-        "Fantasy",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/lecteur-omniscient",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/lecteur-omniscient.jpg",
-      "noms_alt": [
-        "OMNISCIENT READER",
-        "OMNISCIENT READER'S VIEWPOINT",
-        "ORV"
-      ],
-      "synopsis": "Moi seul connais la fin de ce monde. Au moment où Kim Dok Ja eut cette pensée, le monde a été détruit et le monde de son webnovel préféré est apparu. Que fait-il pour survivre ? C'est un monde frappé par la catastrophe et le danger. La nouvelle vie d'un lecteur ordinaire commence dans le monde de l'histoire qu'il est le seul à avoir lu jusqu'à la fin. Lisez son histoire pour voir comment il survit !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 6444,
-        "tmdb_id": null,
-        "kitsu_id": "4564"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 6444,
-            "tmdb_id": null,
-            "kitsu_id": "4564"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/lecteur-omniscient/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/lecteur-omniscient/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "LEFT HAND LAYUP!",
       "type": "Anime",
       "genres": [
@@ -6051,113 +5994,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5891020"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "LEGEND OF THE NORTHERN BLADE",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Combats",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/legend-of-the-northern-blade",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/legend-of-the-northern-blade.jpg",
-      "noms_alt": [
-        "BUKGEOMJEONGI"
-      ],
-      "synopsis": "L'épée qui tranche les cieux. Depuis des décennies la secte céleste du nord se bat pour protéger le monde de la démoniaque Nuit Silencieuse. Mais le jour où le chef de la quatrième génération se retrouve accusé par l'alliance céleste d'avoir collaboré avec l'ennemi, il est obligé de dissoudre la secte et de s'ôter la vie pour protéger son fils, Moo Won. Laissé seul, sans famille ni alliés, Moo Won vit une vie morose, sous haute surveillance... jusqu'au moment où une attaque surprise de la Nuit Silencieuse lui donne une chance de s'échapper dans les montagnes. Là-bas, le jeune guerrier s'entraîne afin de maîtriser les techniques de combats de ses prédécesseurs, jusqu'à ce que la mort d'un être cher le ramène sur ses anciennes terres. Suivez l'histoire de Moo Won, dans sa quête d'héroïsme et de vengeance, tandis qu'il se bat pour éliminer ceux qui ont trahi son père, et les démons menaçant de plonger le monde dans l'obscurité !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 48441,
-        "tmdb_id": null,
-        "kitsu_id": "45394"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 48441,
-            "tmdb_id": null,
-            "kitsu_id": "45394"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/legend-of-the-northern-blade/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/legend-of-the-northern-blade/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "LEGENDARY YOUNGEST SON OF THE MARQUIS HOUSE",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/legendary-youngest-son-of-the-marquis-house",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/legendary-youngest-son-of-the-marquis-house.jpg",
-      "noms_alt": [
-        "JACK BE INVINCIBLE",
-        "JACK VALENTIER",
-        "THE MARGRAVIAL HOUSEHOLD'S PHENOMENAL YOUNGEST SON",
-        "THE MARQUESS'S YOUNGEST SON",
-        "THE YOUNGEST SON OF A MARQUIS"
-      ],
-      "synopsis": "Moi, Jack Valentier, suis devenu un monstre sanguinaire. Les responsables ? Les membres de ma famille, qui ont fait de ma vie un enfer et qui ont jeté ma tendre soeur en pâture à l'empire Tulcan. Mû par une terrible soif de vengeance, j'ai exterminé tous mes ennemis. Pourtant, je regrette d'être devenu cet être cruel. Je ferais tout pour changer le passé ! Alors, remontant le temps jusqu'à l'année de mes quatorze ans, je sais qu'il est temps de me battre pour une vie meilleure... et de sauver ma soeur !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 2938,
-        "tmdb_id": null,
-        "kitsu_id": "42549"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 2938,
-            "tmdb_id": null,
-            "kitsu_id": "42549"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/legendary-youngest-son-of-the-marquis-house/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/legendary-youngest-son-of-the-marquis-house/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -8059,7 +7895,12 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5168686"
+                }
+              ]
             }
           ]
         }
@@ -8384,103 +8225,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "LES INTRIGUES D'UNE BORGIA",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Drame - Fantasy - Historique - Romance - Amitié - Autre monde - Magie - Mariage - Monstres - Religion - Réincarnation / Transmigration - Secrets - Traumatisme"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/les-intrigues-dune-borgia",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-intrigues-dune-borgia.jpg",
-      "noms_alt": [
-        "HOW TO WIN MY HUSBAND OVER"
-      ],
-      "synopsis": "Je suis décédée dans un accident d'hélicoptère, et alors que je pensais être enfin libérée de cette horrible vie, me voilà catapultée dans la peau de Rudbekia de Borgia, l'antagoniste d'un roman que j'ai lu il y a quelques années, utilisée par son père et son frère dans de sombres histoires de mariage politique et destinée à mourir des mains de son époux. Un jour, après quatre unions annulées, mon père m'incite à épouser Iské Van Omerta. Le problème, c'est qu'il s'agit de l'homme qui signera ma fin et la ruine de toute ma famille, ainsi que le meilleur paladin du nord. De nombreuses difficultés se dressent alors devant moi et je dois donc désormais trouver un moyen de survivre.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1695,
-        "tmdb_id": null,
-        "kitsu_id": "1523"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1695,
-            "tmdb_id": null,
-            "kitsu_id": "1523"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/les-intrigues-dune-borgia/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/les-intrigues-dune-borgia/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "LES LIENS DU SANG",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Psychologique",
-        "Slice of Life"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/les-liens-du-sang",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-liens-du-sang.jpg",
-      "noms_alt": [
-        "A TRAIL OF BLOOD",
-        "BLOOD ON THE TRACKS"
-      ],
-      "synopsis": "Vue de l'extérieur, la famille du jeune Seiichi est des plus banales : un père salarié, une mère au foyer, une maison dans une ville de province... L'adolescent va à l'école, joue avec ses amis, est troublé quand il pose les yeux sur la jolie fille de la classe. Tout est normal... ou presque. Il ne s'en rend pas compte lui-même, mais sa mère le couve beaucoup trop. Seiko traite encore son fils comme un bébé et, avec un mari toujours absent, son monde est d'autant plus centré autour de Seiichi. Ce dernier est incapable de résister : il se laisse lentement emprisonner dans le cocon. Trop jeune, il ne décèle pas la folie cachée derrière l'amour maternel. Jusqu'à ce qu'il soit trop tard...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1695,
-        "tmdb_id": 40400,
-        "kitsu_id": "7387"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1695,
-            "tmdb_id": null,
-            "kitsu_id": "7387"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/les-liens-du-sang/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/les-liens-du-sang/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -9020,11 +8764,21 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4815693\t"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4815698"
+                }
+              ]
             }
           ]
         }
@@ -9083,45 +8837,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "LES PÉCHÉS CAPITAUX DE LA FAMILLE ICHINOSE",
-      "type": "Scans",
-      "genres": [
-        "Drame",
-        "Slice of Life"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/les-peches-capitaux-de-la-famille-ichinose",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/les-peches-capitaux-de-la-famille-ichinose.jpg",
-      "noms_alt": [
-        "ICHINOSE-KE NO TAIZAI"
-      ],
-      "synopsis": "Tsubasa Ichinose est un collégien ayant perdu la mémore à la suite d'un accident de voiture. Il retrouve aisément ses proches, mais va se retrouver confronté à une dure réalité... Qu'est-ce qu'il se passe dans cette famille ?!",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 1695,
-        "tmdb_id": null,
-        "kitsu_id": "1391"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 1695,
-            "tmdb_id": null,
-            "kitsu_id": "1391"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/les-peches-capitaux-de-la-famille-ichinose/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/les-peches-capitaux-de-la-famille-ichinose/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -22042,61 +21757,6 @@
       ]
     },
     {
-      "nom": "LEVEL 1 PLAYER",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Aventure - Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/level-1-player",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/level-1-player.jpg",
-      "noms_alt": [
-        "1 SEVIYE OYUNCU",
-        "FOREVER LEVEL ONE"
-      ],
-      "synopsis": "Hyeonsung pensait que sa vie changerait le jour où il deviendrait enfin un joueur, quelqu'un avec des capacités hors du commun et capable de combattre les démons... c'était avant de comprendre que sa barre d'expérience manquait à sa fenêtre de statut ! Y aurait-il un bug ? Et pourquoi vieillit-il quand il utilise son argent ? ne me dîtes pas que... Son expérience serait l'argent ?! Cet éternel niveau 1 pourra-t-il devenir riche, rester jeune, et surtout... combattre des monstres toujours plus puissants ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 51764,
-        "tmdb_id": null,
-        "kitsu_id": "46099"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 51764,
-            "tmdb_id": null,
-            "kitsu_id": "46099"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/level-1-player/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/level-1-player/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "LEVEL E",
       "type": "Anime",
       "genres": [
@@ -22358,247 +22018,6 @@
       ]
     },
     {
-      "nom": "LEVEL UP WITH SKILLS",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Arts martiaux - Aventure - Fantasy - Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/level-up-with-skills",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/level-up-with-skills.jpg",
-      "noms_alt": [
-        "ASCENSION THROUGH SKILLS",
-        "SKILL MASTER LEVELS UP"
-      ],
-      "synopsis": "En 2020, l'humanité fait face à une crise alors que la Terre est attaquée par des monstres non identifiés. Les joueurs se préparent à l'attaque en défiant le Labyrinthe qui est apparu. Ils ont le choix entre quatre options : Mode facile, où tout le monde peut survivre ; Mode normal, où vous devez travailler pour survivre ; Mode difficile, où seulement 1% peut survivre ; et Mode solo, la difficulté la plus dure. Kang TaeSan, le joueur le plus fort en mode facile, a traversé le labyrinthe en utilisant une approche non conventionnelle et a acquis des compétences que d'autres n'ont pas pu acquérir : [ Addition, Multiplication, Annulation d'attaque, Jugement ultime...]. Mais parce qu'il avait choisi le mode Facile, sa puissance était insuffisante. Incapable d'empêcher l'extinction de l'humanité, il agonise. Une chance miraculeuse apparaît. « Cette fois, je vais devenir plus fort. » En défiant à nouveau le Labyrinthe, Kang TaeSan a battu son record d'attaque en mode Solo !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 52299,
-        "tmdb_id": null,
-        "kitsu_id": "10076"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 52299,
-            "tmdb_id": null,
-            "kitsu_id": "10076"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/level-up-with-skills/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/level-up-with-skills/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "LEVELING UP WITH A SWORD",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Arts martiaux - Aventure - Drame - Fantasy - Surnaturel"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/leveling-up-with-a-sword",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/leveling-up-with-a-sword.jpg",
-      "noms_alt": [
-        "DISCIPLE OF THE HOLY SWORD",
-        "L'ÉLU DE L'ÉPÉE SACRÉE",
-        "OVERPOWERED SWORD"
-      ],
-      "synopsis": "Tout est décidé dès la naissance : il y a ceux qui viennent au monde bourrés de talent, promis à un grand destin, et... les autres. Le monde est injuste, c'est ainsi... mais Léon ne peut s'y résigner. Peu importe le nombre de fois que Léan lui fera mordre la poussière, il n'aura de cesse de le défier de nouveau. Seulement, malgré ses efforts acharnés, Léan paraît aussi hors d'atteinte qu'au premier jour. Mais ça, c'était avant que l'épée sacrée apparaisse devant Léon et le choisisse comme champion !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 49891,
-        "tmdb_id": null,
-        "kitsu_id": "1696"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 52299,
-            "tmdb_id": null,
-            "kitsu_id": "1696"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/leveling-up-with-a-sword/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/leveling-up-with-a-sword/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "LEVELING UP, BY ONLY EATING!",
-      "type": "Scans",
-      "genres": [
-        "Fantasy",
-        "Isekai",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/leveling-up-by-only-eating",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/leveling-up-by-only-eating.jpg",
-      "noms_alt": [
-        "GOURMET GAMING"
-      ],
-      "synopsis": "Nous allons suivre ici la vie de Min Hyuk, un jeune homme boulimique qui se bat pour survivre et qui va pour cela rejoindre le monde virtuel d'Athenae !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 52299,
-        "tmdb_id": null,
-        "kitsu_id": "46231"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 52299,
-            "tmdb_id": null,
-            "kitsu_id": "46231"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/leveling-up-by-only-eating/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/leveling-up-by-only-eating/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "LEVELING WITH THE GODS",
-      "type": "Scans",
-      "genres": [
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Shônen",
-        "Supernaturel",
-        "Webcomic"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/leveling-with-the-gods",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/leveling-with-the-gods.jpg",
-      "noms_alt": [
-        "LEVELING UP WITH THE GODS"
-      ],
-      "synopsis": "\"Peut-être que les dieux intérieurs ne pourront jamais vaincre les dieux extérieurs...\", pensa Kim Yu Won, un courageux guerrier de haut rang, après une défaite amère. Mais Yu Won est trop tenace pour abandonner. Sa défaite devient l'aube d'un nouveau voyage pour celui qui est revenu dans le passé. Avec une détermination renouvelée, Yu Won repart de là où il a commencé, écrasant monstre après monstre et réapprenant ses compétences avant de s'attaquer à nouveau à la Tour. Cependant, pourra-t-il se frayer un chemin à travers les tutoriels et monter de niveau une fois de plus ou sa conquête s'effondrera-t-elle devant lui ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 63292,
-        "tmdb_id": null,
-        "kitsu_id": "1696"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 58567,
-            "tmdb_id": null,
-            "kitsu_id": "1696"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/leveling-with-the-gods/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/leveling-with-the-gods/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
-      "nom": "LEVIATHAN",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Fantastique",
-        "Animaux",
-        "Apocalypse",
-        "Monstres"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/leviathan",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/leviathan.jpg",
-      "noms_alt": [
-        "SIMHAESU",
-        "LÉVIATHAN"
-      ],
-      "synopsis": "La Terre est submergée et des monstres marins règnent sur la planète. Bota et sa famille réussiront-ils à trouver un lieu sûr dans cet enfer aquatique ? Et qui est donc la mystérieuse Kana ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 17681,
-        "tmdb_id": 256323,
-        "kitsu_id": "7644"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 17681,
-            "tmdb_id": null,
-            "kitsu_id": "7644"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/leviathan/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/leviathan/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "LÉVIATHAN",
       "type": "Anime",
       "genres": [
@@ -22829,98 +22248,6 @@
                 {
                   "lecteur": "Lecteur 3",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5983100"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "LIAR GAME",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Mystère",
-        "Psychologique",
-        "Enquête",
-        "Jeu d'argent",
-        "Mensonges",
-        "Secrets"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/liar-game",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/liar-game.jpg",
-      "noms_alt": [],
-      "synopsis": "S'il existait un championnat du monde des personnes les plus honnêtes, soyez sûrs d'y retrouver Kanzaki Nao sur le podium ! Elle est si honnête qu'elle n'hésite pas à ramener une pièce de 100¥ au commissariat si jamais il prenait l'envie à son propriétaire de venir la chercher. Le facteur lui amène un bien étrange colis, accompagné d'une carte l'invitant à participer au LIAR GAME TOURNAMENT. Ce colis contient 100 millions de yens ainsi qu'une seconde carte au fond de la boîte lui indiquant que, l'ayant ouverte, elle accepte cet argent et de participer au premier round du Liar Game. Une note lui conseille de prendre grand soin de cet argent. Le but de ce jeu est d'obtenir par n'importe quel moyen l'argent de son adversaire, en un un contre un, durant l'espace d'un mois. À la fin de ce mois, l'équipe du Liar Game vient rechercher ce million \"offert\". Si la personne a réussi à obtenir deux millions de yens, il n'en rend qu'un, et a donc gagné un million de yens. Dans le cas contraire, l'adversaire ayant perdu doit rembourser ce million au jeu. Nao est décontenancée et ne sait que faire. Elle ne peut même pas en parler à son père ou des gens qu'elle connaît. Elle apprend par la suite que son adversaire n'est autre que Fujisawa, un de ses anciens professeurs. Elle se rend donc chez lui. Se servant de sa crédulité, il va réussir à la berner et lui prendre son million. Il lui reste donc 27 jours pour récupérer l'argent. La jeune femme appelle un avocat qui, ne pouvant décidément rien faire pour l'aider, lui indique qu'un célèbre escroc doit sortir sous peu de prison. Nao, au bord de la crise nerfs, va entrer en contact avec Akiyama Shinichi.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 62331,
-        "tmdb_id": 13967,
-        "kitsu_id": "50108"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62331,
-            "tmdb_id": null,
-            "kitsu_id": "50108"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/liar-game/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/liar-game/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "titreVignette": "Roots of A",
-          "titreComplet": "Roots of A",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 62331,
-            "tmdb_id": null,
-            "kitsu_id": "3899"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/liar-game/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/liar-game/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
