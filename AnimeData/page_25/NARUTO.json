@@ -44,6 +44,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-v67tgm5qa53n.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4963284"
             }
@@ -2915,6 +2919,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-v67tgm5qa53n.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4963284"
             }
@@ -5775,7 +5783,7 @@
       "isFilm": true,
       "ids": {
         "jikan_id": 16870,
-        "tmdb_id": 118406,
+        "tmdb_id": 1210043,
         "kitsu_id": "7008"
       },
       "langue": "vf",
@@ -5784,15 +5792,30 @@
       "episodes": [
         {
           "episode": "Naruto et la Princesse des neiges",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4796948"
+            }
+          ]
         },
         {
           "episode": "La Légende de la pierre de Guelel",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4796969"
+            }
+          ]
         },
         {
           "episode": "Mission spéciale au pays de la Lune",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4796951"
+            }
+          ]
         }
       ]
     }
