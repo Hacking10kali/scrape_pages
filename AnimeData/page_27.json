@@ -1,8 +1,8 @@
 {
   "page": 27,
-  "scraped_at": "20260322_205316",
-  "duration_s": 1561,
-  "total": 48,
+  "scraped_at": "20260325_000535",
+  "duration_s": 41,
+  "total": 39,
   "animes": [
     {
       "nom": "ONIMAI: I'M NOW YOUR SISTER!",
@@ -577,48 +577,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "OPERATION TRUE LOVE",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Drame",
-        "Romance",
-        "School Life",
-        "Amour"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/operation-true-love",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/operation-true-love.jpg",
-      "noms_alt": [
-        "JAKJEONMYEONG SUNJEONG",
-        "OPERATION TRUE LOVE"
-      ],
-      "synopsis": "En plus de découvrir que son petit copain la trompe avec Lime qu'elle considère comme sa sœur, Soo Ae entre aussi en possession d'un portable qui lui permet d'évaluer la quantité d'amour qu'une personne recevra durant sa vie... Seulement, elle semble être la seule à avoir 0 chance de recevoir de l'amour un jour... Peut-être que son rapprochement avec Eun Hyeok, le meilleur ami de son copain, va permettre de changer son destin ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 648,
-        "tmdb_id": null,
-        "kitsu_id": "45398"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 648,
-            "tmdb_id": null,
-            "kitsu_id": "45398"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/operation-true-love/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/operation-true-love/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -1815,44 +1773,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "ORDEAL",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Fantasy"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/ordeal",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/ordeal.jpg",
-      "noms_alt": [],
-      "synopsis": "Che n'est qu'un humain dans un monde rempli de « Kimyos » surpuissants, mais il est déterminé à devenir le plus grand combattant de tous les temps. Lorsque son mentor bien-aimé est assassiné, Che jure de se venger et se lance dans une mission pour démasquer le tueur. Mais Che apprend bientôt que le monde des Kimyos est bien plus vaste qu'il ne l'avait imaginé, et qu'il est peut-être lui-même l'un des Kimyos les plus puissants de la Terre, doté du pouvoir du soleil lui-même. Che sera-t-il capable d'exploiter sa nouvelle force, ou brûlera-t-il dans la chaleur de cette épreuve ?",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": null,
-        "tmdb_id": 108083,
-        "kitsu_id": "46807"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "46807"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/ordeal/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/ordeal/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -6264,61 +6184,6 @@
       ]
     },
     {
-      "nom": "OTHERS LEVEL UP, I CULTIVATE",
-      "type": "Scans",
-      "genres": [
-        "Action - Arts Martiaux - Fantasy - Moderne - Manhwa - Webcomic"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/others-level-up-i-cultivate",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/others-level-up-i-cultivate.jpg",
-      "noms_alt": [
-        "OTHERS LEVEL UP",
-        "I CULTIVATE: EMERGING ONLY AT GREAT ASCENSION"
-      ],
-      "synopsis": "Alors que le monde entier fonctionne selon un système de niveaux et de classes comme dans un jeu vidéo, le protagoniste découvre une méthode de cultivation ancienne. Il devient le seul à pouvoir \"cultiver\" son énergie, ce qui le rend bien plus puissant que les \"joueurs\" ordinaires.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 37451,
-        "tmdb_id": null,
-        "kitsu_id": "46370"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 37451,
-            "tmdb_id": null,
-            "kitsu_id": "46370"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/others-level-up-i-cultivate/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/others-level-up-i-cultivate/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "OTHERSIDE PICNIC",
       "type": "Anime",
       "genres": [
@@ -8080,45 +7945,6 @@
       ]
     },
     {
-      "nom": "OUT",
-      "type": "Scans",
-      "genres": [
-        "Seinen",
-        "Action",
-        "Drame",
-        "Société"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/out",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/out.jpg",
-      "noms_alt": [
-        "OUT (IGUCHI TATSUYA)"
-      ],
-      "synopsis": "À 17 ans, Tatsuya Iguchi, fait partie d'un gang et connaît déjà le milieu carcéral. Après plusieurs actes de délinquance avérés, celui-ci passe un moment en maison d'arrêt, à Nagano. Mais alors que le juge pour mineurs le laisse sortir, lui offrant une seconde chance à condition que celui-ci ne replonge pas, Tatsuya va de nouveau s'attirer des ennuis en fricotant avec quelques clans mafieux parmi les plus dangereux de Tokyo...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 31588,
-        "tmdb_id": 19205,
-        "kitsu_id": "8671"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 31588,
-            "tmdb_id": null,
-            "kitsu_id": "11942"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/out/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/out/saison1/vostfr/",
-          "episodes": []
-        }
-      ]
-    },
-    {
       "nom": "OUTBREAK COMPANY",
       "type": "Anime",
       "genres": [
@@ -8945,56 +8771,6 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "nom": "OVERGEARED",
-      "type": "Scans",
-      "genres": [
-        "Webcomic",
-        "Manhwa",
-        "Action",
-        "Aventure",
-        "Fantasy",
-        "Apprentissage",
-        "Artisanat",
-        "Arts martiaux",
-        "Jeux vidéo",
-        "Magie",
-        "Mariage",
-        "Monde virtuel",
-        "Religion",
-        "Royauté",
-        "Vampires"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/overgeared",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/overgeared.jpg",
-      "noms_alt": [
-        "TEMPPAL"
-      ],
-      "synopsis": "Shin Young Woo, nom d'utilisateur: Grid. Dans le meilleur jeu de réalité virtuelle au monde : , la malchance le suit toujours. Mais il est tombé sur une classe au cours d'une quête, et c'est la classe légendaire la plus forte sur plus de 2 milliards de joueurs !",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": null,
-        "tmdb_id": null,
-        "kitsu_id": "4066"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "4066"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/overgeared/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/overgeared/saison1/vostfr/",
-          "episodes": []
         }
       ]
     },
@@ -10179,61 +9955,6 @@
                 {
                   "lecteur": "Lecteur 2",
                   "url": "https://Smoothpre.com/embed/4rujx9o9i3bv"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "OVERSUMMONED, OVERPOWERED, AND OVER IT!",
-      "type": "Scans",
-      "genres": [
-        "Action - Drame - Fantaisie - Surnaturel - Manhwa"
-      ],
-      "langues": [],
-      "lien": "https://anime-sama.to/catalogue/oversummoned-overpowered-and-over-it",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/oversummoned-overpowered-and-over-it.jpg",
-      "noms_alt": [
-        "SURINVOQUÉ & SURPUISSANT",
-        "SUMMONED TO A PARALLEL FANTASY WORLD MANY TIMES (TSUGUTOKU)"
-      ],
-      "synopsis": "Inori, simple lycéen, est envoyé avec ses camarades dans un autre monde par une déesse. Étrangement, seul Inori ne cesse d'être invoqué et ces invocations lui font gagner de différents pouvoirs. C'est alors, en un temps de record, il devient un être surpuissant.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 48542,
-        "tmdb_id": null,
-        "kitsu_id": "5583"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "2946"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/oversummoned-overpowered-and-over-it/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/oversummoned-overpowered-and-over-it/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
                 }
               ]
             }
@@ -13217,62 +12938,6 @@
       ]
     },
     {
-      "nom": "PART-TIME GRIM REAPER",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Shônen - Action - Aventure - Comédie - Drame - Fantasy"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/part-time-grim-reaper",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/part-time-grim-reaper.jpg",
-      "noms_alt": [
-        "CONTRACT WORKER FROM THE UNDERWORLD"
-      ],
-      "synopsis": "« Je suis ici en mission... de l'au-delà. » Lee Do-jin est un jeune homme ordinaire dont la vie bascule brusquement lorsque son petit frère tombe gravement malade. Accablé par des factures médicales écrasantes, Do-jin se retrouve au pied du mur, prêt à tout pour un miracle. Un jour, il tombe par hasard sur une étrange carte de visite. Sur un coup de tête, il décide de contacter le numéro indiqué. Au lieu de rendez-vous, il fait la rencontre d'une mystérieuse femme aux cheveux argentés — une faucheuse. Elle lui propose un emploi pour le moins inhabituel : devenir un intérimaire de l'au-delà. Sa mission ? Traquer les Mokdugi, des dévoreurs d'âmes tordus qui se nourrissent des humains pécheurs. Plongé dans un monde secret peuplé d'esprits, de monstres et de contrats divins, Do-jin devra se battre non seulement pour survivre... mais surtout pour protéger ce qu'il aime le plus.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 33341,
-        "tmdb_id": null,
-        "kitsu_id": "44035"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 33341,
-            "tmdb_id": null,
-            "kitsu_id": "44035"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/part-time-grim-reaper/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/part-time-grim-reaper/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "PASS THE MONSTER MEAT, MILADY!",
       "type": "Anime",
       "genres": [
@@ -13608,70 +13273,6 @@
       ]
     },
     {
-      "nom": "PAST LIFE RETURNER",
-      "type": "Scans",
-      "genres": [
-        "Manhwa",
-        "Webcomic",
-        "Action",
-        "Aventure",
-        "Drame",
-        "Fantasy",
-        "Seinen"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/past-life-returner",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/past-life-returner.jpg",
-      "noms_alt": [
-        "JEONGSAENGJA",
-        "REINCARNATOR",
-        "PAST LIFE REGRESSOR"
-      ],
-      "synopsis": "[Souhaitez-vous remonter le temps ?] [Toutes vos capacités seront réinitialisées.] [Veuillez choisir une date.] “28 février 1985. Le jour de ma naissance.” Le pouvoir financier. Je vais récolter toute la fortune du monde... Et en faire un monopole. Je vais accaparer tous les donjons du monde. Je vais le faire dès maintenant, pendant que le monde est encore paisible... Avant que tout ne commence.",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 42203,
-        "tmdb_id": null,
-        "kitsu_id": "10800"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 42203,
-            "tmdb_id": null,
-            "kitsu_id": "10800"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/past-life-returner/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/past-life-returner/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
-              "lecteurs": [
-                {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "nom": "PEACH BOY RIVERSIDE",
       "type": "Anime",
       "genres": [
@@ -13708,106 +13309,109 @@
           "episodes": [
             {
               "episode": "Episode 1",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-nfohclig1p8z.html"
+                }
+              ]
             },
             {
               "episode": "Episode 2",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-xrydyv27xyxc.html"
+                }
+              ]
             },
             {
               "episode": "Episode 3",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-4mikcvg91csg.html"
+                }
+              ]
             },
             {
               "episode": "Episode 4",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ils593lze6nr.html"
+                }
+              ]
             },
             {
               "episode": "Episode 5",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-68bcidpp0yww.html"
+                }
+              ]
             },
             {
               "episode": "Episode 6",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-bany1rxxg07g.html"
+                }
+              ]
             },
             {
               "episode": "Episode 7",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-671aceperfo2.html"
+                }
+              ]
             },
             {
               "episode": "Episode 8",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-mavek1qu9fxz.html"
+                }
+              ]
             },
             {
               "episode": "Episode 9",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-mqddshz3fp07.html"
+                }
+              ]
             },
             {
               "episode": "Episode 10",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-1j9nf8svajel.html"
+                }
+              ]
             },
             {
               "episode": "Episode 11",
-              "lecteurs": []
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-xnrzxu47tqw4.html"
+                }
+              ]
             },
             {
               "episode": "Episode 12",
-              "lecteurs": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "nom": "PEERLESS DAD",
-      "type": "Scans",
-      "genres": [
-        "Manhwa - Webcomic - Seinen - Action - Arts martiaux - Aventure - Comédie - Drame - Fantasy - Slice of Life"
-      ],
-      "langues": [
-        "VF"
-      ],
-      "lien": "https://anime-sama.to/catalogue/peerless-dad",
-      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/peerless-dad.jpg",
-      "noms_alt": [
-        "ABHISHEK",
-        "ABIMUSSANG"
-      ],
-      "synopsis": "Mettez-le dans n'importe quelle situation périlleuse : mort imminente, mission suicide, combat contre un maître d'arts martiaux... Noh Gajang, AKA Le Recours Infaillible, saura toujours s'en sortir ! Son courage et la force acquise lors de ses entraînements lui permettront de rentrer chez lui pour voir ses enfants chéris. « Laissez-moi voir mes enfants ! » Tel est le crédo qu'il s'est donné après la mort de sa femme, Seomun. Un crédo qui ne s'avèrera pourtant pas toujours simple à suivre...Mettez-le dans n'importe quelle situation périlleuse : mort imminente, mission suicide, combat contre un maître d'arts martiaux... Noh Gajang, AKA Le Recours Infaillible, saura toujours s'en sortir ! Son courage et la force acquise lors de ses entraînements lui permettront de rentrer chez lui pour voir ses enfants chéris. « Laissez-moi voir mes enfants ! » Tel est le crédo qu'il s'est donné après la mort de sa femme, Seomun. Un crédo qui ne s'avèrera pourtant pas toujours simple à suivre...",
-      "bande_annonce": null,
-      "ids": {
-        "jikan_id": 57719,
-        "tmdb_id": null,
-        "kitsu_id": "44580"
-      },
-      "saisons": [
-        {
-          "titreVignette": "Scans",
-          "titreComplet": "Scans",
-          "isFilm": false,
-          "ids": {
-            "jikan_id": 10869,
-            "tmdb_id": null,
-            "kitsu_id": "44580"
-          },
-          "langue": "vostfr",
-          "lien_vf": "https://anime-sama.to/catalogue/peerless-dad/saison1/vf/",
-          "lien_vostfr": "https://anime-sama.to/catalogue/peerless-dad/saison1/vostfr/",
-          "episodes": [
-            {
-              "episode": "Episode 1",
               "lecteurs": [
                 {
-                  "lecteur": "Lecteur 2",
-                  "url": "https://video.sibnet.ru/shell.php?videoid="
-                },
-                {
-                  "lecteur": "Lecteur 3",
-                  "url": "https://sendvid.com/embed/"
-                },
-                {
-                  "lecteur": "Lecteur 4",
-                  "url": "https://vk.com/video_ext.php?oid=&hd=3"
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-y17aqr70snom.html"
                 }
               ]
             }
