@@ -41,6 +41,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-jd656av8msnz.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://Smoothpre.com/embed/sbbi1ciq7m3t"
             },
@@ -598,6 +602,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-hu1bj0qdure9.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://Smoothpre.com/embed/lb9a66ywvlby"
             },
@@ -928,7 +936,24 @@
         },
         {
           "episode": "Episode 16.5",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-2fsx8zam9o5o.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://vidmoly.biz/embed-2fsx8zam9o5o.html"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://vidmoly.biz/embed-2fsx8zam9o5o.html"
+            },
+            {
+              "lecteur": "Lecteur 4",
+              "url": "https://vidmoly.biz/embed-2fsx8zam9o5o.html"
+            }
+          ]
         },
         {
           "episode": "Episode 17",
@@ -1137,6 +1162,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-a456hapx2fkb.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://Smoothpre.com/embed/u96c7fbpttci"
@@ -1672,19 +1701,39 @@
       "episodes": [
         {
           "episode": "Last Game",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-hsdoxaw51snx.html"
+            }
+          ]
         },
         {
           "episode": "Highligts 1",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5163389"
+            }
+          ]
         },
         {
           "episode": "Highligts 2",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://sendvid.com/embed/g2cg0pf2"
+            }
+          ]
         },
         {
           "episode": "Highligts 3",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5163394"
+            }
+          ]
         }
       ]
     },
@@ -1704,6 +1753,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-jd656av8msnz.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://Smoothpre.com/embed/sbbi1ciq7m3t"
