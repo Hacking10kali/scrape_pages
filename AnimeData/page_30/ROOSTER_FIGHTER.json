@@ -1,0 +1,77 @@
+{
+  "nom": "ROOSTER FIGHTER",
+  "type": "Anime",
+  "genres": [
+    "Action",
+    "Comédie",
+    "Parodie",
+    "Seinen"
+  ],
+  "langues": [
+    "VOSTFR",
+    "VF"
+  ],
+  "lien": "https://anime-sama.to/catalogue/rooster-fighter",
+  "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/rooster-fighter.jpg",
+  "noms_alt": [
+    "NIWATORI FIGHTER"
+  ],
+  "synopsis": "Un coq errant, surpuissant et terriblement fier, parcourt le Japon pour venger la mort de sa sœur, assassinée par des créatures mutantes gigantesques appelées \"Kiju\". Avec ses attaques destructrices et son charisme animalier, il devient, bien malgré lui, le héros dont la Terre a besoin.",
+  "bande_annonce": null,
+  "ids": {
+    "jikan_id": 59393,
+    "tmdb_id": 259819,
+    "kitsu_id": "49071"
+  },
+  "saisons": [
+    {
+      "titreVignette": "Saison 1",
+      "titreComplet": "Saison 1",
+      "isFilm": false,
+      "ids": {
+        "jikan_id": 59393,
+        "tmdb_id": 259819,
+        "kitsu_id": "49071"
+      },
+      "langue": "vf",
+      "lien_vf": "https://anime-sama.to/catalogue/rooster-fighter/saison1/vf/",
+      "lien_vostfr": "https://anime-sama.to/catalogue/rooster-fighter/saison1/vostfr/",
+      "episodes": [
+        {
+          "episode": "Episode 1",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-3vm36xdeqdcd.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#yzxsz"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6155757"
+            }
+          ]
+        },
+        {
+          "episode": "Episode 2",
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-go4qb0r08ffn.html"
+            },
+            {
+              "lecteur": "Lecteur 2",
+              "url": "https://lpayer.embed4me.com/#hiakc"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://video.sibnet.ru/shell.php?videoid=6155760"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
