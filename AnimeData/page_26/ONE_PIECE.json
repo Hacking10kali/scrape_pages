@@ -42,6 +42,10 @@
           "episode": "Episode 1",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1j1tjy3qqbs7.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4833453"
             },
@@ -1089,6 +1093,10 @@
         {
           "episode": "Episode 62",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-0t5oy72lvopn.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4834078"
@@ -2495,6 +2503,10 @@
           "episode": "Episode 144",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-kkqtdc6d18kr.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=3871931"
             },
@@ -3576,6 +3588,10 @@
         {
           "episode": "Episode 207",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-e1brn5zna2rb.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4834640"
@@ -5798,6 +5814,10 @@
           "episode": "Episode 337",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-43wvok8ow3jv.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4824714"
             }
@@ -6497,6 +6517,10 @@
         {
           "episode": "Episode 390",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-ongq0l6lsmga.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4832709"
@@ -8234,6 +8258,10 @@
             {
               "lecteur": "Lecteur 2",
               "url": "https://www.myvi.top/embed/gwqoxm1kpybwmc5745tkfqmgfe"
+            },
+            {
+              "lecteur": "Lecteur 3",
+              "url": "https://www.myvi.top/embed/gwqoxm1kpybwmc5745tkfqmgfe"
             }
           ]
         },
@@ -8664,6 +8692,10 @@
           "episode": "Episode 517",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-lv4ffqm4ly7m.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4833113"
             },
@@ -9090,6 +9122,10 @@
             },
             {
               "lecteur": "Lecteur 2",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4703796"
+            },
+            {
+              "lecteur": "Lecteur 3",
               "url": "https://video.sibnet.ru/shell.php?videoid=4703796"
             }
           ]
@@ -9656,6 +9692,10 @@
         {
           "episode": "Episode 575",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-89x05o0wvdt4.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5471375"
@@ -11904,6 +11944,10 @@
           "episode": "Episode 747",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-uguilzto8x52.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://oneupload.to/embed-hiil70h8dc2d.html"
             }
@@ -13617,6 +13661,10 @@
         {
           "episode": "Episode 878",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-iuzubjry0qtz.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5471090"
@@ -16372,6 +16420,10 @@
           "episode": "Episode 1089",
           "lecteurs": [
             {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-j20rgz6yuh6p.html"
+            },
+            {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=5839623"
             }
@@ -16472,59 +16524,129 @@
       "episodes": [
         {
           "episode": "Le Film",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737409"
+            }
+          ]
         },
         {
           "episode": "L'Aventure de l'Île de l'Horloge",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737412"
+            }
+          ]
         },
         {
           "episode": "Le Royaume de Chopper, l'Étrange Île des Animaux",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737413"
+            }
+          ]
         },
         {
           "episode": "L'Aventure sans Issue",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737415"
+            }
+          ]
         },
         {
           "episode": "La Malédiction de l'Épée Sacrée",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737418"
+            }
+          ]
         },
         {
           "episode": "Le Baron Omatsuri et l'Île aux Secrets",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737420"
+            }
+          ]
         },
         {
           "episode": "Le Mecha Géant du Château Karakuri",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737421"
+            }
+          ]
         },
         {
           "episode": "Épisode d'Alabasta : Les Pirates et la Princesse du Désert",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737422"
+            }
+          ]
         },
         {
           "episode": "Épisode de Chopper : Le Miracle des Cerisiers en Hiver",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737423"
+            }
+          ]
         },
         {
           "episode": "Strong World",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737426"
+            }
+          ]
         },
         {
           "episode": "Z",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737428"
+            }
+          ]
         },
         {
           "episode": "Gold",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=4737478"
+            }
+          ]
         },
         {
           "episode": "Stampede",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5289290"
+            }
+          ]
         },
         {
           "episode": "RED",
-          "lecteurs": []
+          "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://video.sibnet.ru/shell.php?videoid=5071324"
+            }
+          ]
         }
       ]
     },
@@ -16544,6 +16666,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1j1tjy3qqbs7.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4833453"
@@ -17592,6 +17718,10 @@
         {
           "episode": "Episode 1",
           "lecteurs": [
+            {
+              "lecteur": "Lecteur 1",
+              "url": "https://vidmoly.biz/embed-1j1tjy3qqbs7.html"
+            },
             {
               "lecteur": "Lecteur 2",
               "url": "https://video.sibnet.ru/shell.php?videoid=4833453"
