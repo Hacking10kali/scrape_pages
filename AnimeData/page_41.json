@@ -1,9 +1,305 @@
 {
   "page": 41,
-  "scraped_at": "20260324_114856",
-  "duration_s": 518,
-  "total": 40,
+  "scraped_at": "20260325_001207",
+  "duration_s": 335,
+  "total": 41,
   "animes": [
+    {
+      "nom": "VAMPIRE DORMITORY",
+      "type": "Anime",
+      "genres": [
+        "Comédie",
+        "Romance",
+        "Surnaturel",
+        "Amour",
+        "Crossdressing",
+        "Vampires"
+      ],
+      "langues": [
+        "VOSTFR"
+      ],
+      "lien": "https://anime-sama.to/catalogue/vampire-dormitory",
+      "image": "https://raw.githubusercontent.com/Anime-Sama/IMG/img/contenu/vampire-dormitory.jpg",
+      "noms_alt": [
+        "VAMPIRE DANSHI RYOU"
+      ],
+      "synopsis": "Orpheline, Mito est à la rue où elle survit, travestie en garçon à l'insu de tous. Alors le jour où elle perd son emploi, son univers s'effondre ! Surgit alors Ruka, un vampire distingué, qui lui propose de l'héberger dans son pensionnat contre un don de sang régulier. Problème : comme Mito n'a jamais connu l'amour, son sang est infect... Mais Ruka, que les filles dégoûtent, refuse d'abandonner pour si peu et compte bien résoudre le problème de Mito à grand renfort d'affection ! Si Mito veut garder un toit sur la tête, il va donc lui falloir préserver son secret à tout prix...",
+      "bande_annonce": "https://www.youtube.com/embed/2ow23Dui3jQ",
+      "ids": {
+        "jikan_id": 57031,
+        "tmdb_id": 238903,
+        "kitsu_id": "48217"
+      },
+      "saisons": [
+        {
+          "titreVignette": "Saison 1",
+          "titreComplet": "Saison 1",
+          "isFilm": false,
+          "ids": {
+            "jikan_id": 57031,
+            "tmdb_id": 238903,
+            "kitsu_id": "48217"
+          },
+          "langue": "vostfr",
+          "lien_vf": "https://anime-sama.to/catalogue/vampire-dormitory/saison1/vf/",
+          "lien_vostfr": "https://anime-sama.to/catalogue/vampire-dormitory/saison1/vostfr/",
+          "episodes": [
+            {
+              "episode": "Episode 1",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-nhpmauvslh7z.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5496908"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/kn22r909"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239425&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 2",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-knzhai096u5l.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5504557"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/5qboe7m2"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239477&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 3",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-exbkb7oo7qqq.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5511977"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/cakr0mfm"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239519&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 4",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-h8iug3em8xx8.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5518644"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/6sd4yxtd"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=790085849&id=456239059&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 5",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-ow07r5dimv9x.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5526330"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/f27ngc3q"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239589&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 6",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-i3bzl2q98s0f.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5533386"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/gr18tdrq"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239631&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 7",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-gnrp3mu5ul15.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5540072"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/zucdwc5l"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239671&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 8",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-tjvb0a9ok196.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5546131"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/8jspnchk"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239688&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 9",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-uwxcewmc88lu.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5552315"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/dvsq7ak7"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239728&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 10",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-6t3kd8lts55v.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5557903"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/c78txca8"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239769&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 11",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-pnlq5d5krfwn.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5564988"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/3j98spo5"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239809&hd=3"
+                }
+              ]
+            },
+            {
+              "episode": "Episode 12",
+              "lecteurs": [
+                {
+                  "lecteur": "Lecteur 1",
+                  "url": "https://vidmoly.biz/embed-7l12a6lb3rd3.html"
+                },
+                {
+                  "lecteur": "Lecteur 2",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5573337"
+                },
+                {
+                  "lecteur": "Lecteur 3",
+                  "url": "https://sendvid.com/embed/a8hj2sni"
+                },
+                {
+                  "lecteur": "Lecteur 4",
+                  "url": "https://vk.com/video_ext.php?oid=751474887&id=456239845&hd=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
     {
       "nom": "VAMPIRE GARDEN",
       "type": "Anime",
